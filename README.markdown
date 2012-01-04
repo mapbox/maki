@@ -32,25 +32,30 @@ Maki is a point of interest icon set.
 - amenity='baby_hatch'   
 - amenity='dentist'   
 - amenity='doctors'   
-- amenity='hospital'   
-- amenity='pharmacy'   
+- amenity='hospital'
+- amenity='nursing_home'   
+- amenity='pharmacy'
+- amenity='soial_facility'   
 - amenity='veterinary'   
 
-Transportation                 Notes
----------------------------- | -------------   
-- amenity='bicycle_parking'  | SECOND column
-- amenity='bicycle_rental'   | test
-- amenity='bus_station'      | test
-- amenity='car_rental'       | test
-- amenity='car_sharing'      | test
-- amenity='car_wash'         | test
-- amenity='ev_charging'      | test
-- amenity='ferry_terminal'   | test
-- amenity='fuel'             | test
-- amenity='grit_bin'         | test
-- amenity='taxi'             | test
-- aeroway='aerodrome'        | test
-- aeroway='helipad'          | test
+### Transportation
+    
+- amenity='bicycle_parking'   
+- amenity='bicycle_rental'   
+- amenity='bus_station'   
+- amenity='car_rental'   
+- amenity='car_sharing'   
+- amenity='car_wash'
+- amenity='ev_charging'    
+- amenity='ferry_terminal'   
+- amenity='fuel'   
+- amenity='grit_bin'   
+- amenity='taxi'   
+- aeroway='aerodrome'
+- aeroway='helipad'
+- public_transport='platform'
+- parking lot
+- parking garage
 
 ### Financial
     
@@ -84,14 +89,18 @@ Transportation                 Notes
 - amenity='theatre'   
 
 ### Public Buldings
-    
+
+- amenity='clock'    
 - amenity='courthouse'   
 - amenity='fire_station'   
 - amenity='grave_yard'   
 - amenity='place_of_worship'   
 - amenity='place_of_worship' religion='christian'   
 - amenity='place_of_worship' religion='jewish'   
-- amenity='place_of_worship' religion='muslim'   
+- amenity='place_of_worship' religion='muslim'
+- amenity='place_of_worship' religion='buddhist'
+- amenity='place_of_worship' religion='hindu'
+- amenity='place_of_worship' religion='sikhism'   
 - amenity='police'   
 - amenity='post_office'   
 - amenity='prison'   
@@ -103,7 +112,8 @@ Transportation                 Notes
     
 - amenity='bench'   
 - amenity='post_box'   
-- amenity='recycling'    
+- amenity='recycling'   
+- amenity='shelter' 
 - amenity='telephone'   
 - amenity='toilets'   
 - amenity='vending_machine'   
@@ -134,7 +144,9 @@ Transportation                 Notes
 - historic='archaeological_site'   
 - historic='battlefield'   
 - historic='boundary_stone'   
-- historic='castle'   
+- historic='castle'
+- historic='city_gate'
+- historyic='fort'   
 - historic='memorial'   
 - historic='monument'   
 - historic='ruins'   
@@ -153,18 +165,66 @@ Transportation                 Notes
 
 ### Natural
 
+- natural='cave_entrance'
 - natural='peak'   
 - natural='spring'   
 - natural='tree'   
 - natural='volcano'
 
-### Disaster Preparedness
+### Leisure
 
+- leisure='dog_park'
+- leisure='garden'
+- leisure='golf_course'
+- leisure='ice_rink'
+- leisure='marina'
+- leisure='miniature_golf'
+- leisure='park'
+- leisure='pitch'
+- leisure='playground'
+- leisure='slipway'
+- leisure='water_park'
+
+## Niche Icons
+
+#### Miscellaneous buildings / structures
+
+- building='apartments'
+- building='commercial'
+- building='farm'
+- building='greenhouse'
+- building='hut'
+- building='industrial'
+- building='office'
+- man_made='lighthouse'
+- man_made='petroleum_well'
+- man_made='water_tower'
+- man_made='water_well'
+- man_made='windmill'
+
+### Emergency
+
+- building='collapsed'
+- emergency='ambulance station'
+- emergency='fire_extinguisher'
+- emergency='fire_hydrant'
+- emergency='phone'
 - Infrastructure
 - Residential Building
-- Commercial Building
-- Explosion
+- building='commercial'
 - Construction
 - Factory
 - Oil
-- 
+
+### Power
+- power='generator' generator:source='biomass'
+- power='generator' generator:source='coal'
+- power='generator' generator:source='gas (natural gas)'
+- power='generator' generator:source='oil'
+- power='generator' generator:source='waste'
+- power='generator' generator:source='wind'
+- power='generator' generator:source='solar'
+- power='generator' generator:source='hydro'
+- power='generator' generator:source='tidal'
+- power='generator' generator:source='geothermal'
+- power='generator' generator:source='nuclear'
