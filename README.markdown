@@ -1,8 +1,25 @@
+# Maki 
+
 Maki is a point of interest icon set.
 
-Icon backlog:
+## Icon backlog:
 
-## Education
+### Basic shapes
+
+- solid circle
+- stroked circle
+- solid square
+- stroked square
+- solid triangle
+- stroked triangle
+- solid star
+- stroked star
+- solid 'x'
+- stroked 'x'
+- solid marker
+- stroked marker
+ 
+### Education
     
 - amenity='college'   
 - amenity='kindergarten'   
@@ -10,7 +27,7 @@ Icon backlog:
 - amenity='school'   
 - amenity='university'   
 
-## Health
+### Health
     
 - amenity='baby_hatch'   
 - amenity='dentist'   
@@ -19,36 +36,42 @@ Icon backlog:
 - amenity='pharmacy'   
 - amenity='veterinary'   
 
-## Transportation
-    
-- amenity='bicycle_parking'   
-- amenity='bicycle_rental'   
-- amenity='bus_station'   
-- amenity='car_rental'   
-- amenity='car_sharing'   
-- amenity='car_wash'   
-- amenity='ferry_terminal'   
-- amenity='fuel'   
-- amenity='grit_bin'   
-- amenity='taxi'   
+Transportation                 Notes
+---------------------------- | -------------   
+- amenity='bicycle_parking'  | SECOND column
+- amenity='bicycle_rental'   | test
+- amenity='bus_station'      | test
+- amenity='car_rental'       | test
+- amenity='car_sharing'      | test
+- amenity='car_wash'         | test
+- amenity='ev_charging'      | test
+- amenity='ferry_terminal'   | test
+- amenity='fuel'             | test
+- amenity='grit_bin'         | test
+- amenity='taxi'             | test
+- aeroway='aerodrome'        | test
+- aeroway='helipad'          | test
 
-## Financial
+### Financial
     
 - amenity='atm'   
 - amenity='bank'   
 - amenity='bureau_de_change'   
 
-## Food/Drink
+### Food/Drink
     
-- amenity='bar'   
+- amenity='bar'
+- amenity='bbq'   
 - amenity='biergarten'   
-- amenity='cafe'   
+- amenity='cafe'
+- amenity='drinking_water'   
 - amenity='fast_food'   
 - amenity='food_court   
 - amenity='pub'   
-- amenity='restaurant'    
+- amenity='restaurant'
+- amenity='ice_cream'    
 
-## Art/Culture
+### Art/Culture
 
 - amenity='architect_office'   
 - amenity='arts_centre'   
@@ -60,7 +83,7 @@ Icon backlog:
 - amenity='studio'   
 - amenity='theatre'   
 
-## Public Buldings
+### Public Buldings
     
 - amenity='courthouse'   
 - amenity='fire_station'   
@@ -76,7 +99,7 @@ Icon backlog:
 - amenity='shelter'   
 - amenity='townhall'   
 
-## Public Facilities
+### Public Facilities
     
 - amenity='bench'   
 - amenity='post_box'   
@@ -87,7 +110,7 @@ Icon backlog:
 - amenity='waste_basket'   
 - amenity='waste_disposal'   
 
-## Tourism
+### Tourism
     
 - tourism='alpin_hut'   
 - tourism='attraction'   
@@ -106,7 +129,7 @@ Icon backlog:
 - tourism='viewpoint'   
 - tourism='zoo'   
 
-## Historic
+### Historic
     
 - historic='archaeological_site'   
 - historic='battlefield'   
@@ -119,7 +142,7 @@ Icon backlog:
 - historic='wayside_shrine'   
 - historic='wreck'   
 
-## Military
+### Military
     
 - military='airfield'   
 - military='bunker'   
@@ -128,9 +151,20 @@ Icon backlog:
 - military='range'   
 - military='naval_base'   
 
-## Natural
+### Natural
 
 - natural='peak'   
 - natural='spring'   
 - natural='tree'   
-- natural='volcano'   
+- natural='volcano'
+
+### Disaster Preparedness
+
+- Infrastructure
+- Residential Building
+- Commercial Building
+- Explosion
+- Construction
+- Factory
+- Oil
+- 
