@@ -87,7 +87,7 @@ Icon backlog:
 | amenity='waste_basket' | - |
 | amenity='waste_disposal' | - |
 
-| Tourism | Notes | 
+| Tourism | Notes |
 | --- | --- |
 | tourism='alpin_hut' | - |
 | tourism='attraction' | - |
@@ -106,7 +106,7 @@ Icon backlog:
 | tourism='viewpoint' | - |
 | tourism='zoo' | - |
 
-| Historic | Notes | 
+| Historic | Notes |
 | --- | --- |
 | historic='archaeological_site' | - |
 | historic='battlefield' | - |
