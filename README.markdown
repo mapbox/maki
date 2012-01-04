@@ -2,26 +2,26 @@ This is a list of potential icons to add to the Maki set, based on tags listed [
 
 | Education | Notes |
 | --- | --- |
-| amenity='college' | works with university icon |
-| amenity='kindergarten' | works with school icon |
-| amenity='library' | **DONE** |
-| amenity='school' | **DONE** |
-| amenity='university' | **DONE** |
+| amenity='college' | - |
+| amenity='kindergarten' | - |
+| amenity='library' | - |
+| amenity='school' | - |
+| amenity='university' | - |
 
 | Health | Notes |
 | --- | --- |
 | amenity='baby_hatch' | - |
 | amenity='dentist' | - |
-| amenity='doctors' | *priority* |
-| amenity='hospital' | **DONE** |
-| amenity='pharmacy' | works as color variant of hospital icon |
+| amenity='doctors' | - |
+| amenity='hospital' | - |
+| amenity='pharmacy' | - |
 | amenity='veterinary' | - |
 
 | Transportation | Notes |
 | --- | --- |
 | amenity='bicycle_parking' | - |
 | amenity='bicycle_rental' | - |
-| amenity='bus_station' | **DONE** |
+| amenity='bus_station' | - |
 | amenity='car_rental' | - |
 | amenity='car_sharing' | - |
 | amenity='car_wash' | - |
@@ -33,24 +33,24 @@ This is a list of potential icons to add to the Maki set, based on tags listed [
 | Financial | Notes |
 | --- | --- |
 | amenity='atm' | - |
-| amenity='bank' | **DONE** |
+| amenity='bank' | - |
 | amenity='bureau_de_change' | - |
 
 | Food/Drink | Notes |
 | --- | --- |
 | amenity='bar' | - |
 | amenity='biergarten' | - |
-| amenity='cafe' | **DONE** |
+| amenity='cafe' | - |
 | amenity='fast_food' | - |
 | amenity='food_court | - |
 | amenity='pub' | - |
-| amenity='restaurant' | **DONE** | 
+| amenity='restaurant' | - | 
 
 | Art/Culture | Notes |
 | --- | --- |
 | amenity='architect_office' | - |
 | amenity='arts_centre' | - |
-| amenity='cinema' | **DONE** |
+| amenity='cinema' | - |
 | amenity='community_centre' | - |
 | amenity='fountain' | - |
 | amenity='nightclub' | - |
@@ -60,14 +60,14 @@ This is a list of potential icons to add to the Maki set, based on tags listed [
 
 | Public Buldings | Notes |
 | --- | --- |
-| amenity='courthouse' | *priority* |
-| amenity='fire_station' | *priority* |
-| amenity='grave_yard' | **DONE** |
+| amenity='courthouse' | - |
+| amenity='fire_station' | - |
+| amenity='grave_yard' | - |
 | amenity='place_of_worship' | - |
-| amenity='place_of_worship' religion='christian' | **DONE** |
-| amenity='place_of_worship' religion='jewish' | **DONE** |
-| amenity='place_of_worship' religion='muslim' | **DONE** |
-| amenity='police' | *priority* |
+| amenity='place_of_worship' religion='christian' | - |
+| amenity='place_of_worship' religion='jewish' | - |
+| amenity='place_of_worship' religion='muslim' | - |
+| amenity='police' | - |
 | amenity='post_office' | **DONE** |
 | amenity='prison' | - |
 | amenity='public_building' | - |
