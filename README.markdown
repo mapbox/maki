@@ -1,6 +1,11 @@
 # Maki 
 
-Maki is a point of interest icon set.
+Maki is a point of interest icon set intended for use with Tilemill maps. 
+
+Parameters: 
+
+- Three sizes for each icon: 10/15/20 px, with flexibility for certain icons that need more height or width. 
+- Single color, with 50% transparent white outline.
 
 ## Icon backlog:
 
@@ -215,6 +220,12 @@ Maki is a point of interest icon set.
 - Construction
 - Factory
 - Oil
+- Tsunami
+- Flooding
+- Volcano
+- Earthquake
+- Hurricane
+- Tornado
 
 ### Power
 - power='generator' generator:source='biomass'
