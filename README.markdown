@@ -62,6 +62,7 @@ Parameters:
 - public_transport='platform'
 - parking lot
 - parking garage
+- building='train_station'
 
 ### Financial
     
