@@ -7,9 +7,12 @@ Parameters:
 - Three sizes for each icon: 10/15/20 px, with flexibility for certain icons that need more height or width. 
 - Single color, with 50% transparent white outline.
 
+
 ## Icon backlog:
 
-### Basic shapes
+### Core Maki
+
+#### Basic shapes
 
 - solid circle
 - stroked circle
@@ -23,7 +26,49 @@ Parameters:
 - stroked 'x'
 - solid marker
 - stroked marker
- 
+
+#### Social
+- amenity='college'   
+- amenity='library'   
+- amenity='school'   
+- amenity='hospital'
+- amenity='pharmacy'
+- amenity='grave_yard'   
+- amenity='place_of_worship'   
+- amenity='place_of_worship' religion='christian'   
+- amenity='place_of_worship' religion='jewish'   
+- amenity='place_of_worship' religion='muslim'
+
+#### Public
+- amenity='fire_station'   
+- amenity='prison'   
+- amenity='post_office'   
+- amenity='police'   
+- amenity='townhall'   
+
+#### Transportation
+- amenity='bicycle_rental'   
+- parking lot
+- parking garage
+- aeroway='helipad'
+- aeroway='aerodrome'
+- amenity='fuel'   
+
+#### Commercial
+- amenity='bar'
+- amenity='restaurant'
+- amenity='fast_food'   
+- amenity='cafe'
+
+#### Recreation
+- tourism='museum'   
+- tourism='attraction'   
+- tourism='hotel'   
+- tourism='zoo'   
+- leisure='park'
+- leisure='pitch'
+- historic='monument'   
+
 ### Education
     
 - amenity='college'   
@@ -40,7 +85,7 @@ Parameters:
 - amenity='hospital'
 - amenity='nursing_home'   
 - amenity='pharmacy'
-- amenity='soial_facility'   
+- amenity='social_facility'   
 - amenity='veterinary'   
 
 ### Transportation
