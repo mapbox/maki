@@ -63,31 +63,40 @@ Parameters:
 
 #### Recreation
 - tourism='museum'   
-- tourism='attraction'   
-- tourism='hotel'   
-- tourism='zoo'   
+- tourism='attraction' *vague*
+- tourism='hotel'
+- tourism='zoo' 
 - leisure='park'
-- leisure='pitch'
-- historic='monument'   
+- leisure='pitch' (a general sports icon)
+    - sport='american_football'
+    - sport='soccer'
+    - sport='tennis'
+    - sport='baseball'
+    - sport='swimming'
+    - sport='skiing'
+    - sport='golf'
+    - sport='cricket'
+    - sport='basketball'
+- historic='monument'
 
 ### Education
     
-- amenity='college'   
-- amenity='kindergarten'   
+- amenity='college'
+- amenity='kindergarten'
 - amenity='library'   
 - amenity='school'   
-- amenity='university'   
+- amenity='university' *can be same as college*
 
 ### Health
     
-- amenity='baby_hatch'   
-- amenity='dentist'   
-- amenity='doctors'   
+- amenity='baby_hatch'
+- amenity='dentist'
+- amenity='doctors'
 - amenity='hospital'
-- amenity='nursing_home'   
+- amenity='nursing_home'
 - amenity='pharmacy'
-- amenity='social_facility'   
-- amenity='veterinary'   
+- amenity='social_facility' *vague*
+- amenity='veterinary'
 
 ### Transportation
     
