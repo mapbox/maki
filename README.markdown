@@ -7,7 +7,7 @@ Parameters:
 - Three sizes for each icon: 10/15/20 px, with flexibility for certain icons that need more height or width. 
 - Single color, with 50% transparent white outline.
 - Base icons on [AIGA symbols](http://www.aiga.org/symbol-signs/) when possible.
-
+- The icons must look as similar as possible at all sizes so transitions between zoom levels are smooth.
 
 ## Icon backlog:
 
