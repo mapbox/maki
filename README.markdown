@@ -60,6 +60,7 @@ Parameters:
 - amenity='restaurant'
 - amenity='fast_food'   
 - amenity='cafe'
+- shop
 
 #### Recreation
 - tourism='museum'   
@@ -124,7 +125,7 @@ Parameters:
 - amenity='bank'   
 - amenity='bureau_de_change'   
 
-### Food/Drink
+### Commercial
     
 - amenity='bar'
 - amenity='bbq'   
@@ -136,6 +137,7 @@ Parameters:
 - amenity='pub'   
 - amenity='restaurant'
 - amenity='ice_cream'    
+- shop
 
 ### Art/Culture
 
