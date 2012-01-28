@@ -29,16 +29,16 @@ Parameters:
 - stroked marker
 
 #### Social
-- amenity='college'   
-- amenity='library'   
-- amenity='school'   
-- amenity='hospital'
-- amenity='pharmacy'
-- amenity='grave_yard'   
+**- amenity='college'   
+**- amenity='library'   
+**- amenity='school'   
+**- amenity='hospital'
+**- amenity='pharmacy'
+**- amenity='grave_yard'   
 - amenity='place_of_worship'   
-- amenity='place_of_worship' religion='christian'   
-- amenity='place_of_worship' religion='jewish'   
-- amenity='place_of_worship' religion='muslim'
+**- amenity='place_of_worship' religion='christian'   
+**- amenity='place_of_worship' religion='jewish'   
+**- amenity='place_of_worship' religion='muslim'
 
 #### Public
 - amenity='fire_station'   
@@ -49,25 +49,25 @@ Parameters:
 
 #### Transportation
 - amenity='bicycle_rental'   
-- parking lot
+**- parking lot (western)
 - parking garage
 - aeroway='helipad'
-- aeroway='aerodrome'
-- amenity='fuel'   
+**- aeroway='aerodrome'
+**- amenity='fuel'   
 
 #### Commercial
-- amenity='bar'
-- amenity='restaurant'
-- amenity='fast_food'   
-- amenity='cafe'
-- shop
+**- amenity='bar'
+**- amenity='restaurant'
+**- amenity='fast_food'   
+**- amenity='cafe'
+**- shop
 
 #### Recreation
 - tourism='museum'   
 - tourism='attraction' *vague*
 - tourism='hotel'
 - tourism='zoo' 
-- leisure='park'
+**- leisure='park'
 - leisure='pitch' (a general sports icon)
     - sport='american_football'
     - sport='soccer'
@@ -115,7 +115,8 @@ Parameters:
 - aeroway='aerodrome'
 - aeroway='helipad'
 - public_transport='platform'
-- parking lot
+**- parking lot (latin america)
+**- parking lot (international)
 - parking garage
 - building='train_station'
 
