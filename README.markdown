@@ -48,26 +48,26 @@ Parameters:
 - amenity='townhall'   
 
 #### Transportation
-- amenity='bicycle_rental'   
-**- parking lot (western)
+- **amenity='bicycle_rental'**  
+- **parking lot (western)**
 - parking garage
 - aeroway='helipad'
-**- aeroway='aerodrome'
-**- amenity='fuel'   
+- **aeroway='aerodrome'**
+- **amenity='fuel'**
 
 #### Commercial
-**- amenity='bar'
-**- amenity='restaurant'
-**- amenity='fast_food'   
-**- amenity='cafe'
-**- shop
+- **amenity='bar'**
+- **amenity='restaurant'**
+- **amenity='fast_food'** 
+- **amenity='cafe'**
+- **shop**
 
 #### Recreation
 - tourism='museum'   
 - tourism='attraction' *vague*
 - tourism='hotel'
 - tourism='zoo' 
-**- leisure='park'
+- **leisure='park'**
 - leisure='pitch' (a general sports icon)
     - sport='american_football'
     - sport='soccer'
