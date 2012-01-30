@@ -45,6 +45,7 @@ Parameters:
 - **amenity='post_office'**
 - **amenity='police'**   
 - **amenity='townhall'**
+- **amenity='embassy'**
 
 #### Transportation
 - **amenity='bicycle_rental'**  
@@ -62,9 +63,9 @@ Parameters:
 - **shop**
 
 #### Recreation
-- tourism='museum'   
+- **tourism='museum'**
 - tourism='attraction' *vague*
-- tourism='hotel'
+- **tourism='hotel'**
 - tourism='zoo' 
 - **leisure='park'**
 - leisure='pitch' (a general sports icon)
