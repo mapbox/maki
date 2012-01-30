@@ -50,7 +50,7 @@ Parameters:
 - **amenity='bicycle_rental'**  
 - **parking lot (western)**
 - **parking garage**
-- aeroway='helipad'
+- **aeroway='helipad'**
 - **aeroway='aerodrome'**
 - **amenity='fuel'**
 
