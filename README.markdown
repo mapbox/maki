@@ -29,16 +29,16 @@ Parameters:
 - stroked marker
 
 #### Social
-- **amenity='college'   
-- **amenity='library'   
-- **amenity='school'   
-- **amenity='hospital'
-- **amenity='pharmacy'
-- **amenity='grave_yard'   
+- **amenity='college'**
+- **amenity='library'**
+- **amenity='school'**
+- **amenity='hospital'**
+- **amenity='pharmacy'**
+- **amenity='grave_yard'**
 - amenity='place_of_worship'   
-- **amenity='place_of_worship' religion='christian'   
-- **amenity='place_of_worship' religion='jewish'   
-- **amenity='place_of_worship' religion='muslim'
+- **amenity='place_of_worship' religion='christian'**
+- **amenity='place_of_worship' religion='jewish'**
+- **amenity='place_of_worship' religion='muslim'**
 
 #### Public
 - amenity='fire_station'   
