@@ -35,22 +35,21 @@ Parameters:
 - **amenity='hospital'**
 - **amenity='pharmacy'**
 - **amenity='grave_yard'**
-- amenity='place_of_worship'   
 - **amenity='place_of_worship' religion='christian'**
 - **amenity='place_of_worship' religion='jewish'**
 - **amenity='place_of_worship' religion='muslim'**
 
 #### Public
-- amenity='fire_station'   
-- amenity='prison'   
-- amenity='post_office'   
-- amenity='police'   
-- amenity='townhall'   
+- **amenity='fire_station'**
+- **amenity='prison'**
+- **amenity='post_office'**
+- **amenity='police'**   
+- **amenity='townhall'**
 
 #### Transportation
 - **amenity='bicycle_rental'**  
 - **parking lot (western)**
-- parking garage
+- **parking garage**
 - aeroway='helipad'
 - **aeroway='aerodrome'**
 - **amenity='fuel'**
