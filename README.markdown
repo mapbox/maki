@@ -29,45 +29,45 @@ Parameters:
 - stroked marker
 
 #### Social
-**- amenity='college'   
-**- amenity='library'   
-**- amenity='school'   
-**- amenity='hospital'
-**- amenity='pharmacy'
-**- amenity='grave_yard'   
-- amenity='place_of_worship'   
-**- amenity='place_of_worship' religion='christian'   
-**- amenity='place_of_worship' religion='jewish'   
-**- amenity='place_of_worship' religion='muslim'
+- **amenity='college'**
+- **amenity='library'**
+- **amenity='school'**
+- **amenity='hospital'**
+- **amenity='pharmacy'**
+- **amenity='grave_yard'**
+- **amenity='place_of_worship' religion='christian'**
+- **amenity='place_of_worship' religion='jewish'**
+- **amenity='place_of_worship' religion='muslim'**
 
 #### Public
-- amenity='fire_station'   
-- amenity='prison'   
-- amenity='post_office'   
-- amenity='police'   
-- amenity='townhall'   
+- **amenity='fire_station'**
+- **amenity='prison'**
+- **amenity='post_office'**
+- **amenity='police'**   
+- **amenity='townhall'**
+- **amenity='embassy'**
 
 #### Transportation
-- amenity='bicycle_rental'   
-**- parking lot (western)
-- parking garage
-- aeroway='helipad'
-**- aeroway='aerodrome'
-**- amenity='fuel'   
+- **amenity='bicycle_rental'**  
+- **parking lot (western)**
+- **parking garage**
+- **aeroway='helipad'**
+- **aeroway='aerodrome'**
+- **amenity='fuel'**
 
 #### Commercial
-**- amenity='bar'
-**- amenity='restaurant'
-**- amenity='fast_food'   
-**- amenity='cafe'
-**- shop
+- **amenity='bar'**
+- **amenity='restaurant'**
+- **amenity='fast_food'** 
+- **amenity='cafe'**
+- **shop**
 
 #### Recreation
-- tourism='museum'   
+- **tourism='museum'**
 - tourism='attraction' *vague*
-- tourism='hotel'
+- **tourism='hotel'**
 - tourism='zoo' 
-**- leisure='park'
+- **leisure='park'**
 - leisure='pitch' (a general sports icon)
     - sport='american_football'
     - sport='soccer'
@@ -78,7 +78,7 @@ Parameters:
     - sport='golf'
     - sport='cricket'
     - sport='basketball'
-- historic='monument'
+- **historic='monument'**
 
 ### Education
     
