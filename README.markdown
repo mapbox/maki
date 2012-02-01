@@ -69,6 +69,7 @@ Parameters:
 - **tourism='hotel'**
 - **tourism='zoo'**
 - **leisure='park'**
+- **campsite**
 - **garden**
 - **leisure='pitch' (a general sports icon)**
     - **sport='american_football'**
@@ -76,9 +77,9 @@ Parameters:
     - **sport='tennis'**
     - **sport='baseball'**
     - **sport='swimming'**
-    - sport='skiing'
+    - **sport='skiing'**
     - **sport='golf'**
-    - sport='cricket'
+    - **sport='cricket'**
     - **sport='basketball'**
 - **historic='monument'**
 
