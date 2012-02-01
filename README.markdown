@@ -67,9 +67,9 @@ Parameters:
 #### Recreation
 - **tourism='museum'**
 - **tourism='hotel'**
-- tourism='zoo' 
+- **tourism='zoo'**
 - **leisure='park'**
-- garden
+- **garden**
 - **leisure='pitch' (a general sports icon)**
     - **sport='american_football'**
     - **sport='soccer'**
