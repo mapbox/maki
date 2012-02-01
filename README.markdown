@@ -73,12 +73,12 @@ Parameters:
     - **sport='american_football'**
     - **sport='soccer'**
     - **sport='tennis'**
-    - sport='baseball'
+    - **sport='baseball'**
     - sport='swimming'
     - sport='skiing'
     - sport='golf'
     - sport='cricket'
-    - sport='basketball'
+    - **sport='basketball'**
 - **historic='monument'**
 
 ### Education
