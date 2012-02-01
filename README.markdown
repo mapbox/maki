@@ -74,9 +74,9 @@ Parameters:
     - **sport='soccer'**
     - **sport='tennis'**
     - **sport='baseball'**
-    - sport='swimming'
+    - **sport='swimming'**
     - sport='skiing'
-    - sport='golf'
+    - **sport='golf'**
     - sport='cricket'
     - **sport='basketball'**
 - **historic='monument'**
