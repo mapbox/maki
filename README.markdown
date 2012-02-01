@@ -4,7 +4,7 @@ Maki is a point of interest icon set intended for use with Tilemill maps.
 
 Parameters: 
 
-- Three sizes for each icon: 10/15/20 px, with flexibility for certain icons that need more height or width. 
+- Three sizes for each icon: 12/18/24 px, with flexibility for certain icons that need more height or width. 
 - Single color, with 50% transparent white outline.
 - Base icons on [AIGA symbols](http://www.aiga.org/symbol-signs/) when possible.
 - The icons must look as similar as possible at all sizes so transitions between zoom levels are smooth.
@@ -15,18 +15,18 @@ Parameters:
 
 #### Basic shapes
 
-- solid circle
-- stroked circle
-- solid square
-- stroked square
-- solid triangle
-- stroked triangle
-- solid star
-- stroked star
-- solid 'x'
-- stroked 'x'
-- solid marker
-- stroked marker
+- **solid circle**
+- **stroked circle**
+- **solid square**
+- **stroked square**
+- **solid triangle**
+- **stroked triangle**
+- **solid star**
+- **stroked star**
+- **solid 'x'**
+- **stroked 'x'**
+- **solid marker**
+- **stroked marker**
 
 #### Social
 - **amenity='college'**
@@ -61,23 +61,26 @@ Parameters:
 - **amenity='fast_food'** 
 - **amenity='cafe'**
 - **shop**
+- **grocery store**
 - **movie theatre**
 
 #### Recreation
 - **tourism='museum'**
 - **tourism='hotel'**
-- tourism='zoo' 
+- **tourism='zoo'**
 - **leisure='park'**
+- **campsite**
+- **garden**
 - **leisure='pitch' (a general sports icon)**
     - **sport='american_football'**
     - **sport='soccer'**
     - **sport='tennis'**
-    - sport='baseball'
-    - sport='swimming'
-    - sport='skiing'
-    - sport='golf'
-    - sport='cricket'
-    - sport='basketball'
+    - **sport='baseball'**
+    - **sport='swimming'**
+    - **sport='skiing'**
+    - **sport='golf'**
+    - **sport='cricket'**
+    - **sport='basketball'**
 - **historic='monument'**
 
 ### Education
