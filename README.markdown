@@ -61,17 +61,17 @@ Parameters:
 - **amenity='fast_food'** 
 - **amenity='cafe'**
 - **shop**
+- **movie theatre**
 
 #### Recreation
 - **tourism='museum'**
-- tourism='attraction' *vague*
 - **tourism='hotel'**
 - tourism='zoo' 
 - **leisure='park'**
-- leisure='pitch' (a general sports icon)
-    - sport='american_football'
-    - sport='soccer'
-    - sport='tennis'
+- **leisure='pitch' (a general sports icon)**
+    - **sport='american_football'**
+    - **sport='soccer'**
+    - **sport='tennis'**
     - sport='baseball'
     - sport='swimming'
     - sport='skiing'
