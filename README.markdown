@@ -65,7 +65,6 @@ Parameters:
 
 #### Recreation
 - **tourism='museum'**
-- tourism='attraction' *vague*
 - **tourism='hotel'**
 - tourism='zoo' 
 - **leisure='park'**
