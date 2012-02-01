@@ -61,6 +61,7 @@ Parameters:
 - **amenity='fast_food'** 
 - **amenity='cafe'**
 - **shop**
+- **grocery store**
 - **movie theatre**
 
 #### Recreation
