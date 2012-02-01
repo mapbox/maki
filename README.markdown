@@ -15,18 +15,18 @@ Parameters:
 
 #### Basic shapes
 
-- solid circle
-- stroked circle
-- solid square
-- stroked square
-- solid triangle
-- stroked triangle
-- solid star
-- stroked star
-- solid 'x'
-- stroked 'x'
-- solid marker
-- stroked marker
+- **solid circle**
+- **stroked circle**
+- **solid square**
+- **stroked square**
+- **solid triangle**
+- **stroked triangle**
+- **solid star**
+- **stroked star**
+- **solid 'x'**
+- **stroked 'x'**
+- **solid marker**
+- **stroked marker**
 
 #### Social
 - **amenity='college'**
