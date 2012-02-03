@@ -4,11 +4,10 @@ Maki is a point of interest icon set made especially for use with MapBox maps.
 
 Parameters: 
 
-- Simple, clear, recognizable, cohesive
+- Simple, clear, recognizable
 - Three sizes: 12/18/24 px
-- Single color, with 50% transparent white outline.
-- Use internationally recognized symbols when appropriate. Good sources for symbol precedents include [AIGA symbols](http://www.aiga.org/symbol-signs/), and the [Noun Project](http://thenounproject.com/).
-- The icons must look as similar as possible at all sizes so transitions between zoom levels are smooth.
+- Single color, with 1px 50% transparent white outline.
+- Based upon internationally recognized symbols when appropriate. Good sources for symbol precedents include [AIGA symbols](http://www.aiga.org/symbol-signs/), and the [Noun Project](http://thenounproject.com/).
 
 ## Icon backlog:
 
