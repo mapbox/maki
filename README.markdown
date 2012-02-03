@@ -1,104 +1,26 @@
 # Maki 
 
-Maki is a point of interest icon set intended for use with Tilemill maps. 
+Maki is a point of interest icon set made especially for use with MapBox maps. 
 
 Parameters: 
 
-- Three sizes for each icon: 12/18/24 px, with flexibility for certain icons that need more height or width. 
+- Simple, clear, recognizable, cohesive
+- Three sizes: 12/18/24 px
 - Single color, with 50% transparent white outline.
-- Base icons on [AIGA symbols](http://www.aiga.org/symbol-signs/) when possible.
+- Use internationally recognized symbols when appropriate. Good sources for symbol precedents include [AIGA symbols](http://www.aiga.org/symbol-signs/), and the [Noun Project](http://thenounproject.com/).
 - The icons must look as similar as possible at all sizes so transitions between zoom levels are smooth.
 
 ## Icon backlog:
 
-### Core Maki
-
-#### Basic shapes
-
-- **solid circle**
-- **stroked circle**
-- **solid square**
-- **stroked square**
-- **solid triangle**
-- **stroked triangle**
-- **solid star**
-- **stroked star**
-- **solid 'x'**
-- **stroked 'x'**
-- **solid marker**
-- **stroked marker**
-
-#### Social
-- **amenity='college'**
-- **amenity='library'**
-- **amenity='school'**
-- **amenity='hospital'**
-- **amenity='pharmacy'**
-- **amenity='grave_yard'**
-- **amenity='place_of_worship' religion='christian'**
-- **amenity='place_of_worship' religion='jewish'**
-- **amenity='place_of_worship' religion='muslim'**
-
-#### Public
-- **amenity='fire_station'**
-- **amenity='prison'**
-- **amenity='post_office'**
-- **amenity='police'**   
-- **amenity='townhall'**
-- **amenity='embassy'**
-
-#### Transportation
-- **amenity='bicycle_rental'**  
-- **parking lot (western)**
-- **parking garage**
-- **aeroway='helipad'**
-- **aeroway='aerodrome'**
-- **amenity='fuel'**
-
-#### Commercial
-- **amenity='bar'**
-- **amenity='restaurant'**
-- **amenity='fast_food'** 
-- **amenity='cafe'**
-- **shop**
-- **grocery store**
-- **movie theatre**
-
-#### Recreation
-- **tourism='museum'**
-- **tourism='hotel'**
-- **tourism='zoo'**
-- **leisure='park'**
-- **campsite**
-- **garden**
-- **leisure='pitch' (a general sports icon)**
-    - **sport='american_football'**
-    - **sport='soccer'**
-    - **sport='tennis'**
-    - **sport='baseball'**
-    - **sport='swimming'**
-    - **sport='skiing'**
-    - **sport='golf'**
-    - **sport='cricket'**
-    - **sport='basketball'**
-- **historic='monument'**
-
 ### Education
     
-- amenity='college'
 - amenity='kindergarten'
-- amenity='library'   
-- amenity='school'   
-- amenity='university' *can be same as college*
 
 ### Health
     
 - amenity='baby_hatch'
 - amenity='dentist'
-- amenity='doctors'
-- amenity='hospital'
 - amenity='nursing_home'
-- amenity='pharmacy'
 - amenity='social_facility' *vague*
 - amenity='veterinary'
 
@@ -106,48 +28,39 @@ Parameters:
     
 - amenity='bicycle_parking'   
 - amenity='bicycle_rental'   
-- amenity='bus_station'   
 - amenity='car_rental'   
 - amenity='car_sharing'   
 - amenity='car_wash'
 - amenity='ev_charging'    
 - amenity='ferry_terminal'   
-- amenity='fuel'   
 - amenity='grit_bin'   
 - amenity='taxi'   
-- aeroway='aerodrome'
-- aeroway='helipad'
-- public_transport='platform'
-**- parking lot (latin america)
-**- parking lot (international)
-- parking garage
-- building='train_station'
+- parking lot (Latin America)
 
 ### Financial
     
 - amenity='atm'   
-- amenity='bank'   
+- amenity='bank' (Dollar)
+- amenity='bank' (Euro)
+- amenity='bank' (Yen)
+- amenity='bank' (Rupee)
+- amenity='bank' (Pound)
 - amenity='bureau_de_change'   
 
 ### Commercial
     
-- amenity='bar'
 - amenity='bbq'   
 - amenity='biergarten'   
-- amenity='cafe'
 - amenity='drinking_water'   
-- amenity='fast_food'   
 - amenity='food_court   
 - amenity='pub'   
 - amenity='restaurant'
 - amenity='ice_cream'    
-- shop
 
 ### Art/Culture
 
 - amenity='architect_office'   
 - amenity='arts_centre'   
-- amenity='cinema'   
 - amenity='community_centre'   
 - amenity='fountain'   
 - amenity='nightclub'   
@@ -155,25 +68,16 @@ Parameters:
 - amenity='studio'   
 - amenity='theatre'   
 
-### Public Buldings
+### Public Buildings
 
 - amenity='clock'    
 - amenity='courthouse'   
-- amenity='fire_station'   
-- amenity='grave_yard'   
 - amenity='place_of_worship'   
-- amenity='place_of_worship' religion='christian'   
-- amenity='place_of_worship' religion='jewish'   
-- amenity='place_of_worship' religion='muslim'
 - amenity='place_of_worship' religion='buddhist'
 - amenity='place_of_worship' religion='hindu'
 - amenity='place_of_worship' religion='sikhism'   
-- amenity='police'   
-- amenity='post_office'   
-- amenity='prison'   
 - amenity='public_building'   
 - amenity='shelter'   
-- amenity='townhall'   
 
 ### Public Facilities
     
@@ -199,12 +103,9 @@ Parameters:
 - tourism='hostel'   
 - tourism='hotel'   
 - tourism='information'   
-- tourism='motel'   
-- tourism='museum'   
 - tourism='picnic_site'   
 - tourism='theme_park'   
 - tourism='viewpoint'   
-- tourism='zoo'   
 
 ### Historic
     
@@ -213,9 +114,8 @@ Parameters:
 - historic='boundary_stone'   
 - historic='castle'
 - historic='city_gate'
-- historyic='fort'   
+- historic='fort'   
 - historic='memorial'   
-- historic='monument'   
 - historic='ruins'   
 - historic='wayside_cross'   
 - historic='wayside_shrine'   
@@ -235,26 +135,20 @@ Parameters:
 - natural='cave_entrance'
 - natural='peak'   
 - natural='spring'   
-- natural='tree'   
 - natural='volcano'
 
 ### Leisure
 
 - leisure='dog_park'
-- leisure='garden'
-- leisure='golf_course'
 - leisure='ice_rink'
 - leisure='marina'
 - leisure='miniature_golf'
-- leisure='park'
-- leisure='pitch'
 - leisure='playground'
 - leisure='slipway'
 - leisure='water_park'
+- leisure='foosball'
 
-## Niche Icons
-
-#### Miscellaneous buildings / structures
+### Miscellaneous buildings / structures
 
 - building='apartments'
 - building='commercial'
@@ -276,9 +170,6 @@ Parameters:
 - emergency='fire_extinguisher'
 - emergency='fire_hydrant'
 - emergency='phone'
-- Infrastructure
-- Residential Building
-- building='commercial'
 - Construction
 - Factory
 - Oil
@@ -301,3 +192,77 @@ Parameters:
 - power='generator' generator:source='tidal'
 - power='generator' generator:source='geothermal'
 - power='generator' generator:source='nuclear'
+
+## Completed icons
+
+### Basic shapes
+
+- solid circle
+- stroked circle
+- solid square
+- stroked square
+- solid triangle
+- stroked triangle
+- solid star
+- stroked star
+- solid 'x'
+- stroked 'x'
+- solid marker
+- stroked marker
+
+### Social
+- amenity='college'
+- amenity='library'
+- amenity='school'
+- amenity='hospital'
+- amenity='pharmacy'
+- amenity='grave_yard'
+- amenity='place_of_worship' religion='christian'
+- amenity='place_of_worship' religion='jewish'
+- amenity='place_of_worship' religion='muslim'
+
+### Public
+- amenity='fire_station'
+- amenity='prison'
+- amenity='post_office'
+- amenity='police'   
+- amenity='townhall'
+- amenity='embassy'
+
+### Transportation
+- amenity='bicycle_rental'  
+- parking lot (international)
+- parking garage
+- aeroway='helipad'
+- aeroway='aerodrome'
+- amenity='fuel'
+
+### Commercial
+- amenity='bar'
+- amenity='restaurant'
+- amenity='fast_food' 
+- amenity='cafe'
+- shop
+- grocery store
+- movie theatre
+- amenity='bank' (international)
+- amenity='cinema'   
+
+### Recreation
+- tourism='museum'
+- tourism='hotel'
+- tourism='zoo'
+- leisure='park'
+- campsite
+- garden
+- leisure='pitch' (a general sports icon)
+    - sport='american_football'
+    - sport='soccer'
+    - sport='tennis'
+    - sport='baseball'
+    - sport='swimming'
+    - sport='skiing'
+    - sport='golf'
+    - sport='cricket'
+    - sport='basketball'
+- historic='monument'
