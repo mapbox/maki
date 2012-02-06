@@ -53,7 +53,7 @@ Parameters:
 - amenity='drinking_water'   
 - amenity='food_court   
 - amenity='pub'   
-- amenity='restaurant'
+- amenity='restaurant' (Eastern)
 - amenity='ice_cream'    
 
 ### Art/Culture
@@ -95,12 +95,10 @@ Parameters:
 - tourism='alpin_hut'   
 - tourism='attraction'   
 - tourism='artwork'   
-- tourism='camp_site'   
 - tourism='caravan_site'   
 - tourism='chalet'   
 - tourism='guest_house'   
 - tourism='hostel'   
-- tourism='hotel'   
 - tourism='information'   
 - tourism='picnic_site'   
 - tourism='theme_park'   
@@ -122,7 +120,6 @@ Parameters:
 
 ### Military
     
-- military='airfield'   
 - military='bunker'   
 - military='barracks'   
 - military='danger_area'   
