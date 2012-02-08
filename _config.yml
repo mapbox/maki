@@ -1,0 +1,6 @@
+auto: true
+server: true
+exclude:
+  - README.markdown
+url: http://mapbox.com
+baseurl: /maki
