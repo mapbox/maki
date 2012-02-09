@@ -1,8 +1,3 @@
-/* Knock out the landscape image in the bottom footer. */
-.wrapper {
-  background: transparent;
-  }
-
 /* --------------------------------------
   Little Helpers
 ----------------------------------------- */
@@ -126,3 +121,13 @@
   width: 280px;
   height: 210px;
   }
+
+.img440x160 {
+  display:block;
+  width:440px;
+  height:160px;
+  margin-bottom:20px;
+  }
+  
+.img1 { background: url(images/maki-illustration-1.png) no-repeat; }
+.img2 { background: url(images/maki-illustration-2.png) no-repeat; }
