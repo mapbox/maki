@@ -43,10 +43,6 @@
   width: 680px;
   background: transparent url(images/sprite.png) no-repeat 0 -70px;
   }
-#maki ul {
-  list-style: disc;
-  margin: 0 20px;
-  }
 .content .col-2 {
   width: 420px;
   margin-right: 40px;
