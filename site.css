@@ -1,8 +1,3 @@
-/* Knock out the landscape image in the bottom footer. */
-.wrapper {
-  background: transparent;
-  }
-
 /* --------------------------------------
   Little Helpers
 ----------------------------------------- */
@@ -13,16 +8,25 @@
   height: 20px;
   text-indent: -999em;
   }
-.fl { float: left; }
 .fr { float: right; }
 
 /* --------------------------------------
   Some delineation
 ----------------------------------------- */
-#maki h3 {
-  margin-bottom: 20px;
+/* Knock out the landscape image in the bottom footer. */
+.wrapper {
+  background: transparent;
   }
-
+.branding {
+  position: relative;
+  z-index: 100;
+  box-shadow: 0 0 20px #222;
+  -moz-box-shadow: 0 0 20px #222;
+  -webkit-box-shadow: 0 0 20px #222;
+  }
+#maki h3 {
+  margin: 20px 0;
+  }
 #maki .title {
   border: none;
   font-size: 20px;
@@ -31,17 +35,22 @@
 #maki h3.title {
   display: block;
   position: absolute;
-  top: 41px;
-  right: 2px;
-  padding: 19px 20px;
+  z-index: 100;
+  top: 40px;
+  right: 0;
+  padding: 20px;
   margin: 0;
-  width: 679px;
-  background: white;
+  width: 680px;
+  background: transparent url(images/sprite.png) no-repeat 0 -70px;
   }
-
 #maki ul {
   list-style: disc;
   margin: 0 20px;
+  }
+.content .col-2 {
+  width: 420px;
+  margin-right: 40px;
+  margin-left: 20px;
   }
 
 /* --------------------------------------
@@ -49,9 +58,8 @@
 ----------------------------------------- */
 #maki-hero {
   background: #444;
-  height: 140px;
+  height: 180px;
   color: white;
-  padding: 40px 0 0;
   }
   #maki-hero h1 {
     background-position: 0 0;
@@ -63,31 +71,52 @@
     font-weight: normal;
     font-size: 40px;
     line-height: 48px;
+    margin-top: 40px;
+    }
+  #maki-hero .bordered-centered {
+    border-right: 1px solid white;
+    width: 199px;
+    height: 140px;
+    padding-top: 40px;
+    margin-right: 20px;
+    padding-right: 20px;
     }
 
-#maki a.download {
+a.download {
   display: block;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px;
   border: 1px solid #ddd;
-  padding: 5px 10px;
+  padding: 15px 20px;
   }
   #maki-hero a.download {
-    border: 1px solid #fff;
     width: 138px;
     height: 38px;
+    padding: 5px 10px;
     margin-left: 20px;
+    }
+    a.download:hover { border-color: #ccc; }
+    #maki-hero a.download:hover { border-color: #fff; }
+
+#maki-hero a.download span.filesize {
+  color: #fff;
+  }
+a.download span.filename {
+  color: #888;
+  }
+  #maki-hero a.download span.filename {
     color: #afc975;
     }
-    #maki-hero a.download span.filesize {
-      color: #fff;
-      }
-    #maki-hero a.download span.download {
-      background-position: 0 -25px;
-      width: 40px;
-      height: 40px;
-      }
+
+a.download span.download {
+  background-position: -45px -25px;
+  width: 40px;
+  height: 40px;
+  }
+  #maki-hero a.download span.download {
+    background-position: 0 -25px;
+    }
 
 #maki .canvas {
   background: #fff url(images/bg.png) repeat 0 0;
@@ -117,12 +146,57 @@
   height: 420px;
   margin-bottom: 40px;
   }
-
-.maki-icon-preview {
-  background: #afc975 url(images/bg.png) repeat 0 0;;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 5px;
-  width: 280px;
-  height: 210px;
+a.zoomer {
+  background: #fff;
+  text-decoration: none;
+  position: absolute;
+  text-align: center;
+  width: 28px;
+  height: 23px;
+  line-height: 25px;
+  top: 20px;
+  left: 20px;
+  -moz-transition: color 0.1s linear;
+  -o-transition: color 0.1s linear;
+  -webkit-transition: color 0.1s linear;
+  transition: color 0.1s linear;
+  z-index: 100;
+  border: 1px solid #ccc;
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .3);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .3);
+  box-shadow: 0 0- 8px rgba(0, 0, 0, .3);
   }
+  a.zoomer:active {
+    box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
+    -moz-box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
+    -webkit-box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
+    }
+  a.zoomout {
+    top: 44px;
+    z-index: 50;
+    }
+  a.zoomdisabled:active,
+  a.zoomdisabled {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #ccc;
+    cursor: default;
+    }
+
+.col.maki-thesis {
+  width: 580px;
+  margin-right: 20px;
+  }
+.col.maki-icon-preview {
+  width: 240px;
+  margin-left: 40px;
+  }
+  .preview-screen {
+    background: #afc975 url(images/bg.png) repeat 0 0;;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    width: 280px;
+    height: 210px;
+    }
