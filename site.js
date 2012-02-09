@@ -11,7 +11,7 @@ wax.tilejson(url, function(tilejson) {
         ]
     );
 
-    m.setCenterZoom(new mm.Location(38.9005,-77.0255), 16);
+    m.setCenterZoom(new mm.Location(38.9010,-77.0250), 16);
     wax.mm.zoomer(m).appendTo(m.parent);
     wax.mm.interaction(m);
 });

@@ -120,6 +120,7 @@ a.download span.download {
   #maki .canvas .limiter {
     position: relative;
     height: 421px;
+    width: 920px;
     }
   .canvas-controls {
     position: absolute;
@@ -181,18 +182,43 @@ a.zoomer {
     }
 
 .col.maki-thesis {
-  width: 580px;
-  margin-right: 20px;
+  width: 560px;
+  margin-right: 40px;
+  margin-left: 20px;
   }
 .col.maki-icon-preview {
-  width: 240px;
-  margin-left: 40px;
+  width: 280px;
+  margin-left: 0;
+  margin-right: 0;
   }
   .preview-screen {
-    background: #afc975 url(images/bg.png) repeat 0 0;;
+    background: #AFC975;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
-    width: 280px;
+    width: 210px;
     height: 210px;
+    margin: auto;
     }
+  .maki-icon-preview ul {
+    width: 105px;
+    margin: 20px auto;
+    }
+    .maki-icon-preview ul li {
+      float: left;
+      margin-right: 5px;
+      margin-left: 0;
+      }
+      .maki-icon-preview ul li a {
+        background: #afc975;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        border-radius: 5px;
+        display: block;
+        width: 30px;
+        height: 30px;
+        }
+        .maki-icon-preview ul li a.active,
+        .maki-icon-preview ul li a:active {
+          background-color: #839065;
+          }
