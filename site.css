@@ -13,10 +13,6 @@
 /* --------------------------------------
   Some delineation
 ----------------------------------------- */
-/* Knock out the landscape image in the bottom footer. */
-.wrapper {
-  background: transparent;
-  }
 .branding {
   position: relative;
   z-index: 100;
@@ -128,7 +124,7 @@ a.download span.download {
     right: 0;
     }
     .canvas-controls form input {
-      background: #444 url(images/sprite.png) no-repeat -175px 5px;
+      background: #444 url(images/sprite.png) no-repeat -695px 5px;
       border: none;
       color: white;
       width: 201px;
@@ -191,6 +187,15 @@ a.zoomer {
   margin-left: 0;
   margin-right: 0;
   }
+  .maki-icon-preview .arrow {
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 20px solid red;
+    position: absolute;
+    bottom: -15px;
+    }
   .preview-screen {
     background: #AFC975;
     -moz-border-radius: 5px;
@@ -199,9 +204,20 @@ a.zoomer {
     width: 210px;
     height: 210px;
     margin: auto;
+    position: relative;
+    overflow: hidden;
     }
+  .preview-screen img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: none;
+    }
+    .preview-screen img.active {
+      display: block;
+      }
   .maki-icon-preview ul {
-    width: 105px;
+    width: 135px;
     margin: 20px auto;
     }
     .maki-icon-preview ul li {
@@ -210,15 +226,18 @@ a.zoomer {
       margin-left: 0;
       }
       .maki-icon-preview ul li a {
-        background: #afc975;
+        background-color: #afc975;
         -moz-border-radius: 5px;
         -webkit-border-radius: 5px;
         border-radius: 5px;
         display: block;
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
         }
         .maki-icon-preview ul li a.active,
         .maki-icon-preview ul li a:active {
           background-color: #839065;
           }
+        .maki-icon-preview ul li a.size-24 { background-position: -90px -25px; }
+        .maki-icon-preview ul li a.size-18 { background-position: -135px -25px; }
+        .maki-icon-preview ul li a.size-12 { background-position: -180px -25px; }
