@@ -15,3 +15,17 @@ wax.tilejson(url, function(tilejson) {
     wax.mm.zoomer(m).appendTo(m.parent);
     wax.mm.interaction(m);
 });
+
+$(function () {
+    $('#maki-icon-preview').find('a').click(function (e) {
+        e.preventDefault();
+        var activeLink = $(this).attr('id');
+        $('#maki-icon-preview').find('a.active').removeClass('active');
+        $('#maki-icon-preview').find('img.active').fadeOut('fast', function () {
+            $('#maki-icon-preview').find('img.active').removeClass('active');
+            $('#maki-icon-preview').find('img.' + activeLink).addClass('active').fadeIn('fast');
+        });
+        $('#arrow').removeClass().addClass(activeLink);
+        $(this).addClass('active');
+    });
+});

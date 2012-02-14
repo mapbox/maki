@@ -2,5 +2,7 @@ auto: true
 server: true
 exclude:
   - README.markdown
+  - maki-icons-2.svg
+  - maki-icons-2-colored.svg
 url: http://mapbox.com
 baseurl: /maki

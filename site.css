@@ -182,20 +182,28 @@ a.zoomer {
   margin-right: 40px;
   margin-left: 20px;
   }
-.col.maki-icon-preview {
+.col#maki-icon-preview {
   width: 280px;
   margin-left: 0;
   margin-right: 0;
+  position: relative;
   }
-  .maki-icon-preview .arrow {
-    width: 0;
-    height: 0;
-    border-left: 15px solid transparent;
-    border-right: 15px solid transparent;
-    border-top: 20px solid red;
+  #maki-icon-preview #arrow {
+    background: transparent url(images/sprite.png) no-repeat -140px 0;
+    width: 20px;
+    height: 20px;
     position: absolute;
-    bottom: -15px;
+    top: 205px;
+    left: 80px;
+    -moz-transition: left 0.2s ease-out;
+    -o-transition: left 0.2s ease-out;
+    -webkit-transition: left 0.2s ease-out;
+    transition: left 0.2s ease-out;
     }
+    #maki-icon-preview #arrow.size-24 { left: 80px; }
+    #maki-icon-preview #arrow.size-18 { left: 125px; }
+    #maki-icon-preview #arrow.size-12 { left: 170px; }
+
   .preview-screen {
     background: #AFC975;
     -moz-border-radius: 5px;
@@ -216,16 +224,16 @@ a.zoomer {
     .preview-screen img.active {
       display: block;
       }
-  .maki-icon-preview ul {
+  #maki-icon-preview ul {
     width: 135px;
     margin: 20px auto;
     }
-    .maki-icon-preview ul li {
+    #maki-icon-preview ul li {
       float: left;
       margin-right: 5px;
       margin-left: 0;
       }
-      .maki-icon-preview ul li a {
+      #maki-icon-preview ul li a {
         background-color: #afc975;
         -moz-border-radius: 5px;
         -webkit-border-radius: 5px;
@@ -234,10 +242,10 @@ a.zoomer {
         width: 40px;
         height: 40px;
         }
-        .maki-icon-preview ul li a.active,
-        .maki-icon-preview ul li a:active {
+        #maki-icon-preview ul li a.active,
+        #maki-icon-preview ul li a:active {
           background-color: #839065;
           }
-        .maki-icon-preview ul li a.size-24 { background-position: -90px -25px; }
-        .maki-icon-preview ul li a.size-18 { background-position: -135px -25px; }
-        .maki-icon-preview ul li a.size-12 { background-position: -180px -25px; }
+        #maki-icon-preview ul li a#size-24 { background-position: -90px -25px; }
+        #maki-icon-preview ul li a#size-18 { background-position: -135px -25px; }
+        #maki-icon-preview ul li a#size-12 { background-position: -180px -25px; }
