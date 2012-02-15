@@ -33,15 +33,15 @@
     margin: 0;
     }
   #maki #map h3.title {
-    background: white;
+    background: #fff;
     display: block;
     position: absolute;
     z-index: 100;
     top: 40px;
-    right: 0;
+    right: 40px;
     padding: 20px;
     margin: 0;
-    width: 680px;
+    width: 640px;
     }
 .content .col-2 {
   width: 420px;
@@ -123,6 +123,7 @@ a.download span.download {
 
 #maki .canvas {
   background: #fff url(images/bg.png) repeat 0 0;
+  margin-bottom: 40px;
   }
   #maki .canvas .limiter {
     position: relative;
@@ -134,15 +135,16 @@ a.download span.download {
 .canvas-controls {
   position: absolute;
   bottom: 1px;
-  right: 0;
+  left: 50%;
+  margin: 0 0 20px -121px;
   }
   .canvas-controls form input {
-    background: #444 url(images/sprite.png) no-repeat -215px 5px;
+    background: #444 url(images/sprite.png) no-repeat -211px 10px;
     border: none;
     color: white;
-    width: 201px;
-    height: 29px;
-    padding-left: 30px;
+    width: 240px;
+    height: 39px;
+    padding-left: 40px;
     }
 
 /*Icons on the canvas*/
@@ -286,7 +288,7 @@ ul.icon-set {
           left: 190px;
           color: #CCC;
           text-indent: 0;
-          font-size: 20px;
+          font-size: 16px;
           }
         #maki-icon-preview ul li a.active.size-24:after { content: '24px'; }
         #maki-icon-preview ul li a.active.size-18:after { content: '18px'; }
@@ -295,41 +297,38 @@ ul.icon-set {
 /* --------------------------------------
   Searching icons on the front page
 ----------------------------------------- */
+body.searching #search-results { display: block; }
 #search-results {
   display: none;
   position: relative;
   }
-#search-results div {
-  display: none;
-  position: relative;
-  padding: 19px 0 20px 192px;
-  border-top: 1px solid #444;
-  }
-#search-results div.empty {
-  text-align: center;
-  padding-left: 0px;
-  font-size: 18px;
-  }
-#search-results div.active { display: block; }
-#search-results div .label {
-  display: block;
-  position: absolute;
-  font-size: 18px;
-  left: 0;
-  }
-#search-results li {
-  position: relative;
-  margin: 0 0 10px;
-  }
-body.searching #search-results { display: block; }
+  #search-results div {
+    display: none;
+    position: relative;
+    padding: 20px;
+    }
+  #search-results div.empty {
+    text-align: center;
+    font-size: 18px;
+    }
+  #search-results div.active { display: block; }
+  #search-results div .label {
+    display: block;
+    position: absolute;
+    font-size: 18px;
+    left: 0;
+    }
+  #search-results li {
+    position: relative;
+    margin: 0 0 10px;
+    }
 
 a.close {
   background-color: #303030;
-  background-position: -195px 0;
+  background-position: -195px 0px;
   width: 20px;
   height: 20px;
   position: absolute;
-  top: 10px;
-  right: 10px;
-  z-index: 100;
+  top: 20px;
+  right: 1px;
   }

@@ -47,7 +47,7 @@ maki.search = function () {
     var template = _.template('<li><span class="title"><%=title%></span></li>');
     var find = function(phrase) {
         if (!data) return $.ajax({
-            url: '/search.json',
+            url: 'search.json',
             dataType: 'json',
             success: function(resp) {
                 data = _(resp).chain()
@@ -77,6 +77,8 @@ maki.search = function () {
         }, 500);
     });
 
+    $('input', search).submit(function() { return false });
+
     $('input', search).keyup(_(function() {
         $('#search-results ul').empty();
         $('#search-results > div').removeClass('active');
@@ -93,7 +95,7 @@ maki.search = function () {
         };
         var done = {};
         var phrase = $('input', search).val();
-        if (phrase.length >= 4) {
+        if (phrase.length >= 3) {
             var matches = find(phrase.toLowerCase().match(/(\w+)/g));
             _(matches).each(function(p) {
                 if (!p.category) return;
@@ -115,11 +117,11 @@ maki.search = function () {
 
     $('a.close').click(function (e) {
         e.preventDefault();
-        $('body').removeClass('searching');
-        $('input', search).blur();
         icons.stop().animate({
             opacity: 100
         }, 500);
+        $('body').removeClass('searching');
+        $('input', search).blur();
     });
 };
 $(maki.search);
