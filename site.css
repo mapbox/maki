@@ -43,11 +43,6 @@
     margin: 0;
     width: 640px;
     }
-.content .col-2 {
-  width: 420px;
-  margin-right: 40px;
-  margin-left: 20px;
-  }
 
 /* --------------------------------------
   Maki frontpage specific styling
@@ -213,9 +208,8 @@ ul.icon-set {
       }
 
 .col.maki-thesis {
-  width: 560px;
+  width: 580px;
   margin-right: 40px;
-  margin-left: 20px;
   }
 .col#maki-icon-preview {
   width: 280px;
