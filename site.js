@@ -1,14 +1,6 @@
 (function(context) {
 var maki = {};
 
-maki.lazyLoader = function() {
-    var images = $('#maki-set').find('img');
-    $.each(images, function() {
-        $(this).attr('src', $(this).attr('data-src')).removeAttr('data-src');
-    });
-};
-$(maki.lazyLoader)
-
 maki.map = function() {
     var mm = com.modestmaps;
     var url = 'http://api.tiles.mapbox.com/v3/saman.map-kg3gj8s6.jsonp';
@@ -47,8 +39,15 @@ maki.slideshow = function() {
 };
 $(maki.slideshow);
 
-maki.search = function () {
+maki.lazyLoader = function() {
+    var images = $('#maki-set').find('img');
+    $.each(images, function() {
+        $(this).attr('src', $(this).attr('data-src')).removeAttr('data-src');
+    });
+};
+$(maki.lazyLoader)
 
+maki.search = function () {
     var data = false;
     var icons = $('#maki-set');
     var search = $('#search');
