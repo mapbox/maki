@@ -147,7 +147,7 @@ a.download span.download {
     }
 
 /*Icons on the canvas*/
-.maki-set {
+#maki-set {
   position: absolute;
   width: 100%;
   top: 40px;
@@ -216,9 +216,40 @@ ul.icon-set {
       cursor: default;
       }
 
+.wax-tooltip,
 .wax-movetip {
-  background: #fff;
+  background: red;
+  border: 1px solid #8C8C8C;
+  border: 1px solid rgba(0, 0, 0, .45);
+  -moz-box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
+  -webkit-box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
+  box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
+  width: 10px;
+  height: 10px;
+  z-index: 999999;
+  position: relative;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
   }
+
+/* CSS Animations */
+.wax-movetip,
+.map-tile-loaded {
+  -webkit-animation-name: 'fade-in';
+  -webkit-animation-timing-function: ease-in;
+  -webkit-animation-duration: .2s;
+  }
+@-webkit-keyframes fade-in {
+  from {
+    opacity: 0;
+    }
+  to {
+    opacity: 1;
+    }
+}
+
 
 .col.maki-thesis {
   width: 580px;
