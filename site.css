@@ -59,7 +59,7 @@
   }
   #maki-hero h1 a {
     background-position: 0 0;
-    width: 130px;
+    width: 140px;
     margin-left: 35px;
     margin-bottom: 15px;
     }
@@ -99,7 +99,7 @@ a.download {
     padding: 5px 10px;
     margin-left: 20px;
     }
-    a.download:hover { border-color: #ccc; }
+    a.download:hover { border-color: }
     #maki-hero a.download:hover { border-color: #fff; }
 
 #maki-hero a.download span.filesize {
