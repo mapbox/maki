@@ -220,6 +220,7 @@ ul.icon-set {
   margin-left: 0;
   margin-right: 0;
   position: relative;
+  margin-bottom: 20px;
   }
   #maki-icon-preview #arrow {
     background: transparent url(images/sprite.png) no-repeat -140px 0;
