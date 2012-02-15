@@ -40,18 +40,83 @@ maki.slideshow = function() {
 $(maki.slideshow);
 
 maki.search = function () {
-    // Handle geocoder form submission
-    var input = $('.canvas-controls').find('input');
+
+    var data = false;
     var icons = $('.maki-set');
+    var search = $('#search');
+    var template = _.template('<li><span class="title"><%=title%></span></li>');
+    var find = function(phrase) {
+        if (!data) return $.ajax({
+            url: '/search.json',
+            dataType: 'json',
+            success: function(resp) {
+                data = _(resp).chain()
+                    .compact()
+                    .map(function(p) {
+                        p.words = (p.title.toLowerCase()).match(/(\w+)/g);
+                        return p;
+                    })
+                    .value();
+                find(phrase);
+            }
+        });
+        var matches = _(data).filter(function(p) {
+            return _(phrase).filter(function(a) {
+                return _(p.words).any(function(b) {
+                    return a === b || b.indexOf(a) === 0;
+                });
+            }).length === phrase.length;
+        });
+        return matches;
+    };
 
-
-    input.focus(function() {
+    $('input', search).focus(function() {
+        $('body').addClass('searching');
         icons.stop().animate({
-            opacity: 0.35
+            opacity: 0.25
         }, 500);
     });
 
-    input.blur(function() {
+    $('input', search).keyup(_(function() {
+        $('#search-results ul').empty();
+        $('#search-results > div').removeClass('active');
+
+        var el = {
+            'shapes': $('#search-results > div.shapes'),
+            'religion': $('#search-results > div.religion'),
+            'transportation': $('#search-results > div.transportation'),
+            'recreation': $('#search-results > div.recreation'),
+            'sports': $('#search-results > div.sports'),
+            'amenity': $('#search-results > div.amenity'),
+            'commercial': $('#search-results > div.commercial'),
+            'social': $('#search-results > div.social')
+        };
+        var done = {};
+        var phrase = $('input', search).val();
+        if (phrase.length >= 4) {
+            var matches = find(phrase.toLowerCase().match(/(\w+)/g));
+            _(matches).each(function(p) {
+                if (!p.category) return;
+                if (!done[p.category]) {
+                    el[p.category].addClass('active');
+                    done[p.category] = true;
+                }
+                $('ul', el[p.category]).append(template(p));
+            });
+            if (matches.length) return;
+        }
+        $('#search-results > div.empty').addClass('active');
+        return false;
+    }).debounce(100));
+
+    $(document.documentElement).keydown(function (e) {
+        if (e.keyCode === 27) { $('a.close').trigger('click'); }
+    });
+
+    $('a.close').click(function (e) {
+        e.preventDefault();
+        $('body').removeClass('searching');
+        $('input', search).blur();
         icons.stop().animate({
             opacity: 100
         }, 500);

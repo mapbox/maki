@@ -33,97 +33,102 @@ title: Maki
 
   <div class='canvas'>
     <div class='limiter clearfix content'>
+      <div class='maki-set clearfix'>
+        {% if site.categories.shapes %}
+        <ul class='icon-group clearfix'>
+          <li>
+            {% for item in site.categories.shapes %}
+              {% include poi-group.html %}
+            {% endfor %}
+          </li>
+        </ul>
+        {% endif %}
+        {% if site.categories.religion %}
+        <ul class='icon-group clearfix'>
+          <li>
+            {% for item in site.categories.religion %}
+              {% include poi-group.html %}
+            {% endfor %}
+          </li>
+        </ul>
+        {% endif %}
+        {% if site.categories.transportation %}
+        <ul class='icon-group clearfix'>
+          <li>
+            {% for item in site.categories.transportation %}
+              {% include poi-group.html %}
+            {% endfor %}
+          </li>
+        </ul>
+        {% endif %}
+        {% if site.categories.recreation %}
+        <ul class='icon-group clearfix'>
+          <li>
+            {% for item in site.categories.recreation %}
+              {% include poi-group.html %}
+            {% endfor %}
+          </li>
+        </ul>
+        {% endif %}
+        {% if site.categories.sports %}
+        <ul class='icon-group clearfix'>
+          <li>
+            {% for item in site.categories.sports %}
+              {% include poi-group.html %}
+            {% endfor %}
+          </li>
+        </ul>
+        {% endif %}
+        {% if site.categories.amenity %}
+        <ul class='icon-group clearfix'>
+          <li>
+            {% for item in site.categories.amenity %}
+              {% include poi-group.html %}
+            {% endfor %}
+          </li>
+        </ul>
+        {% endif %}
+        {% if site.categories.commercial %}
+        <ul class='icon-group clearfix'>
+          <li>
+            {% for item in site.categories.commercial %}
+              {% include poi-group.html %}
+            {% endfor %}
+          </li>
+        </ul>
+        {% endif %}
+        {% if site.categories.social %}
+        <ul class='icon-group clearfix'>
+          <li>
+            {% for item in site.categories.social %}
+              {% include poi-group.html %}
+            {% endfor %}
+          </li>
+        </ul>
+        {% endif %}
+      </div>
 
-    <div class='maki-set clearfix'>
-      {% if site.categories.shapes %}
-      <ul class='icon-group clearfix'>
-        <li>
-          {% for item in site.categories.shapes %}
-            {% include poi-group.html %}
-          {% endfor %}
-        </li>
-      </ul>
-      {% endif %}
-      {% if site.categories.religion %}
-      <ul class='icon-group clearfix'>
-        <li>
-          {% for item in site.categories.religion %}
-            {% include poi-group.html %}
-          {% endfor %}
-        </li>
-      </ul>
-      {% endif %}
-      {% if site.categories.transportation %}
-      <ul class='icon-group clearfix'>
-        <li>
-          {% for item in site.categories.transportation %}
-            {% include poi-group.html %}
-          {% endfor %}
-        </li>
-      </ul>
-      {% endif %}
-      {% if site.categories.recreation %}
-      <ul class='icon-group clearfix'>
-        <li>
-          {% for item in site.categories.recreation %}
-            {% include poi-group.html %}
-          {% endfor %}
-        </li>
-      </ul>
-      {% endif %}
-      {% if site.categories.sports %}
-      <ul class='icon-group clearfix'>
-        <li>
-          {% for item in site.categories.sports %}
-            {% include poi-group.html %}
-          {% endfor %}
-        </li>
-      </ul>
-      {% endif %}
-      {% if site.categories.amenity %}
-      <ul class='icon-group clearfix'>
-        <li>
-          {% for item in site.categories.amenity %}
-            {% include poi-group.html %}
-          {% endfor %}
-        </li>
-      </ul>
-      {% endif %}
-      {% if site.categories.commercial %}
-      <ul class='icon-group clearfix'>
-        <li>
-          {% for item in site.categories.commercial %}
-            {% include poi-group.html %}
-          {% endfor %}
-        </li>
-      </ul>
-      {% endif %}
-      {% if site.categories.social %}
-      <ul class='icon-group clearfix'>
-        <li>
-          {% for item in site.categories.social %}
-            {% include poi-group.html %}
-          {% endfor %}
-        </li>
-      </ul>
-      {% endif %}
-    </div>
+      <div id='search-results' class='limiter title clearfix'>
+        <a href='#' class='icon close' title='Press ESC to close'>X</a>
+        <h2 class='page-title'>Search</h2>
+        <div class='empty active'>No results found.</div>
+        <div class='shapes'><span class='label'>Shapes</span><ul></ul></div>
+        <div class='religion'><span class='label'>Religion</span><ul></ul></div>
+        <div class='transportation'><span class='label'>Transportation</span><ul></ul></div>
+        <div class='recreation'><span class='label'>Recreation</span><ul></ul></div>
+        <div class='sports'><span class='label'>Sports</span><ul></ul></div>
+        <div class='amenity'><span class='label'>Amenity</span><ul></ul></div>
+        <div class='commercial'><span class='label'>Commercial</span><ul></ul></div>
+        <div class='social'><span class='label'>Social</span><ul></ul></div>
+      </div>
+
       <div class='canvas-controls'>
-        <form>
+        <form id='search'>
           <input type='text'>
         </form>
       </div>
     </div>
   </div> <!-- /.canvas--->
-
-<div id='search-results' class='limiter title clearfix'>
-  <h2 class='page-title'>Search</h2>
-  <div class='empty active'>No results found.</div>
-  <div class='about'><span class='label'>About</span><ul></ul></div>
-  <div class='projects'><span class='label'>Projects</span><ul></ul></div>
-  <div class='team'><span class='label'>Team</span><ul></ul></div>
-  <div class='blog'><span class='label'>Blog</span><ul></ul></div>
-</div>
 
   <div class='limiter clip'>
     <div class='content prose clearfix'>
