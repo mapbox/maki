@@ -73,8 +73,8 @@ maki.search = function () {
     $('input', search).focus(function() {
         $('body').addClass('searching');
         icons.stop().animate({
-            opacity: 0.25
-        }, 500);
+            opacity: 0.10
+        }, 400);
     });
 
     $('input', search).submit(function() { return false });
@@ -118,7 +118,7 @@ maki.search = function () {
     $('a.close').click(function (e) {
         e.preventDefault();
         icons.stop().animate({
-            opacity: 100
+            opacity: 30
         }, 500);
         $('body').removeClass('searching');
         $('input', search).blur();

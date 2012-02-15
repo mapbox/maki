@@ -3,3 +3,6 @@
     "tags":"{{item.tags}}",
 	"title":"{{item.title|replace:'"','\"'}}"
 }
+
+
+//For tags in item.tags
