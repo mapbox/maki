@@ -310,6 +310,7 @@ body.searching #search-results { display: block; }
   #search-results div.empty {
     text-align: center;
     font-size: 18px;
+    margin-top: 115px;
     }
   #search-results div.active { display: block; }
   #search-results div .label {
