@@ -1,0 +1,4 @@
+{
+	"category":"{{item.category}}",
+	"title":"{{item.title|replace:'"','\"'}}"
+}
