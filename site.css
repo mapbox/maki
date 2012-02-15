@@ -87,14 +87,18 @@ a.download {
   border-radius: 5px;
   border: 1px solid #ddd;
   padding: 15px 20px;
+  transition:all 250ms;
+  -moz-transition:all 250ms;
+  -webkit-transition:all 250ms;
   }
   #maki-hero a.download {
+    border-color: #999;
     width: 138px;
     height: 38px;
     padding: 5px 10px;
     margin-left: 20px;
     }
-    a.download:hover { border-color: }
+    a.download:hover { border-color: #444; }
     #maki-hero a.download:hover { border-color: #fff; }
 
 #maki-hero a.download span.filesize {
