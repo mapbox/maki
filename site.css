@@ -28,17 +28,21 @@
   font-size: 20px;
   font-weight: normal;
   }
-#maki h3.title {
-  display: block;
-  position: absolute;
-  z-index: 100;
-  top: 40px;
-  right: 0;
-  padding: 20px;
-  margin: 0;
-  width: 680px;
-  background: transparent url(images/sprite.png) no-repeat 0 -70px;
-  }
+  #maki .canvas .title {
+    text-align: center;
+    margin: 0;
+    }
+  #maki #map h3.title {
+    background: white;
+    display: block;
+    position: absolute;
+    z-index: 100;
+    top: 40px;
+    right: 0;
+    padding: 20px;
+    margin: 0;
+    width: 680px;
+    }
 .content .col-2 {
   width: 420px;
   margin-right: 40px;
@@ -53,7 +57,7 @@
   height: 180px;
   color: white;
   }
-  #maki-hero h1 {
+  #maki-hero h1 a {
     background-position: 0 0;
     width: 130px;
     margin-left: 35px;
@@ -66,13 +70,20 @@
     margin-top: 40px;
     }
   #maki-hero .bordered-centered {
-    border-right: 1px solid white;
-    width: 199px;
+    width: 200px;
     height: 140px;
     padding-top: 40px;
     margin-right: 20px;
     padding-right: 20px;
     }
+
+#maki-subtitle {
+  background: #303030;
+  height: 60px;
+  line-height: 60px;
+  font-size: 20px;
+  color: #fff;
+  }
 
 a.download {
   display: block;
@@ -124,7 +135,7 @@ a.download span.download {
     right: 0;
     }
     .canvas-controls form input {
-      background: #444 url(images/sprite.png) no-repeat -695px 5px;
+      background: #444 url(images/sprite.png) no-repeat -215px 5px;
       border: none;
       color: white;
       width: 201px;
@@ -139,43 +150,43 @@ a.download span.download {
   height: 420px;
   margin-bottom: 40px;
   }
-a.zoomer {
-  background: #fff;
-  text-decoration: none;
+#controls {
   position: absolute;
-  text-align: center;
-  width: 28px;
-  height: 23px;
-  line-height: 25px;
   top: 20px;
   left: 20px;
-  -moz-transition: color 0.1s linear;
-  -o-transition: color 0.1s linear;
-  -webkit-transition: color 0.1s linear;
-  transition: color 0.1s linear;
+  background: #fff;
   z-index: 100;
-  border: 1px solid #ccc;
+  border: 1px solid #999;
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .3);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .3);
   box-shadow: 0 0- 8px rgba(0, 0, 0, .3);
   }
-  a.zoomer:active {
-    box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
-    -moz-box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
-    -webkit-box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
+  a.zoomer {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    width: 28px;
+    height: 23px;
+    line-height: 25px;
     }
-  a.zoomout {
-    top: 44px;
-    z-index: 50;
-    }
-  a.zoomdisabled:active,
-  a.zoomdisabled {
-    -moz-box-shadow: none;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    color: #ccc;
-    cursor: default;
-    }
+    a.zoomer:active {
+      box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
+      -moz-box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
+      -webkit-box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
+      }
+    a.zoomout {
+      top: 44px;
+      z-index: 50;
+      border-top: 1px solid #ccc;
+      }
+    a.zoomdisabled:active,
+    a.zoomdisabled {
+      -moz-box-shadow: none;
+      -webkit-box-shadow: none;
+      box-shadow: none;
+      color: #ccc;
+      cursor: default;
+      }
 
 .col.maki-thesis {
   width: 560px;
@@ -194,15 +205,15 @@ a.zoomer {
     height: 20px;
     position: absolute;
     top: 205px;
-    left: 80px;
-    -moz-transition: left 0.2s ease-out;
-    -o-transition: left 0.2s ease-out;
-    -webkit-transition: left 0.2s ease-out;
-    transition: left 0.2s ease-out;
+    left: 45px;
+    -moz-transition: left 0.2s ease-in;
+    -o-transition: left 0.2s ease-in;
+    -webkit-transition: left 0.2s ease-in;
+    transition: left 0.2s ease-in;
     }
-    #maki-icon-preview #arrow.size-24 { left: 80px; }
-    #maki-icon-preview #arrow.size-18 { left: 125px; }
-    #maki-icon-preview #arrow.size-12 { left: 170px; }
+    #maki-icon-preview #arrow.size-24 { left: 55px; }
+    #maki-icon-preview #arrow.size-18 { left: 100px; }
+    #maki-icon-preview #arrow.size-12 { left: 145px; }
 
   .preview-screen {
     background: #AFC975;
@@ -219,14 +230,10 @@ a.zoomer {
     position: absolute;
     top: 10px;
     left: 10px;
-    display: none;
     }
-    .preview-screen img.active {
-      display: block;
-      }
   #maki-icon-preview ul {
-    width: 135px;
-    margin: 20px auto;
+    width: 150px;
+    margin: 20px 0 0 45px;
     }
     #maki-icon-preview ul li {
       float: left;
@@ -246,6 +253,37 @@ a.zoomer {
         #maki-icon-preview ul li a:active {
           background-color: #839065;
           }
-        #maki-icon-preview ul li a#size-24 { background-position: -90px -25px; }
-        #maki-icon-preview ul li a#size-18 { background-position: -135px -25px; }
-        #maki-icon-preview ul li a#size-12 { background-position: -180px -25px; }
+        #maki-icon-preview ul li a.icon.size-24 { background-position: -90px -25px; }
+        #maki-icon-preview ul li a.icon.size-18 { background-position: -135px -25px; }
+        #maki-icon-preview ul li a.icon.size-12 { background-position: -180px -25px; }
+
+        #maki-icon-preview ul li a.active:after {
+          content: '';
+          position: absolute;
+          top: 240px;
+          left: 190px;
+          color: #afc975;
+          text-indent: 0;
+          }
+        #maki-icon-preview ul li a.active.size-24:after { content: '24px'; }
+        #maki-icon-preview ul li a.active.size-18:after { content: '18px'; }
+        #maki-icon-preview ul li a.active.size-12:after { content: '12px'; }
+
+.maki-set {
+  position: absolute;
+  width: 100%;
+  top: 40px;
+  left: 0;
+  }
+ul.icon-group {
+  float: left;
+  width: 75px;
+  margin-right: 20px;
+  margin-left: 20px;
+  }
+ul.icon-set {
+    width: 60px;
+    }
+    ul.icon-set li {
+      float: left;
+      }

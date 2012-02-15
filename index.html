@@ -13,8 +13,8 @@ title: Maki
   <div id='maki-hero'>
     <div class='limiter clearfix content'>
       <div class='col-1 bordered-centered'>
-        <h1 class='icon maki'>Maki Icons</h1>
-        <a href='#' class='download'>
+        <h1><a href='{{site.url}}/maki' class='icon maki'>Maki Icons</a></h1>
+        <a href='{{site.baseurl}}/maki.zip' class='download'>
           <span class='fr icon download'>&nbsp;</span>
           <span class='filename'>Maki-2.0.zip</span><br />
           <span class='filesize'>400kb</span>
@@ -25,10 +25,89 @@ title: Maki
       </div>
     </div>
   </div> <!-- /#maki-hero-->
+  <div id='maki-subtitle'>
+    <div class='limiter clip'>
+      68 different symbols at 3 sizes each. 204 total icons and growing.
+    </div>
+  </div>
 
   <div class='canvas'>
     <div class='limiter clearfix content'>
-      <h3 class='title'>68 different symbols at 3 sizes each. 204 total icons and growing.</h3>
+
+    <div class='maki-set clearfix'>
+      {% if site.categories.shapes %}
+      <ul class='icon-group clearfix'>
+        <li>
+          {% for item in site.categories.shapes %}
+            {% include poi-group.html %}
+          {% endfor %}
+        </li>
+      </ul>
+      {% endif %}
+      {% if site.categories.religion %}
+      <ul class='icon-group clearfix'>
+        <li>
+          {% for item in site.categories.religion %}
+            {% include poi-group.html %}
+          {% endfor %}
+        </li>
+      </ul>
+      {% endif %}
+      {% if site.categories.transportation %}
+      <ul class='icon-group clearfix'>
+        <li>
+          {% for item in site.categories.transportation %}
+            {% include poi-group.html %}
+          {% endfor %}
+        </li>
+      </ul>
+      {% endif %}
+      {% if site.categories.recreation %}
+      <ul class='icon-group clearfix'>
+        <li>
+          {% for item in site.categories.recreation %}
+            {% include poi-group.html %}
+          {% endfor %}
+        </li>
+      </ul>
+      {% endif %}
+      {% if site.categories.sports %}
+      <ul class='icon-group clearfix'>
+        <li>
+          {% for item in site.categories.sports %}
+            {% include poi-group.html %}
+          {% endfor %}
+        </li>
+      </ul>
+      {% endif %}
+      {% if site.categories.amenity %}
+      <ul class='icon-group clearfix'>
+        <li>
+          {% for item in site.categories.amenity %}
+            {% include poi-group.html %}
+          {% endfor %}
+        </li>
+      </ul>
+      {% endif %}
+      {% if site.categories.commercial %}
+      <ul class='icon-group clearfix'>
+        <li>
+          {% for item in site.categories.commercial %}
+            {% include poi-group.html %}
+          {% endfor %}
+        </li>
+      </ul>
+      {% endif %}
+      {% if site.categories.social %}
+      <ul class='icon-group clearfix'>
+        <li>
+          {% for item in site.categories.social %}
+            {% include poi-group.html %}
+          {% endfor %}
+        </li>
+      </ul>
+      {% endif %}
+    </div>
       <div class='canvas-controls'>
         <form>
           <input type='text'>
@@ -41,6 +120,7 @@ title: Maki
     <div class='content prose clearfix'>
       <div id='map'>
         <h3 class='title'>Uniquely crafted to make your TileMill maps beautiful and meaningful.</h3>
+        <div id='controls'></div>
       </div>
       <div class='clearfix'>
         <div class='col maki-thesis'>
@@ -50,15 +130,15 @@ title: Maki
         </div>
         <div id='maki-icon-preview' class='col'>
           <div class='preview-screen'>
-            <img class='size-24 active' src='{{site.baseurl}}/images/gas-big-24.png' alt='' />
-            <img class='size-18' src='{{site.baseurl}}/images/gas-big-18.png' alt='' />
-            <img class='size-12' src='{{site.baseurl}}/images/gas-big-12.png' alt='' />
+            <img style='display: block;' class='size-24 active' src='{{site.baseurl}}/images/gas-big-24.png' alt='' />
+            <img style='display: none;' class='size-18' src='{{site.baseurl}}/images/gas-big-18.png' alt='' />
+            <img style='display: none;' class='size-12' src='{{site.baseurl}}/images/gas-big-12.png' alt='' />
           </div>
           <span id='arrow' class='size-24'>&nbsp;</span>
           <ul>
-            <li><a href='#' id='size-24' class='icon active'>24px</a></li>
-            <li><a href='#' id='size-18' class='icon'>18px</a></li>
-            <li><a href='#' id='size-12' class='icon'>12px</a></li>
+            <li><a href='#size-24' class='icon size-24 active'>24px</a></li>
+            <li><a href='#size-18' class='size-18 icon'>18px</a></li>
+            <li><a href='#size-12' class='size-12 icon'>12px</a></li>
           </ul>
         </div>
       </div>
@@ -79,7 +159,7 @@ title: Maki
       <hr />
       <div class='clearfix'>
         <div class='col-2'>
-          <a href='#' class='download clearfix'>
+          <a href='{{site.baseurl}}/maki.zip' class='download clearfix'>
             <span class='fr icon download'>&nbsp;</span>
             <span class='title'>Download Complete Icon Set</span><br />
             <span class='filename'>maki.zip</span>

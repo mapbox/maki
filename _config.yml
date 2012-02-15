@@ -6,3 +6,4 @@ exclude:
   - maki-icons-2-colored.svg
 url: http://mapbox.com
 baseurl: /maki
+permalink: /:title.html
