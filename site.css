@@ -38,7 +38,7 @@
     position: absolute;
     z-index: 100;
     top: 40px;
-    right: 40px;
+    left: 0;
     padding: 20px;
     margin: 0;
     width: 640px;
@@ -176,7 +176,7 @@ ul.icon-set {
 #controls {
   position: absolute;
   top: 20px;
-  left: 20px;
+  right: 60px;
   background: #fff;
   z-index: 100;
   border: 1px solid #999;
