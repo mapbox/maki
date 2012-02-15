@@ -166,12 +166,17 @@ ul.icon-set {
       float: left;
       }
 
+
 #maki #map {
   background: #f5f5f5;
   position: relative;
-  width: 100%;
+  width: 960px;
   height: 420px;
   margin-bottom: 40px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
   }
 #controls {
   position: absolute;
@@ -210,6 +215,10 @@ ul.icon-set {
       color: #ccc;
       cursor: default;
       }
+
+.wax-movetip {
+  background: #fff;
+  }
 
 .col.maki-thesis {
   width: 580px;

@@ -17,7 +17,7 @@ maki.map = function() {
 
         m.setCenterZoom(new mm.Location(38.91710,-77.03024), 17);
         wax.mm.zoomer(m).appendTo($('#controls')[0]);
-        wax.mm.interaction(m);
+        wax.mm.interaction(m, tilejson, { callbacks: wax.movetip() });
     });
 };
 $(maki.map);
@@ -71,10 +71,11 @@ maki.search = function () {
     };
 
     $('input', search).focus(function() {
-        $('body').addClass('searching');
         icons.stop().animate({
             opacity: 0.10
-        }, 400);
+        }, 400, function() {
+            $('body').addClass('searching');
+        });
     });
 
     $('input', search).submit(function() { return false });
