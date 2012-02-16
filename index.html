@@ -5,6 +5,8 @@ title: Maki
 <link rel='stylesheet' href='{{site.baseurl}}/site.css' type='text/css'/>
 
 <div id='maki'>
+  {% assign symbols = 70 %}
+
   <div id='maki-hero'>
     <div class='limiter clearfix content'>
       <div class='col-1 bordered-centered'>
@@ -22,7 +24,7 @@ title: Maki
   </div> <!-- /#maki-hero-->
   <div id='maki-subtitle'>
     <div class='limiter clip'>
-      Maki includes 69 different symbols at 3 sizes each. 207 total icons and growing.
+      Maki includes {{symbols}} different symbols at 3 sizes each. {{symbols | times:3}} total icons and growing.
     </div>
   </div>
 
@@ -32,72 +34,56 @@ title: Maki
         {% if site.categories.shapes %}
         <ul class='icon-group clearfix'>
           <li>
-            {% for item in site.categories.shapes %}
-              {% include poi-group.html %}
-            {% endfor %}
+            {% for item in site.categories.shapes %}{% include poi-group.html %}{% endfor %}
           </li>
         </ul>
         {% endif %}
         {% if site.categories.religion %}
         <ul class='icon-group clearfix'>
           <li>
-            {% for item in site.categories.religion %}
-              {% include poi-group.html %}
-            {% endfor %}
+            {% for item in site.categories.religion %}{% include poi-group.html %}{% endfor %}
           </li>
         </ul>
         {% endif %}
         {% if site.categories.transportation %}
         <ul class='icon-group clearfix'>
           <li>
-            {% for item in site.categories.transportation %}
-              {% include poi-group.html %}
-            {% endfor %}
+            {% for item in site.categories.transportation %}{% include poi-group.html %}{% endfor %}
           </li>
         </ul>
         {% endif %}
         {% if site.categories.recreation %}
         <ul class='icon-group clearfix'>
           <li>
-            {% for item in site.categories.recreation %}
-              {% include poi-group.html %}
-            {% endfor %}
+            {% for item in site.categories.recreation %}{% include poi-group.html %}{% endfor %}
           </li>
         </ul>
         {% endif %}
         {% if site.categories.sports %}
         <ul class='icon-group clearfix'>
           <li>
-            {% for item in site.categories.sports %}
-              {% include poi-group.html %}
-            {% endfor %}
+            {% for item in site.categories.sports %}{% include poi-group.html %}{% endfor %}
           </li>
         </ul>
         {% endif %}
         {% if site.categories.amenity %}
         <ul class='icon-group clearfix'>
           <li>
-            {% for item in site.categories.amenity %}
-              {% include poi-group.html %}
-            {% endfor %}
+           {% for item in site.categories.amenity %}{% include poi-group.html %}{% endfor %}
           </li>
         </ul>
         {% endif %}
         {% if site.categories.commercial %}
         <ul class='icon-group clearfix'>
           <li>
-            {% for item in site.categories.commercial %}
-              {% include poi-group.html %}
-            {% endfor %}
+            {% for item in site.categories.commercial %}{% include poi-group.html %}{% endfor %}
           </li>
         </ul>
         {% endif %}
         {% if site.categories.social %}
         <ul class='icon-group clearfix'>
           <li>
-            {% for item in site.categories.social %}
-              {% include poi-group.html %}
-            {% endfor %}
+            {% for item in site.categories.social %}{% include poi-group.html %}{% endfor %}
           </li>
         </ul>
         {% endif %}
@@ -106,18 +92,11 @@ title: Maki
       <div id='search-results' class='limiter title clearfix'>
         <a href='#' class='icon close' title='Press ESC to close'>X</a>
         <div class='empty active'>No results found.</div>
-        <div class='shapes'><span class='label'>Shapes</span><ul></ul></div>
-        <div class='religion'><span class='label'>Religion</span><ul></ul></div>
-        <div class='transportation'><span class='label'>Transportation</span><ul></ul></div>
-        <div class='recreation'><span class='label'>Recreation</span><ul></ul></div>
-        <div class='sports'><span class='label'>Sports</span><ul></ul></div>
-        <div class='amenity'><span class='label'>Amenity</span><ul></ul></div>
-        <div class='commercial'><span class='label'>Commercial</span><ul></ul></div>
-        <div class='social'><span class='label'>Social</span><ul></ul></div>
+        <ul id='results'></ul>
       </div>
 
       <div class='canvas-controls'>
-        <form id='search'>
+        <form id='search' disabled='disabled'>
           <input type='text'>
         </form>
       </div>
@@ -175,7 +154,7 @@ title: Maki
         <div class='col-2 includes'>
           <strong>Includes:</strong>
           <ul>
-            <li><strong>204</strong> total icons and growing</li>
+            <li><strong>{{symbols | times:3}}</strong> total icons and growing</li>
             <li><strong>24px/18px/12px</strong> .png and the .svg source</li>
           </ul>
         </div>
@@ -185,5 +164,4 @@ title: Maki
 </div>
 <script src='{{site.baseurl}}/wax/modestmaps.min.js'></script>
 <script src='{{site.baseurl}}/wax/wax.mm.min.js'></script>
-<script src='{{site.baseurl}}/wax/movetip.js'></script>
 <script src='{{site.baseurl}}/site.js'></script>

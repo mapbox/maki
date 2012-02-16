@@ -1,5 +1,11 @@
 {
-	"category":"{{item.categories}}",
-    "tags":"{{item.tags}}",
-	"title":"{{item.title|replace:'"','\"'}}"
+    "category":"{{item.categories}}",
+    "title":"{{item.title|replace:'"','\"'}}",
+    "tags": {
+        {% for tag in item.tags %}"tag":"{{tag}}",{% endfor %}
+        "tag":"Maki"
+    },
+    "icon24":"{{item.icon-24}}",
+    "icon18":"{{item.icon-18}}",
+    "icon12":"{{item.icon-12}}"
 }

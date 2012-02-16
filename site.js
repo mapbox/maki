@@ -17,7 +17,7 @@ maki.map = function() {
 
         m.setCenterZoom(new mm.Location(38.91710,-77.03024), 17);
         wax.mm.zoomer(m).appendTo($('#controls')[0]);
-        wax.mm.interaction(m, tilejson, { callbacks: wax.movetip() });
+        wax.mm.interaction(m, tilejson);
     });
 };
 $(maki.map);
@@ -51,7 +51,14 @@ maki.search = function () {
     var data = false;
     var icons = $('#maki-set');
     var search = $('#search');
-    var template = _.template('<li><span class="title"><%=title%></span></li>');
+    var templateFormat =  '<li>'
+                        + '<ul class="icon-set clearfix">'
+                        + '<li><img src="renders/<%=icon24%>" alt="<%=title%> 24px" /></li>'
+                        + '<li><img src="renders/<%=icon18%>" alt="<%=title%> 18px" /></li>'
+                        + '<li><img src="renders/<%=icon12%>" alt="<%=title%> 12px" /></li>'
+                        + '</ul>'
+                        + '</li>';
+    var template = _.template(templateFormat);
     var find = function(phrase) {
         if (!data) return $.ajax({
             url: 'search.json',
@@ -85,33 +92,17 @@ maki.search = function () {
         });
     });
 
-    $('input', search).submit(function() { return false });
-
     $('input', search).keyup(_(function() {
-        $('#search-results ul').empty();
+        $('#search-results ul').removeClass().empty();
         $('#search-results > div').removeClass('active');
 
-        var el = {
-            'shapes': $('#search-results > div.shapes'),
-            'religion': $('#search-results > div.religion'),
-            'transportation': $('#search-results > div.transportation'),
-            'recreation': $('#search-results > div.recreation'),
-            'sports': $('#search-results > div.sports'),
-            'amenity': $('#search-results > div.amenity'),
-            'commercial': $('#search-results > div.commercial'),
-            'social': $('#search-results > div.social')
-        };
         var done = {};
         var phrase = $('input', search).val();
-        if (phrase.length >= 3) {
+        if (phrase.length >= 2) {
             var matches = find(phrase.toLowerCase().match(/(\w+)/g));
+            var widthClass = _.size(matches);
             _(matches).each(function(p) {
-                if (!p.category) return;
-                if (!done[p.category]) {
-                    el[p.category].addClass('active');
-                    done[p.category] = true;
-                }
-                $('ul', el[p.category]).append(template(p));
+                $('#search-results ul#results').addClass('active clearfix size-' + widthClass).append(template(p));
             });
             if (matches.length) return;
         }
@@ -130,6 +121,10 @@ maki.search = function () {
         }, 500);
         $('body').removeClass('searching');
         $('input', search).blur();
+    });
+
+    $('input', search).blur(function () {
+        $(this).val('');
     });
 };
 $(maki.search);

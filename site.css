@@ -140,10 +140,10 @@ a.download span.download {
   .canvas-controls form input {
     background: #444 url(images/sprite.png) no-repeat -211px 10px;
     border: none;
-    color: white;
+    color: #fff;
     width: 240px;
     height: 39px;
-    padding-left: 40px;
+    padding: 0 40px;
     }
 
 /*Icons on the canvas*/
@@ -166,11 +166,10 @@ ul.icon-set {
       float: left;
       }
 
-
 #maki #map {
   background: #f5f5f5;
   position: relative;
-  width: 960px;
+  width: 100%;
   height: 420px;
   margin-bottom: 40px;
   top: 0;
@@ -193,9 +192,9 @@ ul.icon-set {
     display: block;
     text-decoration: none;
     text-align: center;
-    width: 28px;
-    height: 23px;
-    line-height: 25px;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
     }
     a.zoomer:active {
       box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
@@ -203,7 +202,6 @@ ul.icon-set {
       -webkit-box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
       }
     a.zoomout {
-      top: 44px;
       z-index: 50;
       border-top: 1px solid #ccc;
       }
@@ -216,26 +214,19 @@ ul.icon-set {
       cursor: default;
       }
 
-.wax-tooltip,
-.wax-movetip {
-  background: red;
-  border: 1px solid #8C8C8C;
-  border: 1px solid rgba(0, 0, 0, .45);
-  -moz-box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
-  -webkit-box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
-  box-shadow: 0 1px 8px rgba(0, 0, 0, .3);
-  width: 10px;
-  height: 10px;
-  z-index: 999999;
-  position: relative;
-  top: 0;
+.wax-tooltip {
+  background: #fff;
+  position: absolute;
+  top: 40px;
   left: 0;
-  bottom: 0;
-  right: 0;
+  width: 640px;
+  padding: 20px;
+  font-size: 20px;
+  z-index: 1000;
   }
 
 /* CSS Animations */
-.wax-movetip,
+.wax-tooltip,
 .map-tile-loaded {
   -webkit-animation-name: 'fade-in';
   -webkit-animation-timing-function: ease-in;
@@ -348,27 +339,49 @@ body.searching #search-results { display: block; }
     }
   #search-results div.empty {
     text-align: center;
-    font-size: 18px;
+    font-size: 20px;
     margin-top: 115px;
     }
   #search-results div.active { display: block; }
-  #search-results div .label {
-    display: block;
+
+  #search-results ul#results {
     position: absolute;
-    font-size: 18px;
-    left: 0;
+    top: 150px;
+    left: 50%;
+    width: 100%;
+    -moz-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
     }
-  #search-results li {
-    position: relative;
-    margin: 0 0 10px;
-    }
+    #search-results ul#results.active {
+      opacity: 100;
+      filter: alpha(opacity=100);
+      }
+    #search-results ul#results.size-1 { width: 60px; margin-left: -30px; }
+    #search-results ul#results.size-2 { width: 120px; margin-left: -60px; }
+    #search-results ul#results.size-3 { width: 180px; margin-left: -90px; }
+    #search-results ul#results.size-4 { width: 240px; margin-left: -120px; }
+    #search-results ul#results.size-5 { width: 300px; margin-left: -150px; }
+    #search-results ul#results.size-6 { width: 360px; margin-left: -180px; }
+    #search-results ul#results.size-7 { width: 420px; margin-left: -210px; }
+    #search-results ul#results.size-8 { width: 480px; margin-left: -240px; }
+
+    #search-results ul#results li ul {
+      float: left;
+      }
 
 a.close {
-  background-color: #303030;
-  background-position: -195px 0px;
-  width: 20px;
-  height: 20px;
+  background-color: #fff;
+  background-position: -193px 2px;
+  width: 24px;
+  height: 24px;
   position: absolute;
-  top: 20px;
-  right: 1px;
+  bottom: 47px;
+  left: 50%;
+  margin-left: 85px;
+  z-index: 100;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
   }

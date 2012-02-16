@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="130.55341"
-     inkscape:cy="87.752982"
+     inkscape:zoom="6.1540387"
+     inkscape:cx="197.65574"
+     inkscape:cy="107.25237"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1280"
      inkscape:window-height="756"
-     inkscape:window-x="84"
+     inkscape:window-x="-11"
      inkscape:window-y="0"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -210,11 +210,11 @@
        id="path7489"
        inkscape:connector-curvature="0" />
     <g
-       style="display:inline"
+       style="display:inline;fill:#333333;fill-opacity:1"
        id="g7824"
        transform="translate(5,0)">
       <path
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4057);enable-background:accumulate"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4057);enable-background:accumulate"
          d="m 197.1667,938.11218 -1.4167,1.41667 7.0834,7.08333 1.4166,-1.41667 z"
          id="path13702"
          inkscape:connector-curvature="0"
@@ -224,7 +224,7 @@
          inkscape:connector-curvature="0"
          id="path13700"
          d="m 202.8334,938.11218 1.4166,1.41667 -7.0833,7.08333 -1.4167,-1.41667 z"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4057);enable-background:accumulate" />
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4057);enable-background:accumulate" />
     </g>
     <g
        inkscape:export-ydpi="90"
