@@ -161,6 +161,7 @@ ul.icon-group {
   }
 ul.icon-set {
     width: 60px;
+    position: relative;
     }
     ul.icon-set li {
       float: left;
@@ -420,6 +421,7 @@ body.searching #search-results { display: block; }
     bottom: -5px;
     left: 5px;
     }
+#maki-set ul.icon-set:hover .title-box,
 #search-results ul#results li:hover .title-box {
   opacity: 100;
   filter: alpha(opacity=100);
