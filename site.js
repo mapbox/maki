@@ -98,7 +98,7 @@ maki.search = function () {
 
         var done = {};
         var phrase = $('input', search).val();
-        if (phrase.length >= 2) {
+        if (phrase.length >= 1) {
             var matches = find(phrase.toLowerCase().match(/(\w+)/g));
             var widthClass = _.size(matches);
             _(matches).each(function(p) {
