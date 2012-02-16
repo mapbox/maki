@@ -397,18 +397,18 @@ body.searching #search-results { display: block; }
   background: #303030;
   color: #fff;
   font-size: 14px;
-  transition: all 250ms;
-  -moz-transition: all 250ms;
-  -webkit-transition: all 250ms;
-  bottom: 36px;
+  transition: opacity 250ms linear;
+  -moz-transition: opacity 250ms linear;
+  -webkit-transition: opacity 250ms linear;
+  bottom: 0;
   left: 50%;
   margin-left: -30px;
   padding: 5px 10px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  opacity: 0;
-  filter: alpha(opacity=0);
+  display: none;
+  z-index: 1000;
   }
   .title-box:after {
     content: '';
@@ -423,8 +423,8 @@ body.searching #search-results { display: block; }
     }
 #maki-set ul.icon-set:hover .title-box,
 #search-results ul#results li:hover .title-box {
-  opacity: 100;
-  filter: alpha(opacity=100);
+  display: block;
+  bottom: 34px;
   }
 
 a.search-download {
