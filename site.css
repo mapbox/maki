@@ -224,6 +224,13 @@ ul.icon-set {
   font-size: 20px;
   z-index: 1000;
   }
+.wax-attribution {
+  position: absolute;
+  bottom: 5px;
+  font-size: 11px;
+  z-index: 100;
+  left: 10px;
+  }
 
 /* CSS Animations */
 .wax-tooltip,

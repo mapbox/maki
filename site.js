@@ -18,6 +18,8 @@ maki.map = function() {
         m.setCenterZoom(new mm.Location(38.91710,-77.03024), 17);
         wax.mm.zoomer(m).appendTo($('#controls')[0]);
         wax.mm.interaction(m, tilejson);
+        tilejson.attribution = ' POI data from <a href="http://downloads.cloudmade.com/americas/northern_america/united_states/district_of_columbia#downloads_breadcrumbs">cloudmade</a> via OpenStreetMap <a href="http://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>';
+    wax.mm.attribution(m, tilejson).appendTo(m.parent);
     });
 };
 $(maki.map);
