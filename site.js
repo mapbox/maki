@@ -126,7 +126,7 @@ maki.search = function () {
             opacity: 30
         }, 500);
         $('body').removeClass('searching');
-        $('input', search).blur();
+        $('input', search).blur().val('');
     });
 };
 $(maki.search);
