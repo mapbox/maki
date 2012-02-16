@@ -4,14 +4,15 @@ Maki is a point of interest icon set made especially for use with MapBox maps. F
 
 I recommend using [Inkscape](http://inkscape.org/) for editing and exporting from the .SVG to take advantage of Inkscape's batch export, as all the icons have unique ID's that Inkscape uses to create file names. 
 
-The .PNG icon files in renders/ and also in the .zip are ready to use, but you will not be able to modify their colors or sizes.
+Maki follows these design principles:
 
 - Simple, clear, recognizable
 - Three sizes: 12/18/24 px
-- Single color, with 1px 50% transparent white outline.
+- Single color, with 1px 30% transparent white outline.
 - Based upon internationally recognized symbols when appropriate. Good sources for symbol precedents include [AIGA symbols](http://www.aiga.org/symbol-signs/), and the [Noun Project](http://thenounproject.com/).
 
 To view the backlog of icons that need to be created, visit https://github.com/mapbox/maki/wiki/Maki-Backlog
+
 ## Completed icons
 
 ### Basic shapes
