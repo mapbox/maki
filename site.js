@@ -92,7 +92,7 @@ maki.search = function () {
 
     $('input', search).focus(function() {
         $(this).val('');
-        icons.stop().animate({
+        icons.animate({
             opacity: 0.10
         }, 400, function() {
             $('body').addClass('searching');

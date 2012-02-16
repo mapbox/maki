@@ -140,10 +140,11 @@ a.download span.download {
   .canvas-controls form input {
     background: #444 url(images/sprite.png) no-repeat -211px 10px;
     border: none;
-    color: #fff;
+    color: white;
     width: 240px;
-    height: 39px;
+    height: 40px;
     padding: 0 40px;
+    line-height: 40px;
     }
 
 /*Icons on the canvas*/
@@ -296,11 +297,13 @@ ul.icon-set {
   #maki-icon-preview ul {
     width: 150px;
     margin: 20px 0 0 45px;
+    list-style: none;
     }
     #maki-icon-preview ul li {
       float: left;
       margin-right: 5px;
       margin-left: 0;
+      list-style: none;
       }
       #maki-icon-preview ul li a {
         background-color: #afc975;
