@@ -13,4 +13,6 @@ tags:
   - david
   - religious
   - religion
+  - temple
+  - synagogue
 ---
