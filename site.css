@@ -356,10 +356,9 @@ body.searching #search-results { display: block; }
     top: 150px;
     left: 0;
     width: 100%;
-    -moz-transition: all 0.3s linear;
-    -o-transition: all 0.3s linear;
-    -webkit-transition: all 0.3s linear;
-    transition: all 0.3s linear;
+    transition:all 250ms;
+    -moz-transition:all 250ms;
+    -webkit-transition:all 250ms;
     }
     #search-results ul#results.size-1 {
       left: 50%;

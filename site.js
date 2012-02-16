@@ -70,7 +70,7 @@ maki.search = function () {
                 data = _(resp).chain()
                     .compact()
                     .map(function(p) {
-                        p.words = (p.title.toLowerCase()).match(/(\w+)/g);
+                        p.words = (p.title.toLowerCase() +' '+ (p.tags.toString()).toLowerCase()).match(/(\w+)/g);
                         return p;
                     })
                     .value();
