@@ -385,9 +385,45 @@ body.searching #search-results { display: block; }
     #search-results ul#results.size-15 { left: 50%; width: 900px; margin-left: -450px; }
     #search-results ul#results.size-16 { left: 50%; width: 960px; margin-left: -480px; }
 
-    #search-results ul#results li ul {
+    #search-results ul#results li {
+      position: relative;
       float: left;
       }
+
+
+.title-box {
+  position: absolute;
+  background: #303030;
+  color: #fff;
+  font-size: 14px;
+  transition: all 250ms;
+  -moz-transition: all 250ms;
+  -webkit-transition: all 250ms;
+  bottom: 36px;
+  left: 50%;
+  margin-left: -30px;
+  padding: 5px 10px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  }
+  .title-box:after {
+    content: '';
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #303030;
+    position: absolute;
+    bottom: -5px;
+    left: 5px;
+    }
+#search-results ul#results li:hover .title-box {
+  opacity: 100;
+  filter: alpha(opacity=100);
+  }
 
 a.search-download {
   position: absolute;

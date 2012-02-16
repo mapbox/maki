@@ -60,6 +60,7 @@ maki.search = function () {
                         + '<li><img src="maki-icon-source/renders/<%=icon18%>" alt="<%=title%> 18px" /></li>'
                         + '<li><img src="maki-icon-source/renders/<%=icon12%>" alt="<%=title%> 12px" /></li>'
                         + '</ul>'
+                        + '<span class="title-box"><%=title%></span>'
                         + '</li>';
     var template = _.template(templateFormat);
     var find = function(phrase) {
