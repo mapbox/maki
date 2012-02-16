@@ -7,8 +7,9 @@ icon-18: religious-islam-18.png
 icon-12: religious-islam-12.png
 tags:
   - islam
-  - cresent
+  - crescent
   - star
   - religious
   - religion
+  - mosque
 ---

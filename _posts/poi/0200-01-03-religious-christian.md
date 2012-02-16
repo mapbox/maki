@@ -10,4 +10,6 @@ tags:
   - cross
   - religious
   - religion
+  - church
+  - cathedral
 ---
