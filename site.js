@@ -51,11 +51,12 @@ maki.search = function () {
     var data = false;
     var icons = $('#maki-set');
     var search = $('#search');
+    var defaultSearchVal = 'e.g Golf or Bank';
     var templateFormat =  '<li>'
                         + '<ul class="icon-set clearfix">'
-                        + '<li><img src="renders/<%=icon24%>" alt="<%=title%> 24px" /></li>'
-                        + '<li><img src="renders/<%=icon18%>" alt="<%=title%> 18px" /></li>'
-                        + '<li><img src="renders/<%=icon12%>" alt="<%=title%> 12px" /></li>'
+                        + '<li><img src="maki-icon-source/renders/<%=icon24%>" alt="<%=title%> 24px" /></li>'
+                        + '<li><img src="maki-icon-source/renders/<%=icon18%>" alt="<%=title%> 18px" /></li>'
+                        + '<li><img src="maki-icon-source/renders/<%=icon12%>" alt="<%=title%> 12px" /></li>'
                         + '</ul>'
                         + '</li>';
     var template = _.template(templateFormat);
@@ -85,6 +86,7 @@ maki.search = function () {
     };
 
     $('input', search).focus(function() {
+        $(this).val('');
         icons.stop().animate({
             opacity: 0.10
         }, 400, function() {
@@ -120,11 +122,7 @@ maki.search = function () {
             opacity: 30
         }, 500);
         $('body').removeClass('searching');
-        $('input', search).blur();
-    });
-
-    $('input', search).blur(function () {
-        $(this).val('');
+        $('input', search).blur().val(defaultSearchVal);
     });
 };
 $(maki.search);
