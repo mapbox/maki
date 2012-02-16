@@ -140,7 +140,7 @@ a.download span.download {
   .canvas-controls form input {
     background: #444 url(images/sprite.png) no-repeat -211px 10px;
     border: none;
-    color: white;
+    color: #fff;
     width: 240px;
     height: 40px;
     padding: 0 40px;
