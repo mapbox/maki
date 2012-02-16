@@ -4,13 +4,14 @@ var maki = {};
 maki.map = function() {
     var mm = com.modestmaps;
     var url = 'http://api.tiles.mapbox.com/v3/saman.map-kg3gj8s6.jsonp';
+    var map = document.getElementById('map');
 
     wax.tilejson(url, function(tilejson) {
         tilejson.minzoom = 16;
         tilejson.maxzoom = 18;
         var m = new mm.Map('map',
             new wax.mm.connector(tilejson), null, [
-                new mm.DragHandler(),
+                new mm.MouseHandler(),
                 new mm.TouchHandler()
             ]
         );
@@ -19,7 +20,8 @@ maki.map = function() {
         wax.mm.zoomer(m).appendTo($('#controls')[0]);
         wax.mm.interaction(m, tilejson);
         tilejson.attribution = ' POI data from <a href="http://downloads.cloudmade.com/americas/northern_america/united_states/district_of_columbia#downloads_breadcrumbs">cloudmade</a> via OpenStreetMap <a href="http://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>';
-    wax.mm.attribution(m, tilejson).appendTo(m.parent);
+        wax.mm.attribution(m, tilejson).appendTo(m.parent);
+        deadsea.blockScrollInto(map);
     });
 };
 $(maki.map);
