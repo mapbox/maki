@@ -55,7 +55,6 @@ maki.search = function () {
     var data = false;
     var icons = $('#maki-set');
     var search = $('#search');
-    var defaultSearchVal = 'e.g Golf or Bank';
     var templateFormat =  '<li>'
                         + '<ul class="icon-set clearfix">'
                         + '<li><img src="maki-icon-source/renders/<%=icon24%>" alt="<%=title%> 24px" /></li>'
@@ -127,7 +126,7 @@ maki.search = function () {
             opacity: 30
         }, 500);
         $('body').removeClass('searching');
-        $('input', search).blur().val(defaultSearchVal);
+        $('input', search).blur();
     });
 };
 $(maki.search);
