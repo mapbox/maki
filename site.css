@@ -143,6 +143,7 @@ a.download span.download {
     color: #fff;
     width: 240px;
     height: 40px;
+    line-height: 40px\9; /* IE6,7,8 Hack to center the cursor in IE */
     padding: 0 40px;
     }
 
