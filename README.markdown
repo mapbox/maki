@@ -66,10 +66,13 @@ To view the backlog of icons that need to be created, visit https://github.com/m
 - grocery store
 - movie theatre
 - amenity='bank' (international)
-- amenity='cinema'   
+- amenity='cinema'
+- amenity='pub'   
 
 ### Recreation
 - tourism='museum'
+- amenity='arts_centre'
+- amenity='theatre'
 - tourism='hotel'
 - tourism='zoo'
 - leisure='park'
