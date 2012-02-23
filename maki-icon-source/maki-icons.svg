@@ -130,15 +130,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="424.58969"
-     inkscape:cy="-182.18613"
+     inkscape:zoom="1.183506"
+     inkscape:cx="361.51756"
+     inkscape:cy="-90.267037"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1619"
-     inkscape:window-height="962"
-     inkscape:window-x="52"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     inkscape:window-x="-1"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
@@ -545,1631 +545,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="base"
-     transform="translate(120,-21.999949)"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <rect
-       y="-1050.3622"
-       x="-48"
-       height="17.999983"
-       width="17.999983"
-       id="rect15788"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       transform="matrix(1,0,0,-1,0,-1028.3623)" />
-    <rect
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15790"
-       width="12.000017"
-       height="12.000017"
-       x="-30"
-       y="-1050.3622"
-       transform="matrix(1,0,0,-1,0,-1028.3623)" />
-    <rect
-       transform="matrix(1,0,0,-1,0,-1028.3623)"
-       y="-1050.3622"
-       x="6"
-       height="24"
-       width="24"
-       id="rect15810"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       transform="matrix(1,0,0,-1,0,-1028.3623)"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15812"
-       width="17.999983"
-       height="17.999983"
-       x="30"
-       y="-1050.3622" />
-    <rect
-       transform="matrix(1,0,0,-1,0,-1028.3623)"
-       y="-1050.3622"
-       x="48"
-       height="12.000017"
-       width="12.000017"
-       id="rect15814"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15850"
-       width="24"
-       height="24"
-       x="-72"
-       y="-1050.3622"
-       transform="matrix(1,0,0,-1,0,-1028.3623)" />
-    <rect
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15854"
-       width="24"
-       height="24"
-       x="84"
-       y="-1050.3622"
-       transform="matrix(1,0,0,-1,0,-1028.3623)" />
-    <rect
-       y="-1050.3622"
-       x="108"
-       height="17.999983"
-       width="17.999983"
-       id="rect15856"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       transform="matrix(1,0,0,-1,0,-1028.3623)" />
-    <rect
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15858"
-       width="12.000017"
-       height="12.000017"
-       x="126"
-       y="-1050.3622"
-       transform="matrix(1,0,0,-1,0,-1028.3623)" />
-    <rect
-       transform="matrix(1,0,0,-1,0,-1028.3623)"
-       y="-1050.3622"
-       x="162"
-       height="24"
-       width="24"
-       id="rect15860"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       transform="matrix(1,0,0,-1,0,-1028.3623)"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15862"
-       width="17.999983"
-       height="17.999983"
-       x="186"
-       y="-1050.3622" />
-    <rect
-       transform="matrix(1,0,0,-1,0,-1028.3623)"
-       y="-1050.3622"
-       x="204"
-       height="12.000017"
-       width="12.000017"
-       id="rect15864"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15866"
-       width="24"
-       height="24"
-       x="240"
-       y="-1050.3622"
-       transform="matrix(1,0,0,-1,0,-1028.3623)" />
-    <rect
-       y="-1050.3622"
-       x="264"
-       height="17.999983"
-       width="17.999983"
-       id="rect15868"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       transform="matrix(1,0,0,-1,0,-1028.3623)" />
-    <rect
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15870"
-       width="12.000017"
-       height="12.000017"
-       x="282"
-       y="-1050.3622"
-       transform="matrix(1,0,0,-1,0,-1028.3623)" />
-    <rect
-       transform="matrix(1,0,0,-1,0,-1028.3623)"
-       y="-1050.3622"
-       x="318"
-       height="24"
-       width="24"
-       id="rect15884"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       transform="matrix(1,0,0,-1,0,-1028.3623)"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15886"
-       width="17.999983"
-       height="17.999983"
-       x="342"
-       y="-1050.3622" />
-    <rect
-       transform="matrix(1,0,0,-1,0,-1028.3623)"
-       y="-1050.3622"
-       x="360"
-       height="12.000017"
-       width="12.000017"
-       id="rect15888"
-       style="color:#000000;fill:#c6c6c6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <g
-       id="g10016">
-      <g
-         id="g9892">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect16078"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect16106"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,24)"
-         id="g9896">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect9898"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect9900"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(0,48)"
-         id="g9902">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect9904"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect9906"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g9908"
-         transform="translate(0,72)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect9910"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect9912"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g9914"
-         transform="translate(0,96)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect9916"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect9918"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,120)"
-         id="g9920">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect9922"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect9924"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(0,144)"
-         id="g9928">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect9930"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect9932"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g9934"
-         transform="translate(0,168)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect9936"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect9938"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-    </g>
-    <g
-       id="g10042"
-       transform="translate(-78,0)">
-      <g
-         id="g10044">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10046"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10048"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10050"
-         transform="translate(0,24)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10052"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10054"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g10056"
-         transform="translate(0,48)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10058"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10060"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,72)"
-         id="g10062">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10064"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10066"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(0,96)"
-         id="g10068">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10070"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10072"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10074"
-         transform="translate(0,120)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10076"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10078"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g10080"
-         transform="translate(0,144)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10082"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10084"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,168)"
-         id="g10086">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10088"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10090"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect18668"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="58"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-70"
-           x="186"
-           height="6"
-           width="18"
-           id="rect18670"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g10092"
-         transform="translate(-78,0)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10094"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10096"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(-78,24)"
-         id="g10098">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10100"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10102"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(-78,48)"
-         id="g10104">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10106"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10108"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10110"
-         transform="translate(-78,72)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10112"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10114"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-    </g>
-    <g
-       id="g10116"
-       transform="translate(78,0)">
-      <g
-         id="g10118">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10120"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10122"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10124"
-         transform="translate(0,24)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10126"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10128"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g10130"
-         transform="translate(0,48)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10132"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10134"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,72)"
-         id="g10136">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10138"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10140"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(0,96)"
-         id="g10142">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10144"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10146"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10148"
-         transform="translate(0,120)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10150"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10152"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-    </g>
-    <g
-       id="g10168"
-       transform="translate(156,0)">
-      <rect
-         ry="0"
-         rx="0"
-         y="34.000004"
-         x="204"
-         height="11.999886"
-         width="12"
-         id="rect10170"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="scale(1,-1)"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect10172"
-         width="18"
-         height="6"
-         x="186"
-         y="-46.000004"
-         rx="0"
-         ry="0" />
-    </g>
-    <g
-       id="g10174"
-       transform="translate(156,24)">
-      <rect
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect10176"
-         width="12"
-         height="11.999886"
-         x="204"
-         y="34.000004"
-         rx="0"
-         ry="0" />
-      <rect
-         ry="0"
-         rx="0"
-         y="-46.000004"
-         x="186"
-         height="6"
-         width="18"
-         id="rect10178"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="scale(1,-1)" />
-    </g>
-    <g
-       id="g10180"
-       transform="translate(156,48)">
-      <rect
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect10182"
-         width="12"
-         height="11.999886"
-         x="204"
-         y="34.000004"
-         rx="0"
-         ry="0" />
-      <rect
-         ry="0"
-         rx="0"
-         y="-46.000004"
-         x="186"
-         height="6"
-         width="18"
-         id="rect10184"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="scale(1,-1)" />
-    </g>
-    <g
-       transform="translate(156,72)"
-       id="g10186">
-      <rect
-         ry="0"
-         rx="0"
-         y="34.000004"
-         x="204"
-         height="11.999886"
-         width="12"
-         id="rect10188"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="scale(1,-1)"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect10190"
-         width="18"
-         height="6"
-         x="186"
-         y="-46.000004"
-         rx="0"
-         ry="0" />
-    </g>
-    <g
-       transform="translate(156,96)"
-       id="g10192">
-      <rect
-         ry="0"
-         rx="0"
-         y="34.000004"
-         x="204"
-         height="11.999886"
-         width="12"
-         id="rect10194"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="scale(1,-1)"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect10196"
-         width="18"
-         height="6"
-         x="186"
-         y="-46.000004"
-         rx="0"
-         ry="0" />
-    </g>
-    <g
-       id="g10198"
-       transform="translate(156,120)">
-      <rect
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect10200"
-         width="12"
-         height="11.999886"
-         x="204"
-         y="34.000004"
-         rx="0"
-         ry="0" />
-      <rect
-         ry="0"
-         rx="0"
-         y="-46.000004"
-         x="186"
-         height="6"
-         width="18"
-         id="rect10202"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="scale(1,-1)" />
-    </g>
-    <rect
-       ry="0"
-       rx="0"
-       y="178"
-       x="360"
-       height="11.999886"
-       width="12"
-       id="rect10206"
-       style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       transform="scale(1,-1)"
-       style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect10208"
-       width="18"
-       height="6"
-       x="342"
-       y="-190"
-       rx="0"
-       ry="0" />
-    <g
-       id="g9117">
-      <rect
-         ry="0"
-         rx="0"
-         y="202"
-         x="360"
-         height="11.999886"
-         width="12"
-         id="rect4217"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         transform="scale(1,-1)"
-         style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect4219"
-         width="18"
-         height="6"
-         x="342"
-         y="-214"
-         rx="0"
-         ry="0" />
-    </g>
-    <g
-       id="g10328"
-       transform="translate(-234,0)">
-      <g
-         id="g10330">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10332"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10334"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10336"
-         transform="translate(0,24)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10338"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10340"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g10342"
-         transform="translate(0,48)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10344"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10346"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,72)"
-         id="g10348">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10350"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10352"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(0,96)"
-         id="g10354">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10356"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10358"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10360"
-         transform="translate(0,120)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10362"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10365"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g10367"
-         transform="translate(0,144)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10369"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10371"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,168)"
-         id="g10373">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10375"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10377"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(0,192)"
-         id="g10379">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10381"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10383"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10385"
-         transform="translate(0,216)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10387"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10389"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,240)"
-         id="g10391">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10393"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10395"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-    </g>
-    <g
-       style="display:inline"
-       transform="translate(0,191.99995)"
-       id="g10266-9">
-      <g
-         id="g10268-5">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10270-8"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10272-4"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,24)"
-         id="g10274-8">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10276-8"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10278-8"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(0,48)"
-         id="g10280-4">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10282-8"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10284-1"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10286-7"
-         transform="translate(0,72)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10288-7"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10290-0"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g10292-7"
-         transform="translate(0,96)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10294-8"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10296-7"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,120)"
-         id="g10298-9">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10300-9"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10302-9"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(0,144)"
-         id="g10304-5">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10306-7"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10308-0"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g10310-8"
-         transform="translate(0,168)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10312-0"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10314-3"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g10316-7"
-         transform="translate(0,192)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10318-0"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect10320-8"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,216)"
-         id="g10322-8">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect10324-8"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect10326-4"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-    </g>
-    <g
-       transform="translate(78,144)"
-       id="g4221">
-      <g
-         id="g4223">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect4225"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect4227"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         transform="translate(0,24)"
-         id="g4229">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect4231"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect4233"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         transform="translate(0,48)"
-         id="g4235">
-        <rect
-           ry="0"
-           rx="0"
-           y="34.000004"
-           x="204"
-           height="11.999886"
-           width="12"
-           id="rect4237"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           transform="scale(1,-1)"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect4239"
-           width="18"
-           height="6"
-           x="186"
-           y="-46.000004"
-           rx="0"
-           ry="0" />
-      </g>
-      <g
-         id="g4241"
-         transform="translate(0,72)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect4243"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect4245"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-      <g
-         id="g4247"
-         transform="translate(0,96)">
-        <rect
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect4249"
-           width="12"
-           height="11.999886"
-           x="204"
-           y="34.000004"
-           rx="0"
-           ry="0" />
-        <rect
-           ry="0"
-           rx="0"
-           y="-46.000004"
-           x="186"
-           height="6"
-           width="18"
-           id="rect4251"
-           style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           transform="scale(1,-1)" />
-      </g>
-    </g>
-    <rect
-       ry="0"
-       rx="0"
-       y="226"
-       x="360"
-       height="11.999886"
-       width="12"
-       id="rect9123"
-       style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       transform="scale(1,-1)"
-       style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect9125"
-       width="18"
-       height="6"
-       x="342"
-       y="-238"
-       rx="0"
-       ry="0" />
-    <rect
-       style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect5561"
-       width="12"
-       height="11.999886"
-       x="360"
-       y="250"
-       rx="0"
-       ry="0" />
-    <rect
-       ry="0"
-       rx="0"
-       y="-262"
-       x="342"
-       height="6"
-       width="18"
-       id="rect5563"
-       style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       transform="scale(1,-1)" />
-    <rect
-       ry="0"
-       rx="0"
-       y="273.99994"
-       x="360"
-       height="11.999886"
-       width="12"
-       id="rect6507"
-       style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       transform="scale(1,-1)"
-       style="opacity:0.1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6509"
-       width="18"
-       height="6"
-       x="342"
-       y="-285.99994"
-       rx="0"
-       ry="0" />
-  </g>
   <g
      inkscape:label="icons"
      inkscape:groupmode="layer"
@@ -2180,28 +559,35 @@
        id="theatre-24"
        inkscape:label="theatre-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-156,-24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png">
       <rect
          y="1266.3622"
          x="318"
          height="23.999956"
          width="24"
          id="rect6492"
-         style="opacity:1;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.29999999999999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         d="M 443 219 C 442.5286 219 442 219.5 442 220 L 442 227 C 442 229.216 443 232 447 232 C 447.35868 232 447.68618 231.9833 448 231.9375 L 448 229 L 444 229 C 444 229 444.5 227 447 227 C 447.5 227 447.69653 227.0743 448 227.1875 L 448 225 C 448 224.0833 448.40448 223.3768 448.90625 222.875 C 449.40802 222.3732 450.08333 222 451 222 L 452 222 L 452 220 C 452 219.5 451.4714 219 451 219 C 450 219 449 220 447 220 C 445 220 444 219 443 219 z M 444.75 222.5 C 445.44036 222.5 446 223.05964 446 223.75 C 446 224.44036 445.44036 225 444.75 225 C 444.05964 225 443.5 224.44036 443.5 223.75 C 443.5 223.05964 444.05964 222.5 444.75 222.5 z M 451 224 C 450.5286 224 450 224.5 450 225 L 450 232 C 450 234.216 451 237 455 237 C 459 237 460 234.216 460 232 L 460 225 C 460 224.5 459.4714 224 459 224 C 458 224 457 225 455 225 C 453 225 452 224 451 224 z M 452.75 227.5 C 453.44036 227.5 454 228.05964 454 228.75 C 454 229.44036 453.44036 230 452.75 230 C 452.05964 230 451.5 229.44036 451.5 228.75 C 451.5 228.05964 452.05964 227.5 452.75 227.5 z M 457.25 227.5 C 457.94036 227.5 458.5 228.05964 458.5 228.75 C 458.5 229.44036 457.94036 230 457.25 230 C 456.55964 230 456 229.44036 456 228.75 C 456 228.05964 456.55964 227.5 457.25 227.5 z M 452 233 L 458 233 C 458 233 457.5 235 455 235 C 452.5 235 452 233 452 233 z "
+         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 443,219 c -0.4714,0 -1,0.5 -1,1 l 0,7 c 0,2.216 1,5 5,5 0.35868,0 0.68618,-0.0167 1,-0.0625 l 0,-2.9375 -4,0 c 0,0 0.5,-2 3,-2 0.5,0 0.69653,0.0743 1,0.1875 L 448,225 c 0,-0.9167 0.40448,-1.6232 0.90625,-2.125 C 449.40802,222.3732 450.08333,222 451,222 l 1,0 0,-2 c 0,-0.5 -0.5286,-1 -1,-1 -1,0 -2,1 -4,1 -2,0 -3,-1 -4,-1 z m 1.75,3.5 c 0.69036,0 1.25,0.55964 1.25,1.25 0,0.69036 -0.55964,1.25 -1.25,1.25 -0.69036,0 -1.25,-0.55964 -1.25,-1.25 0,-0.69036 0.55964,-1.25 1.25,-1.25 z M 451,224 c -0.4714,0 -1,0.5 -1,1 l 0,7 c 0,2.216 1,5 5,5 4,0 5,-2.784 5,-5 l 0,-7 c 0,-0.5 -0.5286,-1 -1,-1 -1,0 -2,1 -4,1 -2,0 -3,-1 -4,-1 z m 1.75,3.5 c 0.69036,0 1.25,0.55964 1.25,1.25 0,0.69036 -0.55964,1.25 -1.25,1.25 -0.69036,0 -1.25,-0.55964 -1.25,-1.25 0,-0.69036 0.55964,-1.25 1.25,-1.25 z m 4.5,0 c 0.69036,0 1.25,0.55964 1.25,1.25 0,0.69036 -0.55964,1.25 -1.25,1.25 -0.69036,0 -1.25,-0.55964 -1.25,-1.25 0,-0.69036 0.55964,-1.25 1.25,-1.25 z m -5.25,5.5 6,0 c 0,0 -0.5,2 -3,2 -2.5,0 -3,-2 -3,-2 z"
          transform="translate(-120,1050.3622)"
-         id="path6468" />
+         id="path6468"
+         inkscape:connector-curvature="0" />
       <path
          id="path6342"
          transform="translate(-120,1050.3622)"
-         d="M 443 219 C 442.5286 219 442 219.5 442 220 L 442 227 C 442 229.216 443 232 447 232 C 447.35868 232 447.68618 231.9833 448 231.9375 L 448 229 L 444 229 C 444 229 444.5 227 447 227 C 447.5 227 447.69653 227.0743 448 227.1875 L 448 225 C 448 224.0833 448.40448 223.3768 448.90625 222.875 C 449.40802 222.3732 450.08333 222 451 222 L 452 222 L 452 220 C 452 219.5 451.4714 219 451 219 C 450 219 449 220 447 220 C 445 220 444 219 443 219 z M 444.75 222.5 C 445.44036 222.5 446 223.05964 446 223.75 C 446 224.44036 445.44036 225 444.75 225 C 444.05964 225 443.5 224.44036 443.5 223.75 C 443.5 223.05964 444.05964 222.5 444.75 222.5 z M 451 224 C 450.5286 224 450 224.5 450 225 L 450 232 C 450 234.216 451 237 455 237 C 459 237 460 234.216 460 232 L 460 225 C 460 224.5 459.4714 224 459 224 C 458 224 457 225 455 225 C 453 225 452 224 451 224 z M 452.75 227.5 C 453.44036 227.5 454 228.05964 454 228.75 C 454 229.44036 453.44036 230 452.75 230 C 452.05964 230 451.5 229.44036 451.5 228.75 C 451.5 228.05964 452.05964 227.5 452.75 227.5 z M 457.25 227.5 C 457.94036 227.5 458.5 228.05964 458.5 228.75 C 458.5 229.44036 457.94036 230 457.25 230 C 456.55964 230 456 229.44036 456 228.75 C 456 228.05964 456.55964 227.5 457.25 227.5 z M 452 233 L 458 233 C 458 233 457.5 235 455 235 C 452.5 235 452 233 452 233 z "
-         style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.055;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         d="m 443,219 c -0.4714,0 -1,0.5 -1,1 l 0,7 c 0,2.216 1,5 5,5 0.35868,0 0.68618,-0.0167 1,-0.0625 l 0,-2.9375 -4,0 c 0,0 0.5,-2 3,-2 0.5,0 0.69653,0.0743 1,0.1875 L 448,225 c 0,-0.9167 0.40448,-1.6232 0.90625,-2.125 C 449.40802,222.3732 450.08333,222 451,222 l 1,0 0,-2 c 0,-0.5 -0.5286,-1 -1,-1 -1,0 -2,1 -4,1 -2,0 -3,-1 -4,-1 z m 1.75,3.5 c 0.69036,0 1.25,0.55964 1.25,1.25 0,0.69036 -0.55964,1.25 -1.25,1.25 -0.69036,0 -1.25,-0.55964 -1.25,-1.25 0,-0.69036 0.55964,-1.25 1.25,-1.25 z M 451,224 c -0.4714,0 -1,0.5 -1,1 l 0,7 c 0,2.216 1,5 5,5 4,0 5,-2.784 5,-5 l 0,-7 c 0,-0.5 -0.5286,-1 -1,-1 -1,0 -2,1 -4,1 -2,0 -3,-1 -4,-1 z m 1.75,3.5 c 0.69036,0 1.25,0.55964 1.25,1.25 0,0.69036 -0.55964,1.25 -1.25,1.25 -0.69036,0 -1.25,-0.55964 -1.25,-1.25 0,-0.69036 0.55964,-1.25 1.25,-1.25 z m 4.5,0 c 0.69036,0 1.25,0.55964 1.25,1.25 0,0.69036 -0.55964,1.25 -1.25,1.25 -0.69036,0 -1.25,-0.55964 -1.25,-1.25 0,-0.69036 0.55964,-1.25 1.25,-1.25 z m -5.25,5.5 6,0 c 0,0 -0.5,2 -3,2 -2.5,0 -3,-2 -3,-2 z"
+         style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.055;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="circle-stroked-24"
-       inkscape:label="circle-stroked-24">
+       inkscape:label="circle-stroked-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="1050.3622"
          x="-72"
@@ -2232,7 +618,10 @@
     </g>
     <g
        id="circle-stroked-12"
-       inkscape:label="circle-stroked-12">
+       inkscape:label="circle-stroked-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="1050.3622"
          x="-30"
@@ -2257,7 +646,10 @@
     </g>
     <g
        id="circle-stroked-18"
-       inkscape:label="circle-stroked-18">
+       inkscape:label="circle-stroked-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:0.50000000000000000;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect21969"
@@ -2281,7 +673,10 @@
     </g>
     <g
        id="circle-solid-24"
-       inkscape:label="circle-solid-24">
+       inkscape:label="circle-solid-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2319,7 +714,10 @@
     </g>
     <g
        id="circle-solid-18"
-       inkscape:label="circle-solid-18">
+       inkscape:label="circle-solid-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21885">
         <path
@@ -2353,7 +751,10 @@
     </g>
     <g
        id="circle-solid-12"
-       inkscape:label="circle-solid-12">
+       inkscape:label="circle-solid-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21889">
         <path
@@ -2387,7 +788,10 @@
     </g>
     <g
        id="square-stroked-24"
-       inkscape:label="square-stroked-24">
+       inkscape:label="square-stroked-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2419,7 +823,10 @@
     </g>
     <g
        id="square-stroked-18"
-       inkscape:label="square-stroked-18">
+       inkscape:label="square-stroked-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21897">
         <path
@@ -2443,7 +850,10 @@
     </g>
     <g
        id="square-stroked-12"
-       inkscape:label="square-stroked-12">
+       inkscape:label="square-stroked-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21893">
         <path
@@ -2469,7 +879,10 @@
     </g>
     <g
        id="square-solid-24"
-       inkscape:label="square-solid-24">
+       inkscape:label="square-solid-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2505,7 +918,10 @@
     </g>
     <g
        id="square-solid-18"
-       inkscape:label="square-solid-18">
+       inkscape:label="square-solid-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21906">
         <rect
@@ -2537,7 +953,10 @@
     </g>
     <g
        id="square-solid-12"
-       inkscape:label="square-solid-12">
+       inkscape:label="square-solid-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21910">
         <path
@@ -2561,7 +980,10 @@
     </g>
     <g
        id="triangle-stroked-24"
-       inkscape:label="triangle-stroked-24">
+       inkscape:label="triangle-stroked-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2591,7 +1013,10 @@
     </g>
     <g
        id="triangle-stroked-18"
-       inkscape:label="triangle-stroked-18">
+       inkscape:label="triangle-stroked-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21244">
         <path
@@ -2615,7 +1040,10 @@
     </g>
     <g
        id="triangle-stroked-12"
-       inkscape:label="triangle-stroked-12">
+       inkscape:label="triangle-stroked-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21240">
         <path
@@ -2639,7 +1067,10 @@
     </g>
     <g
        id="triangle-solid-24"
-       inkscape:label="triangle-solid-24">
+       inkscape:label="triangle-solid-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2669,7 +1100,10 @@
     </g>
     <g
        id="triangle-solid-18"
-       inkscape:label="triangle-solid-18">
+       inkscape:label="triangle-solid-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21918">
         <path
@@ -2695,7 +1129,10 @@
     </g>
     <g
        id="triangle-solid-12"
-       inkscape:label="triangle-solid-12">
+       inkscape:label="triangle-solid-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21914">
         <path
@@ -2721,7 +1158,10 @@
     </g>
     <g
        id="star-solid-24"
-       inkscape:label="star-solid-24">
+       inkscape:label="star-solid-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21922">
         <path
@@ -2760,7 +1200,10 @@
     </g>
     <g
        id="star-solid-18"
-       inkscape:label="star-solid-18">
+       inkscape:label="star-solid-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21927">
         <path
@@ -2786,7 +1229,10 @@
     </g>
     <g
        id="star-solid-12"
-       inkscape:label="star-solid-12">
+       inkscape:label="star-solid-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21931">
@@ -2813,7 +1259,10 @@
     </g>
     <g
        id="star-stroked-24"
-       inkscape:label="star-stroked-24">
+       inkscape:label="star-stroked-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2851,7 +1300,10 @@
     </g>
     <g
        id="star-stroked-18"
-       inkscape:label="star-stroked-18">
+       inkscape:label="star-stroked-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21939">
         <path
@@ -2877,7 +1329,10 @@
     </g>
     <g
        id="star-stroked-12"
-       inkscape:label="star-stroked-12">
+       inkscape:label="star-stroked-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21935">
@@ -2904,7 +1359,10 @@
     </g>
     <g
        id="x-24"
-       inkscape:label="x-24">
+       inkscape:label="x-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -2935,7 +1393,10 @@
     </g>
     <g
        id="x-18"
-       inkscape:label="x-18">
+       inkscape:label="x-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21943">
         <path
@@ -2961,7 +1422,10 @@
     </g>
     <g
        id="x-12"
-       inkscape:label="x-12">
+       inkscape:label="x-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21947">
         <path
@@ -2985,7 +1449,10 @@
     </g>
     <g
        id="marker-stroked-24"
-       inkscape:label="marker-stroked-24">
+       inkscape:label="marker-stroked-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -3021,7 +1488,10 @@
     </g>
     <g
        id="marker-stroked-18"
-       inkscape:label="marker-stroked-18">
+       inkscape:label="marker-stroked-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21955">
         <path
@@ -3045,7 +1515,10 @@
     </g>
     <g
        id="marker-stroked-12"
-       inkscape:label="marker-stroked-12">
+       inkscape:label="marker-stroked-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21951">
         <path
@@ -3069,7 +1542,10 @@
     </g>
     <g
        id="marker-solid-24"
-       inkscape:label="marker-solid-24">
+       inkscape:label="marker-solid-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -3105,7 +1581,10 @@
     </g>
     <g
        id="marker-solid-18"
-       inkscape:label="marker-solid-18">
+       inkscape:label="marker-solid-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21959">
         <path
@@ -3131,7 +1610,10 @@
     </g>
     <g
        id="marker-solid-12"
-       inkscape:label="marker-solid-12">
+       inkscape:label="marker-solid-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21963">
         <path
@@ -3157,7 +1639,11 @@
     </g>
     <g
        id="religious-christian-24"
-       inkscape:label="religious-christian-24">
+       inkscape:label="religious-christian-24"
+       transform="translate(0,48)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21860">
         <path
@@ -3183,7 +1669,11 @@
     </g>
     <g
        id="religious-christian-18"
-       inkscape:label="religious-christian-18">
+       inkscape:label="religious-christian-18"
+       transform="translate(0,48)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(1,0)"
          id="g21864">
@@ -3210,7 +1700,11 @@
     </g>
     <g
        id="religious-christian-12"
-       inkscape:label="religious-christian-12">
+       inkscape:label="religious-christian-12"
+       transform="translate(0,48)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21868">
         <path
@@ -3236,7 +1730,10 @@
     </g>
     <g
        id="religious-islam-24"
-       inkscape:label="religious-islam-24">
+       inkscape:label="religious-islam-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21856">
         <path
@@ -3260,7 +1757,10 @@
     </g>
     <g
        id="religious-islam-18"
-       inkscape:label="religious-islam-18">
+       inkscape:label="religious-islam-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21852">
         <path
@@ -3286,7 +1786,10 @@
     </g>
     <g
        id="religious-islam-12"
-       inkscape:label="religious-islam-12">
+       inkscape:label="religious-islam-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21848">
         <path
@@ -3310,7 +1813,11 @@
     </g>
     <g
        id="religious-jewish-24"
-       inkscape:label="religious-jewish-24">
+       inkscape:label="religious-jewish-24"
+       transform="translate(0,-48)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21836">
         <path
@@ -3336,7 +1843,11 @@
     </g>
     <g
        id="religious-jewish-18"
-       inkscape:label="religious-jewish-18">
+       inkscape:label="religious-jewish-18"
+       transform="translate(0,-48)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21840">
         <path
@@ -3360,7 +1871,11 @@
     </g>
     <g
        id="religious-jewish-12"
-       inkscape:label="religious-jewish-12">
+       inkscape:label="religious-jewish-12"
+       transform="translate(0,-48)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21844">
         <path
@@ -3386,7 +1901,10 @@
     </g>
     <g
        id="cemetery-24"
-       inkscape:label="cemetery-24">
+       inkscape:label="cemetery-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21832">
         <path
@@ -3411,7 +1929,10 @@
     </g>
     <g
        id="cemetery-18"
-       inkscape:label="cemetery-18">
+       inkscape:label="cemetery-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21828">
         <path
@@ -3437,7 +1958,10 @@
     </g>
     <g
        id="cemetery-12"
-       inkscape:label="cemetery-12">
+       inkscape:label="cemetery-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21824">
         <path
@@ -3463,7 +1987,10 @@
     </g>
     <g
        id="park-24"
-       inkscape:label="park-24">
+       inkscape:label="park-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(162,23)"
          id="g4215">
@@ -3493,7 +2020,10 @@
     </g>
     <g
        id="park-18"
-       inkscape:label="park-18">
+       inkscape:label="park-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21729">
         <path
@@ -3519,7 +2049,10 @@
     </g>
     <g
        id="park-12"
-       inkscape:label="park-12">
+       inkscape:label="park-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-2)"
          id="g16070">
@@ -3544,7 +2077,10 @@
     </g>
     <g
        id="park2-24"
-       inkscape:label="park2-24">
+       inkscape:label="park2-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(129,0)"
          id="g6674">
@@ -3572,7 +2108,7 @@
     <g
        id="park2-18"
        inkscape:label="park2-18"
-       inkscape:export-filename="/Users/saman/work_repos/maki/renders/park2-18.png"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -3600,7 +2136,10 @@
     </g>
     <g
        id="park2-12"
-       inkscape:label="park2-12">
+       inkscape:label="park2-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g16074">
@@ -3627,7 +2166,10 @@
     </g>
     <g
        id="lodging-24"
-       inkscape:label="lodging-24">
+       inkscape:label="lodging-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g15763-2"
          style="display:inline"
@@ -3657,7 +2199,10 @@
     </g>
     <g
        id="lodging-18"
-       inkscape:label="lodging-18">
+       inkscape:label="lodging-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21721">
         <path
@@ -3683,7 +2228,10 @@
     </g>
     <g
        id="lodging-12"
-       inkscape:label="lodging-12">
+       inkscape:label="lodging-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21717">
         <path
@@ -3709,7 +2257,10 @@
     </g>
     <g
        id="museum-24"
-       inkscape:label="museum-24">
+       inkscape:label="museum-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g16594">
@@ -3736,7 +2287,10 @@
     </g>
     <g
        id="museum-18"
-       inkscape:label="museum-18">
+       inkscape:label="museum-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21709">
@@ -3763,7 +2317,10 @@
     </g>
     <g
        id="museum-12"
-       inkscape:label="museum-12">
+       inkscape:label="museum-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21713">
         <path
@@ -3789,7 +2346,10 @@
     </g>
     <g
        id="monument-24"
-       inkscape:label="monument-24">
+       inkscape:label="monument-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,1)"
          id="g16598">
@@ -3816,7 +2376,10 @@
     </g>
     <g
        id="monument-18"
-       inkscape:label="monument-18">
+       inkscape:label="monument-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21705">
         <path
@@ -3842,7 +2405,10 @@
     </g>
     <g
        id="monument-12"
-       inkscape:label="monument-12">
+       inkscape:label="monument-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21701">
         <path
@@ -3868,7 +2434,10 @@
     </g>
     <g
        id="zoo-24"
-       inkscape:label="zoo-24">
+       inkscape:label="zoo-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g9950-2"
          style="display:inline"
@@ -3902,7 +2471,10 @@
     </g>
     <g
        id="zoo-18"
-       inkscape:label="zoo-18">
+       inkscape:label="zoo-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21693">
         <path
@@ -3928,7 +2500,10 @@
     </g>
     <g
        id="zoo-12"
-       inkscape:label="zoo-12">
+       inkscape:label="zoo-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21697">
         <path
@@ -3954,7 +2529,10 @@
     </g>
     <g
        id="garden-24"
-       inkscape:label="garden-24">
+       inkscape:label="garden-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 170.3,1198.3622 c -0.253,0 -0.3,0.5596 -0.3,1 l 0,2 c 0,2.0312 1.5,3.0625 3.5,3 l -0.5,8 c -1,-2 -3,-4 -6,-3 0,0 2,5 7,5 5,0 7,-5 7,-5 -3,-1 -5,1 -6,3 l -0.5,-8 c 2,0.062 3.5,-0.9688 3.5,-3 l 0,-2 c 0,-0.4404 -0.0468,-1 -0.3,-1 -0.19292,0 -0.42561,0.2256 -0.7,0.5 l -1.5,1.5 c 0,0 -0.72152,-1.0807 -1,-1.5 -0.1304,-0.1963 -0.24696,-0.5 -0.5,-0.5 -0.25305,0 -0.3696,0.3037 -0.5,0.5 -0.27848,0.4193 -1,1.5 -1,1.5 l -1.5,-1.5 c -0.27439,-0.2744 -0.50708,-0.5 -0.7,-0.5 z"
@@ -3977,7 +2555,10 @@
     </g>
     <g
        id="garden-18"
-       inkscape:label="garden-18">
+       inkscape:label="garden-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 192,1197.3622 0,2.5 c 0,1.6504 1.375,2.5508 3,2.5 l 0,6.5 c -0.8125,-1.625 -2.5,-3.5 -5,-2.5 0,0 1.5,4 5.5,4 4,0 5.5,-4 5.5,-4 -2.5,-1 -4.1875,0.875 -5,2.5 l 0,-6.5 c 1.625,0.051 3,-0.8496 3,-2.5 l 0,-2.5 -2,2 -1.5,-2 -1.5,2 z"
@@ -4011,7 +2592,10 @@
     </g>
     <g
        id="garden-12"
-       inkscape:label="garden-12">
+       inkscape:label="garden-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21689">
         <path
@@ -4036,7 +2620,10 @@
     </g>
     <g
        id="campsite-24"
-       inkscape:label="campsite-24">
+       inkscape:label="campsite-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g11443"
          style="display:inline"
@@ -4066,7 +2653,10 @@
     </g>
     <g
        id="campsite-18"
-       inkscape:label="campsite-18">
+       inkscape:label="campsite-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-3)"
          id="g21677">
@@ -4093,7 +2683,10 @@
     </g>
     <g
        id="campsite-12"
-       inkscape:label="campsite-12">
+       inkscape:label="campsite-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21673">
@@ -4120,7 +2713,11 @@
     </g>
     <g
        id="school-24"
-       inkscape:label="school-24">
+       inkscape:label="school-24"
+       transform="translate(78,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21618">
         <path
@@ -4156,7 +2753,11 @@
     </g>
     <g
        id="school-18"
-       inkscape:label="school-18">
+       inkscape:label="school-18"
+       transform="translate(78,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21614">
@@ -4181,7 +2782,11 @@
     </g>
     <g
        id="school-12"
-       inkscape:label="school-12">
+       inkscape:label="school-12"
+       transform="translate(78,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21610">
         <path
@@ -4207,7 +2812,11 @@
     </g>
     <g
        id="college-24"
-       inkscape:label="college-24">
+       inkscape:label="college-24"
+       transform="translate(78,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g16649">
         <g
@@ -4238,7 +2847,11 @@
     </g>
     <g
        id="college-18"
-       inkscape:label="college-18">
+       inkscape:label="college-18"
+       transform="translate(78,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21624">
@@ -4267,7 +2880,11 @@
     </g>
     <g
        id="college-12"
-       inkscape:label="college-12">
+       inkscape:label="college-12"
+       transform="translate(78,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21628">
@@ -4296,7 +2913,11 @@
     </g>
     <g
        id="library-24"
-       inkscape:label="library-24">
+       inkscape:label="library-24"
+       transform="translate(78,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,2)"
          id="g21640">
@@ -4327,7 +2948,11 @@
     </g>
     <g
        id="library-18"
-       inkscape:label="library-18">
+       inkscape:label="library-18"
+       transform="translate(78,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(1,-1)"
          id="g21636">
@@ -4354,7 +2979,11 @@
     </g>
     <g
        id="library-12"
-       inkscape:label="library-12">
+       inkscape:label="library-12"
+       transform="translate(78,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21632">
@@ -4381,7 +3010,11 @@
     </g>
     <g
        id="hospital-24"
-       inkscape:label="hospital-24">
+       inkscape:label="hospital-24"
+       transform="translate(234,-72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g8231-5"
          style="display:inline"
@@ -4411,7 +3044,11 @@
     </g>
     <g
        id="hospital-18"
-       inkscape:label="hospital-18">
+       inkscape:label="hospital-18"
+       transform="translate(234,-72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g8231-5-8"
          style="display:inline"
@@ -4441,7 +3078,11 @@
     </g>
     <g
        id="hospital-12"
-       inkscape:label="hospital-12">
+       inkscape:label="hospital-12"
+       transform="translate(234,-72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21645">
@@ -4466,7 +3107,11 @@
     </g>
     <g
        id="pharmacy-24"
-       inkscape:label="pharmacy-24">
+       inkscape:label="pharmacy-24"
+       transform="translate(234,-72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g23180">
         <path
@@ -4492,7 +3137,11 @@
     </g>
     <g
        id="pharmacy-18"
-       inkscape:label="pharmacy-18">
+       inkscape:label="pharmacy-18"
+       transform="translate(234,-72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g23226">
@@ -4519,7 +3168,11 @@
     </g>
     <g
        id="pharmacy-12"
-       inkscape:label="pharmacy-12">
+       inkscape:label="pharmacy-12"
+       transform="translate(234,-72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21659">
@@ -4547,7 +3200,10 @@
     <g
        id="cinema-24"
        inkscape:label="cinema-24"
-       transform="translate(78,48)">
+       transform="translate(156,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g23190">
         <path
@@ -4574,7 +3230,10 @@
     <g
        id="cinema-18"
        inkscape:label="cinema-18"
-       transform="translate(78,48)">
+       transform="translate(156,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g23200">
         <path
@@ -4601,7 +3260,10 @@
     <g
        id="cinema-12"
        inkscape:label="cinema-12"
-       transform="translate(78,48)">
+       transform="translate(156,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g23204">
         <path
@@ -4625,7 +3287,11 @@
     </g>
     <g
        id="restaurant-24"
-       inkscape:label="restaurant-24">
+       inkscape:label="restaurant-24"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g16702">
@@ -4652,7 +3318,11 @@
     </g>
     <g
        id="restaurant-18"
-       inkscape:label="restaurant-18">
+       inkscape:label="restaurant-18"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21606">
         <path
@@ -4678,7 +3348,11 @@
     </g>
     <g
        id="restaurant-12"
-       inkscape:label="restaurant-12">
+       inkscape:label="restaurant-12"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21602">
         <path
@@ -4704,7 +3378,11 @@
     </g>
     <g
        id="cafe-24"
-       inkscape:label="cafe-24">
+       inkscape:label="cafe-24"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21590">
         <path
@@ -4730,7 +3408,11 @@
     </g>
     <g
        id="cafe-18"
-       inkscape:label="cafe-18">
+       inkscape:label="cafe-18"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21594">
         <path
@@ -4756,7 +3438,11 @@
     </g>
     <g
        id="cafe-12"
-       inkscape:label="cafe-12">
+       inkscape:label="cafe-12"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21598">
         <path
@@ -4782,7 +3468,11 @@
     </g>
     <g
        id="shop-24"
-       inkscape:label="shop-24">
+       inkscape:label="shop-24"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g16678">
@@ -4809,11 +3499,15 @@
     </g>
     <g
        id="shop-18"
-       inkscape:label="shop-18">
+       inkscape:label="shop-18"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21586">
         <path
-           style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 350.26471,1100.3622 c -0.76471,0 -1.61475,0.7502 -1.76471,1.5 l -0.5,2.5 -1,0 c -0.38235,0 -1,0.6177 -1,1 l -1,8.2353 c 0,0.3823 0.5,0.7647 1,0.7647 l 10,0 c 0.5,0 1,-0.3824 1,-0.7647 l -1,-8.2353 c 0,-0.3823 -0.61765,-1 -1,-1 l -1,0 -0.5,-2.5 c -0.14996,-0.7498 -0.99999,-1.5 -1.7647,-1.5 z m 0,0.7647 1.47059,0 c 0.38236,0 0.92503,0.3604 1,0.7353 l 0.5,2.5 -4.4706,0 0.50001,-2.5 c 0.075,-0.3749 0.61764,-0.7353 1,-0.7353 z"
            id="path14972"
            inkscape:connector-curvature="0"
@@ -4835,11 +3529,15 @@
     </g>
     <g
        id="shop-12"
-       inkscape:label="shop-12">
+       inkscape:label="shop-12"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21582">
         <path
-           style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 365.17188,1099.8622 c -0.5,0 -0.92565,0.5056 -1,1 l -0.17188,1.5 -1,0 c -0.25,0 -0.5,0.25 -0.5,0.5 l -0.5,5 c 0,0.25 0.25,0.5 0.5,0.5 l 7,0 c 0.25,0 0.5,-0.25 0.5,-0.5 l -0.5,-5 c 0,-0.25 -0.25,-0.5 -0.5,-0.5 l -1,0 -0.17187,-1.5 c -0.0569,-0.4967 -0.5,-1 -1,-1 z m 0,0.5 1.65625,0 c 0.25,0 0.4679,0.2199 0.5,0.5 l 0.17187,1.5 -3,0 0.17188,-1.5 c 0.0285,-0.2483 0.25,-0.5 0.5,-0.5 z"
            id="path14991"
            inkscape:connector-curvature="0"
@@ -4861,7 +3559,11 @@
     </g>
     <g
        id="fast-food-24"
-       inkscape:label="fast-food-24">
+       inkscape:label="fast-food-24"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g16674">
         <path
@@ -4887,7 +3589,11 @@
     </g>
     <g
        id="fast-food-18"
-       inkscape:label="fast-food-18">
+       inkscape:label="fast-food-18"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21574">
@@ -4912,12 +3618,16 @@
     </g>
     <g
        id="fast-food-12"
-       inkscape:label="fast-food-12">
+       inkscape:label="fast-food-12"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21578">
         <path
            sodipodi:nodetypes="ssccsssccccccsscc"
-           style="color:#000000;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 365,1125.3622 c -1.42105,0 -3.1488,0.8723 -3.05264,2.0526 l 0,1.1974 8.05264,0 0,-1.1974 c 0,-1.1842 -1.57895,-2.0526 -3,-2.0526 z m -3.5,4 0,1 9,0 0,-1 z m 0.49996,1.75 c 0,0.4737 0.52632,1.25 1,1.25 l 6,0 c 0.47368,0 1,-0.7763 1,-1.25 z"
            id="path15096"
            inkscape:connector-curvature="0" />
@@ -4938,7 +3648,11 @@
     </g>
     <g
        id="bar-24"
-       inkscape:label="bar-24">
+       inkscape:label="bar-24"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g16670">
@@ -4965,11 +3679,15 @@
     </g>
     <g
        id="bar-18"
-       inkscape:label="bar-18">
+       inkscape:label="bar-18"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21570">
         <path
-           style="color:#000000;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 346,1149.3622 c -0.40625,0 -1,0.047 -1,0.25 0,0.2036 0.37228,0.5858 0.5,0.75 l 5.5,6 0,4 -2.8125,1.1875 c -0.40625,0.1354 -0.6875,0.3125 -0.6875,0.8125 l 8,0 c 0,-0.5 -0.40625,-0.6771 -0.8125,-0.8125 l -2.6875,-1.1875 0,-4 5.5,-6 c 0.12772,-0.1642 0.5,-0.5464 0.5,-0.75 0,-0.2026 -0.59375,-0.25 -1,-0.25 z"
            id="path15230"
            inkscape:connector-curvature="0"
@@ -4991,7 +3709,11 @@
     </g>
     <g
        id="bar-12"
-       inkscape:label="bar-12">
+       inkscape:label="bar-12"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21566">
@@ -5018,7 +3740,11 @@
     </g>
     <g
        id="bank-24"
-       inkscape:label="bank-24">
+       inkscape:label="bank-24"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(318,167)"
          id="g10450"
@@ -5048,7 +3774,11 @@
     </g>
     <g
        id="bank-18"
-       inkscape:label="bank-18">
+       inkscape:label="bank-18"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-2)"
          id="g21558">
@@ -5075,7 +3805,11 @@
     </g>
     <g
        id="bank-12"
-       inkscape:label="bank-12">
+       inkscape:label="bank-12"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-2)"
          id="g21562">
@@ -5102,7 +3836,11 @@
     </g>
     <g
        id="grocery-24"
-       inkscape:label="grocery-24">
+       inkscape:label="grocery-24"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(317,1217.3623)"
          id="g8119">
@@ -5131,7 +3869,11 @@
     </g>
     <g
        id="grocery-18"
-       inkscape:label="grocery-18">
+       inkscape:label="grocery-18"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21554">
@@ -5158,7 +3900,11 @@
     </g>
     <g
        id="grocery-12"
-       inkscape:label="grocery-12">
+       inkscape:label="grocery-12"
+       transform="translate(78,24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21550">
@@ -5186,7 +3932,10 @@
     <g
        id="post-24"
        inkscape:label="post-24"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21490">
@@ -5213,7 +3962,10 @@
     <g
        id="post-18"
        inkscape:label="post-18"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-3)"
          id="g21494">
@@ -5241,7 +3993,10 @@
     <g
        id="post-12"
        inkscape:label="post-12"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 440,1053.3622 4,3 4,-3 z m 0,1 0,4.5 c 0,0.25 0.3,0.5 0.5,0.5 l 7,0 c 0.2,0 0.5,-0.25 0.5,-0.5 l 3e-5,-4.5 -4.00003,3.5 z"
@@ -5265,7 +4020,10 @@
     <g
        id="fire-station-24"
        inkscape:label="fire-station-24"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g10063-1"
          style="display:inline"
@@ -5296,7 +4054,10 @@
     <g
        id="fire-station-18"
        inkscape:label="fire-station-18"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21510">
         <path
@@ -5323,7 +4084,10 @@
     <g
        id="fire-station-12"
        inkscape:label="fire-station-12"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21514">
@@ -5351,7 +4115,10 @@
     <g
        id="town-hall-24"
        inkscape:label="town-hall-24"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g16706">
         <path
@@ -5378,7 +4145,10 @@
     <g
        id="town-hall-18"
        inkscape:label="town-hall-18"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-2)"
          id="g21522">
@@ -5408,7 +4178,10 @@
     <g
        id="town-hall-12"
        inkscape:label="town-hall-12"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21518">
@@ -5436,7 +4209,10 @@
     <g
        id="police-24"
        inkscape:label="police-24"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g16710">
@@ -5463,7 +4239,10 @@
     <g
        id="police-18"
        inkscape:label="police-18"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-2,0)"
          id="g21530">
@@ -5493,7 +4272,10 @@
     <g
        id="police-12"
        inkscape:label="police-12"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21526">
@@ -5521,7 +4303,10 @@
     <g
        id="prison-24"
        inkscape:label="prison-24"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(395,142)"
          id="g5143"
@@ -5550,7 +4335,10 @@
     <g
        id="prison-18"
        inkscape:label="prison-18"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21534">
@@ -5578,7 +4366,10 @@
     <g
        id="prison-12"
        inkscape:label="prison-12"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21538">
@@ -5606,7 +4397,10 @@
     <g
        id="embassy-24"
        inkscape:label="embassy-24"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g9620-3"
          style="display:inline"
@@ -5639,7 +4433,10 @@
     <g
        id="embassy-18"
        inkscape:label="embassy-18"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21546">
@@ -5666,7 +4463,10 @@
     <g
        id="embassy-12"
        inkscape:label="embassy-12"
-       transform="translate(-156,120)">
+       transform="translate(-78,72)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21542">
         <path
@@ -5695,7 +4495,10 @@
     <g
        id="pitch-24"
        inkscape:label="pitch-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g16714">
         <path
@@ -5722,7 +4525,10 @@
     <g
        id="pitch-18"
        inkscape:label="pitch-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21462">
@@ -5750,7 +4556,10 @@
     <g
        id="pitch-12"
        inkscape:label="pitch-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21458">
@@ -5776,7 +4585,10 @@
     <g
        id="soccer-24"
        inkscape:label="soccer-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g11065-3-3-5-8-5"
          style="display:inline"
@@ -5805,7 +4617,10 @@
     <g
        id="soccer-18"
        inkscape:label="soccer-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-2)"
          id="g21426">
@@ -5833,7 +4648,10 @@
     <g
        id="soccer-12"
        inkscape:label="soccer-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g23536">
@@ -5861,7 +4679,10 @@
     <g
        id="america-football-24"
        inkscape:label="america-football-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g11331"
          style="display:inline"
@@ -5891,7 +4712,10 @@
     <g
        id="america-football-18"
        inkscape:label="america-football-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21422">
         <path
@@ -5918,7 +4742,10 @@
     <g
        id="america-football-12"
        inkscape:label="america-football-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21466">
         <path
@@ -5945,7 +4772,10 @@
     <g
        id="tennis-24"
        inkscape:label="tennis-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g16718">
         <path
@@ -5972,7 +4802,10 @@
     <g
        id="tennis-18"
        inkscape:label="tennis-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21418">
         <path
@@ -5999,7 +4832,10 @@
     <g
        id="tennis-12"
        inkscape:label="tennis-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21470">
         <path
@@ -6026,7 +4862,10 @@
     <g
        id="basketball-24"
        inkscape:label="basketball-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-2,0)"
          id="g21373">
@@ -6054,7 +4893,10 @@
     <g
        id="basketball-18"
        inkscape:label="basketball-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21414">
@@ -6082,7 +4924,10 @@
     <g
        id="basketball-12"
        inkscape:label="basketball-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21474">
@@ -6110,7 +4955,10 @@
     <g
        id="baseball-24"
        inkscape:label="baseball-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21377">
         <path
@@ -6139,7 +4987,10 @@
     <g
        id="baseball-18"
        inkscape:label="baseball-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21410">
         <path
@@ -6164,7 +5015,10 @@
     <g
        id="baseball-12"
        inkscape:label="baseball-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21478">
         <path
@@ -6189,7 +5043,10 @@
     <g
        id="golf-24"
        inkscape:label="golf-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g16731">
         <path
@@ -6216,7 +5073,10 @@
     <g
        id="golf-18"
        inkscape:label="golf-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21406">
         <path
@@ -6243,7 +5103,10 @@
     <g
        id="golf-12"
        inkscape:label="golf-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21482">
         <path
@@ -6270,7 +5133,10 @@
     <g
        id="swimming-24"
        inkscape:label="swimming-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21381">
         <path
@@ -6297,7 +5163,10 @@
     <g
        id="swimming-18"
        inkscape:label="swimming-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-2)"
          id="g21402">
@@ -6323,7 +5192,10 @@
     <g
        id="swimming-12"
        inkscape:label="swimming-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21486">
@@ -6351,7 +5223,10 @@
     <g
        id="cricket-24"
        inkscape:label="cricket-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21385">
         <path
@@ -6378,7 +5253,10 @@
     <g
        id="cricket-18"
        inkscape:label="cricket-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21398">
@@ -6404,7 +5282,10 @@
     <g
        id="cricket-12"
        inkscape:label="cricket-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:nodetypes="csccccscsccccsssss"
          inkscape:connector-curvature="0"
@@ -6427,7 +5308,10 @@
     <g
        id="skiing-24"
        inkscape:label="skiing-24"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21389">
@@ -6460,7 +5344,10 @@
     <g
        id="skiing-18"
        inkscape:label="skiing-18"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21394">
@@ -6487,7 +5374,10 @@
     <g
        id="skiing-12"
        inkscape:label="skiing-12"
-       transform="translate(-312,192)">
+       transform="translate(-234,0)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g23647">
@@ -6515,7 +5405,10 @@
     </g>
     <g
        id="airport-24"
-       inkscape:label="airport-24">
+       inkscape:label="airport-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(84,-2)"
          id="g6678">
@@ -6549,7 +5442,10 @@
     </g>
     <g
        id="airport-18"
-       inkscape:label="airport-18">
+       inkscape:label="airport-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21737">
         <path
@@ -6579,7 +5475,10 @@
     </g>
     <g
        id="airport-12"
-       inkscape:label="airport-12">
+       inkscape:label="airport-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21733">
@@ -6610,7 +5509,10 @@
     </g>
     <g
        id="heliport-24"
-       inkscape:label="heliport-24">
+       inkscape:label="heliport-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,1)"
          id="g15932">
@@ -6637,7 +5539,10 @@
     </g>
     <g
        id="heliport-18"
-       inkscape:label="heliport-18">
+       inkscape:label="heliport-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21745">
         <path
@@ -6663,7 +5568,10 @@
     </g>
     <g
        id="heliport-12"
-       inkscape:label="heliport-12">
+       inkscape:label="heliport-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21741">
         <path
@@ -6690,7 +5598,10 @@
     <g
        id="rail-underground-24"
        transform="translate(0,24)"
-       inkscape:label="rail-underground-24">
+       inkscape:label="rail-underground-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(84,24)"
          id="g8490">
@@ -6720,7 +5631,10 @@
     <g
        id="rail-underground-18"
        transform="translate(0,24)"
-       inkscape:label="rail-underground-18">
+       inkscape:label="rail-underground-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21749">
         <path
@@ -6748,7 +5662,10 @@
     <g
        id="rail-underground-12"
        transform="translate(0,24)"
-       inkscape:label="rail-underground-12">
+       inkscape:label="rail-underground-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21753">
         <path
@@ -6775,7 +5692,10 @@
     <g
        id="rail-above-24"
        transform="translate(0,24)"
-       inkscape:label="rail-above-24">
+       inkscape:label="rail-above-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(84,45)"
          id="g8518">
@@ -6805,7 +5725,10 @@
     <g
        id="rail-above-18"
        transform="translate(0,24)"
-       inkscape:label="rail-above-18">
+       inkscape:label="rail-above-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21761">
         <path
@@ -6833,7 +5756,10 @@
     <g
        id="rail-above-12"
        transform="translate(0,24)"
-       inkscape:label="rail-above-12">
+       inkscape:label="rail-above-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21757">
         <path
@@ -6858,7 +5784,10 @@
     <g
        id="bus-24"
        transform="translate(0,24)"
-       inkscape:label="bus-24">
+       inkscape:label="bus-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21783">
         <path
@@ -6898,7 +5827,10 @@
     <g
        id="bus-18"
        transform="translate(0,24)"
-       inkscape:label="bus-18">
+       inkscape:label="bus-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21790">
         <path
@@ -6925,7 +5857,10 @@
     <g
        id="bus-12"
        transform="translate(0,24)"
-       inkscape:label="bus-12">
+       inkscape:label="bus-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21794">
         <path
@@ -6951,7 +5886,10 @@
     <g
        id="fuel-24"
        transform="translate(0,24)"
-       inkscape:label="fuel-24">
+       inkscape:label="fuel-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,4)"
          id="g15942">
@@ -6990,7 +5928,10 @@
     <g
        id="fuel-12"
        transform="translate(0,24)"
-       inkscape:label="fuel-12">
+       inkscape:label="fuel-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21802">
         <path
@@ -7015,7 +5956,10 @@
     <g
        id="parking-24"
        transform="translate(0,24)"
-       inkscape:label="parking-24">
+       inkscape:label="parking-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,6)"
          id="g15948">
@@ -7043,7 +5987,10 @@
     <g
        id="parking-18"
        transform="translate(0,24)"
-       inkscape:label="parking-18">
+       inkscape:label="parking-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g22918">
         <g
@@ -7073,7 +6020,10 @@
     <g
        id="parking-12"
        transform="translate(0,24)"
-       inkscape:label="parking-12">
+       inkscape:label="parking-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21808">
         <path
@@ -7100,7 +6050,10 @@
     <g
        id="parking-garage-24"
        transform="translate(0,24)"
-       inkscape:label="parking-garage-24">
+       inkscape:label="parking-garage-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,6)"
          id="g15952">
@@ -7128,7 +6081,10 @@
     <g
        id="parking-garage-18"
        transform="translate(0,24)"
-       inkscape:label="parking-garage-18">
+       inkscape:label="parking-garage-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21820">
         <path
@@ -7153,7 +6109,10 @@
     <g
        id="parking-garage-12"
        transform="translate(0,24)"
-       inkscape:label="parking-garage-12">
+       inkscape:label="parking-garage-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g21816">
         <path
@@ -7177,7 +6136,10 @@
     </g>
     <g
        id="rail-24"
-       inkscape:label="rail-24">
+       inkscape:label="rail-24"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g24855"
          transform="translate(84,21)">
@@ -7206,7 +6168,10 @@
     </g>
     <g
        id="rail-18"
-       inkscape:label="rail-18">
+       inkscape:label="rail-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g24865"
          transform="translate(0,-2)">
@@ -7235,7 +6200,10 @@
     </g>
     <g
        id="rail-12"
-       inkscape:label="rail-12">
+       inkscape:label="rail-12"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          id="g24875"
          transform="translate(-1,-2)">
@@ -7264,7 +6232,10 @@
        style="display:inline"
        id="fuel-18"
        transform="translate(-556,-24.0001)"
-       inkscape:label="fuel-18">
+       inkscape:label="fuel-18"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="path9092-5-0"
@@ -7288,13 +6259,17 @@
     <g
        transform="translate(-18.000004,2.5157333e-6)"
        style="display:inline"
-       id="g16460" />
+       id="g16460"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="beer-24"
        inkscape:label="beer-24"
-       inkscape:export-filename="/Users/saman/work_repos/maki/renders/beer-24.png"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(78,-192)">
       <g
          transform="translate(-71,-1)"
          id="g10149">
@@ -7325,12 +6300,13 @@
     <g
        id="beer-18"
        inkscape:label="beer-18"
-       inkscape:export-filename="/Users/saman/work_repos/maki/renders/beer-18.png"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(78,-192)">
       <path
          inkscape:connector-curvature="0"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.29999999999999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 346,1244.3622 1.5,13 c 0.0577,0.5 0.5,1 1,1 l 6,0 c 0.5,0 0.94231,-0.5 1,-1 l 1.5,-13 z m 2,2 7,0 -0.4,3 -6.2,0 z"
          id="path10604"
          sodipodi:nodetypes="cccccccccccc" />
@@ -7352,9 +6328,10 @@
     <g
        id="beer-12"
        inkscape:label="beer-12"
-       inkscape:export-filename="/Users/saman/work_repos/maki/renders/beer-12.png"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(78,-192)">
       <path
          inkscape:connector-curvature="0"
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -7379,9 +6356,10 @@
     <g
        id="theatre-18"
        inkscape:label="theatre-18"
-       inkscape:export-filename="/Users/saman/work_repos/maki/theatre-24.png"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-156,-24)">
       <path
          inkscape:connector-curvature="0"
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -7403,9 +6381,10 @@
     <g
        id="theatre-12"
        inkscape:label="theatre-12"
-       inkscape:export-filename="/Users/saman/work_repos/maki/theatre-24.png"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(-156,-24)">
       <g
          id="g6508">
         <path
@@ -7432,7 +6411,11 @@
     </g>
     <g
        id="art-gallery-12"
-       inkscape:label="art-gallery-12">
+       inkscape:label="art-gallery-12"
+       transform="translate(-156,-24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          transform="translate(-120,1050.3622)"
          y="240"
@@ -7454,7 +6437,11 @@
     </g>
     <g
        id="art-gallery-24"
-       inkscape:label="art-gallery-24">
+       inkscape:label="art-gallery-24"
+       transform="translate(-156,-24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 329,1294.3622 c -5,0 -8,4 -8,6 0,2 1,3.5 3,3.5 2,0 3,0.5 3,2 0,2 1.5,3.5 3.5,3.5 6.5,0 8.5,-3.5 8.5,-7 0,-6 -4,-8 -10,-8 z m -1.75,2 c 0.69034,0 1.25,0.5597 1.25,1.25 0,0.6903 -0.55966,1.25 -1.25,1.25 -0.69034,0 -1.25,-0.5597 -1.25,-1.25 0,-0.6903 0.55966,-1.25 1.25,-1.25 z m 4,0 c 0.69033,0 1.25,0.5597 1.25,1.25 0,0.6903 -0.55967,1.25 -1.25,1.25 -0.69033,0 -1.25,-0.5597 -1.25,-1.25 0,-0.6903 0.55967,-1.25 1.25,-1.25 z m 4,2 c 0.69034,0 1.25,0.5597 1.25,1.25 0,0.6903 -0.55966,1.25 -1.25,1.25 -0.69034,0 -1.25,-0.5597 -1.25,-1.25 0,-0.6903 0.55966,-1.25 1.25,-1.25 z m -11,1 c 0.69034,0 1.25,0.5597 1.25,1.25 0,0.6903 -0.55966,1.25 -1.25,1.25 -0.69034,0 -1.25,-0.5597 -1.25,-1.25 0,-0.6903 0.55966,-1.25 1.25,-1.25 z m 6.25,5 c 0.82843,0 1.5,0.6716 1.5,1.5 0,0.8284 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8284 0.67157,-1.5 1.5,-1.5 z"
@@ -7465,8 +6452,9 @@
         <path
            id="path6511"
            transform="translate(-120,1050.3622)"
-           d="M 449 244 C 444 244 441 248 441 250 C 441 252 442 253.5 444 253.5 C 446 253.5 447 254 447 255.5 C 447 257.5 448.5 259 450.5 259 C 457 259 459 255.5 459 252 C 459 246 455 244 449 244 z M 447.25 246 C 447.94034 246 448.5 246.55966 448.5 247.25 C 448.5 247.94034 447.94034 248.5 447.25 248.5 C 446.55966 248.5 446 247.94034 446 247.25 C 446 246.55966 446.55966 246 447.25 246 z M 451.25 246 C 451.94033 246 452.5 246.55967 452.5 247.25 C 452.5 247.94033 451.94033 248.5 451.25 248.5 C 450.55967 248.5 450 247.94033 450 247.25 C 450 246.55967 450.55967 246 451.25 246 z M 455.25 248 C 455.94034 248 456.5 248.55966 456.5 249.25 C 456.5 249.94034 455.94034 250.5 455.25 250.5 C 454.55966 250.5 454 249.94034 454 249.25 C 454 248.55966 454.55966 248 455.25 248 z M 444.25 249 C 444.94034 249 445.5 249.55966 445.5 250.25 C 445.5 250.94034 444.94034 251.5 444.25 251.5 C 443.55966 251.5 443 250.94034 443 250.25 C 443 249.55966 443.55966 249 444.25 249 z M 450.5 254 C 451.32843 254 452 254.67157 452 255.5 C 452 256.32843 451.32843 257 450.5 257 C 449.67157 257 449 256.32843 449 255.5 C 449 254.67157 449.67157 254 450.5 254 z "
-           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.9999997;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           d="m 449,244 c -5,0 -8,4 -8,6 0,2 1,3.5 3,3.5 2,0 3,0.5 3,2 0,2 1.5,3.5 3.5,3.5 6.5,0 8.5,-3.5 8.5,-7 0,-6 -4,-8 -10,-8 z m -1.75,2 c 0.69034,0 1.25,0.55966 1.25,1.25 0,0.69034 -0.55966,1.25 -1.25,1.25 -0.69034,0 -1.25,-0.55966 -1.25,-1.25 0,-0.69034 0.55966,-1.25 1.25,-1.25 z m 4,0 c 0.69033,0 1.25,0.55967 1.25,1.25 0,0.69033 -0.55967,1.25 -1.25,1.25 -0.69033,0 -1.25,-0.55967 -1.25,-1.25 0,-0.69033 0.55967,-1.25 1.25,-1.25 z m 4,2 c 0.69034,0 1.25,0.55966 1.25,1.25 0,0.69034 -0.55966,1.25 -1.25,1.25 -0.69034,0 -1.25,-0.55966 -1.25,-1.25 0,-0.69034 0.55966,-1.25 1.25,-1.25 z m -11,1 c 0.69034,0 1.25,0.55966 1.25,1.25 0,0.69034 -0.55966,1.25 -1.25,1.25 -0.69034,0 -1.25,-0.55966 -1.25,-1.25 0,-0.69034 0.55966,-1.25 1.25,-1.25 z m 6.25,5 c 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 z"
+           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.9999997;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
       </g>
       <rect
          transform="translate(-120,1050.3622)"
@@ -7475,11 +6463,15 @@
          height="24.00004"
          width="24"
          id="rect6677"
-         style="opacity:0.29999999999999999;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:0.3;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
        id="art-gallery-18"
-       inkscape:label="art-gallery-18">
+       inkscape:label="art-gallery-18"
+       transform="translate(-156,-24)"
+       inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 350.5,1293.3622 c -3.88889,0 -6.5,3.4444 -6.5,5 0,1.5 0.99999,2.5 2.5,2.5 1.55556,0 2,0.3333 2,1.5 0,1.5556 1.44444,2.5 3,2.5 4.5,0 6.5,-2.7778 6.5,-5.5 0,-4.6667 -3.634,-6 -7.5,-6 z m -1.5,1.5 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z m 3,0 c 0.55227,0 1,0.4477 1,1 0,0.5523 -0.44773,1 -1,1 -0.55227,0 -1,-0.4477 -1,-1 0,-0.5523 0.44773,-1 1,-1 z m 3,1.5 c 0.54462,0 0.96875,0.4554 0.96875,1 0,0.5446 -0.42413,0.9688 -0.96875,0.9688 -0.54462,0 -1,-0.4242 -1,-0.9688 0,-0.5446 0.45538,-1 1,-1 z m -8,1 c 0.55229,0 1,0.4477 1,1 0,0.5523 -0.44771,1 -1,1 -0.55229,0 -1,-0.4477 -1,-1 0,-0.5523 0.44771,-1 1,-1 z m 4.25,3.5 c 0.69035,0 1.25,0.5597 1.25,1.25 0,0.6904 -0.55965,1.25 -1.25,1.25 -0.69035,0 -1.25,-0.5596 -1.25,-1.25 0,-0.6903 0.55965,-1.25 1.25,-1.25 z"
@@ -7492,8 +6484,9 @@
         <path
            id="path6511-1"
            transform="matrix(1.2857143,0,0,1.2857143,-275.57143,981.93363)"
-           d="M 470.5 243 C 466.61111 243 464 246.44444 464 248 C 464 249.5 464.99999 250.5 466.5 250.5 C 468.05556 250.5 468.5 250.83333 468.5 252 C 468.5 253.55556 469.94444 254.5 471.5 254.5 C 476 254.5 478 251.72222 478 249 C 478 244.33333 474.366 243 470.5 243 z M 469 244.5 C 469.55228 244.5 470 244.94772 470 245.5 C 470 246.05228 469.55228 246.5 469 246.5 C 468.44772 246.5 468 246.05228 468 245.5 C 468 244.94772 468.44772 244.5 469 244.5 z M 472 244.5 C 472.55227 244.5 473 244.94773 473 245.5 C 473 246.05227 472.55227 246.5 472 246.5 C 471.44773 246.5 471 246.05227 471 245.5 C 471 244.94773 471.44773 244.5 472 244.5 z M 475 246 C 475.54462 246 475.96875 246.45538 475.96875 247 C 475.96875 247.54462 475.54462 247.96875 475 247.96875 C 474.45538 247.96875 474 247.54462 474 247 C 474 246.45538 474.45538 246 475 246 z M 467 247 C 467.55229 247 468 247.44771 468 248 C 468 248.55229 467.55229 249 467 249 C 466.44771 249 466 248.55229 466 248 C 466 247.44771 466.44771 247 467 247 z M 471.25 250.5 C 471.94035 250.5 472.5 251.05965 472.5 251.75 C 472.5 252.44035 471.94035 253 471.25 253 C 470.55965 253 470 252.44035 470 251.75 C 470 251.05965 470.55965 250.5 471.25 250.5 z "
-           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.9999997;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           d="m 470.5,243 c -3.88889,0 -6.5,3.44444 -6.5,5 0,1.5 0.99999,2.5 2.5,2.5 1.55556,0 2,0.33333 2,1.5 0,1.55556 1.44444,2.5 3,2.5 4.5,0 6.5,-2.77778 6.5,-5.5 0,-4.66667 -3.634,-6 -7.5,-6 z m -1.5,1.5 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z m 3,0 c 0.55227,0 1,0.44773 1,1 0,0.55227 -0.44773,1 -1,1 -0.55227,0 -1,-0.44773 -1,-1 0,-0.55227 0.44773,-1 1,-1 z m 3,1.5 c 0.54462,0 0.96875,0.45538 0.96875,1 0,0.54462 -0.42413,0.96875 -0.96875,0.96875 -0.54462,0 -1,-0.42413 -1,-0.96875 0,-0.54462 0.45538,-1 1,-1 z m -8,1 c 0.55229,0 1,0.44771 1,1 0,0.55229 -0.44771,1 -1,1 -0.55229,0 -1,-0.44771 -1,-1 0,-0.55229 0.44771,-1 1,-1 z m 4.25,3.5 c 0.69035,0 1.25,0.55965 1.25,1.25 0,0.69035 -0.55965,1.25 -1.25,1.25 -0.69035,0 -1.25,-0.55965 -1.25,-1.25 0,-0.69035 0.55965,-1.25 1.25,-1.25 z"
+           style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:0.9999997;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
       </g>
       <rect
          transform="translate(-120,1050.3622)"
