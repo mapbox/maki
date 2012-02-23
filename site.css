@@ -71,18 +71,18 @@ li.marker-solid         { background-position: 0 -240px; }
 li.religious-jewish     { background-position: -78px 0; }
 li.religious-christian  { background-position: -78px -24px; }
 li.religious-islam      { background-position: -78px -48px; }
+li.cemetery             { background-position: -78px -72px; }
 
 /*Category: transportation*/
-li.cemetery             { background-position: -156px 0; }
-li.airport              { background-position: -156px -24px; }
-li.heliport             { background-position: -156px -48px; }
-li.rail                 { background-position: -156px -72px; }
-li.rail-underground     { background-position: -156px -96px; }
-li.rail-above           { background-position: -156px -120px; }
-li.bus                  { background-position: -156px -144px; }
-li.fuel                 { background-position: -156px -168px; }
-li.parking              { background-position: -156px -192px; }
-li.parking-garage       { background-position: -156px -216px; }
+li.airport              { background-position: -156px 0; }
+li.heliport             { background-position: -156px -24px; }
+li.rail                 { background-position: -156px -48px; }
+li.rail-underground     { background-position: -156px -72px; }
+li.rail-above           { background-position: -156px -96px; }
+li.bus                  { background-position: -156px -120px; }
+li.fuel                 { background-position: -156px -144px; }
+li.parking              { background-position: -156px -168px; }
+li.parking-garage       { background-position: -156px -192px; }
 
 /*Category: recreation*/
 li.park                 { background-position: -234px 0; }
