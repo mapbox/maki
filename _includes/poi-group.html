@@ -1,6 +1,4 @@
 <ul class='icon-set clearfix'>
-  <li><img src='{{site.baseurl}}/images/24.png' data-src='{{site.baseurl}}/maki-icon-source/renders/{{item.icon-24}}' alt='' /></li>
-  <li><img src='{{site.baseurl}}/images/18.png' data-src='{{site.baseurl}}/maki-icon-source/renders/{{item.icon-18}}' alt='' /></li>
-  <li><img src='{{site.baseurl}}/images/12.png' data-src='{{site.baseurl}}/maki-icon-source/renders/{{item.icon-12}}' alt='' /></li>
+  <li class='icon {{item.title || downcase || replace:' ','-' || replace:';',' '}}'>Icon</li>
   <li class='title-box'>{{item.title}}</li>
 </ul>

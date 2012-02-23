@@ -43,14 +43,6 @@ maki.slideshow = function() {
 };
 $(maki.slideshow);
 
-maki.lazyLoader = function() {
-    var images = $('#maki-set').find('img');
-    $.each(images, function() {
-        $(this).attr('src', $(this).attr('data-src')).removeAttr('data-src');
-    });
-};
-$(maki.lazyLoader)
-
 maki.search = function () {
     var data = false;
     var icons = $('#maki-set');
