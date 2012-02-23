@@ -49,9 +49,7 @@ maki.search = function () {
     var search = $('#search');
     var templateFormat =  '<li>'
                         + '<ul class="icon-set clearfix">'
-                        + '<li><img src="maki-icon-source/renders/<%=icon24%>" alt="<%=title%> 24px" /></li>'
-                        + '<li><img src="maki-icon-source/renders/<%=icon18%>" alt="<%=title%> 18px" /></li>'
-                        + '<li><img src="maki-icon-source/renders/<%=icon12%>" alt="<%=title%> 12px" /></li>'
+                        + '<li class="icon <%=icon%>"><%=title%> icon</li>'
                         + '</ul>'
                         + '<span class="title-box"><%=title%></span>'
                         + '</li>';
