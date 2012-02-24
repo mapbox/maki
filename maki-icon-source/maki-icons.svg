@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="maki-icons.svg">
+   sodipodi:docname="maki-icons.svg"
+   inkscape:export-filename="/Users/tristen/devseed/maki/maki-icon-source/maki-icons.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -130,9 +133,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.183506"
-     inkscape:cx="361.51756"
-     inkscape:cy="-90.267037"
+     inkscape:zoom="5.1501003"
+     inkscape:cx="283.84917"
+     inkscape:cy="-59.199681"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -545,7 +548,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2169,7 +2172,8 @@
        inkscape:label="lodging-24"
        inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,24)">
       <g
          id="g15763-2"
          style="display:inline"
@@ -2202,7 +2206,8 @@
        inkscape:label="lodging-18"
        inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,24)">
       <g
          id="g21721">
         <path
@@ -2231,7 +2236,8 @@
        inkscape:label="lodging-12"
        inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,24)">
       <g
          id="g21717">
         <path
@@ -2260,7 +2266,8 @@
        inkscape:label="museum-24"
        inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,-24)">
       <g
          transform="translate(0,-1)"
          id="g16594">
@@ -2290,7 +2297,8 @@
        inkscape:label="museum-18"
        inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,-24)">
       <g
          transform="translate(-1,-1)"
          id="g21709">
@@ -2320,7 +2328,8 @@
        inkscape:label="museum-12"
        inkscape:export-filename="/Users/tristen/devseed/maki/images/icon-sprite.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0,-24)">
       <g
          id="g21713">
         <path
