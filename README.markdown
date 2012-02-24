@@ -15,6 +15,7 @@ To view the backlog of icons that need to be created, visit https://github.com/m
 
 ## Completed icons
 
+
 ### Basic shapes
 
 - solid circle
