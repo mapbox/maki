@@ -127,14 +127,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#9c9c9c"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.28627451"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99043489"
-     inkscape:cx="304.33953"
-     inkscape:cy="-148.33656"
+     inkscape:zoom="1"
+     inkscape:cx="230.00171"
+     inkscape:cy="-194.02264"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -143,13 +143,13 @@
      inkscape:window-x="13"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:object-paths="true"
-     inkscape:object-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
      inkscape:snap-to-guides="true"
      inkscape:snap-bbox="true"
-     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-smooth-nodes="false"
      inkscape:snap-intersection-paths="false"
      inkscape:snap-page="true"
      fit-margin-top="0"
@@ -174,10 +174,10 @@
        dotted="false"
        spacingx="0.5px"
        spacingy="0.5px"
-       color="#c00000"
-       opacity="0.11764706"
-       empcolor="#c00000"
-       empopacity="0.31372549" />
+       color="#7b00c0"
+       opacity="0.05882353"
+       empcolor="#7b00c0"
+       empopacity="0.15686275" />
     <sodipodi:guide
        orientation="1,0"
        position="150,55.999966"
@@ -547,7 +547,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -562,8 +562,7 @@
        inkscape:label="theatre-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(-156,-24)"
->
+       transform="translate(-156,-24)">
       <rect
          y="1266.3622"
          x="318"
@@ -588,8 +587,7 @@
        id="circle-stroked-24"
        inkscape:label="circle-stroked-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <rect
          y="1050.3622"
          x="-72"
@@ -621,8 +619,7 @@
        id="circle-stroked-12"
        inkscape:label="circle-stroked-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <rect
          y="1050.3622"
          x="-30"
@@ -649,8 +646,7 @@
        id="circle-stroked-18"
        inkscape:label="circle-stroked-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:0.50000000000000000;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect21969"
@@ -676,8 +672,7 @@
        id="circle-solid-24"
        inkscape:label="circle-solid-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -716,8 +711,7 @@
        id="circle-solid-18"
        inkscape:label="circle-solid-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21885">
         <path
@@ -753,8 +747,7 @@
        id="circle-solid-12"
        inkscape:label="circle-solid-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21889">
         <path
@@ -790,8 +783,7 @@
        id="square-stroked-24"
        inkscape:label="square-stroked-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -824,8 +816,7 @@
        id="square-stroked-18"
        inkscape:label="square-stroked-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21897">
         <path
@@ -851,8 +842,7 @@
        id="square-stroked-12"
        inkscape:label="square-stroked-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21893">
         <path
@@ -880,8 +870,7 @@
        id="square-solid-24"
        inkscape:label="square-solid-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -918,8 +907,7 @@
        id="square-solid-18"
        inkscape:label="square-solid-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21906">
         <rect
@@ -953,8 +941,7 @@
        id="square-solid-12"
        inkscape:label="square-solid-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21910">
         <path
@@ -980,8 +967,7 @@
        id="triangle-stroked-24"
        inkscape:label="triangle-stroked-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1012,8 +998,7 @@
        id="triangle-stroked-18"
        inkscape:label="triangle-stroked-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21244">
         <path
@@ -1039,8 +1024,7 @@
        id="triangle-stroked-12"
        inkscape:label="triangle-stroked-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21240">
         <path
@@ -1066,8 +1050,7 @@
        id="triangle-solid-24"
        inkscape:label="triangle-solid-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1098,8 +1081,7 @@
        id="triangle-solid-18"
        inkscape:label="triangle-solid-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21918">
         <path
@@ -1127,8 +1109,7 @@
        id="triangle-solid-12"
        inkscape:label="triangle-solid-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21914">
         <path
@@ -1157,7 +1138,6 @@
        inkscape:label="star-solid-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-
        transform="translate(0,24)">
       <g
          id="g21922">
@@ -1198,7 +1178,6 @@
        inkscape:label="star-solid-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-
        transform="translate(0,24)">
       <g
          id="g21927">
@@ -1228,7 +1207,6 @@
        inkscape:label="star-solid-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-
        transform="translate(0,24)">
       <g
          transform="translate(0,-1)"
@@ -1259,7 +1237,6 @@
        inkscape:label="star-stroked-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-
        transform="translate(0,-24)">
       <g
          inkscape:export-ydpi="90"
@@ -1300,7 +1277,6 @@
        inkscape:label="star-stroked-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-
        transform="translate(0,-24)">
       <g
          id="g21939">
@@ -1331,7 +1307,6 @@
        inkscape:label="star-stroked-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-
        transform="translate(0,-24)">
       <g
          transform="translate(0,-1)"
@@ -1361,8 +1336,7 @@
        id="x-24"
        inkscape:label="x-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1394,8 +1368,7 @@
        id="x-18"
        inkscape:label="x-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21943">
         <path
@@ -1423,8 +1396,7 @@
        id="x-12"
        inkscape:label="x-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21947">
         <path
@@ -1450,8 +1422,7 @@
        id="marker-stroked-24"
        inkscape:label="marker-stroked-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1488,8 +1459,7 @@
        id="marker-stroked-18"
        inkscape:label="marker-stroked-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21955">
         <path
@@ -1515,8 +1485,7 @@
        id="marker-stroked-12"
        inkscape:label="marker-stroked-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21951">
         <path
@@ -1542,8 +1511,7 @@
        id="marker-solid-24"
        inkscape:label="marker-solid-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -1580,8 +1548,7 @@
        id="marker-solid-18"
        inkscape:label="marker-solid-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21959">
         <path
@@ -1609,8 +1576,7 @@
        id="marker-solid-12"
        inkscape:label="marker-solid-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21963">
         <path
@@ -1639,8 +1605,7 @@
        inkscape:label="religious-christian-24"
        transform="translate(0,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21860">
         <path
@@ -1669,8 +1634,7 @@
        inkscape:label="religious-christian-18"
        transform="translate(0,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(1,0)"
          id="g21864">
@@ -1700,8 +1664,7 @@
        inkscape:label="religious-christian-12"
        transform="translate(0,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21868">
         <path
@@ -1730,8 +1693,7 @@
        inkscape:label="religious-islam-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,24)"
->
+       transform="translate(0,24)">
       <g
          id="g21856">
         <path
@@ -1758,8 +1720,7 @@
        inkscape:label="religious-islam-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,24)"
->
+       transform="translate(0,24)">
       <g
          id="g21852">
         <path
@@ -1788,8 +1749,7 @@
        inkscape:label="religious-islam-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,24)"
->
+       transform="translate(0,24)">
       <g
          id="g21848">
         <path
@@ -1816,8 +1776,7 @@
        inkscape:label="religious-jewish-24"
        transform="translate(0,-48)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21836">
         <path
@@ -1846,8 +1805,7 @@
        inkscape:label="religious-jewish-18"
        transform="translate(0,-48)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21840">
         <path
@@ -1874,8 +1832,7 @@
        inkscape:label="religious-jewish-12"
        transform="translate(0,-48)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21844">
         <path
@@ -1903,8 +1860,7 @@
        id="cemetery-24"
        inkscape:label="cemetery-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21832">
         <path
@@ -1931,8 +1887,7 @@
        id="cemetery-18"
        inkscape:label="cemetery-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21828">
         <path
@@ -1960,8 +1915,7 @@
        id="cemetery-12"
        inkscape:label="cemetery-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21824">
         <path
@@ -1989,8 +1943,7 @@
        id="park-24"
        inkscape:label="park-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(162,23)"
          id="g4215">
@@ -2022,8 +1975,7 @@
        id="park-18"
        inkscape:label="park-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21729">
         <path
@@ -2051,8 +2003,7 @@
        id="park-12"
        inkscape:label="park-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-2)"
          id="g16070">
@@ -2079,8 +2030,7 @@
        id="park2-24"
        inkscape:label="park2-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(129,0)"
          id="g6674">
@@ -2109,8 +2059,7 @@
        id="park2-18"
        inkscape:label="park2-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21725">
         <path
@@ -2138,8 +2087,7 @@
        id="park2-12"
        inkscape:label="park2-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g16074">
@@ -2169,8 +2117,7 @@
        inkscape:label="lodging-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,24)"
->
+       transform="translate(0,24)">
       <g
          id="g15763-2"
          style="display:inline"
@@ -2203,8 +2150,7 @@
        inkscape:label="lodging-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,24)"
->
+       transform="translate(0,24)">
       <g
          id="g21721">
         <path
@@ -2233,8 +2179,7 @@
        inkscape:label="lodging-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,24)"
->
+       transform="translate(0,24)">
       <g
          id="g21717">
         <path
@@ -2263,8 +2208,7 @@
        inkscape:label="museum-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,-24)"
->
+       transform="translate(0,-24)">
       <g
          transform="translate(0,-1)"
          id="g16594">
@@ -2294,8 +2238,7 @@
        inkscape:label="museum-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,-24)"
->
+       transform="translate(0,-24)">
       <g
          transform="translate(-1,-1)"
          id="g21709">
@@ -2325,8 +2268,7 @@
        inkscape:label="museum-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(0,-24)"
->
+       transform="translate(0,-24)">
       <g
          id="g21713">
         <path
@@ -2354,8 +2296,7 @@
        id="monument-24"
        inkscape:label="monument-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,1)"
          id="g16598">
@@ -2384,8 +2325,7 @@
        id="monument-18"
        inkscape:label="monument-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21705">
         <path
@@ -2413,8 +2353,7 @@
        id="monument-12"
        inkscape:label="monument-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21701">
         <path
@@ -2442,8 +2381,7 @@
        id="zoo-24"
        inkscape:label="zoo-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g9950-2"
          style="display:inline"
@@ -2479,8 +2417,7 @@
        id="zoo-18"
        inkscape:label="zoo-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21693">
         <path
@@ -2508,8 +2445,7 @@
        id="zoo-12"
        inkscape:label="zoo-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21697">
         <path
@@ -2537,8 +2473,7 @@
        id="garden-24"
        inkscape:label="garden-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 170.3,1198.3622 c -0.253,0 -0.3,0.5596 -0.3,1 l 0,2 c 0,2.0312 1.5,3.0625 3.5,3 l -0.5,8 c -1,-2 -3,-4 -6,-3 0,0 2,5 7,5 5,0 7,-5 7,-5 -3,-1 -5,1 -6,3 l -0.5,-8 c 2,0.062 3.5,-0.9688 3.5,-3 l 0,-2 c 0,-0.4404 -0.0468,-1 -0.3,-1 -0.19292,0 -0.42561,0.2256 -0.7,0.5 l -1.5,1.5 c 0,0 -0.72152,-1.0807 -1,-1.5 -0.1304,-0.1963 -0.24696,-0.5 -0.5,-0.5 -0.25305,0 -0.3696,0.3037 -0.5,0.5 -0.27848,0.4193 -1,1.5 -1,1.5 l -1.5,-1.5 c -0.27439,-0.2744 -0.50708,-0.5 -0.7,-0.5 z"
@@ -2563,8 +2498,7 @@
        id="garden-18"
        inkscape:label="garden-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 192,1197.3622 0,2.5 c 0,1.6504 1.375,2.5508 3,2.5 l 0,6.5 c -0.8125,-1.625 -2.5,-3.5 -5,-2.5 0,0 1.5,4 5.5,4 4,0 5.5,-4 5.5,-4 -2.5,-1 -4.1875,0.875 -5,2.5 l 0,-6.5 c 1.625,0.051 3,-0.8496 3,-2.5 l 0,-2.5 -2,2 -1.5,-2 -1.5,2 z"
@@ -2600,8 +2534,7 @@
        id="garden-12"
        inkscape:label="garden-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21689">
         <path
@@ -2628,8 +2561,7 @@
        id="campsite-24"
        inkscape:label="campsite-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g11443"
          style="display:inline"
@@ -2661,8 +2593,7 @@
        id="campsite-18"
        inkscape:label="campsite-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-3)"
          id="g21677">
@@ -2691,8 +2622,7 @@
        id="campsite-12"
        inkscape:label="campsite-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21673">
@@ -2722,8 +2652,7 @@
        inkscape:label="school-24"
        transform="translate(78,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21618">
         <path
@@ -2762,8 +2691,7 @@
        inkscape:label="school-18"
        transform="translate(78,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21614">
@@ -2791,8 +2719,7 @@
        inkscape:label="school-12"
        transform="translate(78,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21610">
         <path
@@ -2821,8 +2748,7 @@
        inkscape:label="college-24"
        transform="translate(78,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g16649">
         <g
@@ -2856,8 +2782,7 @@
        inkscape:label="college-18"
        transform="translate(78,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21624">
@@ -2889,8 +2814,7 @@
        inkscape:label="college-12"
        transform="translate(78,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21628">
@@ -2922,8 +2846,7 @@
        inkscape:label="library-24"
        transform="translate(78,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,2)"
          id="g21640">
@@ -2957,8 +2880,7 @@
        inkscape:label="library-18"
        transform="translate(78,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(1,-1)"
          id="g21636">
@@ -2988,8 +2910,7 @@
        inkscape:label="library-12"
        transform="translate(78,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21632">
@@ -3019,8 +2940,7 @@
        inkscape:label="hospital-24"
        transform="translate(234,-72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g8231-5"
          style="display:inline"
@@ -3053,8 +2973,7 @@
        inkscape:label="hospital-18"
        transform="translate(234,-72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g8231-5-8"
          style="display:inline"
@@ -3087,8 +3006,7 @@
        inkscape:label="hospital-12"
        transform="translate(234,-72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21645">
@@ -3116,8 +3034,7 @@
        inkscape:label="pharmacy-24"
        transform="translate(234,-72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g23180">
         <path
@@ -3146,8 +3063,7 @@
        inkscape:label="pharmacy-18"
        transform="translate(234,-72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g23226">
@@ -3177,8 +3093,7 @@
        inkscape:label="pharmacy-12"
        transform="translate(234,-72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21659">
@@ -3208,8 +3123,7 @@
        inkscape:label="cinema-24"
        transform="translate(156,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g23190">
         <path
@@ -3238,8 +3152,7 @@
        inkscape:label="cinema-18"
        transform="translate(156,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g23200">
         <path
@@ -3268,8 +3181,7 @@
        inkscape:label="cinema-12"
        transform="translate(156,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g23204">
         <path
@@ -3296,8 +3208,7 @@
        inkscape:label="restaurant-24"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g16702">
@@ -3327,8 +3238,7 @@
        inkscape:label="restaurant-18"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21606">
         <path
@@ -3357,8 +3267,7 @@
        inkscape:label="restaurant-12"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21602">
         <path
@@ -3387,8 +3296,7 @@
        inkscape:label="cafe-24"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21590">
         <path
@@ -3417,8 +3325,7 @@
        inkscape:label="cafe-18"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21594">
         <path
@@ -3447,8 +3354,7 @@
        inkscape:label="cafe-12"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21598">
         <path
@@ -3477,8 +3383,7 @@
        inkscape:label="shop-24"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g16678">
@@ -3508,8 +3413,7 @@
        inkscape:label="shop-18"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21586">
         <path
@@ -3538,8 +3442,7 @@
        inkscape:label="shop-12"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21582">
         <path
@@ -3568,8 +3471,7 @@
        inkscape:label="fast-food-24"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g16674">
         <path
@@ -3598,8 +3500,7 @@
        inkscape:label="fast-food-18"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21574">
@@ -3627,8 +3528,7 @@
        inkscape:label="fast-food-12"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21578">
         <path
@@ -3657,8 +3557,7 @@
        inkscape:label="bar-24"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g16670">
@@ -3688,8 +3587,7 @@
        inkscape:label="bar-18"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21570">
         <path
@@ -3718,8 +3616,7 @@
        inkscape:label="bar-12"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21566">
@@ -3749,8 +3646,7 @@
        inkscape:label="bank-24"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(318,167)"
          id="g10450"
@@ -3783,8 +3679,7 @@
        inkscape:label="bank-18"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-2)"
          id="g21558">
@@ -3814,8 +3709,7 @@
        inkscape:label="bank-12"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-2)"
          id="g21562">
@@ -3845,8 +3739,7 @@
        inkscape:label="grocery-24"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(317,1217.3623)"
          id="g8119">
@@ -3878,8 +3771,7 @@
        inkscape:label="grocery-18"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21554">
@@ -3909,8 +3801,7 @@
        inkscape:label="grocery-12"
        transform="translate(78,24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21550">
@@ -3940,8 +3831,7 @@
        inkscape:label="post-24"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21490">
@@ -3970,8 +3860,7 @@
        inkscape:label="post-18"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-3)"
          id="g21494">
@@ -4001,8 +3890,7 @@
        inkscape:label="post-12"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 440,1053.3622 4,3 4,-3 z m 0,1 0,4.5 c 0,0.25 0.3,0.5 0.5,0.5 l 7,0 c 0.2,0 0.5,-0.25 0.5,-0.5 l 3e-5,-4.5 -4.00003,3.5 z"
@@ -4028,8 +3916,7 @@
        inkscape:label="fire-station-24"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g10063-1"
          style="display:inline"
@@ -4062,8 +3949,7 @@
        inkscape:label="fire-station-18"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21510">
         <path
@@ -4092,8 +3978,7 @@
        inkscape:label="fire-station-12"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21514">
@@ -4123,8 +4008,7 @@
        inkscape:label="town-hall-24"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g16706">
         <path
@@ -4153,8 +4037,7 @@
        inkscape:label="town-hall-18"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-2)"
          id="g21522">
@@ -4186,8 +4069,7 @@
        inkscape:label="town-hall-12"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21518">
@@ -4217,8 +4099,7 @@
        inkscape:label="police-24"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g16710">
@@ -4247,8 +4128,7 @@
        inkscape:label="police-18"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-2,0)"
          id="g21530">
@@ -4280,8 +4160,7 @@
        inkscape:label="police-12"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21526">
@@ -4311,8 +4190,7 @@
        inkscape:label="prison-24"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(395,142)"
          id="g5143"
@@ -4343,8 +4221,7 @@
        inkscape:label="prison-18"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21534">
@@ -4374,8 +4251,7 @@
        inkscape:label="prison-12"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21538">
@@ -4405,8 +4281,7 @@
        inkscape:label="embassy-24"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g9620-3"
          style="display:inline"
@@ -4441,8 +4316,7 @@
        inkscape:label="embassy-18"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21546">
@@ -4471,8 +4345,7 @@
        inkscape:label="embassy-12"
        transform="translate(-78,72)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21542">
         <path
@@ -4503,8 +4376,7 @@
        inkscape:label="pitch-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g16714">
         <path
@@ -4533,8 +4405,7 @@
        inkscape:label="pitch-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21462">
@@ -4564,8 +4435,7 @@
        inkscape:label="pitch-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21458">
@@ -4593,8 +4463,7 @@
        inkscape:label="soccer-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g11065-3-3-5-8-5"
          style="display:inline"
@@ -4625,8 +4494,7 @@
        inkscape:label="soccer-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-2)"
          id="g21426">
@@ -4656,8 +4524,7 @@
        inkscape:label="soccer-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g23536">
@@ -4687,8 +4554,7 @@
        inkscape:label="america-football-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g11331"
          style="display:inline"
@@ -4720,8 +4586,7 @@
        inkscape:label="america-football-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21422">
         <path
@@ -4750,8 +4615,7 @@
        inkscape:label="america-football-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21466">
         <path
@@ -4780,8 +4644,7 @@
        inkscape:label="tennis-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g16718">
         <path
@@ -4810,8 +4673,7 @@
        inkscape:label="tennis-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21418">
         <path
@@ -4840,8 +4702,7 @@
        inkscape:label="tennis-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21470">
         <path
@@ -4870,8 +4731,7 @@
        inkscape:label="basketball-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-2,0)"
          id="g21373">
@@ -4901,8 +4761,7 @@
        inkscape:label="basketball-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21414">
@@ -4932,8 +4791,7 @@
        inkscape:label="basketball-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21474">
@@ -4963,8 +4821,7 @@
        inkscape:label="baseball-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21377">
         <path
@@ -4995,8 +4852,7 @@
        inkscape:label="baseball-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21410">
         <path
@@ -5023,8 +4879,7 @@
        inkscape:label="baseball-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21478">
         <path
@@ -5051,8 +4906,7 @@
        inkscape:label="golf-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g16731">
         <path
@@ -5081,8 +4935,7 @@
        inkscape:label="golf-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21406">
         <path
@@ -5111,8 +4964,7 @@
        inkscape:label="golf-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21482">
         <path
@@ -5141,8 +4993,7 @@
        inkscape:label="swimming-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21381">
         <path
@@ -5171,8 +5022,7 @@
        inkscape:label="swimming-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-2)"
          id="g21402">
@@ -5200,8 +5050,7 @@
        inkscape:label="swimming-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21486">
@@ -5231,8 +5080,7 @@
        inkscape:label="cricket-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21385">
         <path
@@ -5261,8 +5109,7 @@
        inkscape:label="cricket-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21398">
@@ -5290,8 +5137,7 @@
        inkscape:label="cricket-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <path
          sodipodi:nodetypes="csccccscsccccsssss"
          inkscape:connector-curvature="0"
@@ -5316,8 +5162,7 @@
        inkscape:label="skiing-24"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,0)"
          id="g21389">
@@ -5352,8 +5197,7 @@
        inkscape:label="skiing-18"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g21394">
@@ -5382,8 +5226,7 @@
        inkscape:label="skiing-12"
        transform="translate(-234,0)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,-1)"
          id="g23647">
@@ -5413,8 +5256,7 @@
        id="airport-24"
        inkscape:label="airport-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(84,-2)"
          id="g6678">
@@ -5450,8 +5292,7 @@
        id="airport-18"
        inkscape:label="airport-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21737">
         <path
@@ -5483,8 +5324,7 @@
        id="airport-12"
        inkscape:label="airport-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-1,-1)"
          id="g21733">
@@ -5517,8 +5357,7 @@
        id="heliport-24"
        inkscape:label="heliport-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,1)"
          id="g15932">
@@ -5547,8 +5386,7 @@
        id="heliport-18"
        inkscape:label="heliport-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21745">
         <path
@@ -5576,8 +5414,7 @@
        id="heliport-12"
        inkscape:label="heliport-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21741">
         <path
@@ -5606,8 +5443,7 @@
        transform="translate(0,24)"
        inkscape:label="rail-underground-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(84,24)"
          id="g8490">
@@ -5639,8 +5475,7 @@
        transform="translate(0,24)"
        inkscape:label="rail-underground-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21749">
         <path
@@ -5670,8 +5505,7 @@
        transform="translate(0,24)"
        inkscape:label="rail-underground-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21753">
         <path
@@ -5700,8 +5534,7 @@
        transform="translate(0,24)"
        inkscape:label="rail-above-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(84,45)"
          id="g8518">
@@ -5733,8 +5566,7 @@
        transform="translate(0,24)"
        inkscape:label="rail-above-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21761">
         <path
@@ -5764,8 +5596,7 @@
        transform="translate(0,24)"
        inkscape:label="rail-above-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21757">
         <path
@@ -5792,8 +5623,7 @@
        transform="translate(0,24)"
        inkscape:label="bus-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21783">
         <path
@@ -5835,8 +5665,7 @@
        transform="translate(0,24)"
        inkscape:label="bus-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21790">
         <path
@@ -5865,8 +5694,7 @@
        transform="translate(0,24)"
        inkscape:label="bus-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21794">
         <path
@@ -5894,8 +5722,7 @@
        transform="translate(0,24)"
        inkscape:label="fuel-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,4)"
          id="g15942">
@@ -5936,8 +5763,7 @@
        transform="translate(0,24)"
        inkscape:label="fuel-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21802">
         <path
@@ -5964,8 +5790,7 @@
        transform="translate(0,24)"
        inkscape:label="parking-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          transform="translate(0,6)"
          id="g15948">
@@ -5995,8 +5820,7 @@
        transform="translate(0,24)"
        inkscape:label="parking-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g22918">
         <g
@@ -6028,8 +5852,7 @@
        transform="translate(0,24)"
        inkscape:label="parking-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21808">
         <path
@@ -6054,43 +5877,11 @@
          y="1194.3622" />
     </g>
     <g
-       id="parking-garage-24"
-       transform="translate(0,24)"
-       inkscape:label="parking-garage-24"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
-      <g
-         transform="translate(0,6)"
-         id="g15952">
-        <path
-           sodipodi:nodetypes="cccccccsssssscsssscssscc"
-           inkscape:connector-curvature="0"
-           id="path9783"
-           d="m 95,1215.3622 -7,2 0,2 7,-2 7,2 0,-2 z m -4,4 c -0.5,0 -1,0.5 -1,1 l 0,13 c 0,0.5 0.5,1 1,1 l 1,0 c 0.5,0 1,-0.5 1,-1 l 0,-3 2,0 c 4,0 6,-2.5 6,-5.5 0,-3 -2.117647,-5.5 -6,-5.5 z m 2,3 2,0 c 2,0 3,1 3,2.5 0,1.5 -1,2.5 -3,2.5 l -2,0 z"
-           style="font-size:25.21008492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue Bold" />
-        <path
-           sodipodi:nodetypes="cccccccscsssscsssscssscc"
-           inkscape:connector-curvature="0"
-           style="font-size:25.21008492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue Bold"
-           d="m 95,1215.3622 -7,2 0,2 7,-2 7,2 0,-2 z m -4,4 c -0.5,0 -1,0.5 -1,1 l 0,13 c 0,0.5 0.5,1 1,1 l 1,0 c 0.5,0 1,-0.5 1,-1 l 0,-3 2,0 c 4,0 6,-2.5 6,-5.5 0,-3 -2.117647,-5.5 -6,-5.5 z m 2,3 2,0 c 2,0 3,1 3,2.5 0,1.5 -1,2.5 -3,2.5 l -2,0 z"
-           id="path8288" />
-      </g>
-      <rect
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect22188"
-         width="24"
-         height="24.000017"
-         x="84"
-         y="1218.3622" />
-    </g>
-    <g
        id="parking-garage-18"
        transform="translate(0,24)"
        inkscape:label="parking-garage-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21820">
         <path
@@ -6117,8 +5908,7 @@
        transform="translate(0,24)"
        inkscape:label="parking-garage-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g21816">
         <path
@@ -6144,8 +5934,7 @@
        id="rail-24"
        inkscape:label="rail-24"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g24855"
          transform="translate(84,21)">
@@ -6176,8 +5965,7 @@
        id="rail-18"
        inkscape:label="rail-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g24865"
          transform="translate(0,-2)">
@@ -6208,8 +5996,7 @@
        id="rail-12"
        inkscape:label="rail-12"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <g
          id="g24875"
          transform="translate(-1,-2)">
@@ -6240,8 +6027,7 @@
        transform="translate(-556,-24.0001)"
        inkscape:label="fuel-18"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <path
          inkscape:connector-curvature="0"
          id="path9092-5-0"
@@ -6273,8 +6059,7 @@
        inkscape:label="beer-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(78,-192)"
->
+       transform="translate(78,-192)">
       <g
          transform="translate(-71,-1)"
          id="g10149">
@@ -6307,8 +6092,7 @@
        inkscape:label="beer-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(78,-192)"
->
+       transform="translate(78,-192)">
       <path
          inkscape:connector-curvature="0"
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6335,8 +6119,7 @@
        inkscape:label="beer-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(78,-192)"
->
+       transform="translate(78,-192)">
       <path
          inkscape:connector-curvature="0"
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6363,8 +6146,7 @@
        inkscape:label="theatre-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(-156,-24)"
->
+       transform="translate(-156,-24)">
       <path
          inkscape:connector-curvature="0"
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6388,8 +6170,7 @@
        inkscape:label="theatre-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       transform="translate(-156,-24)"
->
+       transform="translate(-156,-24)">
       <g
          id="g6508">
         <path
@@ -6419,8 +6200,7 @@
        inkscape:label="art-gallery-12"
        transform="translate(-156,-24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <rect
          transform="translate(-120,1050.3622)"
          y="240"
@@ -6445,8 +6225,7 @@
        inkscape:label="art-gallery-24"
        transform="translate(-156,-24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 329,1294.3622 c -5,0 -8,4 -8,6 0,2 1,3.5 3,3.5 2,0 3,0.5 3,2 0,2 1.5,3.5 3.5,3.5 6.5,0 8.5,-3.5 8.5,-7 0,-6 -4,-8 -10,-8 z m -1.75,2 c 0.69034,0 1.25,0.5597 1.25,1.25 0,0.6903 -0.55966,1.25 -1.25,1.25 -0.69034,0 -1.25,-0.5597 -1.25,-1.25 0,-0.6903 0.55966,-1.25 1.25,-1.25 z m 4,0 c 0.69033,0 1.25,0.5597 1.25,1.25 0,0.6903 -0.55967,1.25 -1.25,1.25 -0.69033,0 -1.25,-0.5597 -1.25,-1.25 0,-0.6903 0.55967,-1.25 1.25,-1.25 z m 4,2 c 0.69034,0 1.25,0.5597 1.25,1.25 0,0.6903 -0.55966,1.25 -1.25,1.25 -0.69034,0 -1.25,-0.5597 -1.25,-1.25 0,-0.6903 0.55966,-1.25 1.25,-1.25 z m -11,1 c 0.69034,0 1.25,0.5597 1.25,1.25 0,0.6903 -0.55966,1.25 -1.25,1.25 -0.69034,0 -1.25,-0.5597 -1.25,-1.25 0,-0.6903 0.55966,-1.25 1.25,-1.25 z m 6.25,5 c 0.82843,0 1.5,0.6716 1.5,1.5 0,0.8284 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8284 0.67157,-1.5 1.5,-1.5 z"
@@ -6475,8 +6254,7 @@
        inkscape:label="art-gallery-18"
        transform="translate(-156,-24)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
->
+       inkscape:export-ydpi="90">
       <path
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 350.5,1293.3622 c -3.88889,0 -6.5,3.4444 -6.5,5 0,1.5 0.99999,2.5 2.5,2.5 1.55556,0 2,0.3333 2,1.5 0,1.5556 1.44444,2.5 3,2.5 4.5,0 6.5,-2.7778 6.5,-5.5 0,-4.6667 -3.634,-6 -7.5,-6 z m -1.5,1.5 c 0.55228,0 1,0.4477 1,1 0,0.5523 -0.44772,1 -1,1 -0.55228,0 -1,-0.4477 -1,-1 0,-0.5523 0.44772,-1 1,-1 z m 3,0 c 0.55227,0 1,0.4477 1,1 0,0.5523 -0.44773,1 -1,1 -0.55227,0 -1,-0.4477 -1,-1 0,-0.5523 0.44773,-1 1,-1 z m 3,1.5 c 0.54462,0 0.96875,0.4554 0.96875,1 0,0.5446 -0.42413,0.9688 -0.96875,0.9688 -0.54462,0 -1,-0.4242 -1,-0.9688 0,-0.5446 0.45538,-1 1,-1 z m -8,1 c 0.55229,0 1,0.4477 1,1 0,0.5523 -0.44771,1 -1,1 -0.55229,0 -1,-0.4477 -1,-1 0,-0.5523 0.44771,-1 1,-1 z m 4.25,3.5 c 0.69035,0 1.25,0.5597 1.25,1.25 0,0.6904 -0.55965,1.25 -1.25,1.25 -0.69035,0 -1.25,-0.5596 -1.25,-1.25 0,-0.6903 0.55965,-1.25 1.25,-1.25 z"
@@ -6501,6 +6279,111 @@
          width="18"
          id="rect6685"
          style="opacity:0.3;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g8812">
+      <rect
+         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect22190-58"
+         width="18.000017"
+         height="18.000031"
+         x="107.99998"
+         y="1266.3622" />
+      <g
+         transform="translate(0,-1)"
+         id="g8808">
+        <path
+           sodipodi:nodetypes="sccssccscsssscssccsccsc"
+           inkscape:connector-curvature="0"
+           id="path8670"
+           d="m 117,1270.8622 c -2.6706,0 -4.89588,1.9818 -5.41118,4.5 l -0.85198,0 c -0.36842,0 -0.73684,0.3684 -0.73684,0.7369 l 0,0.5263 c 0,0.3684 0.36842,0.7368 0.73684,0.7368 l 0.85198,0 c 0.5153,2.5184 2.74058,4.5 5.41118,4.5 2.6706,0 4.89588,-1.9816 5.41118,-4.5 l 0.85198,0 c 0.36842,0 0.73684,-0.3684 0.73684,-0.7368 l 0,-0.5263 c 0,-0.3685 -0.36842,-0.7369 -0.73684,-0.7369 l -0.85198,0 c -0.5153,-2.5182 -2.74058,-4.5 -5.41118,-4.5 z m 0,2 c 1.51529,0 2.78131,1.1425 3.24671,2.5 l -6.49342,0 c 0.4654,-1.3575 1.73142,-2.5 3.24671,-2.5 z m -3.24671,4.5 6.49342,0 c -0.4654,1.3575 -1.73142,2.5 -3.24671,2.5 -1.51529,0 -2.78131,-1.1425 -3.24671,-2.5 z"
+           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 117,1270.8622 c -2.6706,0 -4.89588,1.9818 -5.41118,4.5 l -0.85198,0 c -0.36842,0 -0.73684,0.3684 -0.73684,0.7369 l 0,0.5263 c 0,0.3684 0.36842,0.7368 0.73684,0.7368 l 0.85198,0 c 0.5153,2.5184 2.74058,4.5 5.41118,4.5 2.6706,0 4.89588,-1.9816 5.41118,-4.5 l 0.85198,0 c 0.36842,0 0.73684,-0.3684 0.73684,-0.7368 l 0,-0.5263 c 0,-0.3685 -0.36842,-0.7369 -0.73684,-0.7369 l -0.85198,0 c -0.5153,-2.5182 -2.74058,-4.5 -5.41118,-4.5 z m 0,2 c 1.51529,0 2.78131,1.1425 3.24671,2.5 l -6.49342,0 c 0.4654,-1.3575 1.73142,-2.5 3.24671,-2.5 z m -3.24671,4.5 6.49342,0 c -0.4654,1.3575 -1.73142,2.5 -3.24671,2.5 -1.51529,0 -2.78131,-1.1425 -3.24671,-2.5 z"
+           id="path7829"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sccssccscsssscssccsccsc" />
+      </g>
+    </g>
+    <g
+       id="g8842">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:label="parking-garage-24"
+         transform="translate(0,24)"
+         id="parking-garage-24">
+        <g
+           id="g15952"
+           transform="translate(0,6)">
+          <path
+             style="font-size:25.21008492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue Bold"
+             d="m 95,1215.3622 -7,2 0,2 7,-2 7,2 0,-2 z m -4,4 c -0.5,0 -1,0.5 -1,1 l 0,13 c 0,0.5 0.5,1 1,1 l 1,0 c 0.5,0 1,-0.5 1,-1 l 0,-3 2,0 c 4,0 6,-2.5 6,-5.5 0,-3 -2.117647,-5.5 -6,-5.5 z m 2,3 2,0 c 2,0 3,1 3,2.5 0,1.5 -1,2.5 -3,2.5 l -2,0 z"
+             id="path9783"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccsssssscsssscssscc" />
+          <path
+             id="path8288"
+             d="m 95,1215.3622 -7,2 0,2 7,-2 7,2 0,-2 z m -4,4 c -0.5,0 -1,0.5 -1,1 l 0,13 c 0,0.5 0.5,1 1,1 l 1,0 c 0.5,0 1,-0.5 1,-1 l 0,-3 2,0 c 4,0 6,-2.5 6,-5.5 0,-3 -2.117647,-5.5 -6,-5.5 z m 2,3 2,0 c 2,0 3,1 3,2.5 0,1.5 -1,2.5 -3,2.5 l -2,0 z"
+             style="font-size:25.21008492px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue Bold"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccscsssscsssscssscc" />
+        </g>
+        <rect
+           y="1218.3622"
+           x="84"
+           height="24.000017"
+           width="24"
+           id="rect22188"
+           style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect8831"
+           width="24"
+           height="24.000017"
+           x="84"
+           y="1242.3622" />
+      </g>
+      <g
+         id="g8837">
+        <g
+           id="g8833">
+          <path
+             style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             d="m 95.5,1270.3622 c -3.62438,0 -6.64441,2.5824 -7.34375,6 l -1.15625,0 c -0.5,0 -1,0.5 -1,1 l 0,1 c 0,0.5 0.5,1 1,1 l 1.15625,0 c 0.69934,3.4177 3.71937,6 7.34375,6 3.62438,0 6.64441,-2.5823 7.34375,-6 l 1.15625,0 c 0.5,0 1,-0.5 1,-1 l 0,-1 c 0,-0.5 -0.5,-1 -1,-1 l -1.15625,0 c -0.69934,-3.4176 -3.71937,-6 -7.34375,-6 z m 0,2.5 c 2.05647,0 3.86839,1.6577 4.5,3.5 l -9,0 c 0.63161,-1.8423 2.44353,-3.5 4.5,-3.5 z m -4.5,6.5 9,0 c -0.63161,1.8423 -2.44353,3.5 -4.5,3.5 -2.05647,0 -3.86839,-1.6577 -4.5,-3.5 z"
+             id="path7879"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="sccssccscsssscssccsccsc" />
+          <path
+             sodipodi:nodetypes="sccssccscsssscssccsccsc"
+             inkscape:connector-curvature="0"
+             id="path7698-1"
+             d="m 95.5,1270.3622 c -3.62438,0 -6.64441,2.5824 -7.34375,6 l -1.15625,0 c -0.5,0 -1,0.5 -1,1 l 0,1 c 0,0.5 0.5,1 1,1 l 1.15625,0 c 0.69934,3.4177 3.71937,6 7.34375,6 3.62438,0 6.64441,-2.5823 7.34375,-6 l 1.15625,0 c 0.5,0 1,-0.5 1,-1 l 0,-1 c 0,-0.5 -0.5,-1 -1,-1 l -1.15625,0 c -0.69934,-3.4176 -3.71937,-6 -7.34375,-6 z m 0,2.5 c 2.05647,0 3.86839,1.6577 4.5,3.5 l -9,0 c 0.63161,-1.8423 2.44353,-3.5 4.5,-3.5 z m -4.5,6.5 9,0 c -0.63161,1.8423 -2.44353,3.5 -4.5,3.5 -2.05647,0 -3.86839,-1.6577 -4.5,-3.5 z"
+             style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g8826"
+       transform="translate(0,-2)">
+      <path
+         style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 131.5,1270.3622 c -1.76528,0 -3.22866,1.301 -3.46875,3 l -1.03125,0 0,1 1.03125,0 c 0.24009,1.699 1.70347,3 3.46875,3 1.76528,0 3.22866,-1.301 3.46875,-3 l 1.03125,0 0,-1 -1.03125,0 c -0.24009,-1.699 -1.70347,-3 -3.46875,-3 z m 0,1.5 c 0.93197,0 1.71554,0.6373 1.9375,1.5 l -3.875,0 c 0.22196,-0.8627 1.00553,-1.5 1.9375,-1.5 z m -1.9375,2.5 3.875,0 c -0.22196,0.8627 -1.00553,1.5 -1.9375,1.5 -0.93197,0 -1.71554,-0.6373 -1.9375,-1.5 z"
+         id="path8752"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="1268.3622"
+         x="126"
+         height="12.000007"
+         width="11.999998"
+         id="rect22192-14-7"
+         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         id="path8744"
+         d="m 131.5,1270.3622 c -1.76528,0 -3.22866,1.301 -3.46875,3 l -1.03125,0 0,1 1.03125,0 c 0.24009,1.699 1.70347,3 3.46875,3 1.76528,0 3.22866,-1.301 3.46875,-3 l 1.03125,0 0,-1 -1.03125,0 c -0.24009,-1.699 -1.70347,-3 -3.46875,-3 z m 0,1.5 c 0.93197,0 1.71554,0.6373 1.9375,1.5 l -3.875,0 c 0.22196,-0.8627 1.00553,-1.5 1.9375,-1.5 z m -1.9375,2.5 3.875,0 c -0.22196,0.8627 -1.00553,1.5 -1.9375,1.5 -0.93197,0 -1.71554,-0.6373 -1.9375,-1.5 z"
+         style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
