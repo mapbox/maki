@@ -83,6 +83,8 @@ li.bus                  { background-position: -156px -120px; }
 li.fuel                 { background-position: -156px -144px; }
 li.parking              { background-position: -156px -168px; }
 li.parking-garage       { background-position: -156px -192px; }
+li.london-underground   { background-position: -156px -216px; }
+
 
 /*Category: recreation*/
 li.park                 { background-position: -234px 0; }
