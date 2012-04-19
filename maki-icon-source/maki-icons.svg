@@ -21,14 +21,14 @@
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#b1b1b1"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="344.69253"
-     inkscape:cy="-179.49563"
+     inkscape:zoom="4"
+     inkscape:cx="133.60566"
+     inkscape:cy="-185.57098"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -531,8 +531,8 @@
       </g>
     </g>
     <g
-       id="circle-solid-24"
-       inkscape:label="circle-solid-24"
+       id="circle-24"
+       inkscape:label="circle-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -570,8 +570,8 @@
          y="1074.3622" />
     </g>
     <g
-       id="circle-solid-18"
-       inkscape:label="circle-solid-18"
+       id="circle-18"
+       inkscape:label="circle-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -606,8 +606,8 @@
          style="opacity:0.50000000000000000;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       id="circle-solid-12"
-       inkscape:label="circle-solid-12"
+       id="circle-12"
+       inkscape:label="circle-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -731,8 +731,8 @@
          y="1098.3622" />
     </g>
     <g
-       id="square-solid-24"
-       inkscape:label="square-solid-24"
+       id="square-24"
+       inkscape:label="square-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -768,8 +768,8 @@
          style="opacity:0.50000000000000000;color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       id="square-solid-18"
-       inkscape:label="square-solid-18"
+       id="square-18"
+       inkscape:label="square-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -802,8 +802,8 @@
          y="1122.3622" />
     </g>
     <g
-       id="square-solid-12"
-       inkscape:label="square-solid-12"
+       id="square-12"
+       inkscape:label="square-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -913,8 +913,8 @@
          y="1146.3622" />
     </g>
     <g
-       id="triangle-solid-24"
-       inkscape:label="triangle-solid-24"
+       id="triangle-24"
+       inkscape:label="triangle-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -944,8 +944,8 @@
          y="1170.3622" />
     </g>
     <g
-       id="triangle-solid-18"
-       inkscape:label="triangle-solid-18"
+       id="triangle-18"
+       inkscape:label="triangle-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -972,8 +972,8 @@
          style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       id="triangle-solid-12"
-       inkscape:label="triangle-solid-12"
+       id="triangle-12"
+       inkscape:label="triangle-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -1000,8 +1000,8 @@
          y="1170.3622" />
     </g>
     <g
-       id="star-solid-24"
-       inkscape:label="star-solid-24"
+       id="star-24"
+       inkscape:label="star-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="translate(0,24)">
@@ -1038,8 +1038,8 @@
          style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       id="star-solid-18"
-       inkscape:label="star-solid-18"
+       id="star-18"
+       inkscape:label="star-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="translate(0,24)">
@@ -1067,8 +1067,8 @@
          y="1194.3622" />
     </g>
     <g
-       id="star-solid-12"
-       inkscape:label="star-solid-12"
+       id="star-12"
+       inkscape:label="star-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="translate(0,24)">
@@ -1288,17 +1288,16 @@
          id="g15380-8"
          style="display:inline"
          transform="translate(-72,262)">
-        <path
-           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="m 19,1013.8622 c 0,3.5 -5,9.5 -6.5,11.5 -1.5,-2.0001 -6.5,-8.0001 -6.5,-11.5001 0,-3.5 3.27126,-6.5 6.5,-6.5 3.22874,0 6.5,3 6.5,6.5 z"
-           id="path15235-8-2"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="scsss" />
         <g
            transform="translate(-101.99314,703.00001)"
            style="display:inline"
            id="marker-15-7-6-8-1-1-9"
            inkscape:label="marker-15">
+          <path
+             inkscape:connector-curvature="0"
+             style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.29999999999999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             d="m 114.49314,304.36219 c -3.22874,0 -6.5,3 -6.5,6.5 0,3.5 5,9.5 6.5,11.5 1.5,-2 6.5,-8 6.5,-11.5 0,-3.5 -3.27126,-6.5 -6.5,-6.5 z m 0,2 c 2.51124,0 4.5,1.77778 4.5,4.5 0,2.72222 -3.33334,6.94444 -4.5,8.5 -1.16666,-1.55556 -4.5,-5.77778 -4.5,-8.5 0,-2.72222 1.98876,-4.5 4.5,-4.5 z"
+             id="path4077" />
           <path
              id="path7962-4-3-5-3-7-1"
              d="m 114.49314,304.36219 c -3.22874,0 -6.5,3 -6.5,6.5 0,3.5 5,9.5 6.5,11.5 1.5,-2 6.5,-8 6.5,-11.5 0,-3.5 -3.27126,-6.5 -6.5,-6.5 z m 0,2 c 2.51124,0 4.5,1.77778 4.5,4.5 0,2.72222 -3.33334,6.94444 -4.5,8.5 -1.16666,-1.55556 -4.5,-5.77778 -4.5,-8.5 0,-2.72222 1.98876,-4.5 4.5,-4.5 z"
@@ -1373,8 +1372,8 @@
          y="1266.3622" />
     </g>
     <g
-       id="marker-solid-24"
-       inkscape:label="marker-solid-24"
+       id="marker-24"
+       inkscape:label="marker-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -1410,8 +1409,8 @@
          y="1290.3622" />
     </g>
     <g
-       id="marker-solid-18"
-       inkscape:label="marker-solid-18"
+       id="marker-18"
+       inkscape:label="marker-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -1525,8 +1524,8 @@
          y="1050.3622" />
     </g>
     <g
-       id="religious-islam-24"
-       inkscape:label="religious-islam-24"
+       id="religious-muslim-24"
+       inkscape:label="religious-muslim-24"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="translate(0,24)">
@@ -1552,8 +1551,8 @@
          y="1074.3622" />
     </g>
     <g
-       id="religious-islam-18"
-       inkscape:label="religious-islam-18"
+       id="religious-muslim-18"
+       inkscape:label="religious-muslim-18"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="translate(0,24)">
@@ -1581,8 +1580,8 @@
          style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       id="religious-islam-12"
-       inkscape:label="religious-islam-12"
+       id="religious-muslim-12"
+       inkscape:label="religious-muslim-12"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        transform="translate(0,24)">
@@ -1593,7 +1592,7 @@
            inkscape:connector-curvature="0"
            id="path4199"
            d="m 54,1076.3622 c -2.20914,0 -4,1.7909 -4,4 0,2.2091 1.79086,4 4,4 0.71498,0 1.38793,-0.2026 1.96875,-0.5312 -0.15181,0.02 -0.31145,0.031 -0.46875,0.031 -1.93297,0 -3.5,-1.567 -3.5,-3.5 0,-1.933 1.56703,-3.5 3.5,-3.5 0.1573,0 0.31694,0.011 0.46875,0.031 -0.656459,-0.3737 -1.214844,-0.5308 -1.96875,-0.5308 z m 3,1.5 -1,1.5 -1,0 1,1.5 -0.5,1.5 1.5,-1 1.5,1 -0.5,-1.5 1,-1.5 -1,0 z"
-           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.29999999999999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
         <path
            style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 54,1076.3622 c -2.20914,0 -4,1.7909 -4,4 0,2.2091 1.79086,4 4,4 0.71498,0 1.38793,-0.2026 1.96875,-0.5312 -0.15181,0.02 -0.31145,0.031 -0.46875,0.031 -1.93297,0 -3.5,-1.567 -3.5,-3.5 0,-1.933 1.56703,-3.5 3.5,-3.5 0.1573,0 0.31694,0.011 0.46875,0.031 -0.656459,-0.3737 -1.214844,-0.5308 -1.96875,-0.5308 z m 3,1.5 -1,1.5 -1,0 1,1.5 -0.5,1.5 1.5,-1 1.5,1 -0.5,-1.5 1,-1.5 -1,0 z"
@@ -6091,8 +6090,8 @@
       </g>
     </g>
     <g
-       id="marker-solid-12"
-       inkscape:label="marker-solid-12">
+       id="marker-12"
+       inkscape:label="marker-12">
       <rect
          style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect22085"
@@ -6228,7 +6227,7 @@
     </g>
     <g
        id="circle-stroked-24"
-       inkscape:label="#g4839">
+       inkscape:label="circle-stroked-24">
       <rect
          y="1050.3622"
          x="-72"
