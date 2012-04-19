@@ -505,6 +505,7 @@ body.searching #search-results { display: block; }
   border-radius: 2px;
   display: none;
   z-index: 1000;
+  white-space:nowrap;
   }
   .title-box:after {
     content: '';
