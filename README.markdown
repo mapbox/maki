@@ -57,6 +57,9 @@ To view the backlog of icons that need to be created, visit https://github.com/m
 - aeroway='helipad'
 - aeroway='aerodrome'
 - amenity='fuel'
+- Bicycle
+- Ferry
+- Harbor
 
 ### Commercial
 - amenity='bar'
@@ -90,3 +93,7 @@ To view the backlog of icons that need to be created, visit https://github.com/m
     - sport='cricket'
     - sport='basketball'
 - historic='monument'
+
+### Disaster / Emergency
+
+- landmine
