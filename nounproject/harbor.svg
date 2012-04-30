@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg6584">
+  <defs
+     id="defs6586" />
+  <metadata
+     id="metadata6589">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-952.362)"
+     id="layer1">
+    <path
+       d="m 70.833333,966.94528 c -8.054166,0 -14.583333,6.52918 -14.583333,14.58336 0,1.82667 0.428417,3.59709 1.041667,5.20834 l -34.375001,34.37512 c 0,-4.1667 0,-12.5001 0,-16.6668 0,-6.24997 4.166667,-8.33331 4.166667,-8.33331 L 31.25,1000.2786 c 0,0 0,-11.1112 0,-16.66663 0,-4.16667 -2.083334,-2.08333 -4.166667,0 -12.5,12.50002 -12.5,12.38502 -12.5,20.83333 l 0,16.6668 0,12.5 c 0,2.0833 2.083333,4.1666 4.166667,4.1666 l 12.5,0 16.666667,0 c 8.448291,0 15.277791,-6.9446 20.833333,-12.5 2.083333,-2.0833 4.166333,-4.1141 0,-4.1666 l -16.666667,0 4.166667,4.1666 c 0,0 -2.083333,4.1667 -8.333333,4.1667 -4.166667,0 -12.500001,0 -16.666667,0 l 34.375,-34.37508 c 1.611333,0.61334 3.38175,1.04167 5.208333,1.04167 8.054167,0 14.583334,-6.52917 14.583334,-14.58335 0,-8.05418 -6.529167,-14.58336 -14.583334,-14.58336 z m 0,8.33335 c 3.45175,0 6.25,2.79833 6.25,6.25001 0,3.45167 -2.79825,6.25001 -6.25,6.25001 -3.45175,0 -6.25,-2.79834 -6.25,-6.25001 0,-3.45168 2.79825,-6.25001 6.25,-6.25001 z"
+       id="path7602"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg6584">
+  <defs
+     id="defs6586" />
+  <metadata
+     id="metadata6589">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-952.362)"
+     id="layer1">
+    <path
+       d="m 47.916665,962.7787 c -4.60237,0 -8.33333,3.73083 -8.33333,8.33333 0,4.60249 3.73096,8.33332 8.33333,8.33332 4.60238,0 8.33333,-3.73083 8.33333,-8.33332 0,-4.6025 -3.73095,-8.33333 -8.33333,-8.33333 z m -23.958333,16.66665 2.083333,8.33333 c 1.04167,4.16666 3.52983,4.16666 6.64063,4.16666 l 6.90104,0 c 2.47396,4.16667 1.31112,10.29916 2.08333,16.66666 l -3.77604,0 c -4.16667,0 -10.80729,4.1667 -6.64063,12.5 l 6.25,12.5 c 4.16667,8.3333 10.41667,2.0833 8.33334,-2.0834 l -6.25,-12.4999 c -1.04167,-2.0834 1.10125,-2.0834 2.08333,-2.0834 l 10.28304,0 c 0,0 4.93225,10.9483 10.74209,18.4521 2.14466,2.77 4.52025,6.5479 7.49375,6.5479 2.08333,0 5.65349,-3.2196 1.85379,-7.7542 -7.11559,-8.4916 -11.62267,-17.2458 -11.62267,-21.4124 0,-4.8467 -0.85142,-15.05295 -2.08333,-20.83336 l 6.25,0 c 2.03333,4.07542 5.20833,10.41666 5.20833,10.41666 2.30308,3.9892 7.29167,3.6879 7.29167,0 0,-0.5062 0,-1.6204 -0.58134,-2.82 l -6.71033,-13.84665 c -0.42825,-0.88375 -1.05592,-2.08333 -4.16667,-2.08333 l -32.29166,0 -3.125,-10.41666 c -1.25,-4.16667 -7.29167,-4.16667 -7.29167,0 0,2.08333 0.738167,4.61291 1.041667,6.24999 z"
+       id="path10527-1"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
