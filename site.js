@@ -8,7 +8,7 @@ maki.map = function() {
 
     wax.tilejson(url, function(tilejson) {
         tilejson.minzoom = 16;
-        tilejson.maxzoom = 18;
+        tilejson.maxzoom = 17;
         var m = new mm.Map('map',
             new wax.mm.connector(tilejson), null, [
                 new mm.MouseHandler(),
