@@ -85,7 +85,6 @@ li.parking              { background-position: -156px -168px; }
 li.parking-garage       { background-position: -156px -192px; }
 li.london-underground   { background-position: -156px -216px; }
 
-
 /*Category: recreation*/
 li.park                 { background-position: -234px 0; }
 li.park-2               { background-position: -234px -24px; }
@@ -220,6 +219,8 @@ a.download span.download {
   #maki .canvas .limiter {
     position: relative;
     height: 421px;
+    height: auto!important;
+    min-height: 421px;
     width: 920px;
     }
 
@@ -228,7 +229,7 @@ a.download span.download {
   position: absolute;
   bottom: 1px;
   left: 50%;
-  margin: 0 0 20px -121px;
+  margin: 0 0 20px -120px;
   }
   .canvas-controls form input {
     background: #444 url(images/sprite.png) no-repeat -211px 10px;
@@ -251,7 +252,6 @@ ul.icon-group {
   float: left;
   width: 75px;
   margin-right: 20px;
-  margin-left: 20px;
   }
 ul.icon-set {
     width: 60px;
@@ -305,8 +305,7 @@ ul.icon-set {
       -moz-box-shadow: none;
       -webkit-box-shadow: none;
       box-shadow: none;
-      color: #ccc;
-      cursor: default;
+      color: #444;
       }
 
 .wax-tooltip {
