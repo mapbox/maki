@@ -47,12 +47,7 @@ maki.search = function () {
     var data = false;
     var icons = $('#maki-set');
     var search = $('#search');
-    var templateFormat =  '<li>'
-                        + '<ul class="icon-set clearfix">'
-                        + '<li class="icon <%=icon%>"><%=title%> icon</li>'
-                        + '</ul>'
-                        + '<span class="title-box"><%=title%></span>'
-                        + '</li>';
+    var templateFormat =  '<li><ul class="icon-set clearfix"><li class="icon <%=icon%>"><%=title%> icon</li></ul><span class="title-box"><%=title%></span></li>';
     var template = _.template(templateFormat);
     var find = function(phrase) {
         if (!data) return $.ajax({
