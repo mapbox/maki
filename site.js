@@ -51,16 +51,24 @@ maki.buildCanvas = function() {
   $.ajax({
     url: 'maki.json',
     dataType: 'json',
-    success: function(files) {
+    success: function(resp) {
       total = 0;
-      _.each(files, function(icon){
-        set.title = icon.name;
-        set.icon = icon.icon;
-        total++
-        $('#maki-set').append(template(set));
-      });
-      howMany();
-    }
+      data = _(resp).chain()
+        .compact()
+        .map(function(p) {
+            p.words = (p.name.toLowerCase() +' '+ (p.tags.toString()).toLowerCase()).match(/(\w+)/g);
+            return p;
+        })
+        .value();
+
+        _.each(data, function(icon){
+          set.title = icon.name;
+          set.icon = icon.icon;
+          total++
+          $('#maki-set').append(template(set));
+        });
+        howMany();
+      }
   });
 
   var howMany = function() {
@@ -78,20 +86,6 @@ maki.search = function () {
     var search = $('#search');
     var searchResults = _.template($('#search-icons').html());
     var find = function(phrase) {
-        if (!data) return $.ajax({
-            url: 'maki.json',
-            dataType: 'json',
-            success: function(resp) {
-              data = _(resp).chain()
-                  .compact()
-                  .map(function(p) {
-                      p.words = (p.name.toLowerCase() +' '+ (p.tags.toString()).toLowerCase()).match(/(\w+)/g);
-                      return p;
-                  })
-                  .value();
-              find(phrase);
-            }
-        });
         var matches = _(data).filter(function(p) {
             return _(phrase).filter(function(a) {
                 return _(p.words).any(function(b) {
