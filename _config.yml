@@ -2,8 +2,7 @@ auto: true
 server: true
 exclude:
   - README.markdown
-  - maki-icon-source 
-  - mounproject
+  - nounproject
 url: http://mapbox.com
 baseurl: /maki
 permalink: /:title.html
