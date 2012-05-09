@@ -43,25 +43,53 @@ maki.slideshow = function() {
 };
 $(maki.slideshow);
 
+maki.buildCanvas = function() {
+  var template = _.template($('#icon-collection').html());
+  var count = _.template($('#count').html());
+  var set = {}, total = 0;
+
+  $.ajax({
+    url: 'maki.json',
+    dataType: 'json',
+    success: function(files) {
+      total = 0;
+      _.each(files, function(icon){
+        set.title = icon.name;
+        set.icon = icon.icon;
+        total++
+        $('#maki-set').append(template(set));
+      });
+      howMany();
+    }
+  });
+
+  var howMany = function() {
+    $('.count').append(count({
+      setcount: total,
+      totalcount: total * 3
+    }));
+  }
+};
+$(maki.buildCanvas);
+
 maki.search = function () {
     var data = false;
     var icons = $('#maki-set');
     var search = $('#search');
-    var templateFormat =  '<li><ul class="icon-set clearfix"><li class="icon <%=icon%>"><%=title%> icon</li></ul><span class="title-box"><%=title%></span></li>';
-    var template = _.template(templateFormat);
+    var searchResults = _.template($('#search-icons').html());
     var find = function(phrase) {
         if (!data) return $.ajax({
-            url: 'search.json',
+            url: 'maki.json',
             dataType: 'json',
             success: function(resp) {
-                data = _(resp).chain()
-                    .compact()
-                    .map(function(p) {
-                        p.words = (p.title.toLowerCase() +' '+ (p.tags.toString()).toLowerCase()).match(/(\w+)/g);
-                        return p;
-                    })
-                    .value();
-                find(phrase);
+              data = _(resp).chain()
+                  .compact()
+                  .map(function(p) {
+                      p.words = (p.name.toLowerCase() +' '+ (p.tags.toString()).toLowerCase()).match(/(\w+)/g);
+                      return p;
+                  })
+                  .value();
+              find(phrase);
             }
         });
         var matches = _(data).filter(function(p) {
@@ -93,7 +121,9 @@ maki.search = function () {
             var matches = find(phrase.toLowerCase().match(/(\w+)/g));
             var widthClass = _.size(matches);
             _(matches).each(function(p) {
-                $('#search-results ul#results').addClass('active clearfix size-' + widthClass).append(template(p));
+                $('#search-results ul#results')
+                  .addClass('active clearfix size-' + widthClass)
+                  .append(searchResults(p));
             });
             if (matches.length) return;
         }

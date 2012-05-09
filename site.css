@@ -45,98 +45,6 @@
     }
 
 /* --------------------------------------
-  Sprites on the front page
------------------------------------------ */
-ul.icon-set li.icon {
-  background-image: url(images/icon-sprite.png);
-  width: 54px;
-  height: 24px;
-  margin-bottom: 4px;
-  }
-
-/*Category: Shapes*/
-li.circle-stroked       { background-position: 0 0; }
-li.circle-solid         { background-position: 0 -24px; }
-li.square-stroked       { background-position: 0 -48px; }
-li.square-solid         { background-position: 0 -72px; }
-li.triangle-stroked     { background-position: 0 -96px; }
-li.triangle-solid       { background-position: 0 -120px; }
-li.star-stroked         { background-position: 0 -144px; }
-li.star-solid           { background-position: 0 -168px; }
-li.cross                { background-position: 0 -192px; }
-li.marker-stroke        { background-position: 0 -216px; }
-li.marker-solid         { background-position: 0 -240px; }
-
-/*Category: religion*/
-li.religious-jewish     { background-position: -78px 0; }
-li.religious-christian  { background-position: -78px -24px; }
-li.religious-islam      { background-position: -78px -48px; }
-li.cemetery             { background-position: -78px -72px; }
-
-/*Category: transportation*/
-li.airport              { background-position: -156px 0; }
-li.heliport             { background-position: -156px -24px; }
-li.rail                 { background-position: -156px -48px; }
-li.rail-underground     { background-position: -156px -72px; }
-li.rail-above           { background-position: -156px -96px; }
-li.bus                  { background-position: -156px -120px; }
-li.fuel                 { background-position: -156px -144px; }
-li.parking              { background-position: -156px -168px; }
-li.parking-garage       { background-position: -156px -192px; }
-li.london-underground   { background-position: -156px -216px; }
-
-/*Category: recreation*/
-li.park                 { background-position: -234px 0; }
-li.park-2               { background-position: -234px -24px; }
-li.museum               { background-position: -234px -48px; }
-li.lodging              { background-position: -234px -72px; }
-li.monument             { background-position: -234px -96px; }
-li.zoo                  { background-position: -234px -120px; }
-li.garden               { background-position: -234px -144px; }
-li.campsite             { background-position: -234px -168px; }
-li.theatre              { background-position: -234px -192px; }
-li.art-gallery          { background-position: -234px -216px; }
-
-/*Category: sports*/
-li.pitch                { background-position: -312px 0; }
-li.soccer               { background-position: -312px -24px; }
-li.america-football     { background-position: -312px -48px; }
-li.tennis               { background-position: -312px -72px; }
-li.basketball           { background-position: -312px -96px; }
-li.baseball             { background-position: -312px -120px; }
-li.golf                 { background-position: -312px -144px; }
-li.swimming             { background-position: -312px -168px; }
-li.cricket              { background-position: -312px -192px; }
-li.skiing               { background-position: -312px -216px; }
-
-/*Category: amenity*/
-li.school               { background-position: -390px 0; }
-li.college              { background-position: -390px -24px; }
-li.library              { background-position: -390px -48px; }
-li.post                 { background-position: -390px -72px; }
-li.fire-station         { background-position: -390px -96px; }
-li.town-hall            { background-position: -390px -120px; }
-li.police               { background-position: -390px -144px; }
-li.prison               { background-position: -390px -168px; }
-li.embassy              { background-position: -390px -192px; }
-
-/*Category: commercial*/
-li.bar-2                { background-position: -468px 0; }
-li.restaurant           { background-position: -468px -24px; }
-li.cafe                 { background-position: -468px -48px; }
-li.shop                 { background-position: -468px -72px; }
-li.fast-food            { background-position: -468px -96px; }
-li.bar                  { background-position: -468px -120px; }
-li.bank                 { background-position: -468px -144px; }
-li.grocery              { background-position: -468px -168px; }
-li.cinema               { background-position: -468px -192px; }
-
-/*Category: social*/
-li.hospital             { background-position: -546px 0; }
-li.pharmacy             { background-position: -546px -24px; }
-
-
-/* --------------------------------------
   Maki frontpage specific styling
 ----------------------------------------- */
 #maki-hero {
@@ -171,6 +79,9 @@ li.pharmacy             { background-position: -546px -24px; }
   font-size: 20px;
   color: #fff;
   }
+  #maki-subtitle strong {
+    font-weight: normal;
+    }
 
 a.download {
   display: block;
@@ -227,9 +138,9 @@ a.download span.download {
 /*Search box*/
 .canvas-controls {
   position: absolute;
-  bottom: 1px;
+  bottom: 40px;
   left: 50%;
-  margin: 0 0 20px -120px;
+  margin: 0 0 0 -120px;
   }
   .canvas-controls form input {
     background: #444 url(images/sprite.png) no-repeat -211px 10px;
@@ -247,19 +158,14 @@ a.download span.download {
   width: 100%;
   top: 40px;
   left: 0;
-  }
-ul.icon-group {
-  float: left;
-  width: 75px;
-  margin-right: 20px;
+  padding-bottom: 80px;
   }
 ul.icon-set {
-    width: 60px;
-    position: relative;
-    }
-    ul.icon-set li {
-      float: left;
-      }
+  float: left;
+  margin: 0 15px;
+  width: 62px;
+  position: relative;
+  }
 
 #maki #map {
   background: #f5f5f5;
@@ -436,7 +342,7 @@ body.searching #search-results { display: block; }
   position: relative;
   }
   #search-results div {
-    display: none;
+    visibility: hidden;
     position: relative;
     padding: 20px;
     }
@@ -445,7 +351,7 @@ body.searching #search-results { display: block; }
     font-size: 20px;
     margin-top: 115px;
     }
-  #search-results div.active { display: block; }
+  #search-results div.active { visibility: inherit; }
 
   #search-results ul#results {
     position: absolute;

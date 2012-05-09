@@ -1,12 +1,11 @@
 ---
+title: maki
 layout: default
-title: Maki
 ---
 <link rel='stylesheet' href='{{site.baseurl}}/site.css' type='text/css'/>
+<link rel='stylesheet' href='{{site.baseurl}}/maki-sprite.css' type='text/css'/>
 
 <div id='maki'>
-  {% assign symbols = 64 %}
-
   <div id='maki-hero'>
     <div class='limiter clearfix content'>
       <div class='col-1 bordered-centered'>
@@ -24,85 +23,42 @@ title: Maki
   </div> <!-- /#maki-hero-->
   <div id='maki-subtitle'>
     <div class='limiter clip'>
-      Maki includes {{symbols}} different symbols at 3 sizes each. {{symbols | times:3}} total icons and growing.
+      <script type='text-template' id='count'>
+        <strong><%= setcount %></strong> different symbols at <strong>3</strong> sizes each. <strong><%= totalcount %></strong> total icons and growing.
+      </script>
+      Maki includes <span class='count'></span>
     </div>
   </div>
 
   <div class='canvas'>
     <div class='limiter clearfix content'>
-      <div id='maki-set' class='clearfix'>
-        {% if site.categories.shapes %}
-        <ul class='icon-group clearfix'>
-          <li>
-            {% for item in site.categories.shapes %}{% include poi-group.html %}{% endfor %}
-          </li>
+      <script type='text/template' id='icon-collection'>
+        <ul class='icon-set clearfix'>
+          <li class='icon <%= icon%>'>Icon</li>
+          <li class='title-box'><%= title%><small><%= icon %></small></li>
         </ul>
-        {% endif %}
-        {% if site.categories.religion %}
-        <ul class='icon-group clearfix'>
-          <li>
-            {% for item in site.categories.religion %}{% include poi-group.html %}{% endfor %}
-          </li>
-        </ul>
-        {% endif %}
-        {% if site.categories.transportation %}
-        <ul class='icon-group clearfix'>
-          <li>
-            {% for item in site.categories.transportation %}{% include poi-group.html %}{% endfor %}
-          </li>
-        </ul>
-        {% endif %}
-        {% if site.categories.recreation %}
-        <ul class='icon-group clearfix'>
-          <li>
-            {% for item in site.categories.recreation %}{% include poi-group.html %}{% endfor %}
-          </li>
-        </ul>
-        {% endif %}
-        {% if site.categories.sports %}
-        <ul class='icon-group clearfix'>
-          <li>
-            {% for item in site.categories.sports %}{% include poi-group.html %}{% endfor %}
-          </li>
-        </ul>
-        {% endif %}
-        {% if site.categories.amenity %}
-        <ul class='icon-group clearfix'>
-          <li>
-           {% for item in site.categories.amenity %}{% include poi-group.html %}{% endfor %}
-          </li>
-        </ul>
-        {% endif %}
-        {% if site.categories.commercial %}
-        <ul class='icon-group clearfix'>
-          <li>
-            {% for item in site.categories.commercial %}{% include poi-group.html %}{% endfor %}
-          </li>
-        </ul>
-        {% endif %}
-        {% if site.categories.social %}
-        <ul class='icon-group clearfix'>
-          <li>
-            {% for item in site.categories.social %}{% include poi-group.html %}{% endfor %}
-          </li>
-        </ul>
-        {% endif %}
-      </div>
-
+      </script>
+      <div id='maki-set' class='clearfix'></div>
+      <script type='text/template' id='search-icons'>
+        <li>
+          <ul class="icon-set clearfix">
+            <li class="icon <%=icon %>"><%=name %> icon</li>
+          </ul><span class="title-box"><%=name %><small><%= icon %></small></span>
+        </li>
+      </script>
       <div id='search-results' class='limiter title clearfix'>
         <a href='#' class='icon close' title='Press ESC to close'>X</a>
         <div class='empty active'>No results found.</div>
         <ul id='results'></ul>
         <a href='{{site.baseurl}}/maki-icon-source/maki.zip' class='search-download'>Download maki.zip</a>
       </div>
-
       <div class='canvas-controls'>
         <form id='search'>
           <input type='text' placeholder='e.g Golf or Bank'>
         </form>
       </div>
     </div>
-  </div> <!-- /.canvas--->
+  </div>
 
   <div class='limiter clip'>
     <div class='content prose clearfix'>
@@ -146,7 +102,7 @@ title: Maki
       <hr />
       <div class='clearfix'>
         <div class='col-2'>
-          <a href='{{site.baseurl}}/maki-icon-source/maki.zip' class='download clearfix'>
+          <a href='/maki-icon-source/maki.zip' class='download clearfix'>
             <span class='fr icon download'>&nbsp;</span>
             <span class='title'>Download the complete icon set</span><br />
             <span class='filename'>maki.zip</span>
@@ -155,7 +111,7 @@ title: Maki
         <div class='col-2 includes'>
           <strong>Includes:</strong>
           <ul>
-            <li><strong>{{symbols | times:3}}</strong> total icons and growing</li>
+            <li class='count'></li>
             <li><strong>24px/18px/12px</strong> .png and the .svg source</li>
           </ul>
         </div>
