@@ -119,7 +119,7 @@
             "shape",
             "shapes"
         ],
-        "icon": "marker-solid"
+        "icon": "marker"
     },
     {
         "name": "Religious Jewish",
@@ -149,16 +149,16 @@
         "icon": "religious-christian"
     },
     {
-        "name": "Religious Islam",
+        "name": "Religious Muslim",
         "tags": [
-            "islam",
+            "muslim",
             "crescent",
             "star",
             "religious",
             "religion",
             "mosque"
         ],
-        "icon": "religious-islam"
+        "icon": "religious-muslim"
     },
     {
         "name": "Cemetery",
