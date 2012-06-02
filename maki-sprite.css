@@ -7,16 +7,16 @@ ul.icon-set li.icon {
 
 /*Category: Shapes*/
 li.circle-stroked       { background-position: 0 0; }
-li.circle-solid         { background-position: 0 -24px; }
+li.circle               { background-position: 0 -24px; }
 li.square-stroked       { background-position: 0 -48px; }
-li.square-solid         { background-position: 0 -72px; }
+li.square               { background-position: 0 -72px; }
 li.triangle-stroked     { background-position: 0 -96px; }
-li.triangle-solid       { background-position: 0 -120px; }
+li.triangle             { background-position: 0 -120px; }
 li.star-stroked         { background-position: 0 -144px; }
-li.star-solid           { background-position: 0 -168px; }
+li.star                 { background-position: 0 -168px; }
 li.cross                { background-position: 0 -192px; }
 li.marker-stroke        { background-position: 0 -216px; }
-li.marker-solid         { background-position: 0 -240px; }
+li.marker               { background-position: 0 -240px; }
 
 /*Category: religion*/
 li.religious-jewish     { background-position: -78px 0; }
@@ -43,7 +43,7 @@ li.bicycle              { background-position: -156px -336px; }
 
 /*Category: recreation*/
 li.park                 { background-position: -234px 0; }
-li.park-2               { background-position: -234px -24px; }
+li.park2                { background-position: -234px -24px; }
 li.museum               { background-position: -234px -48px; }
 li.lodging              { background-position: -234px -72px; }
 li.monument             { background-position: -234px -96px; }
@@ -77,7 +77,7 @@ li.prison               { background-position: -390px -168px; }
 li.embassy              { background-position: -390px -192px; }
 
 /*Category: commercial*/
-li.bar-2                { background-position: -468px 0; }
+li.beer                 { background-position: -468px 0; }
 li.restaurant           { background-position: -468px -24px; }
 li.cafe                 { background-position: -468px -48px; }
 li.shop                 { background-position: -468px -72px; }

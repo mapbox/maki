@@ -344,7 +344,7 @@
             "woods",
             "nature"
         ],
-        "icon": "park-2"
+        "icon": "park2"
     },
     {
         "name": "Museum",
@@ -622,7 +622,7 @@
         "icon": "embassy"
     },
     {
-        "name": "Bar 2",
+        "name": "Beer",
         "tags": [
             "bar",
             "beer",
@@ -630,7 +630,7 @@
             "commercial",
             "biergarten"
         ],
-        "icon": "bar-2"
+        "icon": "beer"
     },
     {
         "name": "Restaurant",
