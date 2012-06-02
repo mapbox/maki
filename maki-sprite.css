@@ -15,13 +15,13 @@ li.triangle             { background-position: 0 -120px; }
 li.star-stroked         { background-position: 0 -144px; }
 li.star                 { background-position: 0 -168px; }
 li.cross                { background-position: 0 -192px; }
-li.marker-stroke        { background-position: 0 -216px; }
+li.marker-stroked       { background-position: 0 -216px; }
 li.marker               { background-position: 0 -240px; }
 
 /*Category: religion*/
 li.religious-jewish     { background-position: -78px 0; }
 li.religious-christian  { background-position: -78px -24px; }
-li.religious-islam      { background-position: -78px -48px; }
+li.religious-muslim     { background-position: -78px -48px; }
 li.cemetery             { background-position: -78px -72px; }
 
 /*Category: transportation*/
