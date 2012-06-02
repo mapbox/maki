@@ -21,7 +21,7 @@
             "geometric",
             "round"
         ],
-        "icon": "circle-solid"
+        "icon": "circle"
     },
     {
         "name": "Square stroked",
@@ -44,7 +44,7 @@
             "shapes",
             "geometric"
         ],
-        "icon": "square-solid"
+        "icon": "square"
     },
     {
         "name": "Triangle stroked",
@@ -65,7 +65,7 @@
             "shapes",
             "geometric"
         ],
-        "icon": "triangle-solid"
+        "icon": "triangle"
     },
     {
         "name": "Star stroked",
@@ -86,7 +86,7 @@
             "shapes",
             "geometric"
         ],
-        "icon": "star-solid"
+        "icon": "star"
     },
     {
         "name": "cross",
