@@ -109,7 +109,7 @@
             "shapes",
             "stroke"
         ],
-        "icon": "marker-stroke"
+        "icon": "marker-stroked"
     },
     {
         "name": "Marker Solid",
