@@ -13,14 +13,16 @@ layout: default
         <a href='{{site.baseurl}}/maki-icon-source/maki.zip' class='download'>
           <span class='fr icon download'>&nbsp;</span>
           <span class='filename'>Maki.zip</span><br />
-          <span class='filesize'>400kb</span>
+          <small>225kb</small>
         </a>
       </div>
       <div class='col-3'>
-        <h2 class='tagline'>A clean point of interest icon set made especially for cartography.{{paginator}}</h2>
+        <h2 class='tagline'>A clean point of interest icon set made for web cartography.</h2>
       </div>
     </div>
-  </div> <!-- /#maki-hero-->
+  </div> 
+  
+  <!-- /#maki-hero-->
   <div id='maki-subtitle'>
     <div class='limiter clip'>
       <script type='text-template' id='count'>
@@ -41,9 +43,9 @@ layout: default
       <div id='maki-set' class='clearfix'></div>
       <script type='text/template' id='search-icons'>
         <li>
-          <ul class="icon-set clearfix">
-            <li class="icon <%=icon %>"><%=name %> icon</li>
-          </ul><span class="title-box"><%=name %><small><%= icon %></small></span>
+          <ul class='icon-set clearfix'>
+            <li class='icon <%=icon %>'><%=name %> icon</li>
+          </ul><span class='title-box'><%=name %><small><%= icon %></small></span>
         </li>
       </script>
       <div id='search-results' class='limiter title clearfix'>
@@ -60,65 +62,94 @@ layout: default
     </div>
   </div>
 
-  <div class='limiter clip'>
-    <div class='content prose clearfix'>
-      <div id='map'>
-        <h3 class='title'>Uniquely crafted to make your TileMill maps beautiful and meaningful.</h3>
-        <div id='controls'></div>
-      </div>
-      <div class='clearfix'>
-        <div class='col maki-thesis'>
-          <h3>Designed pixel-by-pixel to look great at  small sizes but scale up elegantly</h3>
-          <p>We designed Maki specifically for TileMill with the goal of creating an international, comprehensive, and stylistically unified point of interest icon set. Each symbol is drawn three times at different sizes to maximize crispness and readability. Maki symbols are based on international recognized symbols, following precedents set by <a href='http://www.aiga.org/symbol-signs'>AIGA</a> and other international symbol systems, but preserving a unique look at feel.</p>
-          <p>Use Maki for everything from adding context to the base map of your mobile app to highlighting critical data on your disaster map. Just download the icons and <a href="http://mapbox.com/tilemill/docs/guides/using-maki-icons"> start using them with TileMill</a> or put them on your server to integrate with another mapping API.</p>
-        </div>
-        <div id='maki-icon-preview' class='col'>
-          <div class='preview-screen'>
-            <img style='display: block;' class='size-24 active' src='{{site.baseurl}}/images/gas-big-24.png' alt='' />
-            <img style='display: none;' class='size-18' src='{{site.baseurl}}/images/gas-big-18.png' alt='' />
-            <img style='display: none;' class='size-12' src='{{site.baseurl}}/images/gas-big-12.png' alt='' />
+  <div class='overview'>
+    <div class='limiter clip'>
+      <div class='content prose clearfix'>
+      
+        <!-- <div id='map'>
+          <h3 class='title'>Uniquely crafted to make your TileMill maps beautiful and meaningful.</h3>
+          <div id='controls'></div>
+        </div> 
+        -->
+        
+        <div class='clearfix maki-details'>
+          <div class='col maki-thesis'>
+            <h2>Designed pixel-by-pixel to look great at small sizes but scale up elegantly.</h2>
+            <p>We designed Maki with the goal of creating an international, comprehensive, and stylistically unified point of interest icon set. In order to maximize crispness and clarity, we've made three size variations of each symbol. Use all three sizes to scale the icons with the map as you zoom in and out.</p>
           </div>
-          <span id='arrow' class='size-24'>&nbsp;</span>
-          <ul>
-            <li><a href='#size-24' class='icon size-24 active'>24px</a></li>
-            <li><a href='#size-18' class='size-18 icon'>18px</a></li>
-            <li><a href='#size-12' class='size-12 icon'>12px</a></li>
-          </ul>
+          
+          <div id='maki-icon-preview' class='col'>
+            <ul>
+              <li><a href='#size-24' class='size-24 active'><span class="icon size-24">24px</span></a></li>
+              <li><a href='#size-18' class='size-18'><span class="icon size-18">18px</span></a></li>
+              <li><a href='#size-12' class='size-12'><span class="icon size-12">12px</span></a></li>
+            </ul>
+              <div class='preview-screen'>
+              <img style='display: block;' class='size-24 active' src='{{site.baseurl}}/images/maki-preview-24.png' alt='' />
+              <img style='display: none;' class='size-18' src='{{site.baseurl}}/images/maki-preview-18.png' alt='' />
+              <img style='display: none;' class='size-12' src='{{site.baseurl}}/images/maki-preview-12.png' alt='' />
+            </div>
+          </div>
         </div>
-      </div>
-      <hr />
-      <div class='clearfix'>
-        <div class='col-2'>
-          <img src='{{site.baseurl}}/images/maki-illustration-1.png' alt='' />
-          <h3>Maki and MapBox give you more control</h3>
-          <p>Maki icons are easy to use with MapBox. Just reference the icons in TileMill with Carto to include exactly as little or as much context as you want in your map. For detailed instructions on how to use Maki on your maps, <a href='http://mapbox.com/tilemill/docs/guides/using-maki-icons'>check out the documentation</a>.</p>
-        </div>
-        <div class='col-2'>
-          <img src='{{site.baseurl}}/images/maki-illustration-2.png' alt='' />
-          <h3>Open source and actively developed</h3>
-          <p>Maki icons are licensed under BSD, which means you're free to use, modify, and share these icons. If you'd like to make requests or suggest changes, <a href='https://github.com/mapbox/maki/issues/new'>create an issue on Github</a>. View the public repository at <a href='https://github.com/mapbox/maki'>github.com/mapbox/maki</a>.</p>
-        </div>
-      </div>
-      <hr />
-      <div class='clearfix'>
-        <div class='col-2'>
-          <a href='/maki/maki-icon-source/maki.zip' class='download clearfix'>
-            <span class='fr icon download'>&nbsp;</span>
-            <span class='title'>Download the complete icon set</span><br />
-            <span class='filename'>maki.zip</span>
-          </a>
-        </div>
-        <div class='col-2 includes'>
-          <strong>Includes:</strong>
-          <ul>
-            <li class='count'></li>
-            <li><strong>24px/18px/12px</strong> .png and the .svg source</li>
-          </ul>
+        
+        <div class='clearfix'>
+          <div class='col-1'>
+            <div class='box tall'>
+              <img src='{{site.baseurl}}/images/maki-universal.png' alt='' />
+              <h3>Universal</h3>
+              <p>Before beginning each icon, we look for a common symbol that has recognition across cultures.</p>
+            </div>
+          </div>
+          <div class='col-1'>
+            <div class='box tall'>
+              <img src='{{site.baseurl}}/images/maki-madeformapping.png' alt='' />
+              <h3>Made for Mapping</h3>
+              <p>Size and simplicity are the top design priorities for Maki, so the icons will look clear but won't crowd your map.</p>
+            </div>
+          </div>
+          <div class='col-1'>
+            <div class='box tall'>
+              <img src='{{site.baseurl}}/images/maki-legible.png' alt='' />
+              <h3>Legible</h3>
+              <p>All the icons include a subtle border so they stand out against complex or dark backgrounds.</p>
+            </div>
+          </div>
+          <div class='col-1'>
+            <div class='box tall'>
+              <img src='{{site.baseurl}}/images/maki-opensource.png' alt='' />
+              <h3>Made for Mapping</h3>
+              <p><a href='https://github.com/mapbox/maki'>Visit the GitHub repository</a> to fork, contribute, and provide feedback on Maki.</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </div>
+  
+    <div class='limiter clip'>
+      <div class='clearfix'>
+        <div class='col-2'>
+          <h3>Need help using Maki?</h3>
+          
+          <div class='helpnav'>
+            <a href=''>Using Maki in TileMill</a>
+            <a href=''>Recoloring Maki icons</a>
+          </div>
+        </div>
+        
+        <div class='col-2'>  
+          <a href='/maki/maki-icon-source/maki.zip' class='download clearfix'>
+            <span class='fr icon download'>&nbsp;</span>
+            <span class='title'>Download the complete icon set</span>
+            <span class='filename'>maki.zip</span>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
 </div>
+
 <script src='{{site.baseurl}}/wax/modestmaps.min.js'></script>
 <script src='{{site.baseurl}}/wax/wax.mm.min.js'></script>
 <script src='{{site.baseurl}}/wax/deadsea.min.js'></script>

@@ -13,16 +13,13 @@
 /* --------------------------------------
   Some delineation
 ----------------------------------------- */
-.branding {
-  position: relative;
-  z-index: 100;
-  box-shadow: 0 0 20px #222;
-  -moz-box-shadow: 0 0 20px #222;
-  -webkit-box-shadow: 0 0 20px #222;
-  }
 #maki h3 {
   margin: 20px 0;
   }
+#maki h2 {
+  line-height: 1.5em;
+}
+
 #maki .title {
   border: none;
   font-size: 20px;
@@ -48,10 +45,11 @@
   Maki frontpage specific styling
 ----------------------------------------- */
 #maki-hero {
-  background: #444;
+  background: #afc975 url(images/maki-dot-pattern.png) 0 0 repeat;
   height: 180px;
   color: white;
-  }
+  box-shadow: inset rgba(0, 0, 0, 0.2) 0px 10px 20px -10px;
+  } 
   #maki-hero h1 a {
     background-position: 0 0;
     width: 140px;
@@ -65,67 +63,59 @@
     margin-top: 40px;
     }
   #maki-hero .bordered-centered {
-    width: 200px;
-    height: 140px;
-    padding-top: 40px;
+    width: 199px;
+    height: 130px;
+    padding-top: 50px;
     margin-right: 20px;
     padding-right: 20px;
+    border-right: 1px solid #8fa363;
     }
 
+.tagline { padding-left: 20px;}
+
 #maki-subtitle {
-  background: #303030;
+  background: url(images/maki-dot-pattern.png) 0 0 repeat #afc975;
   height: 60px;
   line-height: 60px;
   font-size: 20px;
   color: #fff;
   }
-  #maki-subtitle strong {
-    font-weight: normal;
-    }
+
+#maki-subtitle .limiter {
+  background: url(images/maki-dot-pattern.png) 0 0 repeat #8fa363;
+  width: 920px;
+  text-indent: 20px;
+  -webkit-border-radius: 5px 5px 0px 0px;
+  border-radius: 5px 5px 0px 0px;
+  }
 
 a.download {
   display: block;
-  -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   border-radius: 5px;
-  border: 1px solid #ddd;
-  padding: 15px 20px;
   transition:all 250ms;
   -moz-transition:all 250ms;
   -webkit-transition:all 250ms;
+  background: white;
   }
   #maki-hero a.download {
-    border-color: #999;
+    border: 1px solid transparent;
     width: 138px;
     height: 38px;
     padding: 5px 10px;
     margin-left: 20px;
     }
-    a.download:hover { border-color: #444; }
-    #maki-hero a.download:hover { border-color: #fff; }
-
-#maki-hero a.download span.filesize {
-  color: #fff;
-  }
-a.download span.filename {
-  color: #888;
-  }
-  #maki-hero a.download span.filename {
-    color: #afc975;
-    }
+    a.download:hover { border-color: #8fa363; }
+    #maki-hero a.download:hover { border-color: #8fa363; }
 
 a.download span.download {
   background-position: -45px -25px;
   width: 40px;
   height: 40px;
   }
-  #maki-hero a.download span.download {
-    background-position: 0 -25px;
-    }
 
 #maki .canvas {
   background: #fff url(images/bg.png) repeat 0 0;
-  margin-bottom: 40px;
   }
   #maki .canvas .limiter {
     position: relative;
@@ -248,41 +238,38 @@ ul.icon-set {
     }
 }
 
+.overview {
+  background: url(images/maki-dot-pattern.png) 0 0 repeat #afc975;  
+  color: white;
+  }
+
+.maki-details {
+  background: url(images/maki-dot-pattern.png) 0 0 repeat #8fa363;
+  padding: 20px;
+  height: 190px;
+  width: 880px;
+  -webkit-border-radius: 0px 0px 5px 5px;
+  border-radius: 0px 0px 5px 5px;
+  margin-bottom: 20px;
+  }
 
 .col.maki-thesis {
-  width: 580px;
+  width: 420px;
   margin-right: 40px;
   }
 .col#maki-icon-preview {
-  width: 280px;
+  width: 420px;
   margin-left: 0;
   margin-right: 0;
   position: relative;
-  margin-bottom: 20px;
   }
-  #maki-icon-preview #arrow {
-    background: transparent url(images/sprite.png) no-repeat -140px 0;
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    top: 205px;
-    left: 45px;
-    -moz-transition: left 0.2s ease-in;
-    -o-transition: left 0.2s ease-in;
-    -webkit-transition: left 0.2s ease-in;
-    transition: left 0.2s ease-in;
-    }
-    #maki-icon-preview #arrow.size-24 { left: 55px; }
-    #maki-icon-preview #arrow.size-18 { left: 100px; }
-    #maki-icon-preview #arrow.size-12 { left: 145px; }
-
   .preview-screen {
-    background: #AFC975;
-    -moz-border-radius: 5px;
+    float: left;
+    background: white url(images/maki-preview-bg.png) 0 0 no-repeat;
     -webkit-border-radius: 5px;
-    border-radius: 5px;
-    width: 210px;
-    height: 210px;
+    border-radius: 0 5px 5px 0 ;
+    width: 190px;
+    height: 190px;
     margin: auto;
     position: relative;
     overflow: hidden;
@@ -292,50 +279,80 @@ ul.icon-set {
     top: 10px;
     left: 10px;
     }
+    .preview-screen img.size-12 { top:45px; left: 45px; }
+    .preview-screen img.size-18 { top:18px; left: 18px; }
+    .preview-screen img.size-24 { top:15px; left: 7px; }
   #maki-icon-preview ul {
-    width: 150px;
-    margin: 20px 0 0 45px;
+    float: left;
+    width: 229px;
     list-style: none;
+    margin-right: 1px;
     }
     #maki-icon-preview ul li {
-      float: left;
-      margin-right: 5px;
+      margin-right: 1px;
       margin-left: 0;
       list-style: none;
+      position: relative;
       }
       #maki-icon-preview ul li a {
-        background-color: #afc975;
-        -moz-border-radius: 5px;
-        -webkit-border-radius: 5px;
-        border-radius: 5px;
         display: block;
-        width: 40px;
-        height: 40px;
+        background-color: #afc975;
+        width: 229px;
+        height: 34px;
+        margin-bottom: 1px;
+        transition:all 250ms;
+        -moz-transition:all 250ms;
+        -webkit-transition:all 250ms;
+        color: white;
+        font-size: 14px;
+        font-weight: bold;
+        padding-top: 20px;
         }
+        #maki-icon-preview ul li a.size-12 { border-radius: 0 0 0 5px; }
+        #maki-icon-preview ul li a.size-24 { border-radius: 5px 0 0 0; }
+
         #maki-icon-preview ul li a.active,
         #maki-icon-preview ul li a:active {
-          background-color: #839065;
+          background-color: #fff;
           }
-        #maki-icon-preview ul li a.icon.size-24 { background-position: -90px -25px; }
-        #maki-icon-preview ul li a.icon.size-18 { background-position: -135px -25px; }
-        #maki-icon-preview ul li a.icon.size-12 { background-position: -180px -25px; }
+        #maki-icon-preview ul li a.active {
+          height: 60px;
+          color: #afc975;
+          }
+        
+  #maki-icon-preview ul li .icon { 
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0px;
+    right: 0;
+    width: 80px;
+    height: 24px;
+    margin: auto;
+    text-indent: 30px;
+    }
+  
+  #maki-icon-preview ul li .icon.size-24 { background-position: -99px -32px; }
+  #maki-icon-preview ul li .icon.size-18 { background-position: -97px -82px; }
+  #maki-icon-preview ul li .icon.size-12 { background-position: -94px -114px; }
 
-        #maki-icon-preview ul li a.active:after {
-          content: '';
-          position: absolute;
-          top: 240px;
-          left: 190px;
-          color: #CCC;
-          text-indent: 0;
-          font-size: 16px;
-          }
-        #maki-icon-preview ul li a.active.size-24:after { content: '24px'; }
-        #maki-icon-preview ul li a.active.size-18:after { content: '18px'; }
-        #maki-icon-preview ul li a.active.size-12:after { content: '12px'; }
+.content .box {
+  position:relative;
+  background: url(images/maki-dot-pattern.png) 0 0 repeat #8FA363;
+  padding:20px;
+  margin:0px 0px 20px;
+  border-radius:5px;
+  -moz-border-radius:5px;
+  -webkit-border-radius:5px;
+}
+.content .box.tall { min-height:250px; }
 
 /* --------------------------------------
   Searching icons on the front page
 ----------------------------------------- */
+
+.title { padding: 0;}
+
 body.searching #search-results { display: block; }
 #search-results {
   display: none;
@@ -347,6 +364,8 @@ body.searching #search-results { display: block; }
     padding: 20px;
     }
   #search-results div.empty {
+    position: absolute;
+    left: 0; right: 0;
     text-align: center;
     font-size: 20px;
     margin-top: 115px;
