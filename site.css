@@ -18,7 +18,7 @@
   }
 #maki h2 {
   line-height: 1.5em;
-}
+  }
 
 #maki .title {
   border: none;
@@ -44,6 +44,12 @@
 /* --------------------------------------
   Maki frontpage specific styling
 ----------------------------------------- */
+.overview a {
+	color: #2c4864;
+  }
+
+.wrapper { background: white;}
+
 #maki-hero {
   background: #afc975 url(images/maki-dot-pattern.png) 0 0 repeat;
   height: 180px;
@@ -90,29 +96,54 @@
   }
 
 a.download {
+	margin-left: 20px;
+  }
+a.download, .footerdownload div.download {
   display: block;
-  -webkit-border-radius: 5px;
   border-radius: 5px;
   transition:all 250ms;
   -moz-transition:all 250ms;
   -webkit-transition:all 250ms;
   background: white;
+  border: 1px solid transparent;
+  width: 138px;
+  height: 38px;
+  padding: 5px 10px;
   }
-  #maki-hero a.download {
-    border: 1px solid transparent;
-    width: 138px;
-    height: 38px;
-    padding: 5px 10px;
-    margin-left: 20px;
+  a.download:hover { border-color: #8fa363; }
+  a.download span.download, .download span.download {
+    background-position: -45px -25px;
+    width: 40px;
+    height: 40px;
     }
-    a.download:hover { border-color: #8fa363; }
-    #maki-hero a.download:hover { border-color: #8fa363; }
+  
+  .footerdownload {
+	  border: 1px solid #DDD;
+	  border-radius: 5px;
+	  transition:all 250ms;
+    -moz-transition:all 250ms;
+    -webkit-transition:all 250ms;
+    }
+  .footerdownload div.download {
+	  border: 0px;
+    border-right: 1px solid #ddd;
+    border-radius: 5px 0 0 5px;
+    margin-left: 0;
+    float: left;
+    }
+    .footerdownload:hover, .footerdownload:hover div.download { border-color: #888; }  
 
-a.download span.download {
-  background-position: -45px -25px;
-  width: 40px;
-  height: 40px;
-  }
+  .footerdownload .description {
+    float: right;
+    width: 259px;
+    border-radius: 0 5px 5px 0;
+    padding: 14px 10px 5px 10px;
+    height: 29px;
+    padding-top: 14px; 
+    background: #F4F4F4;
+    overflow: hidden;
+    color: #444;
+    }
 
 #maki .canvas {
   background: #fff url(images/bg.png) repeat 0 0;
@@ -344,8 +375,31 @@ ul.icon-set {
   border-radius:5px;
   -moz-border-radius:5px;
   -webkit-border-radius:5px;
-}
-.content .box.tall { min-height:250px; }
+  }
+  .content .box.tall { min-height:250px; }
+
+.helpnav {
+  border: 1px solid #DDD;
+  background: #F4F4F4;
+  border-radius: 5px;
+  width: 400px;
+  padding: 0 20px;
+  }
+  .helpnav a {
+    float: left;
+    width: 169px;
+    height: 34px;
+    margin: 0px;
+    padding-top: 14px;
+    padding-left: 30px;
+    background: url(http://mapbox.com/images/sprite.png) -380px -106px no-repeat;
+    }
+    .helpnav a:last-child { 
+    border-left: 1px solid #DDD; 
+    padding-left: 50px;
+    width: 149px;
+    background: url(http://mapbox.com/images/sprite.png) -363px -106px no-repeat;
+    }
 
 /* --------------------------------------
   Searching icons on the front page
