@@ -53,7 +53,7 @@ maki.search = function () {
     var data;
 
     $.ajax({
-      url: 'maki.json',
+      url: 'www/maki.json',
       dataType: 'json',
       success: function(resp) {
         total = 0;
