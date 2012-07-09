@@ -1,6 +1,6 @@
 if [ -z `which inkscape` ]; then
     echo "inkscape command is required."
-    echo "Mac OS X users add `/Applications/Inkscape.app/Contents/Resources/bin` to your PATH."
+    echo "Mac OS X users add /Applications/Inkscape.app/Contents/Resources/bin to your PATH."
     exit;
 fi
 
