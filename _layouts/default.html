@@ -1,104 +1,165 @@
 ---
 navigation:
-  - title: Tour
-    path: /tour
-    category: tour
-    class: tour
-  - title: Maps
-    path: /maps
-    category: maps
-    class: maps
-  - title: TileMill
-    path: /tilemill
-    category: tilemill
-    class: tilemill
-  - title: Help
-    path: /help
-    category: help,documentation
-    class: help
-  - title: Plans + Pricing
-    path: /plans
+  - title: Design
+    path: /tour/design
+  - title: Publish
+    path: /tour/publish
+  - title: Scale
+    path: /tour/scale
+  - title: Pricing
     category: plans
     class: plans
+    path: /plans
 footer:
-  - title: About
-    path: /about
-  - title: Blog
-    path: /blog
-  - title: Mobile SDK
-    path: /mobile
-  - title: Contact
-    path: /contact
-  - title: Terms of Service
-    path: /tos
-  - title: Privacy Policy
-    path: /privacy
-  - title: Status
-    path: /status
+  tour:
+    - title: Design
+      path: /tour/design
+    - title: Publish
+      path: /tour/publish
+    - title: Scale
+      path: /tour/scale
+  mapbox:
+    - title: About
+      path: /about
+    - title: Pricing
+      path: /plans
+    - title: Premium
+      path: /plans/premium
+    - title: Blog
+      path: /blog
+    - title: Status
+      path: http://mapbox.com/status
+  help:
+    - title: Creating
+      path: /creating
+    - title: Publishing
+      path: /publishing
+    - title: Mobile SDK
+      path: /mobile
+    - title: Developers
+      path: /developers
+  tools:
+    - title: TileMill
+      path: http://tilemill.com
+    - title: Maki
+      path: http://mapbox.com/maki
 ---
 <!DOCTYPE html >
 <html>
 <head>
   <meta charset='UTF-8'/>
   <meta name='robots' content='{% if page.hidden %}noindex{% else %}index{% endif %}'/>
-  <meta name="viewport" content="width=1000">
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   {% if page.description %}<meta name='description' content='{{page.description | strip_html}}'/>{% endif %}
-  <title>{% if page.url == '/index.html' %}{{page.title}}{% else %}{{page.title}} | MapBox{% endif %}</title>
-  <link rel='stylesheet' href='{{site.url}}/css/site.css' type='text/css'/>
+  <title>{% if page.url == '/' %}{{page.title}} | Fast and beautiful maps{% else %}{{page.title}} | MapBox{% endif %}</title>
+  <link href='{{site.url}}/css/site.css' rel='stylesheet' />
   <!--[if IE]><link rel='stylesheet' href='{{site.url}}/css/site-ie.css' type='text/css'/><![endif]-->
+  <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.2/mapbox.css' rel='stylesheet' />
   <link rel='shortcut icon' href='{{site.url}}/images/favicon.ico' type='image/x-icon' />
   <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.url}}/blog/blog.rss' />
   <script src='{{site.url}}/js/site.js'></script>
+  <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.2/mapbox.js'></script>
 </head>
-<body class='{{page.class}}'><div class='{% if page.bleed %}wrapper-bleed{% else %}wrapper{% endif %}'>
-<div class='branding'><div class='limiter'>
-  <a class='logo' href='{{site.url}}/'>MapBox</a>
-  <ul class='menu'>
+<body class='{{page.class}}'>
+
+<div class='branding pad clearfix'>
+  <div class='cell6'>
+    <a class='logo' href='{{site.url}}/'>MapBox</a>
+    {% if page.section %}
+    <a class='section-title' href='{{site.url}}/{{page.section|downcase}}'>{{page.section}}</a>
+    {% endif %}
+  </div>
+  <ul class='menu cell6'>
     {% for item in page.navigation %}
     {% if item.path contains 'http' %}
       {% capture url %}{{item.path}}{% endcapture %}
     {% else %}
       {% capture url %}{{site.url}}{{item.path}}/{% endcapture %}
     {% endif %}
-    {% if item.category contains page.category or item.category contains page.section %}
+    {% if item.category contains page.category or item.category contains page.section or item.path == page.url %}
       {% capture class %}{{item.class}} active{% endcapture %}
     {% else %}
       {% capture class %}{{item.class}}{% endcapture %}
     {% endif %}
     <li class='{{class}}'>
-      <a href='{{url}}'><span class='icon'></span>{{item.title}}</a>
+      <a href='{{url}}'>{{item.title}}</a>
     </li>
     {% endfor %}
   </ul>
-  <small class='auth'>
-    <a class='login button labeled' href='http://tiles.mapbox.com/login'>
-      <span class='icon account'></span>
-      My account
-    </a>
-  </small>
-</div></div>
-
-{{content}}
-
-<div class='push'></div></div>
-
-{% unless page.bleed %}
-<div class='footer'><div class='limiter'>
-
-<div class='links'>
-<strong>MapBox®</strong>
-{% for item in page.footer %}
-<a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
-{% endfor %}
 </div>
 
-<a class='ds' href='http://developmentseed.org' target='_blank'>
-<span class='madeby'>Made by Development Seed</span>
-<span class='office'></span>
-</a>
+<div class='wrapper'>{{content}}</div>
 
-</div></div>
+{% unless page.bleed %}
+<div class='footer pad clearfix'>
+  <div class='cell3 newsletter'>
+    <h3>Subscribe to our<br/>newsletter</h3>
+    <!-- Begin MailChimp Signup Form -->
+    <div id='mc-signup'>
+      <form action='http://mapbox.us2.list-manage1.com/subscribe/post?u=1b29ad842d113cece02035883&amp;id=6cbe531fd0' method='post' id='mc-embedded-subscribe-form' name='mc-embedded-subscribe-form' class='validate' target='_blank'>
+        <div class='mc-field-group clearfix'>
+          <input type='hidden' value='1' name='group[7417][2]'>
+          <div class='field-wrapper'><input type='text' value='' placeholder='Email Address' name='EMAIL' class='required email' id='mce-EMAIL'></div>
+          <input type='submit' value='Subscribe' name='subscribe' id='mc-embedded-subscribe' class='button big icon reverse mail'>
+        </div>
+        <div id='mce-responses'>
+          <div class='response' id='mce-error-response' style='display:none'></div>
+          <div class='response' id='mce-success-response' style='display:none'></div>
+        </div>
+      </form>
+    </div>
+    <a class='button big follow' href='http://twitter.com/mapbox' target='_blank'><span class='icon reverse twitter'></span> Follow us</a>
+  </div>
+  <div class='cell2'>
+    <h3>MapBox</h3>
+    <div class='links'>
+    {% for item in page.footer.tour %}
+    <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+    {% endfor %}
+    </div>
+    <div class='links'>
+    {% for item in page.footer.mapbox %}
+    <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+    {% endfor %}
+    </div>
+  </div>
+  <div class='cell2'>
+    <h3>Help</h3>
+    <div class='links'>
+    {% for item in page.footer.help %}
+    <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+    {% endfor %}
+    </div>
+
+    <h3>Tools</h3>
+    <div class='links'>
+    {% for item in page.footer.tools %}
+    <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+    {% endfor %}
+    </div>
+  </div>
+  <div class='cell5 blogposts'>
+  <h3>Recent blog posts</h3>
+  <div class='links'>
+  {% for item in site.categories.blog limit:4 %}
+  <a href='{{base}}{{item.url}}'>
+    <small class='date'>{{item.date | date:"%b %d %Y"}}</small>
+    {{item.title}}
+  </a>
+  {% endfor %}
+  </div>
+  <a href='{{base}}/blog/'>Read more <span class='icon next blue'></span></a>
+  </div>
+</div>
+<div class='footer-copyright'>
+  <a href='{{base}}/tos'>Terms of service</a> +
+  <a href='{{base}}/privacy'>Privacy policy</a>
+  &copy; 2010-2012 MapBox.
+</div>
 {% endunless %}
+
+<script src='https://tiles.mapbox.com/snippets/user.js'></script>
+<script>$(function() {$(mapbox.mailChimp);}); </script>
 
 <script type='text/javascript'>
 var _gaq = _gaq || [];
