@@ -52,13 +52,13 @@ footer:
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   {% if page.description %}<meta name='description' content='{{page.description | strip_html}}'/>{% endif %}
   <title>{% if page.url == '/' %}{{page.title}} | Fast and beautiful maps{% else %}{{page.title}} | MapBox{% endif %}</title>
+  <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.3/mapbox.css' rel='stylesheet' />
   <link href='{{site.url}}/css/site.css' rel='stylesheet' />
   <!--[if IE]><link rel='stylesheet' href='{{site.url}}/css/site-ie.css' type='text/css'/><![endif]-->
-  <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.2/mapbox.css' rel='stylesheet' />
   <link rel='shortcut icon' href='{{site.url}}/images/favicon.ico' type='image/x-icon' />
   <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.url}}/blog/blog.rss' />
   <script src='{{site.url}}/js/site.js'></script>
-  <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.2/mapbox.js'></script>
+  <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.3/mapbox.js'></script>
 </head>
 <body class='{{page.class}}'>
 
@@ -91,8 +91,8 @@ footer:
 <div class='wrapper'>{{content}}</div>
 
 {% unless page.bleed %}
-<div class='footer pad clearfix'>
-  <div class='cell3 newsletter'>
+<div class='footer clearfix'>
+  <div class='cell3 pad1 newsletter'>
     <h3>Subscribe to our<br/>newsletter</h3>
     <!-- Begin MailChimp Signup Form -->
     <div id='mc-signup'>
@@ -110,47 +110,43 @@ footer:
     </div>
     <a class='button big follow' href='http://twitter.com/mapbox' target='_blank'><span class='icon reverse twitter'></span> Follow us</a>
   </div>
-  <div class='cell2'>
+
+  <div class='cell2 pad1'>
     <h3>MapBox</h3>
     <div class='links'>
-    {% for item in page.footer.tour %}
-    <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
-    {% endfor %}
+      {% for item in page.footer.tour %}
+      <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+      {% endfor %}
     </div>
     <div class='links'>
-    {% for item in page.footer.mapbox %}
-    <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
-    {% endfor %}
+      {% for item in page.footer.mapbox %}
+      <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+      {% endfor %}
     </div>
   </div>
-  <div class='cell2'>
+  <div class='cell2 pad1'>
     <h3>Help</h3>
     <div class='links'>
-    {% for item in page.footer.help %}
-    <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
-    {% endfor %}
+      {% for item in page.footer.help %}
+      <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+      {% endfor %}
     </div>
-
     <h3>Tools</h3>
     <div class='links'>
-    {% for item in page.footer.tools %}
-    <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
-    {% endfor %}
+      {% for item in page.footer.tools %}
+      <a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+      {% endfor %}
     </div>
   </div>
-  <div class='cell5 blogposts'>
-  <h3>Recent blog posts</h3>
-  <div class='links'>
-  {% for item in site.categories.blog limit:4 %}
-  <a href='{{base}}{{item.url}}'>
-    <small class='date'>{{item.date | date:"%b %d %Y"}}</small>
-    {{item.title}}
-  </a>
-  {% endfor %}
-  </div>
-  <a href='{{base}}/blog/'>Read more <span class='icon next blue'></span></a>
+  <div class='cell5 pad1 blogposts'>
+    <h3>Recent blog posts</h3>
+    <div class='links'>
+      <script src='http://mapbox.com/snippets/blog-list.js'></script>
+    </div>
+    <a href='{{base}}/blog/'>Read more <span class='icon next blue'></span></a>
   </div>
 </div>
+
 <div class='footer-copyright'>
   <a href='{{base}}/tos'>Terms of service</a> +
   <a href='{{base}}/privacy'>Privacy policy</a>
