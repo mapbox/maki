@@ -51,7 +51,6 @@
     font-size: 40px;
     line-height: 48px;
     margin-top: 40px;
-    letter-spacing: -2px;
     }
   #maki-hero .bordered-centered {
     width: 199px;
@@ -203,6 +202,10 @@ ul.icon-set {
   font-size: 11px;
   z-index: 100;
   left: 10px;
+  }
+
+.icon.close {
+  background-position: -193px 2px;
   }
 
 /* CSS Animations */
