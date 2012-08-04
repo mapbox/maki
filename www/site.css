@@ -1,13 +1,7 @@
 /* --------------------------------------
   Little Helpers
 ----------------------------------------- */
-.icon {
-  background: transparent url(images/sprite.png) no-repeat 0 0;
-  display: block;
-  width: 20px;
-  height: 20px;
-  text-indent: -999em;
-  }
+.wrapper .icon { background-image: url(images/sprite.png); }
 .fr { float: right; }
 
 /* --------------------------------------
@@ -44,7 +38,8 @@
   height: 180px;
   color: white;
   box-shadow: inset rgba(0, 0, 0, 0.2) 0px 10px 20px -10px;
-  } 
+  }
+  #maki-hero h1 { padding:0px; }
   #maki-hero h1 a {
     background-position: 0 0;
     width: 140px;
@@ -56,7 +51,6 @@
     font-size: 40px;
     line-height: 48px;
     margin-top: 40px;
-    letter-spacing: -2px;
     }
   #maki-hero .bordered-centered {
     width: 199px;
@@ -191,47 +185,11 @@ ul.icon-set {
   right: 0;
   margin-bottom: 20px;
   }
-#controls {
-  position: absolute;
-  top: 20px;
-  right: 60px;
-  background: #fff;
-  z-index: 100;
-  border: 1px solid #999;
-  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .3);
-  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .3);
-  box-shadow: 0 0- 8px rgba(0, 0, 0, .3);
-  }
-  a.zoomer {
-    display: block;
-    text-decoration: none;
-    text-align: center;
-    width: 24px;
-    height: 24px;
-    line-height: 24px;
-    }
-    a.zoomer:active {
-      box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
-      -moz-box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
-      -webkit-box-shadow: inset rgba(0,0,0,0.1) 0px 1px 3px;
-      }
-    a.zoomout {
-      z-index: 50;
-      border-top: 1px solid #ccc;
-      }
-    a.zoomdisabled:active,
-    a.zoomdisabled {
-      -moz-box-shadow: none;
-      -webkit-box-shadow: none;
-      box-shadow: none;
-      color: #444;
-      }
-
 .wax-tooltip {
   color: white;
   background: rgba(0,0,0,.5);
   position: absolute;
-  left: 20px;
+  right: 20px;
   top: 20px;
   width: auto;
   padding: 15px;
@@ -244,6 +202,10 @@ ul.icon-set {
   font-size: 11px;
   z-index: 100;
   left: 10px;
+  }
+
+.icon.close {
+  background-position: -193px 2px;
   }
 
 /* CSS Animations */
@@ -270,7 +232,7 @@ ul.icon-set {
 .maki-details {
   background: url(images/maki-dot-pattern.png) 0 0 repeat #8fa363;
   padding: 20px;
-  height: 190px;
+  min-height: 190px;
   width: 880px;
   -webkit-border-radius: 0px 0px 5px 5px;
   border-radius: 0px 0px 5px 5px;
