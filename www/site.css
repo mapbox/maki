@@ -8,6 +8,14 @@
   height: 20px;
   text-indent: -999em;
   }
+@media
+  only screen and (-webkit-min-device-pixel-ratio : 2),
+  only screen and (min-device-pixel-ratio : 2) {
+  .icon {
+    background-image:url(images/sprite@2x.png);
+    background-size: 240px 135px;
+   }
+ }
 .fr { float: right; }
 
 /* --------------------------------------
@@ -501,7 +509,7 @@ a.search-download {
   font-size: 14px;
   bottom: 50px;
   }
-a.close {
+.icon.close {
   background-color: #fff;
   background-position: -193px 2px;
   width: 24px;

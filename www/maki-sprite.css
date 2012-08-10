@@ -1,9 +1,20 @@
-ul.icon-set li.icon {
-  background-image: url(images/icon-sprite.png);
+ul.icon-set li.maki-icon {
+  background-image: url(images/maki-sprite.png);
   width: 54px;
   height: 24px;
   margin-bottom: 4px;
+  overflow:hidden;
+  text-indent:-9999px;
   }
+
+@media
+  only screen and (-webkit-min-device-pixel-ratio : 2),
+  only screen and (min-device-pixel-ratio : 2) {
+  ul.icon-set li.maki-icon {
+    background-image:url(images/maki-sprite@2x.png);
+    background-size: 756px 360px;
+   }
+ }
 
 /*Category: Shapes*/
 li.circle-stroked       { background-position: 0 0; }
