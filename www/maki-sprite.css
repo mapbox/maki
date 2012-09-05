@@ -1,10 +1,15 @@
-ul.icon-set li.maki-icon {
+ul.icon-set .maki-icon {
   background-image: url(images/maki-sprite.png);
-  width: 54px;
+  width: 24px;
   height: 24px;
-  margin-bottom: 4px;
   overflow:hidden;
   text-indent:-9999px;
+  }
+
+li.title-box .maki-icon {
+  width: 60px;
+  display: block;
+  left: 0; right: 0; margin: auto;
   }
 
 @media
@@ -17,95 +22,94 @@ ul.icon-set li.maki-icon {
  }
 
 /*Category: Shapes*/
-li.circle-stroked       { background-position: 0 0; }
-li.circle               { background-position: 0 -24px; }
-li.square-stroked       { background-position: 0 -48px; }
-li.square               { background-position: 0 -72px; }
-li.triangle-stroked     { background-position: 0 -96px; }
-li.triangle             { background-position: 0 -120px; }
-li.star-stroked         { background-position: 0 -144px; }
-li.star                 { background-position: 0 -168px; }
-li.cross                { background-position: 0 -192px; }
-li.marker-stroked       { background-position: 0 -216px; }
-li.marker               { background-position: 0 -240px; }
+ul.icon-set .circle-stroked       { background-position: 0 0; }
+ul.icon-set .circle               { background-position: 0 -24px; }
+ul.icon-set .square-stroked       { background-position: 0 -48px; }
+ul.icon-set .square               { background-position: 0 -72px; }
+ul.icon-set .triangle-stroked     { background-position: 0 -96px; }
+ul.icon-set .triangle             { background-position: 0 -120px; }
+ul.icon-set .star-stroked         { background-position: 0 -144px; }
+ul.icon-set .star                 { background-position: 0 -168px; }
+ul.icon-set .cross                { background-position: 0 -192px; }
+ul.icon-set .marker-stroked       { background-position: 0 -216px; }
+ul.icon-set .marker               { background-position: 0 -240px; }
 
 /*Category: religion*/
-li.religious-jewish     { background-position: -78px 0; }
-li.religious-christian  { background-position: -78px -24px; }
-li.religious-muslim     { background-position: -78px -48px; }
-li.cemetery             { background-position: -78px -72px; }
+ul.icon-set .religious-jewish     { background-position: -78px 0; }
+ul.icon-set .religious-christian  { background-position: -78px -24px; }
+ul.icon-set .religious-muslim     { background-position: -78px -48px; }
+ul.icon-set .cemetery             { background-position: -78px -72px; }
 
 /*Category: transportation*/
-li.airport              { background-position: -156px 0; }
-li.heliport             { background-position: -156px -24px; }
-li.rail                 { background-position: -156px -48px; }
-li.rail-underground     { background-position: -156px -72px; }
-li.rail-above           { background-position: -156px -96px; }
-li.bus                  { background-position: -156px -120px; }
-li.fuel                 { background-position: -156px -144px; }
-li.parking              { background-position: -156px -168px; }
-li.parking-garage       { background-position: -156px -192px; }
-li.london-underground   { background-position: -156px -216px; }
-li.airfield             { background-position: -156px -240px; }
-li.roadblock            { background-position: -156px -264px; }
-li.ferry                { background-position: -156px -288px; }
-li.harbor               { background-position: -156px -312px; }
-li.bicycle              { background-position: -156px -336px; }
+ul.icon-set .airport              { background-position: -156px 0; }
+ul.icon-set .heliport             { background-position: -156px -24px; }
+ul.icon-set .rail                 { background-position: -156px -48px; }
+ul.icon-set .rail-underground     { background-position: -156px -72px; }
+ul.icon-set .rail-above           { background-position: -156px -96px; }
+ul.icon-set .bus                  { background-position: -156px -120px; }
+ul.icon-set .fuel                 { background-position: -156px -144px; }
+ul.icon-set .parking              { background-position: -156px -168px; }
+ul.icon-set .parking-garage       { background-position: -156px -192px; }
+ul.icon-set .airfield             { background-position: -156px -240px; }
+ul.icon-set .roadblock            { background-position: -156px -264px; }
+ul.icon-set .ferry                { background-position: -156px -288px; }
+ul.icon-set .harbor               { background-position: -156px -312px; }
+ul.icon-set .bicycle              { background-position: -156px -336px; }
 
 /*Category: recreation*/
-li.park                 { background-position: -234px 0; }
-li.park2                { background-position: -234px -24px; }
-li.museum               { background-position: -234px -48px; }
-li.lodging              { background-position: -234px -72px; }
-li.monument             { background-position: -234px -96px; }
-li.zoo                  { background-position: -234px -120px; }
-li.garden               { background-position: -234px -144px; }
-li.campsite             { background-position: -234px -168px; }
-li.theatre              { background-position: -234px -192px; }
-li.art-gallery          { background-position: -234px -216px; }
+ul.icon-set .park                 { background-position: -234px 0; }
+ul.icon-set .park2                { background-position: -234px -24px; }
+ul.icon-set .museum               { background-position: -234px -48px; }
+ul.icon-set .lodging              { background-position: -234px -72px; }
+ul.icon-set .monument             { background-position: -234px -96px; }
+ul.icon-set .zoo                  { background-position: -234px -120px; }
+ul.icon-set .garden               { background-position: -234px -144px; }
+ul.icon-set .campsite             { background-position: -234px -168px; }
+ul.icon-set .theatre              { background-position: -234px -192px; }
+ul.icon-set .art-gallery          { background-position: -234px -216px; }
 
 /*Category: sports*/
-li.pitch                { background-position: -312px 0; }
-li.soccer               { background-position: -312px -24px; }
-li.america-football     { background-position: -312px -48px; }
-li.tennis               { background-position: -312px -72px; }
-li.basketball           { background-position: -312px -96px; }
-li.baseball             { background-position: -312px -120px; }
-li.golf                 { background-position: -312px -144px; }
-li.swimming             { background-position: -312px -168px; }
-li.cricket              { background-position: -312px -192px; }
-li.skiing               { background-position: -312px -216px; }
+ul.icon-set .pitch                { background-position: -312px 0; }
+ul.icon-set .soccer               { background-position: -312px -24px; }
+ul.icon-set .america-football     { background-position: -312px -48px; }
+ul.icon-set .tennis               { background-position: -312px -72px; }
+ul.icon-set .basketball           { background-position: -312px -96px; }
+ul.icon-set .baseball             { background-position: -312px -120px; }
+ul.icon-set .golf                 { background-position: -312px -144px; }
+ul.icon-set .swimming             { background-position: -312px -168px; }
+ul.icon-set .cricket              { background-position: -312px -192px; }
+ul.icon-set .skiing               { background-position: -312px -216px; }
 
 /*Category: amenity*/
-li.school               { background-position: -390px 0; }
-li.college              { background-position: -390px -24px; }
-li.library              { background-position: -390px -48px; }
-li.post                 { background-position: -390px -72px; }
-li.fire-station         { background-position: -390px -96px; }
-li.town-hall            { background-position: -390px -120px; }
-li.police               { background-position: -390px -144px; }
-li.prison               { background-position: -390px -168px; }
-li.embassy              { background-position: -390px -192px; }
+ul.icon-set .school               { background-position: -390px 0; }
+ul.icon-set .college              { background-position: -390px -24px; }
+ul.icon-set .library              { background-position: -390px -48px; }
+ul.icon-set .post                 { background-position: -390px -72px; }
+ul.icon-set .fire-station         { background-position: -390px -96px; }
+ul.icon-set .town-hall            { background-position: -390px -120px; }
+ul.icon-set .police               { background-position: -390px -144px; }
+ul.icon-set .prison               { background-position: -390px -168px; }
+ul.icon-set .embassy              { background-position: -390px -192px; }
 
 /*Category: commercial*/
-li.beer                 { background-position: -468px 0; }
-li.restaurant           { background-position: -468px -24px; }
-li.cafe                 { background-position: -468px -48px; }
-li.shop                 { background-position: -468px -72px; }
-li.fast-food            { background-position: -468px -96px; }
-li.bar                  { background-position: -468px -120px; }
-li.bank                 { background-position: -468px -144px; }
-li.grocery              { background-position: -468px -168px; }
-li.cinema               { background-position: -468px -192px; }
+ul.icon-set .beer                 { background-position: -468px 0; }
+ul.icon-set .restaurant           { background-position: -468px -24px; }
+ul.icon-set .cafe                 { background-position: -468px -48px; }
+ul.icon-set .shop                 { background-position: -468px -72px; }
+ul.icon-set .fast-food            { background-position: -468px -96px; }
+ul.icon-set .bar                  { background-position: -468px -120px; }
+ul.icon-set .bank                 { background-position: -468px -144px; }
+ul.icon-set .grocery              { background-position: -468px -168px; }
+ul.icon-set .cinema               { background-position: -468px -192px; }
 
 /*Category: social*/
-li.hospital             { background-position: -546px 0; }
-li.pharmacy             { background-position: -546px -24px; }
+ul.icon-set .hospital             { background-position: -546px 0; }
+ul.icon-set .pharmacy             { background-position: -546px -24px; }
 
 /*Category: disaster */
-li.minefield            { background-position: -625px 0; }
+ul.icon-set .minefield            { background-position: -625px 0; }
 
 /*Category: properties */
-li.industrial           { background-position: -700px 0; }
-li.warehouse            { background-position: -700px -24px; }
-li.commercial           { background-position: -700px -48px; }
+ul.icon-set .industrial           { background-position: -700px 0; }
+ul.icon-set .warehouse            { background-position: -700px -24px; }
+ul.icon-set .commercial           { background-position: -700px -48px; }

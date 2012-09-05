@@ -1,7 +1,6 @@
 /* --------------------------------------
   Little Helpers
 ----------------------------------------- */
-.wrapper .icon { background-image: url(images/sprite.png); }
 @media
   only screen and (-webkit-min-device-pixel-ratio : 2),
   only screen and (min-device-pixel-ratio : 2) {
@@ -10,174 +9,160 @@
     background-size: 240px 135px;
    }
  }
-.fr { float: right; }
+
+.button .icon { margin-right: 5px;}
 
 /* --------------------------------------
-  Some delineation
+  Branding Overrides
 ----------------------------------------- */
-#maki h3 {
-  margin: 20px 0;
-  }
-#maki h2 {
-  line-height: 1.5em;
-  }
 
-#maki .title {
-  border: none;
-  font-size: 20px;
-  font-weight: normal;
-  }
-  #maki .canvas .title {
-    text-align: center;
-    margin: 0;
-    }
-
-/* --------------------------------------
-  Maki frontpage specific styling
------------------------------------------ */
-.overview a {
-	color: #2c4864;
+.branding {
+  padding-top: 50px;
+  padding-bottom: 50px;
   }
 
-.wrapper { background: white;}
+.branding .logo {
+  background: url(images/sprite.png) 0 20px no-repeat;
+  }  
 
-#maki-hero {
-  background: #afc975 url(images/maki-dot-pattern.png) 0 0 repeat;
-  height: 180px;
+.fillE {
+  background: #28353d url(images/dotgrid-pattern.png);
+  }
+
+.branding .logos {
+  position: relative;
+  }
+
+.branding .attribution {
+  position: absolute;
+  left: 0px;
+  top: 45px;
   color: white;
-  box-shadow: inset rgba(0, 0, 0, 0.2) 0px 10px 20px -10px;
   }
-  #maki-hero h1 { padding:0px; }
-  #maki-hero h1 a {
-    background-position: 0 0;
-    width: 140px;
-    margin-left: 35px;
-    margin-bottom: 15px;
-    }
-  #maki-hero h2 {
-    font-weight: normal;
-    font-size: 40px;
-    line-height: 48px;
-    margin-top: 40px;
-    }
-  #maki-hero .bordered-centered {
-    width: 199px;
-    height: 130px;
-    padding-top: 50px;
-    margin-right: 20px;
-    padding-right: 20px;
-    border-right: 1px solid #8fa363;
+
+.branding .attribution .small-mapbox {
+  display: inline-block;
+  background: url(images/sprite.png);
+  background-position: 2px -74px;
+  background-repeat: no-repeat;
+  width: 70px;
+  text-indent: -9999px;
+  overflow: hidden;
+  }
+  .branding .attribution .small-mapbox:hover {
+    background-position-x: -78px;
     }
 
-.tagline { padding-left: 20px;}
-
-#maki-subtitle {
-  background: url(images/maki-dot-pattern.png) 0 0 repeat #afc975;
-  height: 60px;
-  line-height: 60px;
-  font-size: 20px;
-  color: #fff;
+/* --------------------------------------
+  Basic Styles
+----------------------------------------- */
+.fillG {
+  background: url(images/dotgrid-pattern-xstrong.png) 0 0 repeat #73ac56;  
+  color: white;
   }
 
-#maki-subtitle .limiter {
-  background: url(images/maki-dot-pattern.png) 0 0 repeat #8fa363;
-  width: 920px;
-  text-indent: 20px;
-  -webkit-border-radius: 5px 5px 0px 0px;
-  border-radius: 5px 5px 0px 0px;
+.fillDG { 
+  background: url(images/dotgrid-pattern-xstrong.png) 0 0 repeat #4E8A4C;
+  color: white;
   }
 
-a.download {
-	margin-left: 20px;
+#maki-hero { position: relative;}
+
+.download {
+  position: absolute;
+  right: 0;
+  bottom: 40px;
   }
-a.download, .footerdownload div.download {
+
+.download-button {
+  margin: 20px 0;
+  border-radius: 4px;
+  box-shadow: rgba(0,0,0,0.05) 0px 0px 0px 5px;
+  }
+  .download-button small, .download-button h3 {
+    color: white;
+            animation: fadeIn 500ms ease 250ms both;
+       -moz-animation: fadeIn 500ms ease 250ms both;
+    -webkit-animation: fadeIn 500ms ease 250ms both;
+    }
+  .download-button h3 {
+    text-shadow: rgba(0,0,0,0.2) 0px -1px;
+    margin-bottom: 0;
+    }
+  .download-button .details {
+    border: 1px solid #3887be;
+    border-right: none;
+    border-radius: 0 4px 4px 0;
+    background-color:#3887BE;
+    white-space: nowrap;
+    }
+      .download-button:hover .details {
+      background: #3bb2d0;
+      border-color: #3bb2d0;
+      }
+  .download-button .label {
+    position: relative;
+    border: 1px solid #3175a5;
+    border-right: none;
+    border-radius: 4px 0 0 4px;
+    }
+  .download-button:hover .label { border-color: #3bb2d0; }
+  .download-button:active .details {
+    box-shadow: inset rgba(0,0,0,0.4) 0px 1px 3px, inset rgba(0,0,0,0.1) 0px -20px 20px -10px;
+    }
+
+.download-button .big-icon-download {
+  background: url(images/sprite.png) -165px 3px no-repeat;
+  height: 35px;
+  width: 20px;
+  float: left;;
+  margin-right: 10px;
+  }
+
+.canvas {
+  position: relative;
+  background: #fff url(images/bg.png) repeat 0 0;
+  }
+
+.footer-actions {
+  color: #3c4e5a;
+  }
+
+.spot-illustration {
+  background: url(../../img/mobile-sprite.png) 0 -340px no-repeat;
   display: block;
-  border-radius: 5px;
-  transition:all 250ms;
-  -moz-transition:all 250ms;
-  -webkit-transition:all 250ms;
-  background: white;
-  border: 1px solid transparent;
-  width: 138px;
-  height: 38px;
-  padding: 5px 10px;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto 20px;
   }
-  a.download:hover { border-color: #8fa363; }
-  a.download span.download, .download span.download {
-    background-position: -45px -25px;
-    width: 40px;
-    height: 40px;
-    }
-  
-  .footerdownload {
-	  border: 1px solid #DDD;
-	  border-radius: 5px;
-	  transition:all 250ms;
-    -moz-transition:all 250ms;
-    -webkit-transition:all 250ms;
-    }
-  .footerdownload div.download {
-	  border: 0px;
-    border-right: 1px solid #ddd;
-    border-radius: 5px 0 0 5px;
-    margin-left: 0;
-    float: left;
-    }
-    .footerdownload:hover, .footerdownload:hover div.download { border-color: #888; }  
 
-  .footerdownload .description {
-    float: right;
-    width: 259px;
-    font-size: 12px;	
-    border-radius: 0 5px 5px 0;
-    padding: 14px 10px 5px 10px;
-    height: 29px;
-    padding-top: 14px; 
-    background: #F4F4F4;
-    overflow: hidden;
-    color: #444;
-    }
+.footer { color: #3c4e5a; }
 
+/* --------------------------------------
+  Maki Icon Grid
+----------------------------------------- */
 #maki .canvas {
   background: #fff url(images/bg.png) repeat 0 0;
   }
-  #maki .canvas .limiter {
-    position: relative;
-    height: 421px;
-    height: auto!important;
-    min-height: 421px;
-    width: 920px;
-    }
 
 /*Search box*/
 .canvas-controls {
-  position: absolute;
-  bottom: 40px;
-  left: 50%;
-  margin: 0 0 0 -120px;
+  padding-top: 0;
   }
   .canvas-controls form input {
     background: #444 url(images/sprite.png) no-repeat -211px 10px;
     border: none;
     color: #fff;
-    width: 240px;
+    width: 100%;
     height: 40px;
     line-height: 40px\9; /* IE6,7,8 Hack to center the cursor in IE */
     padding: 0 40px;
     }
 
 /*Icons on the canvas*/
-#maki-set {
-  position: absolute;
-  width: 100%;
-  top: 40px;
-  left: 0;
-  padding-bottom: 80px;
-  }
+
 ul.icon-set {
   float: left;
-  margin: 0 15px;
-  width: 62px;
   position: relative;
   }
 
@@ -216,27 +201,6 @@ ul.icon-set {
   background-position: -193px 2px;
   }
 
-/* CSS Animations */
-.wax-tooltip,
-.map-tile-loaded {
-  -webkit-animation-name: 'fade-in';
-  -webkit-animation-timing-function: ease-in;
-  -webkit-animation-duration: .2s;
-  }
-@-webkit-keyframes fade-in {
-  from {
-    opacity: 0;
-    }
-  to {
-    opacity: 1;
-    }
-}
-
-.overview {
-  background: url(images/maki-dot-pattern.png) 0 0 repeat #afc975;  
-  color: white;
-  }
-
 .maki-details {
   background: url(images/maki-dot-pattern.png) 0 0 repeat #8fa363;
   padding: 20px;
@@ -247,126 +211,7 @@ ul.icon-set {
   margin-bottom: 20px;
   }
 
-.col.maki-thesis {
-  width: 420px;
-  margin-right: 40px;
-  }
-.col#maki-icon-preview {
-  width: 420px;
-  margin-left: 0;
-  margin-right: 0;
-  position: relative;
-  }
-  .preview-screen {
-    float: left;
-    background: white url(images/maki-preview-bg.png) 0 0 no-repeat;
-    -webkit-border-radius: 5px;
-    border-radius: 0 5px 5px 0 ;
-    width: 190px;
-    height: 190px;
-    margin: auto;
-    position: relative;
-    overflow: hidden;
-    }
-  .preview-screen img {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    }
-    .preview-screen img.size-12 { top:45px; left: 45px; }
-    .preview-screen img.size-18 { top:18px; left: 18px; }
-    .preview-screen img.size-24 { top:15px; left: 7px; }
-  #maki-icon-preview ul {
-    float: left;
-    width: 229px;
-    list-style: none;
-    margin-right: 1px;
-    }
-    #maki-icon-preview ul li {
-      margin-right: 1px;
-      margin-left: 0;
-      list-style: none;
-      position: relative;
-      }
-      #maki-icon-preview ul li a {
-        display: block;
-        background-color: #afc975;
-        width: 229px;
-        height: 34px;
-        margin-bottom: 1px;
-        transition:all 250ms;
-        -moz-transition:all 250ms;
-        -webkit-transition:all 250ms;
-        color: white;
-        font-size: 14px;
-        font-weight: bold;
-        padding-top: 20px;
-        }
-        #maki-icon-preview ul li a.size-12 { border-radius: 0 0 0 5px; }
-        #maki-icon-preview ul li a.size-24 { border-radius: 5px 0 0 0; }
-
-        #maki-icon-preview ul li a.active,
-        #maki-icon-preview ul li a:active {
-          background-color: #fff;
-          }
-        #maki-icon-preview ul li a.active {
-          height: 60px;
-          color: #afc975;
-          }
-        
-  #maki-icon-preview ul li .icon { 
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0px;
-    right: 0;
-    width: 80px;
-    height: 24px;
-    margin: auto;
-    text-indent: 30px;
-    }
-  
-  #maki-icon-preview ul li .icon.size-24 { background-position: -99px -32px; }
-  #maki-icon-preview ul li .icon.size-18 { background-position: -97px -82px; }
-  #maki-icon-preview ul li .icon.size-12 { background-position: -94px -114px; }
-
-.content .box {
-  position:relative;
-  background: url(images/maki-dot-pattern.png) 0 0 repeat #8FA363;
-  padding:20px;
-  margin:0px 0px 20px;
-  border-radius:5px;
-  -moz-border-radius:5px;
-  -webkit-border-radius:5px;
-  }
-  .content .box.tall { min-height:250px; }
-
-.helpnav {
-  border: 1px solid #DDD;
-  background: #F4F4F4;
-  border-radius: 5px;
-  width: 400px;
-  padding: 0 20px;
-  }
-  .helpnav a {
-    float: left;
-    width: 169px;
-    height: 34px;
-    margin: 0px;
-    padding-top: 14px;
-    padding-left: 30px;
-    background: url(http://mapbox.com/images/sprite.png) -380px -106px no-repeat;
-    }
-    .helpnav a:last-child { 
-    border-left: 1px solid #DDD; 
-    padding-left: 50px;
-    width: 149px;
-    background: url(http://mapbox.com/images/sprite.png) -363px -106px no-repeat;
-    }
-
-/* --------------------------------------
-  Searching icons on the front page
------------------------------------------ */
+/* Searching icons */
 
 .title { padding: 0;}
 
@@ -431,38 +276,41 @@ body.searching #search-results { display: block; }
 
 .title-box {
   position: absolute;
-  background: #303030;
-  color: #fff;
-  font-size: 14px;
   transition: opacity 250ms linear;
   -moz-transition: opacity 250ms linear;
   -webkit-transition: opacity 250ms linear;
-  bottom: 0;
-  left: 50%;
-  margin-left: -30px;
-  padding: 5px 10px;
+  bottom: 60px;
+  background: white;
+  color: #3C4E5A;
+  text-align: center;
+  width: 120px;
+  left: -25px; right: 0;
+  margin: auto;
+  padding: 10px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
   display: none;
   z-index: 1000;
   white-space:nowrap;
+  border: 1px solid #ddd;
   }
-  .title-box:after {
+  .title-box::after {
     content: '';
     width: 0;
     height: 0;
-    border-left: 5px solid transparent;
-    border-right: 5px solid transparent;
-    border-top: 5px solid #303030;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #ddd;
     position: absolute;
-    bottom: -5px;
-    left: 5px;
+    bottom: -10px;
+    left: 0px;
+    right: 0;
+    margin: auto;
     }
 #maki-set ul.icon-set:hover .title-box,
 #search-results ul#results li:hover .title-box {
   display: block;
-  bottom: 34px;
   }
 
 a.search-download {
@@ -485,3 +333,8 @@ a.search-download {
   -webkit-border-radius: 2px;
   border-radius: 2px;
   }
+
+@media
+only screen and (max-width: 640px) {
+  .download { display: none;}
+}
