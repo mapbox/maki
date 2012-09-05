@@ -1,4 +1,4 @@
-ul.icon-set .maki-icon {
+.maki-icon {
   background-image: url(images/maki-sprite.png);
   width: 24px;
   height: 24px;
@@ -6,7 +6,7 @@ ul.icon-set .maki-icon {
   text-indent:-9999px;
   }
 
-li.title-box .maki-icon {
+.title-box .maki-icon.full {
   width: 60px;
   display: block;
   left: 0; right: 0; margin: auto;

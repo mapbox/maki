@@ -23,7 +23,7 @@
 
 .branding .logo {
   background: url(images/sprite.png) 0 20px no-repeat;
-  }  
+  }
 
 .fillE {
   background: #28353d url(images/dotgrid-pattern.png);
@@ -57,33 +57,43 @@
   Basic Styles
 ----------------------------------------- */
 .fillG {
-  background: url(images/dotgrid-pattern-xstrong.png) 0 0 repeat #73ac56;  
+  background: url(images/dotgrid-pattern.png) 0 0 repeat #6565A0;
   color: white;
   }
 
-.fillDG { 
-  background: url(images/dotgrid-pattern-xstrong.png) 0 0 repeat #4E8A4C;
+.fillDG {
+  background: url(images/dotgrid-pattern.png) 0 0 repeat #8A8ACB;
   color: white;
   }
 
 #maki-hero { position: relative;}
 
-.download {
+.intro { min-height: 420px; }
+
+#map {
   position: absolute;
   right: 0;
-  bottom: 40px;
+  top: 0;
+  bottom: 0;
   }
 
+.download {
+  }
 .download-button {
   margin: 20px 0;
   border-radius: 4px;
   box-shadow: rgba(0,0,0,0.05) 0px 0px 0px 5px;
   }
   .download-button small, .download-button h3 {
-    color: white;
             animation: fadeIn 500ms ease 250ms both;
        -moz-animation: fadeIn 500ms ease 250ms both;
     -webkit-animation: fadeIn 500ms ease 250ms both;
+    }
+  .download-button .details small, .download-button .details h3 {
+    color: #fff;
+    }
+  .download-button .label small, .download-button .label h3 {
+    color: #3C4E5A;
     }
   .download-button h3 {
     text-shadow: rgba(0,0,0,0.2) 0px -1px;
@@ -119,17 +129,12 @@
   margin-right: 10px;
   }
 
-.canvas {
-  position: relative;
-  background: #fff url(images/bg.png) repeat 0 0;
-  }
-
 .footer-actions {
   color: #3c4e5a;
   }
 
 .spot-illustration {
-  background: url(../../img/mobile-sprite.png) 0 -340px no-repeat;
+  background: url(images/sprite.png) 0 -340px no-repeat;
   display: block;
   height: 60px;
   width: 60px;
@@ -141,22 +146,26 @@
 /* --------------------------------------
   Maki Icon Grid
 ----------------------------------------- */
-#maki .canvas {
+.canvas {
+  position: relative;
   background: #fff url(images/bg.png) repeat 0 0;
   }
 
 /*Search box*/
 .canvas-controls {
   padding-top: 0;
+  position: relative;
   }
   .canvas-controls form input {
-    background: #444 url(images/sprite.png) no-repeat -211px 10px;
-    border: none;
-    color: #fff;
+    background: #f8f8f8 url(images/sprite.png) -211px 10px no-repeat;
     width: 100%;
     height: 40px;
+    padding: 10px 5px;
     line-height: 40px\9; /* IE6,7,8 Hack to center the cursor in IE */
-    padding: 0 40px;
+    text-indent: 30px;
+    border-radius: 4px 0 0 4px;
+    box-shadow: rgba(0,0,0,0.05) 0px 0px 0px 5px, inset #ddd 0px 1px 3px;
+    -webkit-appearance: none;
     }
 
 /*Icons on the canvas*/
@@ -164,41 +173,6 @@
 ul.icon-set {
   float: left;
   position: relative;
-  }
-
-#maki #map {
-  color: #444;
-  background: #f5f5f5;
-  position: relative;
-  width: 920px;
-  height: 300px;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  margin-bottom: 20px;
-  }
-.wax-tooltip {
-  color: white;
-  background: rgba(0,0,0,.5);
-  position: absolute;
-  right: 20px;
-  top: 20px;
-  width: auto;
-  padding: 15px;
-  font-size: 14px;
-  z-index: 1000;
-  }
-.wax-attribution {
-  position: absolute;
-  bottom: 5px;
-  font-size: 11px;
-  z-index: 100;
-  left: 10px;
-  }
-
-.icon.close {
-  background-position: -193px 2px;
   }
 
 .maki-details {
@@ -209,6 +183,7 @@ ul.icon-set {
   -webkit-border-radius: 0px 0px 5px 5px;
   border-radius: 0px 0px 5px 5px;
   margin-bottom: 20px;
+  z-index: 1000;
   }
 
 /* Searching icons */
@@ -218,27 +193,29 @@ ul.icon-set {
 body.searching #search-results { display: block; }
 #search-results {
   display: none;
-  position: relative;
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 160px;
+  overflow: hidden;
   }
   #search-results div {
     visibility: hidden;
-    position: relative;
     padding: 20px;
     }
   #search-results div.empty {
+    left: 0; right: 0; top: 130px;
     position: absolute;
-    left: 0; right: 0;
+    margin: auto;
     text-align: center;
+    color: #3C4E5A;
     font-size: 20px;
-    margin-top: 115px;
     }
   #search-results div.active { visibility: inherit; }
 
   #search-results ul#results {
     position: absolute;
-    top: 150px;
-    left: 0;
-    width: 100%;
+    bottom: 60px;
+    width: 66.6666%;
+    margin-left: 16.6666%;
     transition:all 250ms;
     -moz-transition:all 250ms;
     -webkit-transition:all 250ms;
@@ -252,21 +229,21 @@ body.searching #search-results { display: block; }
       -webkit-transition: none;
       transition: none;
       }
-    #search-results ul#results.size-2 { left: 50%; width: 120px; margin-left: -60px; }
-    #search-results ul#results.size-3 { left: 50%; width: 180px; margin-left: -90px; }
-    #search-results ul#results.size-4 { left: 50%; width: 240px; margin-left: -120px; }
-    #search-results ul#results.size-5 { left: 50%; width: 300px; margin-left: -150px; }
-    #search-results ul#results.size-6 { left: 50%; width: 360px; margin-left: -180px; }
-    #search-results ul#results.size-7 { left: 50%; width: 420px; margin-left: -210px; }
-    #search-results ul#results.size-8 { left: 50%; width: 480px; margin-left: -240px; }
-    #search-results ul#results.size-9 { left: 50%; width: 540px; margin-left: -270px; }
-    #search-results ul#results.size-10 { left: 50%; width: 600px; margin-left: -300px; }
-    #search-results ul#results.size-11 { left: 50%; width: 660px; margin-left: -330px; }
-    #search-results ul#results.size-12 { left: 50%; width: 720px; margin-left: -360px; }
-    #search-results ul#results.size-13 { left: 50%; width: 780px; margin-left: -390px; }
-    #search-results ul#results.size-14 { left: 50%; width: 840px; margin-left: -420px; }
-    #search-results ul#results.size-15 { left: 50%; width: 900px; margin-left: -450px; }
-    #search-results ul#results.size-16 { left: 50%; width: 960px; margin-left: -480px; }
+    #search-results ul#results.size-2  { margin-left: 37.5000%; width: 25%;}
+    #search-results ul#results.size-3  { margin-left: 37.5000%; width: 25%;}
+    #search-results ul#results.size-4  { margin-left: 37.5000%; width: 25%;}
+    #search-results ul#results.size-5  { margin-left: 33.3333%; width: 33.3333%; }
+    #search-results ul#results.size-6  { margin-left: 33.3333%; width: 33.3333%; }
+    #search-results ul#results.size-7  { margin-left: 33.3333%; width: 33.3333%; }
+    #search-results ul#results.size-8  { margin-left: 29.1666%; width: 41.6666%; }
+    #search-results ul#results.size-9  { margin-left: 29.1666%; width: 41.6666%; }
+    #search-results ul#results.size-10 { margin-left: 29.1666%; width: 41.6666%; }
+    #search-results ul#results.size-11 { margin-left: 25.0000%; width: 50%; }
+    #search-results ul#results.size-12 { margin-left: 25.0000%; width: 50%; }
+    #search-results ul#results.size-13 { margin-left: 25.0000%; width: 50%; }
+    #search-results ul#results.size-14 { margin-left: 20.8333%; width: 58.333%; }
+    #search-results ul#results.size-15 { margin-left: 20.8333%; width: 58.333%; }
+    #search-results ul#results.size-16 { margin-left: 20.8333%; width: 58.333%; }
 
     #search-results ul#results li {
       position: relative;
@@ -276,24 +253,24 @@ body.searching #search-results { display: block; }
 
 .title-box {
   position: absolute;
-  transition: opacity 250ms linear;
-  -moz-transition: opacity 250ms linear;
-  -webkit-transition: opacity 250ms linear;
-  bottom: 60px;
   background: white;
+  left: -25px; right: 0;
+  bottom: 60px;
+  width: 120px;
+  padding: 10px;
   color: #3C4E5A;
   text-align: center;
-  width: 120px;
-  left: -25px; right: 0;
   margin: auto;
-  padding: 10px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
-  display: none;
-  z-index: 1000;
   white-space:nowrap;
+  z-index: 1000;
+  display: none;
   border: 1px solid #ddd;
+  -webkit-transition: opacity 250ms linear;
+     -moz-transition: opacity 250ms linear;
+          transition: opacity 250ms linear;
+  -webkit-border-radius: 2px;
+     -moz-border-radius: 2px;
+          border-radius: 2px;
   }
   .title-box::after {
     content: '';
@@ -320,21 +297,39 @@ a.search-download {
   bottom: 50px;
   }
 .icon.close {
-  background-color: #fff;
-  background-position: -193px 2px;
-  width: 24px;
-  height: 24px;
+  background: #3C4E5A url(images/sprite.png) -195px 0px no-repeat;
+  width: 20px;
+  height: 20px;
+  top: 10px;
+  right: 50px;
   position: absolute;
-  bottom: 47px;
-  left: 50%;
-  margin-left: 85px;
   z-index: 100;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
   }
 
+/* --------------------------------------
+  Map Styles
+----------------------------------------- */
+
+#maki #map {
+  color: #444;
+  background: #f5f5f5;
+  position: relative;
+  width: 920px;
+  height: 300px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin-bottom: 20px;
+  }
+.map-tooltip { color: #3C4E5A; }
+.map-attribution { z-index: 100; }
+
 @media
 only screen and (max-width: 640px) {
   .download { display: none;}
+  #map { display: block; }
 }
