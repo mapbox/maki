@@ -250,7 +250,6 @@ body.searching #search-results { display: block; }
       float: left;
       }
 
-
 .title-box {
   position: absolute;
   background: white;
@@ -309,6 +308,58 @@ a.search-download {
   border-radius: 2px;
   }
 
+/* --------------------------------------
+  Icon Preview
+----------------------------------------- */
+
+.preview-screen {
+  height: 200px;
+  }
+  .preview-screen img {
+    display: block;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    }
+#maki-icon-preview ul {
+  box-shadow: rgba(0,0,0,0.05) 0 0 0 5px;
+  border-radius: 4px;
+  }
+
+#maki-icon-preview li a {
+  float: left;
+  width: 33.3333%;
+  border-radius: 0;
+  background: #ABABD1;
+  border-right: 1px solid #8A8ACB;
+  box-shadow: none;
+  font-size: 12px;
+  text-shadow: none;
+  font-family: 'Opensans',Arial,sans-serif;
+  color: #3C4E5A;
+  text-transform: none;
+  min-width: 0;
+  transition: background 500ms;
+  -moz-transition: background 500ms;
+  -webkit-transition: background 500ms;
+  -o-transition: background 500ms;
+  }
+  #maki-icon-preview li a.active { background: white; }
+  #maki-icon-preview li a.size-12 {
+    border-radius: 0 4px 4px 0;
+    border-right: 0px;
+    }
+  #maki-icon-preview li a.size-24 {
+    border-radius: 4px 0 0 4px;
+    }
+
+#maki-icon-preview .icon {
+  height: 24px;
+  width: 24px;
+  background: url(images/sprite.png) -200px -35px no-repeat;
+  }
+#maki-icon-preview .icon.size-18 { background-position-y: -85px;}
+#maki-icon-preview .icon.size-12 { background-position-y: -115px}
 /* --------------------------------------
   Map Styles
 ----------------------------------------- */

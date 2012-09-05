@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="sprite.svg"
-   inkscape:export-filename="./sprite@2x.png"
-   inkscape:export-xdpi="180"
-   inkscape:export-ydpi="180">
+   inkscape:export-filename="./sprite.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs7239" />
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="200.92529"
-     inkscape:cy="120.17198"
+     inkscape:cx="270.42928"
+     inkscape:cy="-17.28732"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -74,7 +74,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Undelay"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-80.000003)">
     <rect
        style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -412,5 +412,131 @@
        id="path11936-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
+    <g
+       id="g13570"
+       inkscape:export-filename="./maki-preview-24@2x.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180">
+      <rect
+         style="display:inline;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
+         id="rect13487"
+         width="190"
+         height="190"
+         x="310"
+         y="-115"
+         transform="translate(0,852.36218)" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="./maki-preview-24.png"
+         transform="translate(-5,867.36218)"
+         id="g13493"
+         style="display:inline">
+        <g
+           transform="translate(-800.0001,-387.36113)"
+           style="display:inline"
+           inkscape:export-filename="/Users/saman/work_repos/mapbox.github.com/images/maki-preview-24.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           id="g6263">
+          <path
+             id="path5626-1"
+             d="m 1233.7501,296.94452 -3.9583,7.91666 15.8333,5.93749 0,17.81249 -55.4166,0 0,-7.91666 7.9166,0 0,-7.91666 -23.75,0 c -3.9583,0 -3.9583,3.95833 -3.9583,3.95833 l 0,3.95833 11.875,0 0,7.91666 -8.4115,16.8229 c -2.3724,-0.57 -4.8754,-0.98958 -7.4218,-0.98958 -17.489,0 -31.6667,14.17795 -31.6667,31.66664 0,17.48869 14.1777,31.66664 31.6667,31.66664 17.489,0 31.6666,-14.17795 31.6666,-31.66664 l 15.8333,0 0,-2.72135 c 0.8133,-11.64224 6.8111,-22.0103 14.5964,-27.95571 5.3827,-4.11033 11.1841,-6.64683 17.0703,-7.91666 l 0,4.94791 0,3.21615 c -13.6508,3.51975 -23.75,15.67934 -23.75,30.42966 0,17.48869 14.1776,31.66664 31.6666,31.66664 17.4891,0 31.6667,-14.17795 31.6667,-31.66664 0,-14.47403 -9.7461,-26.40364 -23.0078,-30.18227 l -8.6589,-17.31769 0,-19.79165 c 0,-2.29504 -1.8407,-4.84777 -3.9583,-5.6901 l -15.8333,-6.18489 z m -43.5416,39.5833 31.6666,0 -19.7916,31.66664 -5.1954,0 c -2.0015,-7.76149 -6.5705,-14.29709 -13.1119,-18.55467 l 6.4323,-13.11197 z m -23.75,19.79165 c 10.9306,0 19.7916,8.86104 19.7916,19.79165 0,10.93061 -8.861,19.79165 -19.7916,19.79165 -10.9306,0 -19.7917,-8.86104 -19.7917,-19.79165 0,-10.93061 8.8611,-19.79165 19.7917,-19.79165 z m 87.0832,0 c 10.9307,0 19.7917,8.86104 19.7917,19.79165 0,10.93061 -8.861,19.79165 -19.7917,19.79165 -10.9306,0 -19.7916,-8.86104 -19.7916,-19.79165 0,-10.93061 8.861,-19.79165 19.7916,-19.79165 z"
+             style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:15.83331966;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             inkscape:connector-curvature="0" />
+          <path
+             style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             d="m 1233.7501,296.94452 -3.9583,7.91666 15.8333,5.93749 0,17.81249 -55.4166,0 0,-7.91666 7.9166,0 0,-7.91666 -23.75,0 c -3.9583,0 -3.9583,3.95833 -3.9583,3.95833 l 0,3.95833 11.875,0 0,7.91666 -8.4115,16.8229 c -2.3724,-0.57 -4.8754,-0.98958 -7.4218,-0.98958 -17.489,0 -31.6667,14.17795 -31.6667,31.66664 0,17.48869 14.1777,31.66664 31.6667,31.66664 17.489,0 31.6666,-14.17795 31.6666,-31.66664 l 15.8333,0 0,-2.72135 c 0.8133,-11.64224 6.8111,-22.0103 14.5964,-27.95571 5.3827,-4.11033 11.1841,-6.64683 17.0703,-7.91666 l 0,4.94791 0,3.21615 c -13.6508,3.51975 -23.75,15.67934 -23.75,30.42966 0,17.48869 14.1776,31.66664 31.6666,31.66664 17.4891,0 31.6667,-14.17795 31.6667,-31.66664 0,-14.47403 -9.7461,-26.40364 -23.0078,-30.18227 l -8.6589,-17.31769 0,-19.79165 c 0,-2.29504 -1.8407,-4.84777 -3.9583,-5.6901 l -15.8333,-6.18489 z m -43.5416,39.5833 31.6666,0 -19.7916,31.66664 -5.1954,0 c -2.0015,-7.76149 -6.5705,-14.29709 -13.1119,-18.55467 l 6.4323,-13.11197 z m -23.75,19.79165 c 10.9306,0 19.7916,8.86104 19.7916,19.79165 0,10.93061 -8.861,19.79165 -19.7916,19.79165 -10.9306,0 -19.7917,-8.86104 -19.7917,-19.79165 0,-10.93061 8.8611,-19.79165 19.7917,-19.79165 z m 87.0832,0 c 10.9307,0 19.7917,8.86104 19.7917,19.79165 0,10.93061 -8.861,19.79165 -19.7917,19.79165 -10.9306,0 -19.7916,-8.86104 -19.7916,-19.79165 0,-10.93061 8.861,-19.79165 19.7916,-19.79165 z"
+             id="path5421-1"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g13563"
+       inkscape:export-filename="./maki-preview-18.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="95"
+         x="310"
+         height="190"
+         width="190"
+         id="rect13489"
+         style="display:inline;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
+         transform="translate(0,852.36218)" />
+      <g
+         inkscape:export-ydpi="180"
+         inkscape:export-xdpi="180"
+         inkscape:export-filename="./maki-preview-18@2x.png"
+         transform="translate(-5,857.36218)"
+         id="g13511"
+         style="display:inline">
+        <g
+           transform="matrix(7.91666,0,0,7.91666,-516.24942,-10861.608)"
+           style="display:inline"
+           id="bicycle-18"
+           inkscape:label="bicycle-18"
+           inkscape:export-filename="/Users/saman/work_repos/mapbox.github.com/images/maki-preview-18.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             d="m 120,1389.3622 0,1 1,0.5 0,1.5 -5,0 0,-1 1,0 0,-0.5 -3,0 0,0.5 1,0 0,1 -1.25,1.5625 c -0.16425,-0.026 -0.32857,-0.062 -0.5,-0.062 -1.79493,0 -3.25,1.4551 -3.25,3.25 0,1.7949 1.45507,3.25 3.25,3.25 1.70922,0 3.08884,-1.3241 3.21875,-3 l 1.0625,0 c -0.005,-0.086 -0.0312,-0.1629 -0.0312,-0.25 0,-1.634 0.92903,-3.0387 2.28125,-3.75 l 1.21875,0 0,0.5938 c -1.43076,0.3404 -2.5,1.6212 -2.5,3.1562 0,1.7949 1.45507,3.25 3.25,3.25 1.79493,0 3.25,-1.4551 3.25,-3.25 0,-1.4067 -0.9057,-2.6101 -2.15625,-3.0625 l -0.8438,-1.6875 0,-2 z m -4.5,4 2.5,0 -1.75,2.5 c -0.27539,-0.6511 -0.76914,-1.2101 -1.375,-1.5625 z m -2.25,2 c 0.9665,0 1.75,0.7835 1.75,1.75 0,0.9665 -0.7835,1.75 -1.75,1.75 -0.9665,0 -1.75,-0.7835 -1.75,-1.75 0,-0.9665 0.7835,-1.75 1.75,-1.75 z m 8.5,0 c 0.9665,0 1.75,0.7835 1.75,1.75 0,0.9665 -0.7835,1.75 -1.75,1.75 -0.9665,0 -1.75,-0.7835 -1.75,-1.75 0,-0.9665 0.7835,-1.75 1.75,-1.75 z"
+             id="path5766"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccccccsssccscccssscccccccccssssssssss" />
+          <path
+             sodipodi:nodetypes="cccccccccccccsssccscccssscccccccccssssssssss"
+             inkscape:connector-curvature="0"
+             id="path5430"
+             d="m 120,1389.3622 0,1 1,0.5 0,1.5 -5,0 0,-1 1,0 0,-0.5 -3,0 0,0.5 1,0 0,1 -1.25,1.5625 c -0.16425,-0.026 -0.32857,-0.062 -0.5,-0.062 -1.79493,0 -3.25,1.4551 -3.25,3.25 0,1.7949 1.45507,3.25 3.25,3.25 1.70922,0 3.08884,-1.3241 3.21875,-3 l 1.0625,0 c -0.005,-0.086 -0.0312,-0.1629 -0.0312,-0.25 0,-1.634 0.92903,-3.0387 2.28125,-3.75 l 1.21875,0 0,0.5938 c -1.43076,0.3404 -2.5,1.6212 -2.5,3.1562 0,1.7949 1.45507,3.25 3.25,3.25 1.79493,0 3.25,-1.4551 3.25,-3.25 0,-1.4067 -0.9057,-2.6101 -2.15625,-3.0625 l -0.8438,-1.6875 0,-2 z m -4.5,4 2.5,0 -1.75,2.5 c -0.27539,-0.6511 -0.76914,-1.2101 -1.375,-1.5625 z m -2.25,2 c 0.9665,0 1.75,0.7835 1.75,1.75 0,0.9665 -0.7835,1.75 -1.75,1.75 -0.9665,0 -1.75,-0.7835 -1.75,-1.75 0,-0.9665 0.7835,-1.75 1.75,-1.75 z m 8.5,0 c 0.9665,0 1.75,0.7835 1.75,1.75 0,0.9665 -0.7835,1.75 -1.75,1.75 -0.9665,0 -1.75,-0.7835 -1.75,-1.75 0,-0.9665 0.7835,-1.75 1.75,-1.75 z"
+             style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g13556"
+       inkscape:export-filename="./maki-preview-12@2x.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180">
+      <rect
+         style="display:inline;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
+         id="rect13491"
+         width="190"
+         height="190"
+         x="310"
+         y="305"
+         transform="translate(0,852.36218)" />
+      <g
+         inkscape:export-ydpi="180"
+         inkscape:export-xdpi="180"
+         inkscape:export-filename="./maki-preview-12@2x.png"
+         transform="translate(-5,847.36218)"
+         id="g13505"
+         style="display:inline">
+        <g
+           transform="matrix(7.91666,0,0,7.91666,-634.99912,-10617.858)"
+           style="display:inline"
+           id="bicycle-12"
+           inkscape:label="bicycle-12"
+           inkscape:export-filename="/Users/saman/work_repos/mapbox.github.com/images/maki-preview-12@2x.png"
+           inkscape:export-xdpi="180.00023"
+           inkscape:export-ydpi="180.00023">
+          <path
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccc"
+             style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             d="m 133.00005,1388.3627 0,1 1,0 0,1 -2,0 0,-1 -1,0 0,1 -0.5,0.5 -0.5,0.5 -1,0 -1,2 1,2 1,0 1,0 1,-2 1.5,-2 1,0 0,0 -1.50005,1.9995 1.00005,2.0005 -5e-5,-5e-4 1,0 1,0 5e-5,5e-4 0.99995,-2.0005 -0.99995,-1.9995 -5e-5,-5e-4 -0.5,0 -0.5,-1 0,-1 -1,-1 -1,0 z m -2.00005,2.9891 1,0 0,1 -1,0 0,1 0,1 -2,0 0,-1 0,-1 2,0 z m 3,1 2,0 0,1 0,1 -2,0 0,-1 z"
+             id="path5520"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5464-7"
+             d="m 133,1388.3622 0,1 1,0 0,1 -2,0 0,-1 -1,0 0,1 -0.5,0.5 -0.5,0.5 -1,0 -1,2 1,2 1,0 1,0 1,-2 1.5,-2 1,0 0,0 -1.50005,1.9995 1.00005,2.0005 -5e-5,-5e-4 1,0 1,0 5e-5,5e-4 0.99995,-2.0005 -0.99995,-1.9995 -5e-5,-5e-4 -0.5,0 -0.5,-1 0,-1 -1,-1 -1,0 z m -2,3 1,0 0,1 -1,0 0,1 0,1 -2,0 0,-1 0,-1 2,0 z m 3,1 2,0 0,1 0,1 -2,0 0,-1 z"
+             style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
