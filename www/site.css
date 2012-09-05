@@ -129,20 +129,6 @@
   margin-right: 10px;
   }
 
-.footer-actions {
-  color: #3c4e5a;
-  }
-
-.spot-illustration {
-  background: url(images/sprite.png) 0 -340px no-repeat;
-  display: block;
-  height: 60px;
-  width: 60px;
-  margin: 0 auto 20px;
-  }
-
-.footer { color: #3c4e5a; }
-
 /* --------------------------------------
   Maki Icon Grid
 ----------------------------------------- */
@@ -306,7 +292,9 @@ a.search-download {
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
+  display: none;
   }
+  .icon.close.active { display: block; }
 
 /* --------------------------------------
   Icon Preview
@@ -360,6 +348,26 @@ a.search-download {
   }
 #maki-icon-preview .icon.size-18 { background-position-y: -85px;}
 #maki-icon-preview .icon.size-12 { background-position-y: -115px}
+
+/* --------------------------------------
+  Footer
+----------------------------------------- */
+.footer-actions {
+  color: #3c4e5a;
+  background: #fff url(images/bg.png) repeat 0 0;
+  }
+  .footer-actions .cell6:first-child { border-right: 1px solid #ddd; }
+
+.spot-illustration {
+  background: url(images/sprite.png) 0 -340px no-repeat;
+  display: block;
+  height: 60px;
+  width: 60px;
+  margin: 0 auto 20px;
+  }
+
+.footer { color: #3c4e5a; }
+
 /* --------------------------------------
   Map Styles
 ----------------------------------------- */

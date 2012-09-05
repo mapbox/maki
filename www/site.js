@@ -82,6 +82,7 @@ maki.search = function () {
     };
 
     $('input', search).focus(function() {
+        $('.icon.close').addClass('active');
         $(this).val('');
         icons.animate({
             opacity: 0.10
@@ -121,6 +122,7 @@ maki.search = function () {
         }, 500);
         $('body').removeClass('searching');
         $('input', search).blur().val('');
+        $('.icon.close').removeClass('active');
     });
 };
 $(maki.search);
