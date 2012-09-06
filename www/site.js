@@ -2,29 +2,17 @@
 var maki = {};
 
 maki.map = function() {
-    var mm = com.modestmaps;
-    var url = 'http://api.tiles.mapbox.com/v3/saman.map-kg3gj8s6.jsonp';
-    var map = document.getElementById('map');
-
-    wax.tilejson(url, function(tilejson) {
-        tilejson.minzoom = 16;
-        tilejson.maxzoom = 17;
-        var m = new mm.Map('map',
-            new wax.mm.connector(tilejson), null, [
-                new mm.MouseHandler(),
-                new mm.TouchHandler()
-            ]
-        );
-
-        m.setCenterZoom(new mm.Location(38.91710,-77.03024), 17);
-        wax.mm.zoomer(m).appendTo(map);
-        wax.mm.interaction(m, tilejson);
-        tilejson.attribution = ' POI data from <a href="http://downloads.cloudmade.com/americas/northern_america/united_states/district_of_columbia#downloads_breadcrumbs">cloudmade</a> via OpenStreetMap <a href="http://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>';
-        wax.mm.attribution(m, tilejson).appendTo(m.parent);
-        deadsea.blockScrollInto(map);
-    });
-};
-$(maki.map);
+    var makimap = mapbox.map('map', mapbox.layer().id('saman.map-kg3gj8s6', function(l) {
+        var t = l.tilejson();
+        t.attribution = 'POI data from <a href="http://downloads.cloudmade.com/americas/northern_america/united_states/district_of_columbia#downloads_breadcrumbs">cloudmade</a> via OpenStreetMap <a href="http://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>';
+        l.tilejson(t);
+        makimap.ui.refresh();
+        makimap.ui.attribution.add();
+        makimap.centerzoom({ lat: 38.91710, lon: -77.03024 }, 17).setZoomRange(16, 17);
+        makimap.interaction.auto();
+        makimap.ui.zoomer.add();
+    }));
+}();
 
 maki.slideshow = function() {
     $('#maki-icon-preview').find('a').click(function (e) {
@@ -93,6 +81,8 @@ maki.search = function () {
     };
 
     $('input', search).focus(function() {
+        $('.icon.close').addClass('active');
+        $('#maki-set').addClass('active');
         $(this).val('');
         icons.animate({
             opacity: 0.10
@@ -112,7 +102,7 @@ maki.search = function () {
             var widthClass = _.size(matches);
             _(matches).each(function(p) {
                 $('#search-results ul#results')
-                  .addClass('active clearfix size-' + widthClass)
+                  .addClass('active clearfix pad3 size-' + widthClass)
                   .append(searchResults(p));
             });
             if (matches.length) return;
@@ -132,6 +122,8 @@ maki.search = function () {
         }, 500);
         $('body').removeClass('searching');
         $('input', search).blur().val('');
+        $('.icon.close').removeClass('active');
+        $('#maki-set').removeClass('active');
     });
 };
 $(maki.search);

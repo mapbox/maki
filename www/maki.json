@@ -258,19 +258,6 @@
         "icon": "parking-garage"
     },
     {
-        "name": "London Underground",
-        "tags": [
-            "subway",
-            "metro",
-            "london",
-            "public",
-            "mass",
-            "underground",
-            "rail"
-        ],
-        "icon": "london-underground"
-    },
-    {
         "name": "Airfield",
         "tags": [
             "airfield",
