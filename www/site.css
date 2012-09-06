@@ -59,15 +59,28 @@
   color: white;
   }
 
-#maki-hero { position: relative;}
+#maki-hero {
+  position: relative;
+  z-index: 0;
+  }
 
-.intro { min-height: 420px; }
+.intro {
+  min-height: 420px;
+    -webkit-animation:fadeInRight 500ms ease 500ms both;
+       -moz-animation:fadeInRight 500ms ease 500ms both;
+         -o-animation:fadeInRight 500ms ease 500ms both;
+            animation:fadeInRight 500ms ease 500ms both;
+  }
 
 #map {
   position: absolute;
   right: 0;
   top: 0;
   bottom: 0;
+    -webkit-animation:fadeIn 500ms ease 1000ms both;
+       -moz-animation:fadeIn 500ms ease 1000ms both;
+         -o-animation:fadeIn 500ms ease 1000ms both;
+            animation:fadeIn 500ms ease 1000ms both;
   }
 
 .download {
@@ -122,13 +135,13 @@
   margin-right: 10px;
   }
 
-.illustration-container { 
-  overflow: hidden; 
+.illustration-container {
+  overflow: hidden;
   height: 350px;
   position: relative;
   }
 
-.open-source-illustration { 
+.open-source-illustration {
   background: url(images/sprite.png) 0 -155px no-repeat;
   height: 350px; width: 460px;
   position: absolute;;
@@ -162,6 +175,14 @@
     }
 
 /*Icons on the canvas*/
+
+#maki-set { min-height: 300px; }
+#maki-set > ul.icon-set {
+  -webkit-animation:fadeIn 500ms ease 1500ms both;
+     -moz-animation:fadeIn 500ms ease 1500ms both;
+       -o-animation:fadeIn 500ms ease 1500ms both;
+          animation:fadeIn 500ms ease 1500ms both;
+  }
 
 ul.icon-set {
   float: left;
@@ -256,12 +277,8 @@ body.searching #search-results { display: block; }
   text-align: center;
   margin: auto;
   white-space:nowrap;
-  z-index: 1000;
   display: none;
   border: 1px solid #ddd;
-  -webkit-transition: opacity 250ms linear;
-     -moz-transition: opacity 250ms linear;
-          transition: opacity 250ms linear;
   -webkit-border-radius: 2px;
      -moz-border-radius: 2px;
           border-radius: 2px;
@@ -395,7 +412,6 @@ a.search-download {
   margin-bottom: 20px;
   }
 .map-tooltip { color: #3C4E5A; }
-.map-attribution { z-index: 100; }
 
 @media
 only screen and (max-width: 640px) {
