@@ -183,6 +183,8 @@ ul.icon-set {
 
 .title { padding: 0;}
 
+#maki-set.active ul  { visibility: hidden\9; }
+
 body.searching #search-results { display: block; }
 #search-results {
   display: none;
@@ -404,6 +406,7 @@ only screen and (max-width: 640px) {
   #results { bottom: -40px;}
   .info .cell6:first-child { padding-bottom: 0;}
   .footer-actions .cell6:first-child { border-right: 0px; border-bottom: 1px solid #ddd;
+  }
 }
 
 @media
@@ -418,6 +421,6 @@ all and (min-device-pixel-ratio : 2) {
   .branding .attribution .small-mapbox,
   .branding #maki-logo {
     background-image: url(images/sprite@2x.png);
-    background-size: 470px 505px;
+    background-size: 50%;
   }
 }
