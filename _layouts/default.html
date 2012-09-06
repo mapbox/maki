@@ -47,9 +47,6 @@ footer:
 <!DOCTYPE html >
 <html>
 <head>
-  {% if page.experiment %}
-  {% include experiment.html %}
-  {% endif %}
   <meta charset='UTF-8'/>
   <meta name='robots' content='{% if page.hidden %}noindex{% else %}index{% endif %}'/>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
@@ -59,19 +56,19 @@ footer:
   <link href='{{site.url}}/css/site.css' rel='stylesheet' />
   <!--[if IE]><link rel='stylesheet' href='{{site.url}}/css/site-ie.css' type='text/css'/><![endif]-->
   <link rel='shortcut icon' href='{{site.url}}/images/favicon.ico' type='image/x-icon' />
-  <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.url}}/blog/blog.rss' />
   <script src='{{site.url}}/js/site.js'></script>
   <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.4/mapbox.js'></script>
 </head>
 <body class='{{page.class}}'>
-<div class='branding pad3h clearfix fillE'>
-  <div class='cell6 logos'>
-    <a id='maki-logo' class='logo' href='{{site.baseurl}}/'>Maki</a>
-    <small class='attribution'><span class='mobile-hide'>an open source project</span> by <a href='http://mapbox.com/' class='small-mapbox'>MapBox</a></small>
-  </div>
-</div>
 
-<div class='wrapper'>{{content}}</div>
+  <div class='branding pad3h clearfix fillE'>
+    <div class='cell6 logos'>
+      <a id='maki-logo' class='logo' href='{{site.baseurl}}/'>Maki</a>
+      <small class='attribution'><span class='mobile-hide'>an open source project</span> by <a href='http://mapbox.com/' class='small-mapbox'>MapBox</a></small>
+    </div>
+  </div>
+
+  <div class='wrapper'>{{content}}</div>
 
 {% unless page.class contains 'fullscreen' %}
 <div class='footer clearfix'>
@@ -123,14 +120,9 @@ footer:
     </div>
   </div>
   <div class='cell5 pad3 blogposts'>
-    <h3>Recent blog posts</h3>
+    <h3>Recent MapBox blog posts</h3>
     <div class='links'>
-    {% for item in site.categories.blog limit:4 %}
-    <a href='{{base}}{{item.url}}/'>
-      <small class='date'>{{item.date | date:"%b %d %Y"}}</small>
-      {{item.title}}
-    </a>
-    {% endfor %}
+    <script src="http://mapbox.com/snippets/blog-list.js"></script>
     </div>
     <a href='{{base}}/blog/'>Read more <span class='icon next blue'></span></a>
   </div>
@@ -172,9 +164,6 @@ var _gauges = _gauges || [];
   s.parentNode.insertBefore(t, s);
 })();
 
-{% if page.experiment %}
-$(mapbox.experiment);
-{% endif %}
 </script>
 
 </body>
