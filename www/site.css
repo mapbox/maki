@@ -1,14 +1,7 @@
+
 /* --------------------------------------
   Little Helpers
 ----------------------------------------- */
-@media
-  only screen and (-webkit-min-device-pixel-ratio : 2),
-  only screen and (min-device-pixel-ratio : 2) {
-  .wrapper .icon {
-    background-image:url(images/sprite@2x.png);
-    background-size: 240px 135px;
-   }
- }
 
 .button .icon { margin-right: 5px;}
 
@@ -405,11 +398,26 @@ a.search-download {
 @media
 only screen and (max-width: 640px) {
   .download { display: none;}
-  #map { position: relative; height: 320px; }
+  #map { position: relative; height: 280px; }
   .intro { min-height: 0;}
   .canvas-controls { padding-bottom: 40px;}
   #results { bottom: -40px;}
   .info .cell6:first-child { padding-bottom: 0;}
   .footer-actions .cell6:first-child { border-right: 0px; border-bottom: 1px solid #ddd;
+}
 
+@media
+all and (-webkit-min-device-pixel-ratio : 2),
+all and (min-device-pixel-ratio : 2) {
+  .icon.close,
+  .canvas-controls form input,
+  .maki-details,
+  #maki-icon-preview .icon,
+  .open-source-illustration,
+  .download-button .big-icon-download,
+  .branding .attribution .small-mapbox,
+  .branding #maki-logo {
+    background-image: url(images/sprite@2x.png);
+    background-size: 470px 505px;
+  }
 }
