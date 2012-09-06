@@ -6,7 +6,6 @@ maki.map = function() {
         var t = l.tilejson();
         t.attribution = 'POI data from <a href="http://downloads.cloudmade.com/americas/northern_america/united_states/district_of_columbia#downloads_breadcrumbs">cloudmade</a> via OpenStreetMap <a href="http://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>';
         l.tilejson(t);
-        console.log(t);
         makimap.ui.refresh();
         makimap.ui.attribution.add();
         makimap.centerzoom({ lat: 38.91710, lon: -77.03024 }, 17).setZoomRange(16, 17);
