@@ -15,101 +15,101 @@
 @media
   only screen and (-webkit-min-device-pixel-ratio : 2),
   only screen and (min-device-pixel-ratio : 2) {
-  ul.icon-set li.maki-icon {
+  .maki-iconli.maki-icon {
     background-image:url(images/maki-sprite@2x.png);
     background-size: 756px 360px;
    }
  }
 
 /*Category: Shapes*/
-ul.icon-set .circle-stroked       { background-position: 0 0; }
-ul.icon-set .circle               { background-position: 0 -24px; }
-ul.icon-set .square-stroked       { background-position: 0 -48px; }
-ul.icon-set .square               { background-position: 0 -72px; }
-ul.icon-set .triangle-stroked     { background-position: 0 -96px; }
-ul.icon-set .triangle             { background-position: 0 -120px; }
-ul.icon-set .star-stroked         { background-position: 0 -144px; }
-ul.icon-set .star                 { background-position: 0 -168px; }
-ul.icon-set .cross                { background-position: 0 -192px; }
-ul.icon-set .marker-stroked       { background-position: 0 -216px; }
-ul.icon-set .marker               { background-position: 0 -240px; }
+.maki-icon.circle-stroked       { background-position: 0 0; }
+.maki-icon.circle               { background-position: 0 -24px; }
+.maki-icon.square-stroked       { background-position: 0 -48px; }
+.maki-icon.square               { background-position: 0 -72px; }
+.maki-icon.triangle-stroked     { background-position: 0 -96px; }
+.maki-icon.triangle             { background-position: 0 -120px; }
+.maki-icon.star-stroked         { background-position: 0 -144px; }
+.maki-icon.star                 { background-position: 0 -168px; }
+.maki-icon.cross                { background-position: 0 -192px; }
+.maki-icon.marker-stroked       { background-position: 0 -216px; }
+.maki-icon.marker               { background-position: 0 -240px; }
 
 /*Category: religion*/
-ul.icon-set .religious-jewish     { background-position: -78px 0; }
-ul.icon-set .religious-christian  { background-position: -78px -24px; }
-ul.icon-set .religious-muslim     { background-position: -78px -48px; }
-ul.icon-set .cemetery             { background-position: -78px -72px; }
+.maki-icon.religious-jewish     { background-position: -78px 0; }
+.maki-icon.religious-christian  { background-position: -78px -24px; }
+.maki-icon.religious-muslim     { background-position: -78px -48px; }
+.maki-icon.cemetery             { background-position: -78px -72px; }
 
 /*Category: transportation*/
-ul.icon-set .airport              { background-position: -156px 0; }
-ul.icon-set .heliport             { background-position: -156px -24px; }
-ul.icon-set .rail                 { background-position: -156px -48px; }
-ul.icon-set .rail-underground     { background-position: -156px -72px; }
-ul.icon-set .rail-above           { background-position: -156px -96px; }
-ul.icon-set .bus                  { background-position: -156px -120px; }
-ul.icon-set .fuel                 { background-position: -156px -144px; }
-ul.icon-set .parking              { background-position: -156px -168px; }
-ul.icon-set .parking-garage       { background-position: -156px -192px; }
-ul.icon-set .airfield             { background-position: -156px -240px; }
-ul.icon-set .roadblock            { background-position: -156px -264px; }
-ul.icon-set .ferry                { background-position: -156px -288px; }
-ul.icon-set .harbor               { background-position: -156px -312px; }
-ul.icon-set .bicycle              { background-position: -156px -336px; }
+.maki-icon.airport              { background-position: -156px 0; }
+.maki-icon.heliport             { background-position: -156px -24px; }
+.maki-icon.rail                 { background-position: -156px -48px; }
+.maki-icon.rail-underground     { background-position: -156px -72px; }
+.maki-icon.rail-above           { background-position: -156px -96px; }
+.maki-icon.bus                  { background-position: -156px -120px; }
+.maki-icon.fuel                 { background-position: -156px -144px; }
+.maki-icon.parking              { background-position: -156px -168px; }
+.maki-icon.parking-garage       { background-position: -156px -192px; }
+.maki-icon.airfield             { background-position: -156px -240px; }
+.maki-icon.roadblock            { background-position: -156px -264px; }
+.maki-icon.ferry                { background-position: -156px -288px; }
+.maki-icon.harbor               { background-position: -156px -312px; }
+.maki-icon.bicycle              { background-position: -156px -336px; }
 
 /*Category: recreation*/
-ul.icon-set .park                 { background-position: -234px 0; }
-ul.icon-set .park2                { background-position: -234px -24px; }
-ul.icon-set .museum               { background-position: -234px -48px; }
-ul.icon-set .lodging              { background-position: -234px -72px; }
-ul.icon-set .monument             { background-position: -234px -96px; }
-ul.icon-set .zoo                  { background-position: -234px -120px; }
-ul.icon-set .garden               { background-position: -234px -144px; }
-ul.icon-set .campsite             { background-position: -234px -168px; }
-ul.icon-set .theatre              { background-position: -234px -192px; }
-ul.icon-set .art-gallery          { background-position: -234px -216px; }
+.maki-icon.park                 { background-position: -234px 0; }
+.maki-icon.park2                { background-position: -234px -24px; }
+.maki-icon.museum               { background-position: -234px -48px; }
+.maki-icon.lodging              { background-position: -234px -72px; }
+.maki-icon.monument             { background-position: -234px -96px; }
+.maki-icon.zoo                  { background-position: -234px -120px; }
+.maki-icon.garden               { background-position: -234px -144px; }
+.maki-icon.campsite             { background-position: -234px -168px; }
+.maki-icon.theatre              { background-position: -234px -192px; }
+.maki-icon.art-gallery          { background-position: -234px -216px; }
 
 /*Category: sports*/
-ul.icon-set .pitch                { background-position: -312px 0; }
-ul.icon-set .soccer               { background-position: -312px -24px; }
-ul.icon-set .america-football     { background-position: -312px -48px; }
-ul.icon-set .tennis               { background-position: -312px -72px; }
-ul.icon-set .basketball           { background-position: -312px -96px; }
-ul.icon-set .baseball             { background-position: -312px -120px; }
-ul.icon-set .golf                 { background-position: -312px -144px; }
-ul.icon-set .swimming             { background-position: -312px -168px; }
-ul.icon-set .cricket              { background-position: -312px -192px; }
-ul.icon-set .skiing               { background-position: -312px -216px; }
+.maki-icon.pitch                { background-position: -312px 0; }
+.maki-icon.soccer               { background-position: -312px -24px; }
+.maki-icon.america-football     { background-position: -312px -48px; }
+.maki-icon.tennis               { background-position: -312px -72px; }
+.maki-icon.basketball           { background-position: -312px -96px; }
+.maki-icon.baseball             { background-position: -312px -120px; }
+.maki-icon.golf                 { background-position: -312px -144px; }
+.maki-icon.swimming             { background-position: -312px -168px; }
+.maki-icon.cricket              { background-position: -312px -192px; }
+.maki-icon.skiing               { background-position: -312px -216px; }
 
 /*Category: amenity*/
-ul.icon-set .school               { background-position: -390px 0; }
-ul.icon-set .college              { background-position: -390px -24px; }
-ul.icon-set .library              { background-position: -390px -48px; }
-ul.icon-set .post                 { background-position: -390px -72px; }
-ul.icon-set .fire-station         { background-position: -390px -96px; }
-ul.icon-set .town-hall            { background-position: -390px -120px; }
-ul.icon-set .police               { background-position: -390px -144px; }
-ul.icon-set .prison               { background-position: -390px -168px; }
-ul.icon-set .embassy              { background-position: -390px -192px; }
+.maki-icon.school               { background-position: -390px 0; }
+.maki-icon.college              { background-position: -390px -24px; }
+.maki-icon.library              { background-position: -390px -48px; }
+.maki-icon.post                 { background-position: -390px -72px; }
+.maki-icon.fire-station         { background-position: -390px -96px; }
+.maki-icon.town-hall            { background-position: -390px -120px; }
+.maki-icon.police               { background-position: -390px -144px; }
+.maki-icon.prison               { background-position: -390px -168px; }
+.maki-icon.embassy              { background-position: -390px -192px; }
 
 /*Category: commercial*/
-ul.icon-set .beer                 { background-position: -468px 0; }
-ul.icon-set .restaurant           { background-position: -468px -24px; }
-ul.icon-set .cafe                 { background-position: -468px -48px; }
-ul.icon-set .shop                 { background-position: -468px -72px; }
-ul.icon-set .fast-food            { background-position: -468px -96px; }
-ul.icon-set .bar                  { background-position: -468px -120px; }
-ul.icon-set .bank                 { background-position: -468px -144px; }
-ul.icon-set .grocery              { background-position: -468px -168px; }
-ul.icon-set .cinema               { background-position: -468px -192px; }
+.maki-icon.beer                 { background-position: -468px 0; }
+.maki-icon.restaurant           { background-position: -468px -24px; }
+.maki-icon.cafe                 { background-position: -468px -48px; }
+.maki-icon.shop                 { background-position: -468px -72px; }
+.maki-icon.fast-food            { background-position: -468px -96px; }
+.maki-icon.bar                  { background-position: -468px -120px; }
+.maki-icon.bank                 { background-position: -468px -144px; }
+.maki-icon.grocery              { background-position: -468px -168px; }
+.maki-icon.cinema               { background-position: -468px -192px; }
 
 /*Category: social*/
-ul.icon-set .hospital             { background-position: -546px 0; }
-ul.icon-set .pharmacy             { background-position: -546px -24px; }
+.maki-icon.hospital             { background-position: -546px 0; }
+.maki-icon.pharmacy             { background-position: -546px -24px; }
 
 /*Category: disaster */
-ul.icon-set .minefield            { background-position: -625px 0; }
+.maki-icon.minefield            { background-position: -625px 0; }
 
 /*Category: properties */
-ul.icon-set .industrial           { background-position: -700px 0; }
-ul.icon-set .warehouse            { background-position: -700px -24px; }
-ul.icon-set .commercial           { background-position: -700px -48px; }
+.maki-icon.industrial           { background-position: -700px 0; }
+.maki-icon.warehouse            { background-position: -700px -24px; }
+.maki-icon.commercial           { background-position: -700px -48px; }

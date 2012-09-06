@@ -129,6 +129,20 @@
   margin-right: 10px;
   }
 
+.illustration-container { 
+  overflow: hidden; 
+  height: 350px;
+  position: relative;
+  }
+
+.open-source-illustration { 
+  background: url(images/sprite.png) 0 -155px no-repeat;
+  height: 350px; width: 460px;
+  position: absolute;;
+  bottom: 0; left: 0; right: 0;
+  margin: 0 auto;
+  }
+
 /* --------------------------------------
   Maki Icon Grid
 ----------------------------------------- */
@@ -143,7 +157,7 @@
   position: relative;
   }
   .canvas-controls form input {
-    background: #f8f8f8 url(images/sprite.png) -211px 10px no-repeat;
+    background: #fff url(images/sprite.png) -441px 10px no-repeat;
     width: 100%;
     height: 40px;
     padding: 10px 5px;
@@ -359,12 +373,13 @@ a.search-download {
   .footer-actions .cell6:first-child { border-right: 1px solid #ddd; }
 
 .spot-illustration {
-  background: url(images/sprite.png) 0 -340px no-repeat;
+  background: url(images/sprite.png) -300px 0px no-repeat;
   display: block;
   height: 60px;
   width: 60px;
   margin: 0 auto 20px;
   }
+  .spot-illustration.with-tilemill { background-position-x: -380px; }
 
 .footer { color: #3c4e5a; }
 
@@ -390,5 +405,11 @@ a.search-download {
 @media
 only screen and (max-width: 640px) {
   .download { display: none;}
-  #map { display: block; }
+  #map { position: relative; height: 320px; }
+  .intro { min-height: 0;}
+  .canvas-controls { padding-bottom: 40px;}
+  #results { bottom: -40px;}
+  .info .cell6:first-child { padding-bottom: 0;}
+  .footer-actions .cell6:first-child { border-right: 0px; border-bottom: 1px solid #ddd;
+
 }
