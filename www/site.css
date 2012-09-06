@@ -35,9 +35,7 @@
 
 .branding .attribution .small-mapbox {
   display: inline-block;
-  background: url(images/sprite.png);
-  background-position: 2px -74px;
-  background-repeat: no-repeat;
+  background: url(images/sprite.png) 2px -74px no-repeat;
   width: 70px;
   text-indent: -9999px;
   overflow: hidden;
@@ -168,7 +166,7 @@
     height: 40px;
     padding: 10px 5px;
     line-height: 40px\9; /* IE6,7,8 Hack to center the cursor in IE */
-    text-indent: 30px;
+    padding-left: 30px;
     border-radius: 4px 0 0 4px;
     box-shadow: rgba(0,0,0,0.05) 0px 0px 0px 5px, inset #ddd 0px 1px 3px;
     -webkit-appearance: none;
@@ -426,17 +424,18 @@ only screen and (max-width: 640px) {
 }
 
 @media
-all and (-webkit-min-device-pixel-ratio : 2),
-all and (min-device-pixel-ratio : 2) {
+  only screen and (-webkit-min-device-pixel-ratio : 2),
+  only screen and (min-device-pixel-ratio : 2) {
   .icon.close,
   .canvas-controls form input,
   .maki-details,
   #maki-icon-preview .icon,
+  .spot-illustration,
   .open-source-illustration,
   .download-button .big-icon-download,
   .branding .attribution .small-mapbox,
-  .branding #maki-logo {
+  .branding .logo {
     background-image: url(images/sprite@2x.png);
-    background-size: 50%;
+    background-size: 470px 505px;
   }
 }
