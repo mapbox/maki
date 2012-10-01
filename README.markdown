@@ -73,6 +73,9 @@ To view the backlog of icons that need to be created, visit https://github.com/m
 - amenity='cinema'
 - amenity='pub'   
 
+### Industrial
+- landuse='mine'
+
 ### Recreation
 - tourism='museum'
 - amenity='arts_centre'
