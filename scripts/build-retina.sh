@@ -17,6 +17,7 @@ do
     inkscape --without-gui -f $DIR/../src/maki-icons.svg --export-id=$object-12 -e=$DIR/../renders/$object-12.png -w 12 -h 12
     inkscape --without-gui -f $DIR/../src/maki-icons.svg --export-id=$object-18 -e=$DIR/../renders/$object-18.png -w 18 -h 18
     inkscape --without-gui -f $DIR/../src/maki-icons.svg --export-id=$object-24 -e=$DIR/../renders/$object-24.png -w 24 -h 24
-    inkscape --without-gui -f $DIR/../src/maki-icons.svg --export-id=$object-18 -e=$DIR/../renders/$object-36.png -w 36 -h 36
-    inkscape --without-gui -f $DIR/../src/maki-icons.svg --export-id=$object-24 -e=$DIR/../renders/$object-48.png -w 48 -h 48
+    inkscape --without-gui -f $DIR/../src/maki-icons.svg --export-id=$object-24 -e=$DIR/../renders/$object-12@2x.png -w 24 -h 24
+    inkscape --without-gui -f $DIR/../src/maki-icons.svg --export-id=$object-18 -e=$DIR/../renders/$object-18@2x.png -w 36 -h 36
+    inkscape --without-gui -f $DIR/../src/maki-icons.svg --export-id=$object-24 -e=$DIR/../renders/$object-24@2x.png -w 48 -h 48
 done
