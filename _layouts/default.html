@@ -1,107 +1,148 @@
 ---
 navigation:
-  - title: Tour
-    path: /tour
-    category: tour
-    class: tour
-  - title: Maps
-    path: /maps
-    category: maps
-    class: maps
-  - title: TileMill
-    path: /tilemill
-    category: tilemill
-    class: tilemill
-  - title: Help
-    path: /help
-    category: help,documentation
-    class: help
-  - title: Plans + Pricing
-    path: /plans
+  - title: Design
+    path: /tour/design
+  - title: Publish
+    path: /tour/publish
+  - title: Scale
+    path: /tour/scale
+  - title: Signup
     category: plans
     class: plans
+    path: /plans
 footer:
-  - title: About
-    path: /about
-  - title: Blog
-    path: /blog
-  - title: Mobile SDK
-    path: /mobile
-  - title: Contact
-    path: /contact
-  - title: Terms of Service
-    path: /tos
-  - title: Privacy Policy
-    path: /privacy
-  - title: Status
-    path: /status
+  tour:
+    - title: Design
+      path: /tour/design
+    - title: Publish
+      path: /tour/publish
+    - title: Scale
+      path: /tour/scale
+  mapbox:
+    - title: About
+      path: /about
+    - title: Pricing
+      path: /plans
+    - title: Premium
+      path: /plans/premium
+    - title: Blog
+      path: /blog
+    - title: Status
+      path: http://mapbox.com/status
+  resources:
+    - title: Help
+      path: /help
+    - title: Developers
+      path: /developers
+    - title: Mobile
+      path: /mobile
+    - title: Showcase
+      path: /showcase
+  tools:
+    - title: TileMill
+      path: /tilemill
+    - title: Maki
+      path: /maki
 ---
 <!DOCTYPE html >
 <html>
 <head>
   <meta charset='UTF-8'/>
   <meta name='robots' content='{% if page.hidden %}noindex{% else %}index{% endif %}'/>
-  <meta name="viewport" content="width=1000">
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   {% if page.description %}<meta name='description' content='{{page.description | strip_html}}'/>{% endif %}
-  <title>{% if page.url == '/index.html' %}{{page.title}}{% else %}{{page.title}} | MapBox{% endif %}</title>
-  <link rel='stylesheet' href='{{site.url}}/css/site.css' type='text/css'/>
+  <title>{% if page.url == '/' %}{{page.title}} | Fast and beautiful maps{% else %}{{page.title}} | MapBox{% endif %}</title>
+  <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.4/mapbox.css' rel='stylesheet' />
+  <link href='{{site.url}}/css/site.css' rel='stylesheet' />
   <!--[if IE]><link rel='stylesheet' href='{{site.url}}/css/site-ie.css' type='text/css'/><![endif]-->
   <link rel='shortcut icon' href='{{site.url}}/images/favicon.ico' type='image/x-icon' />
-  <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.url}}/blog/blog.rss' />
   <script src='{{site.url}}/js/site.js'></script>
+  <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.4/mapbox.js'></script>
 </head>
-<body class='{{page.class}}'><div class='{% if page.bleed %}wrapper-bleed{% else %}wrapper{% endif %}'>
-<div class='branding'><div class='limiter'>
-  <a class='logo' href='{{site.url}}/'>MapBox</a>
-  <ul class='menu'>
-    {% for item in page.navigation %}
-    {% if item.path contains 'http' %}
-      {% capture url %}{{item.path}}{% endcapture %}
-    {% else %}
-      {% capture url %}{{site.url}}{{item.path}}/{% endcapture %}
-    {% endif %}
-    {% if item.category contains page.category or item.category contains page.section %}
-      {% capture class %}{{item.class}} active{% endcapture %}
-    {% else %}
-      {% capture class %}{{item.class}}{% endcapture %}
-    {% endif %}
-    <li class='{{class}}'>
-      <a href='{{url}}'><span class='icon'></span>{{item.title}}</a>
-    </li>
-    {% endfor %}
-  </ul>
-  <small class='auth'>
-    <a class='login button labeled' href='http://tiles.mapbox.com/login'>
-      <span class='icon account'></span>
-      My account
-    </a>
-  </small>
-</div></div>
+<body class='{{page.class}}'>
 
-{{content}}
+  <div class='branding pad3h clearfix fillE'>
+    <div class='cell6 logos'>
+      <a id='maki-logo' class='logo' href='{{site.baseurl}}/'>Maki</a>
+      <small class='attribution'><span class='mobile-hide'>an open source project</span> by <a href='http://mapbox.com/' class='small-mapbox'>MapBox</a></small>
+    </div>
+  </div>
 
-<div class='push'></div></div>
+  <div class='wrapper'>{{content}}</div>
 
-{% unless page.bleed %}
-<div class='footer'><div class='limiter'>
+{% unless page.class contains 'fullscreen' %}
+<div class='footer clearfix'>
+  <div class='cell3 pad3 newsletter'>
+    <a class='button big follow' href='http://twitter.com/mapbox' target='_blank'><span class='icon reverse twitter'></span>Follow us</a>
+    <a class='button big contact' href='{{base}}/contact'><span class='icon reverse contact'></span>Contact us</a>
+    <small>Subscribe to our newsletter</small>
+    <!-- Begin MailChimp Signup Form -->
+    <div id='mc-signup'>
+      <form action='http://mapbox.us2.list-manage1.com/subscribe/post?u=1b29ad842d113cece02035883&amp;id=6cbe531fd0' method='post' id='mc-embedded-subscribe-form' name='mc-embedded-subscribe-form' class='validate' target='_blank'>
+        <div class='mc-field-group clearfix'>
+          <input type='hidden' value='1' name='group[7417][2]'>
+          <div class='field-wrapper'><input type='text' value='' placeholder='Email Address' name='EMAIL' class='required email' id='mce-EMAIL'></div>
+          <input type='submit' value='Subscribe' name='subscribe' id='mc-embedded-subscribe' class='button big icon reverse mail'>
+        </div>
+        <div id='mce-responses'>
+          <div class='response' id='mce-error-response' style='display:none'></div>
+          <div class='response' id='mce-success-response' style='display:none'></div>
+        </div>
+      </form>
+    </div>
+  </div>
 
-<div class='links'>
-<strong>MapBox®</strong>
-{% for item in page.footer %}
-<a href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
-{% endfor %}
+  <div class='cell2 pad3'>
+    <h3>MapBox</h3>
+    <div class='links'>
+      {% for item in page.footer.tour %}
+      <a id='footer-{{item.title | downcase | replace:' ','-'}}' href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+      {% endfor %}
+    </div>
+    <div class='links'>
+      {% for item in page.footer.mapbox %}
+      <a id='footer-{{item.title | downcase | replace:' ','-'}}' href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+      {% endfor %}
+    </div>
+  </div>
+  <div class='cell2 pad3'>
+    <h3>Resources</h3>
+    <div class='links'>
+      {% for item in page.footer.resources %}
+      <a id='footer-{{item.title | downcase | replace:' ','-'}}' href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+      {% endfor %}
+    </div>
+    <h3>Tools</h3>
+    <div class='links'>
+      {% for item in page.footer.tools %}
+      <a id='footer-{{item.title | downcase | replace:' ','-'}}' href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+      {% endfor %}
+    </div>
+  </div>
+  <div class='cell5 pad3 blogposts'>
+    <h3>Recent MapBox blog posts</h3>
+    <div class='links'>
+    <script src="http://mapbox.com/snippets/blog-list.js"></script>
+    </div>
+    <a href='{{base}}/blog/'>Read more <span class='icon next blue'></span></a>
+  </div>
 </div>
 
-<a class='ds' href='http://developmentseed.org' target='_blank'>
-<span class='madeby'>Made by Development Seed</span>
-<span class='office'></span>
-</a>
-
-</div></div>
+<div class='footer-copyright'>
+  <a href='{{base}}/tos'>Terms of service</a> +
+  <a href='{{base}}/privacy'>Privacy policy</a>
+  &copy; MapBox
+</div>
 {% endunless %}
+
+<script src='https://tiles.mapbox.com/snippets/user.js'></script>
 
 <script type='text/javascript'>
 var _gaq = _gaq || [];
+var pluginUrl = (('https:' == document.location.protocol) ?
+   'https://ssl.' : 'http://www.') +
+   'google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 _gaq.push(['_setAccount', 'UA-12158002-1']);
 _gaq.push(['_setDomainName', '.mapbox.com']);
 _gaq.push(['_trackPageview']);
@@ -122,6 +163,7 @@ var _gauges = _gauges || [];
   var s = document.getElementsByTagName('script')[0];
   s.parentNode.insertBefore(t, s);
 })();
+
 </script>
 
 </body>
