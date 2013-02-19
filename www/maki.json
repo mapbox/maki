@@ -730,13 +730,15 @@
         "icon": "hospital"
     },
     {
-        "name": "Minefield",
+        "name": "Danger",
         "tags": [
             "minefield",
             "landmine",
-            "disaster"
+            "disaster",
+            "dangerious",
+            "hazard"
         ],
-        "icon": "minefield"
+        "icon": "danger"
     },
     {
         "name": "Industrial",
@@ -764,5 +766,77 @@
             "building"
         ],
         "icon": "commercial"
+    },
+    {
+        "name": "Place of worship",
+        "tags": [
+            "religion",
+            "ceremony",
+            "religious",
+            "nondenominational",
+            "church",
+            "temple"
+        ],
+        "icon": "place-of-worship"
+    },
+    {
+        "name": "Alcohol shop",
+        "tags": [
+            "alcohol",
+            "liquor",
+            "store",
+            "shop",
+            "beer",
+            "wine",
+            "vokda"
+        ],
+        "icon": "alcohol-shop"
+    },
+    {
+        "name": "Logging",
+        "tags": [
+            "logger",
+            "chainsaw",
+            "woods",
+            "industry"
+        ],
+        "icon": "logging"
+    },
+    {
+        "name": "Oil well",
+        "tags": [
+            "oil",
+            "natural",
+            "environment",
+            "industry",
+            "resources"
+        ],
+        "icon": "oil-well"
+    },
+    {
+        "name": "Slaughterhouse",
+        "tags": [
+            "cows",
+            "cattle",
+            "food",
+            "meat",
+            "industry",
+            "resources"
+        ],
+        "icon": "slaughterhouse"
+    },
+    {
+        "name": "dam",
+        "tags": [
+            "water",
+            "natural",
+            "hydro",
+            "hydroelectric",
+            "energy",
+            "environment",
+            "industry",
+            "resources"
+        ],
+        "icon": "dam"
     }
 ]
