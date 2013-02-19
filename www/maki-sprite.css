@@ -39,6 +39,7 @@
 .maki-icon.religious-christian  { background-position: -78px -24px; }
 .maki-icon.religious-muslim     { background-position: -78px -48px; }
 .maki-icon.cemetery             { background-position: -78px -72px; }
+.maki-icon.place-of-worship     { background-position: -78px -96px; }
 
 /*Category: transportation*/
 .maki-icon.airport              { background-position: -156px 0; }
@@ -101,15 +102,24 @@
 .maki-icon.bank                 { background-position: -468px -144px; }
 .maki-icon.grocery              { background-position: -468px -168px; }
 .maki-icon.cinema               { background-position: -468px -192px; }
+.maki-icon.alcohol-shop         { background-position: -468px -216px; }
 
 /*Category: social*/
 .maki-icon.hospital             { background-position: -546px 0; }
 .maki-icon.pharmacy             { background-position: -546px -24px; }
 
 /*Category: disaster */
-.maki-icon.minefield            { background-position: -625px 0; }
+.maki-icon.danger               { background-position: -625px 0; }
 
 /*Category: properties */
 .maki-icon.industrial           { background-position: -700px 0; }
 .maki-icon.warehouse            { background-position: -700px -24px; }
 .maki-icon.commercial           { background-position: -700px -48px; }
+
+/*Category: energy */
+.maki-icon.oil-well             { background-position: -700px -120px; }
+.maki-icon.dam                  { background-position: -700px -168px; }
+
+/*Category: industry */
+.maki-icon.slaughterhouse       { background-position: -700px -144px; }
+.maki-icon.logging              { background-position: -700px -96px; }
