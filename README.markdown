@@ -2,6 +2,9 @@
 
 Maki is a point of interest icon set made especially for use with MapBox maps. For more information on how to use Maki with MapBox, see documentation at http://mapbox.com/tilemill/docs/guides/using-maki-icons/.
 
+
+## Notes on Contributing
+
 I recommend using [Inkscape](http://inkscape.org/) for editing and exporting from the .SVG to take advantage of Inkscape's batch export, as all the icons have unique ID's that Inkscape uses to create file names. 
 
 Maki follows these design principles:
@@ -13,8 +16,10 @@ Maki follows these design principles:
 
 To view the backlog of icons that need to be created, visit https://github.com/mapbox/maki/wiki/Maki-Backlog
 
-## Completed icons
+If you decide to modify `src/maki-icons.svg` in order to add an icon to the set, before submitting a pull request, make sure you clear user-specific settings from the SVG with: `sed -i 's/\ *inkscape:export-filename=".*"//g' maki-icons.svg` on Linux or `sed -i "" -e 's/\ *inkscape:export-filename=".*"//g' maki-icons.svg` on OSX.
 
+It isn't necessary, but if you want to be an over-acheiver, you can also update the website with your new icon by [following these instructions](https://github.com/mapbox/maki/wiki/Adding-icons-to-the-site)
+## Completed icons
 
 ### Basic shapes
 
