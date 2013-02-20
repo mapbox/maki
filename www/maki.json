@@ -294,7 +294,7 @@
             "marine",
             "dock",
             "water",
-            "warf"
+            "wharf"
         ],
         "icon": "harbor"
     },
@@ -735,7 +735,7 @@
             "minefield",
             "landmine",
             "disaster",
-            "dangerious",
+            "dangerous",
             "hazard"
         ],
         "icon": "danger"
@@ -788,7 +788,7 @@
             "shop",
             "beer",
             "wine",
-            "vokda"
+            "vodka"
         ],
         "icon": "alcohol-shop"
     },
