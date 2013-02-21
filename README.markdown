@@ -39,7 +39,7 @@ To view the backlog of icons that need to be created, visit https://github.com/m
 - amenity='pharmacy'
 - amenity='grave_yard'
 - amenity='place_of_worship' religion='christian'
-- - amenity='place_of_worship' religion='hindu'
+- amenity='place_of_worship' religion='hindu'
 - amenity='place_of_worship' religion='jewish'
 - amenity='place_of_worship' religion='muslim'
 
