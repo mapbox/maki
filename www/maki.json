@@ -826,7 +826,7 @@
         "icon": "slaughterhouse"
     },
     {
-        "name": "dam",
+        "name": "Dam",
         "tags": [
             "water",
             "natural",
@@ -838,5 +838,18 @@
             "resources"
         ],
         "icon": "dam"
+    },
+    {
+    "name": "Water",
+    "tags": [
+        "water",
+        "natural",
+        "hydro",
+        "lake",
+        "river",
+        "ocean",
+        "resources"
+    ],
+    "icon": "water"
     }
 ]
