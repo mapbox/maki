@@ -80,7 +80,6 @@
 .maki-icon.swimming             { background-position: -312px -168px; }
 .maki-icon.cricket              { background-position: -312px -192px; }
 .maki-icon.skiing               { background-position: -312px -216px; }
-.maki-icon.water                { background-position: -312px -240px; }
 
 /*Category: amenity*/
 .maki-icon.school               { background-position: -390px 0; }
@@ -124,3 +123,7 @@
 /*Category: industry */
 .maki-icon.slaughterhouse       { background-position: -700px -144px; }
 .maki-icon.logging              { background-position: -700px -96px; }
+
+/*Category: natural */
+.maki-icon.water                { background-position: -312px -240px; }
+.maki-icon.wetland              { background-position: -312px -264px; }

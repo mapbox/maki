@@ -851,5 +851,14 @@
         "resources"
     ],
     "icon": "water"
+    },
+    {
+    "name": "wetland",
+    "tags": [
+        "water",
+        "swamp",
+        "natural",
+    ],
+    "icon": "wetland"
     }
 ]
