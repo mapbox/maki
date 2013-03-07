@@ -101,4 +101,9 @@ It isn't necessary, but if you want to be an over-acheiver, you can also update 
 
 ### Disaster / Emergency
 
-- landmine
+- danger
+
+### Natural
+
+- Water
+- Wetland
