@@ -853,11 +853,11 @@
     "icon": "water"
     },
     {
-    "name": "wetland",
+    "name": "Wetland",
     "tags": [
         "water",
         "swamp",
-        "natural",
+        "natural"
     ],
     "icon": "wetland"
     }
