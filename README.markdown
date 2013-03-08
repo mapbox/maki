@@ -44,6 +44,7 @@ It isn't necessary, but if you want to be an over-acheiver, you can also update 
 - amenity='pharmacy'
 - amenity='grave_yard'
 - amenity='place_of_worship' religion='christian'
+- amenity='place_of_worship' religion='hindu'
 - amenity='place_of_worship' religion='jewish'
 - amenity='place_of_worship' religion='muslim'
 
