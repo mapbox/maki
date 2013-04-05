@@ -111,10 +111,11 @@
 /*Category: disaster */
 .maki-icon.danger               { background-position: -625px 0; }
 
-/*Category: properties */
+/*Category: buildings */
 .maki-icon.industrial           { background-position: -700px 0; }
 .maki-icon.warehouse            { background-position: -700px -24px; }
 .maki-icon.commercial           { background-position: -700px -48px; }
+.maki-icon.building             { background-position: -700px -72px; }
 
 /*Category: energy */
 .maki-icon.oil-well             { background-position: -700px -120px; }

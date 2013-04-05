@@ -745,6 +745,7 @@
         "tags": [
             "industrial",
             "factory",
+            "property",
             "building"
         ],
         "icon": "industrial"
@@ -753,6 +754,7 @@
         "name": "Warehouse",
         "tags": [
             "warehouse",
+            "property",
             "storage",
             "building"
         ],
@@ -762,10 +764,22 @@
         "name": "Commercial",
         "tags": [
             "commercial",
+            "property",
             "business",
             "building"
         ],
         "icon": "commercial"
+    },
+    {
+        "name": "Building",
+        "tags": [
+            "building",
+            "property",
+            "structure",
+            "business",
+            "building"
+        ],
+        "icon": "building"
     },
     {
         "name": "Place of worship",
