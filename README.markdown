@@ -5,7 +5,9 @@ Maki is a point of interest icon set made especially for use with MapBox maps. F
 
 ## Notes on Contributing
 
-I recommend using [Inkscape](http://inkscape.org/) for editing and exporting from the .SVG to take advantage of Inkscape's batch export, as all the icons have unique ID's that Inkscape uses to create file names. 
+The working file that includes all the icons is here: https://github.com/mapbox/maki/blob/gh-pages/src/maki-icons.svg.
+
+I use [Inkscape](http://inkscape.org/) for editing and exporting from the .SVG, to take advantage of Inkscape's batch export, as all the icons have unique ID's that Inkscape uses to create file names. 
 
 Maki follows these design principles:
 
