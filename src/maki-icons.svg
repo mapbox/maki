@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="771.02832"
-     inkscape:cy="-223.75178"
+     inkscape:zoom="11.313709"
+     inkscape:cx="766.72314"
+     inkscape:cy="-218.68857"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="746"
@@ -513,7 +513,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8178,22 +8178,9 @@
       </g>
     </g>
     <g
-       transform="translate(-60,1097.3622)"
-       style="display:inline"
-       id="emergency-phone-24"
-       inkscape:label="emergency-phone-24">
-      <rect
-         y="172"
-         x="691"
-         height="24"
-         width="24"
-         id="rect5210-3"
-         style="opacity:0.3;fill:none;stroke:none" />
-    </g>
-    <g
        transform="translate(-80,1132.3622)"
        style="display:inline"
-       id="g5355"
+       id="emergency-phone-24"
        inkscape:label="emergency-phone-24">
       <g
          id="g5341">
