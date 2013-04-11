@@ -874,5 +874,54 @@
         "natural"
     ],
     "icon": "wetland"
+    },
+    {
+    "name": "Disability",
+    "tags": [
+        "handicap",
+        "wheelchair",
+        "access"
+    ],
+    "icon": "disability"
+    },
+    {
+    "name": "Telephone",
+    "tags": [
+        "payphone",
+        "call"
+    ],
+    "icon": "telephone"
+    },
+    {
+    "name": "Emergency Telephone",
+    "tags": [
+        "payphone",
+        "danger",
+        "safety",
+        "call"
+    ],
+    "icon": "emergency-telephone"
+    },
+    {
+    "name": "Toilets",
+    "tags": [
+        "bathroom",
+        "men",
+        "women",
+        "sink",
+        "washroom",
+        "lavatory"
+    ],
+    "icon": "toilets"
+    },
+    {
+    "name": "Waste Basket",
+    "tags": [
+        "trash",
+        "rubbish",
+        "bin",
+        "garbage"
+    ],
+    "icon": "waste-basket"
     }
 ]
