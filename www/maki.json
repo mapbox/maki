@@ -923,5 +923,16 @@
         "garbage"
     ],
     "icon": "waste-basket"
+    },
+    {
+    "name": "Music",
+    "tags": [
+        "stage",
+        "performance",
+        "band",
+        "concert",
+        "venue"
+    ],
+    "icon": "music"
     }
 ]
