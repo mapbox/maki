@@ -51,11 +51,11 @@
 .maki-icon.fuel                 { background-position: -156px -144px; }
 .maki-icon.parking              { background-position: -156px -168px; }
 .maki-icon.parking-garage       { background-position: -156px -192px; }
-.maki-icon.airfield             { background-position: -156px -240px; }
-.maki-icon.roadblock            { background-position: -156px -264px; }
-.maki-icon.ferry                { background-position: -156px -288px; }
-.maki-icon.harbor               { background-position: -156px -312px; }
-.maki-icon.bicycle              { background-position: -156px -336px; }
+.maki-icon.airfield             { background-position: -156px -216px; }
+.maki-icon.roadblock            { background-position: -156px -240px; }
+.maki-icon.ferry                { background-position: -156px -264px; }
+.maki-icon.harbor               { background-position: -156px -288px; }
+.maki-icon.bicycle              { background-position: -156px -312px; }
 
 /*Category: recreation*/
 .maki-icon.park                 { background-position: -234px 0; }
@@ -91,6 +91,11 @@
 .maki-icon.police               { background-position: -390px -144px; }
 .maki-icon.prison               { background-position: -390px -168px; }
 .maki-icon.embassy              { background-position: -390px -192px; }
+.maki-icon.waste-basket         { background-position: -390px -216px; }
+.maki-icon.toilets              { background-position: -390px -240px; }
+.maki-icon.telephone            { background-position: -390px -264px; }
+.maki-icon.emergency-telephone  { background-position: -390px -288px; }
+.maki-icon.disability           { background-position: -390px -312px; }
 
 /*Category: commercial*/
 .maki-icon.beer                 { background-position: -468px 0; }
