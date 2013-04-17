@@ -1,0 +1,11 @@
+{
+    "author": "MapBox",
+    "name": "maki",
+    "description": "Pixel-perfect icons for web cartography",
+    "version": "0.0.1",
+    "homepage": "http://mapbox.com/maki",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mapbox/maki"
+    }
+}
