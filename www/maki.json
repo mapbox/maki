@@ -934,5 +934,57 @@
         "venue"
     ],
     "icon": "music"
+    },
+    {
+    "name": "Land Use",
+    "tags": [
+        "zoning",
+        "usage",
+        "area"
+    ],
+    "icon": "land-use"
+    },
+    {
+    "name": "City",
+    "tags": [
+        "area",
+        "point",
+        "place",
+        "urban"
+    ],
+    "icon": "city"
+    },
+    {
+    "name": "Town",
+    "tags": [
+        "area",
+        "point",
+        "place",
+        "small"
+    ],
+    "icon": "town"
+    },
+    {
+    "name": "Village",
+    "tags": [
+        "area",
+        "point",
+        "place",
+        "small",
+        "rural"
+    ],
+    "icon": "village"
+    },
+    {
+    "name": "Farm",
+    "tags": [
+        "building",
+        "farming",
+        "crops",
+        "plants",
+        "agriculture",
+        "rural"
+    ],
+    "icon": "farm"
     }
 ]

@@ -110,6 +110,13 @@
 .maki-icon.alcohol-shop         { background-position: -468px -216px; }
 .maki-icon.music                { background-position: -468px -240px; }
 
+/*Category: places */
+.maki-icon.land-use             { background-position: -700px -192px; }
+.maki-icon.city                 { background-position: -700px -216px; }
+.maki-icon.town                 { background-position: -700px -240px; }
+.maki-icon.village              { background-position: -700px -264px; }
+.maki-icon.farm                 { background-position: -700px -288px; }
+
 
 /*Category: social*/
 .maki-icon.hospital             { background-position: -546px 0; }
