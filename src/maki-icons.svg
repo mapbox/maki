@@ -17,7 +17,7 @@
    sodipodi:docname="maki-icons.svg"
    inkscape:export-xdpi="89.996605"
    inkscape:export-ydpi="89.996605"
-   inkscape:export-filename="/Users/saman/work_repos/maki/src/maki-icons.png">
+>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="422.45643"
-     inkscape:cy="-60.638492"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="631.19107"
+     inkscape:cy="-242.23429"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -523,7 +523,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
