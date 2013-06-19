@@ -1,43 +1,40 @@
 ---
 navigation:
-  - title: Design
-    path: /tour/design
-  - title: Publish
-    path: /tour/publish
-  - title: Scale
-    path: /tour/scale
-  - title: Signup
+  - title: Tour
+    category: tour
+    path: /tour
+  - title: Showcase
+    category: showcase
+    class: showcase
+    path: /showcase
+  - title: Blog
+    category: blog
+    path: /blog
+  - title: Plans
     category: plans
     class: plans
     path: /plans
 footer:
-  tour:
-    - title: Design
-      path: /tour/design
-    - title: Publish
-      path: /tour/publish
-    - title: Scale
-      path: /tour/scale
   mapbox:
+    - title: Tour
+      path: /tour
+    - title: Showcase
+      path: /showcase
     - title: About
       path: /about
-    - title: Pricing
+    - title: Plans
       path: /plans
     - title: Premium
       path: /plans/premium
     - title: Blog
       path: /blog
     - title: Status
-      path: /status
+      path: http://mapbox.com/status
   resources:
     - title: Help
       path: /help
     - title: Developers
       path: /developers
-    - title: Mobile
-      path: /mobile
-    - title: Showcase
-      path: /showcase
   tools:
     - title: TileMill
       path: /tilemill
@@ -70,11 +67,10 @@ footer:
 
   <div class='wrapper'>{{content}}</div>
 
-{% unless page.class contains 'fullscreen' %}
 <div class='footer clearfix'>
   <div class='cell3 pad3 newsletter'>
-    <a class='button big follow' href='http://twitter.com/mapbox' target='_blank'><span class='icon reverse twitter'></span>Follow us</a>
-    <a class='button big contact' href='{{base}}/contact'><span class='icon reverse contact'></span>Contact us</a>
+    <a class='button big follow' href='http://twitter.com/mapbox' target='_blank'><span class='pre-text icon reverse twitter'></span>Follow us</a>
+    <a class='button big contact' href='{{base}}/contact'><span class='pre-text icon reverse contact'></span>Contact us</a>
     <small>Subscribe to our newsletter</small>
     <!-- Begin MailChimp Signup Form -->
     <div id='mc-signup'>
@@ -94,11 +90,6 @@ footer:
 
   <div class='cell2 pad3'>
     <h3>MapBox</h3>
-    <div class='links'>
-      {% for item in page.footer.tour %}
-      <a id='footer-{{item.title | downcase | replace:' ','-'}}' href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
-      {% endfor %}
-    </div>
     <div class='links'>
       {% for item in page.footer.mapbox %}
       <a id='footer-{{item.title | downcase | replace:' ','-'}}' href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
@@ -120,11 +111,11 @@ footer:
     </div>
   </div>
   <div class='cell5 pad3 blogposts'>
-    <h3>Recent MapBox blog posts</h3>
+    <h3>Recent blog posts</h3>
     <div class='links'>
-    <script src="http://mapbox.com/snippets/blog-list.js"></script>
+      <script src='http://mapbox.com/snippets/blog-list.js'></script>
     </div>
-    <a href='{{base}}/blog/'>Read more <span class='icon next blue'></span></a>
+    <a id='read-more' href='{{site.url}}/blog/'>Read more <span class='icon next blue'></span></a>
   </div>
 </div>
 
@@ -133,7 +124,6 @@ footer:
   <a href='{{base}}/privacy'>Privacy policy</a>
   &copy; MapBox
 </div>
-{% endunless %}
 
 <script src='https://tiles.mapbox.com/snippets/user.js'></script>
 

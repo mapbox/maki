@@ -1,5 +1,3 @@
-auto: true
-server: true
 exclude:
   - README.markdown
   - nounproject
