@@ -8,13 +8,8 @@
   Branding Overrides
 ----------------------------------------- */
 
-.branding {
-  padding-top: 50px;
-  padding-bottom: 50px;
-  }
-
 .branding .logo {
-  background: url(images/sprite.png) 0 20px no-repeat;
+  background: url(images/sprite.png) 0 10px no-repeat;
   }
 
 .fillE {
@@ -28,7 +23,7 @@
 .branding .attribution {
   position: absolute;
   left: 0px;
-  top: 45px;
+  top: 35px;
   color: white;
   }
 
