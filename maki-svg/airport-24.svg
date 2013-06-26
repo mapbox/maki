@@ -14,7 +14,7 @@
    id="svg4460"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="cross-24.svg">
+   sodipodi:docname="place-of-worship-24.svg">
   <defs
      id="defs4462" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
      inkscape:cx="15.622727"
-     inkscape:cy="-3.6919166"
+     inkscape:cy="-0.15638252"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -99,42 +99,42 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <g
-       transform="translate(72,-238)"
+       transform="translate(-84,-22)"
        style="display:inline"
-       id="marker-stroked-24"
-       inkscape:label="marker-stroked-24"
+       id="airport-24"
+       inkscape:label="airport-24"
        inkscape:export-xdpi="89.996864"
        inkscape:export-ydpi="89.996864">
       <g
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         id="g15380-8"
-         style="display:inline"
-         transform="translate(-72,262)">
+         transform="translate(84,-2)"
+         id="g6678">
         <g
-           transform="translate(-101.99314,703.00001)"
-           style="display:inline"
-           id="marker-15-7-6-8-1-1-9"
-           inkscape:label="marker-15">
+           id="g14771">
           <path
              inkscape:connector-curvature="0"
-             style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-             d="m 114.49314,304.36219 c -3.22874,0 -6.5,3 -6.5,6.5 0,3.5 5,9.5 6.5,11.5 1.5,-2 6.5,-8 6.5,-11.5 0,-3.5 -3.27126,-6.5 -6.5,-6.5 z m 0,2 c 2.51124,0 4.5,1.77778 4.5,4.5 0,2.72222 -3.33334,6.94444 -4.5,8.5 -1.16666,-1.55556 -4.5,-5.77778 -4.5,-8.5 0,-2.72222 1.98876,-4.5 4.5,-4.5 z"
-             id="path4077" />
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             d="m 21,1065.3622 0,1 -7,-1 0,0.031 0,3.9688 2,2.0002 c 0,0.5 -0.5,1 -1,1 -2,0 -5,0 -5,0 -0.5,0 -1,-0.5 -1,-1 l 2,-2.0002 0,-4 -7,1 0,-1 7,-4 c 0,0 0,-0.3333 0,-2 0,-1 0.5,-4 1.5,-4 1,0 1.5,3 1.5,4 0,1.6667 0,2 0,2 z"
+             id="path14304"
+             sodipodi:nodetypes="ccccccscccccccssscc" />
           <path
-             id="path7962-4-3-5-3-7-1"
-             d="m 114.49314,304.36219 c -3.22874,0 -6.5,3 -6.5,6.5 0,3.5 5,9.5 6.5,11.5 1.5,-2 6.5,-8 6.5,-11.5 0,-3.5 -3.27126,-6.5 -6.5,-6.5 z m 0,2 c 2.51124,0 4.5,1.77778 4.5,4.5 0,2.72222 -3.33334,6.94444 -4.5,8.5 -1.16666,-1.55556 -4.5,-5.77778 -4.5,-8.5 0,-2.72222 1.98876,-4.5 4.5,-4.5 z"
-             style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:nodetypes="cccccsccccccccsssccc"
+             id="path7712"
+             d="m 21,1065.8622 0,0.5 -7,-1 0,3.9998 2,2.0002 c 0,0.5 -0.5,1 -1,1 -2,0 -5,0 -5,0 -0.5,0 -1,-0.5 -1,-1 l 2,-2.0002 0,-4 -7,1 0,-0.4998 c 0,-0.5 0.3056731,-0.6379 0.5,-0.75 l 6.5,-3.7502 c 0,0 0,-0.3333 0,-2 0,-1 0.5,-4 1.5,-4 1,0 1.5,3 1.5,4 0,1.6667 0,2 0,2 l 6.5,3.7502 c 0.27841,0.1606 0.5,0.2411 0.5,0.75 z"
+             style="fill:#444444;fill-opacity:1;stroke:none;display:inline"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90"
              inkscape:connector-curvature="0" />
         </g>
       </g>
       <rect
          style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect22075"
+         id="rect22075-7"
          width="24"
          height="24.000017"
-         x="-72"
-         y="1266.3622" />
+         x="84"
+         y="1050.3622" />
     </g>
   </g>
 </svg>
