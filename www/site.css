@@ -303,8 +303,10 @@ a.search-download {
   background: #3C4E5A url(images/sprite.png) -195px 0px no-repeat;
   width: 20px;
   height: 20px;
-  top: 10px;
-  right: 50px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  right: 45px;
   position: absolute;
   z-index: 100;
   -moz-border-radius: 2px;
