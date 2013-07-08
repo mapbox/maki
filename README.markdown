@@ -28,10 +28,6 @@ The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function corr
 
 For an icon to be handled by the render script it must have an appropriate entry in `www/maki.json`.
 
-## Contributing
-
-See CONTRIBUTING.md for information on adding new icons to the Maki project.
-
 [SVG]: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
 [Inkscape]: http://inkscape.org
 [Bash]: http://www.gnu.org/software/bash/bash.html
