@@ -4,7 +4,9 @@ Maki is a point of interest icon set made especially for use with MapBox maps. F
 
 ## src
 
-Maki's source files [SVG][]s in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall. Maki is designed using [Inkscape][]; for information on contributing to Maki see CONTRIBUTING.md.
+Maki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall. 
+
+Maki is designed using [Inkscape][]. For information on contributing to Maki see CONTRIBUTING.md.
 
 ## renders
 
