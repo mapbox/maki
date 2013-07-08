@@ -7,7 +7,7 @@
   }
 
 .title-box .maki-icon.full {
-  width: 60px;
+  width: 54px;
   display: block;
   left: 0; right: 0; margin: auto;
   }
@@ -21,124 +21,97 @@
    }
  }
 
-/*Category: Shapes*/
-.maki-icon.circle-stroked       { background-position: 0 0; }
-.maki-icon.circle               { background-position: 0 -24px; }
-.maki-icon.square-stroked       { background-position: 0 -48px; }
-.maki-icon.square               { background-position: 0 -72px; }
-.maki-icon.triangle-stroked     { background-position: 0 -96px; }
-.maki-icon.triangle             { background-position: 0 -120px; }
-.maki-icon.star-stroked         { background-position: 0 -144px; }
-.maki-icon.star                 { background-position: 0 -168px; }
-.maki-icon.cross                { background-position: 0 -192px; }
-.maki-icon.marker-stroked       { background-position: 0 -216px; }
-.maki-icon.marker               { background-position: 0 -240px; }
-
-/*Category: religion*/
-.maki-icon.religious-jewish     { background-position: -78px 0; }
-.maki-icon.religious-christian  { background-position: -78px -24px; }
-.maki-icon.religious-muslim     { background-position: -78px -48px; }
-.maki-icon.cemetery             { background-position: -78px -72px; }
-.maki-icon.place-of-worship     { background-position: -78px -96px; }
-
-/*Category: transportation*/
-.maki-icon.airport              { background-position: -156px 0; }
-.maki-icon.heliport             { background-position: -156px -24px; }
-.maki-icon.rail                 { background-position: -156px -48px; }
-.maki-icon.rail-underground     { background-position: -156px -72px; }
-.maki-icon.rail-above           { background-position: -156px -96px; }
-.maki-icon.bus                  { background-position: -156px -120px; }
-.maki-icon.fuel                 { background-position: -156px -144px; }
-.maki-icon.parking              { background-position: -156px -168px; }
-.maki-icon.parking-garage       { background-position: -156px -192px; }
-.maki-icon.airfield             { background-position: -156px -216px; }
-.maki-icon.roadblock            { background-position: -156px -240px; }
-.maki-icon.ferry                { background-position: -156px -264px; }
-.maki-icon.harbor               { background-position: -156px -288px; }
-.maki-icon.bicycle              { background-position: -156px -312px; }
-
-/*Category: recreation*/
-.maki-icon.park                 { background-position: -234px 0; }
-.maki-icon.park2                { background-position: -234px -24px; }
-.maki-icon.museum               { background-position: -234px -48px; }
-.maki-icon.lodging              { background-position: -234px -72px; }
-.maki-icon.monument             { background-position: -234px -96px; }
-.maki-icon.zoo                  { background-position: -234px -120px; }
-.maki-icon.garden               { background-position: -234px -144px; }
-.maki-icon.campsite             { background-position: -234px -168px; }
-.maki-icon.theatre              { background-position: -234px -192px; }
-.maki-icon.art-gallery          { background-position: -234px -216px; }
-
-/*Category: sports*/
-.maki-icon.pitch                { background-position: -312px 0; }
-.maki-icon.soccer               { background-position: -312px -24px; }
-.maki-icon.america-football     { background-position: -312px -48px; }
-.maki-icon.tennis               { background-position: -312px -72px; }
-.maki-icon.basketball           { background-position: -312px -96px; }
-.maki-icon.baseball             { background-position: -312px -120px; }
-.maki-icon.golf                 { background-position: -312px -144px; }
-.maki-icon.swimming             { background-position: -312px -168px; }
-.maki-icon.cricket              { background-position: -312px -192px; }
-.maki-icon.skiing               { background-position: -312px -216px; }
-
-/*Category: amenity*/
-.maki-icon.school               { background-position: -390px 0; }
-.maki-icon.college              { background-position: -390px -24px; }
-.maki-icon.library              { background-position: -390px -48px; }
-.maki-icon.post                 { background-position: -390px -72px; }
-.maki-icon.fire-station         { background-position: -390px -96px; }
-.maki-icon.town-hall            { background-position: -390px -120px; }
-.maki-icon.police               { background-position: -390px -144px; }
-.maki-icon.prison               { background-position: -390px -168px; }
-.maki-icon.embassy              { background-position: -390px -192px; }
-.maki-icon.waste-basket         { background-position: -390px -216px; }
-.maki-icon.toilets              { background-position: -390px -240px; }
-.maki-icon.telephone            { background-position: -390px -264px; }
-.maki-icon.emergency-telephone  { background-position: -390px -288px; }
-.maki-icon.disability           { background-position: -390px -312px; }
-
-/*Category: commercial*/
-.maki-icon.beer                 { background-position: -468px 0; }
-.maki-icon.restaurant           { background-position: -468px -24px; }
-.maki-icon.cafe                 { background-position: -468px -48px; }
-.maki-icon.shop                 { background-position: -468px -72px; }
-.maki-icon.fast-food            { background-position: -468px -96px; }
-.maki-icon.bar                  { background-position: -468px -120px; }
-.maki-icon.bank                 { background-position: -468px -144px; }
-.maki-icon.grocery              { background-position: -468px -168px; }
-.maki-icon.cinema               { background-position: -468px -192px; }
-.maki-icon.alcohol-shop         { background-position: -468px -216px; }
-.maki-icon.music                { background-position: -468px -240px; }
-
-/*Category: places */
-.maki-icon.land-use             { background-position: -700px -192px; }
-.maki-icon.city                 { background-position: -700px -216px; }
-.maki-icon.town                 { background-position: -700px -240px; }
-.maki-icon.village              { background-position: -700px -264px; }
-.maki-icon.farm                 { background-position: -700px -288px; }
-
-
-/*Category: social*/
-.maki-icon.hospital             { background-position: -546px 0; }
-.maki-icon.pharmacy             { background-position: -546px -24px; }
-
-/*Category: disaster */
-.maki-icon.danger               { background-position: -625px 0; }
-
-/*Category: buildings */
-.maki-icon.industrial           { background-position: -700px 0; }
-.maki-icon.warehouse            { background-position: -700px -24px; }
-.maki-icon.commercial           { background-position: -700px -48px; }
-.maki-icon.building             { background-position: -700px -72px; }
-
-/*Category: energy */
-.maki-icon.oil-well             { background-position: -700px -120px; }
-.maki-icon.dam                  { background-position: -700px -168px; }
-
-/*Category: industry */
-.maki-icon.slaughterhouse       { background-position: -700px -144px; }
-.maki-icon.logging              { background-position: -700px -96px; }
-
-/*Category: natural */
-.maki-icon.water                { background-position: -312px -240px; }
-.maki-icon.wetland              { background-position: -312px -264px; }
+/* individual background-positions auto-generated by render.sh: */
+.maki-icon.circle-stroked { background-position: 0px 0px; }
+.maki-icon.circle { background-position: -54px 0px; }
+.maki-icon.square-stroked { background-position: -108px 0px; }
+.maki-icon.square { background-position: -162px 0px; }
+.maki-icon.triangle-stroked { background-position: -216px 0px; }
+.maki-icon.triangle { background-position: 0px -24px; }
+.maki-icon.star-stroked { background-position: -54px -24px; }
+.maki-icon.star { background-position: -108px -24px; }
+.maki-icon.cross { background-position: -162px -24px; }
+.maki-icon.marker-stroked { background-position: -216px -24px; }
+.maki-icon.marker { background-position: 0px -48px; }
+.maki-icon.religious-jewish { background-position: -54px -48px; }
+.maki-icon.religious-christian { background-position: -108px -48px; }
+.maki-icon.religious-muslim { background-position: -162px -48px; }
+.maki-icon.cemetery { background-position: -216px -48px; }
+.maki-icon.airport { background-position: 0px -72px; }
+.maki-icon.heliport { background-position: -54px -72px; }
+.maki-icon.rail { background-position: -108px -72px; }
+.maki-icon.rail-underground { background-position: -162px -72px; }
+.maki-icon.rail-above { background-position: -216px -72px; }
+.maki-icon.bus { background-position: 0px -96px; }
+.maki-icon.fuel { background-position: -54px -96px; }
+.maki-icon.parking { background-position: -108px -96px; }
+.maki-icon.parking-garage { background-position: -162px -96px; }
+.maki-icon.airfield { background-position: -216px -96px; }
+.maki-icon.roadblock { background-position: 0px -120px; }
+.maki-icon.ferry { background-position: -54px -120px; }
+.maki-icon.harbor { background-position: -108px -120px; }
+.maki-icon.bicycle { background-position: -162px -120px; }
+.maki-icon.park { background-position: -216px -120px; }
+.maki-icon.park2 { background-position: 0px -144px; }
+.maki-icon.museum { background-position: -54px -144px; }
+.maki-icon.lodging { background-position: -108px -144px; }
+.maki-icon.monument { background-position: -162px -144px; }
+.maki-icon.zoo { background-position: -216px -144px; }
+.maki-icon.garden { background-position: 0px -168px; }
+.maki-icon.campsite { background-position: -54px -168px; }
+.maki-icon.theatre { background-position: -108px -168px; }
+.maki-icon.art-gallery { background-position: -162px -168px; }
+.maki-icon.pitch { background-position: -216px -168px; }
+.maki-icon.soccer { background-position: 0px -192px; }
+.maki-icon.america-football { background-position: -54px -192px; }
+.maki-icon.tennis { background-position: -108px -192px; }
+.maki-icon.basketball { background-position: -162px -192px; }
+.maki-icon.baseball { background-position: -216px -192px; }
+.maki-icon.golf { background-position: 0px -216px; }
+.maki-icon.swimming { background-position: -54px -216px; }
+.maki-icon.cricket { background-position: -108px -216px; }
+.maki-icon.skiing { background-position: -162px -216px; }
+.maki-icon.school { background-position: -216px -216px; }
+.maki-icon.college { background-position: 0px -240px; }
+.maki-icon.library { background-position: -54px -240px; }
+.maki-icon.post { background-position: -108px -240px; }
+.maki-icon.fire-station { background-position: -162px -240px; }
+.maki-icon.town-hall { background-position: -216px -240px; }
+.maki-icon.police { background-position: 0px -264px; }
+.maki-icon.prison { background-position: -54px -264px; }
+.maki-icon.embassy { background-position: -108px -264px; }
+.maki-icon.beer { background-position: -162px -264px; }
+.maki-icon.restaurant { background-position: -216px -264px; }
+.maki-icon.cafe { background-position: 0px -288px; }
+.maki-icon.shop { background-position: -54px -288px; }
+.maki-icon.fast-food { background-position: -108px -288px; }
+.maki-icon.bar { background-position: -162px -288px; }
+.maki-icon.bank { background-position: -216px -288px; }
+.maki-icon.grocery { background-position: 0px -312px; }
+.maki-icon.cinema { background-position: -54px -312px; }
+.maki-icon.pharmacy { background-position: -108px -312px; }
+.maki-icon.hospital { background-position: -162px -312px; }
+.maki-icon.danger { background-position: -216px -312px; }
+.maki-icon.industrial { background-position: 0px -336px; }
+.maki-icon.warehouse { background-position: -54px -336px; }
+.maki-icon.commercial { background-position: -108px -336px; }
+.maki-icon.building { background-position: -162px -336px; }
+.maki-icon.place-of-worship { background-position: -216px -336px; }
+.maki-icon.alcohol-shop { background-position: 0px -360px; }
+.maki-icon.logging { background-position: -54px -360px; }
+.maki-icon.oil-well { background-position: -108px -360px; }
+.maki-icon.slaughterhouse { background-position: -162px -360px; }
+.maki-icon.dam { background-position: -216px -360px; }
+.maki-icon.water { background-position: 0px -384px; }
+.maki-icon.wetland { background-position: -54px -384px; }
+.maki-icon.disability { background-position: -108px -384px; }
+.maki-icon.telephone { background-position: -162px -384px; }
+.maki-icon.emergency-telephone { background-position: -216px -384px; }
+.maki-icon.toilets { background-position: 0px -408px; }
+.maki-icon.waste-basket { background-position: -54px -408px; }
+.maki-icon.music { background-position: -108px -408px; }
+.maki-icon.land-use { background-position: -162px -408px; }
+.maki-icon.city { background-position: -216px -408px; }
+.maki-icon.town { background-position: 0px -432px; }
+.maki-icon.village { background-position: -54px -432px; }
+.maki-icon.farm { background-position: -108px -432px; }
