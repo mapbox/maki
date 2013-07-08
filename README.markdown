@@ -24,11 +24,9 @@ Currently only PNG based picture marker symbols are contained in these styles. I
 
 ## render.sh
 
-A render script is included to render SVGs to PNGs at 100% and 200% resolution, create sprites used for the Maki website, and generate corresponding CSS styles for the sprites.
+You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create Maki icons. It will render SVGs to PNGs at 100% and 200% resolution, create sprites used for the Maki website, and generate corresponding CSS styles for the sprites.
 
-The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly.
-
-For an icon to be handled by the render script it must have an appropriate entry in `www/maki.json`.
+The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
 
 [SVG]: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
 [Inkscape]: http://inkscape.org
