@@ -6,8 +6,8 @@ set -e -u
 
 # Config
 tilex=15  # how many icons wide the sprites will be
-svgdir="maki-svg"  # SVGs should already be here
-pngdir="maki-png"  # PNGs will be created, possibly overwritten, here
+svgdir="src"  # SVGs should already be here
+pngdir="renders"  # PNGs will be created, possibly overwritten, here
 
 
 function build_pngs {
@@ -94,9 +94,9 @@ icons=$(grep '"icon":' www/maki.json \
     | tr '\n' ' ')
 
 # Build lists of all the SVG and PNG files from the icons list
-svgs=$(for icon in $icons; do echo -n maki-svg/${icon}-{24,18,12}.svg" "; done)
-pngs=$(for icon in $icons; do echo -n maki-png/${icon}-{24,18,12}.png" "; done)
-pngs2x=$(for icon in $icons; do echo -n maki-png/${icon}-{24,18,12}@2x.png" "; done)
+svgs=$(for icon in $icons; do echo -n $svgdir/${icon}-{24,18,12}.svg" "; done)
+pngs=$(for icon in $icons; do echo -n $pngdir/${icon}-{24,18,12}.png" "; done)
+pngs2x=$(for icon in $icons; do echo -n $pngdir/${icon}-{24,18,12}@2x.png" "; done)
 
 case $@ in
     png | pngs )
