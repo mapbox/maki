@@ -89,7 +89,10 @@ function build_css {
 
 function build_csv {
     # Outputs a simple CSV that can be used in Mapnik/TileMill/etc to
-    # test all of the icons on a map.
+    # test all of the icons on a map. Example CartoCSS:
+    #     marker-file: url("/path/to/maki/src/[icon]-[size].svg");
+    #     marker-allow-overlap: true;
+
     count=-179
     echo "icon,size,x,y" > maki.csv
     for icon in $@; do
