@@ -1,3 +1,7 @@
+# New icon requests
+
+New icons may be requested via GitHub issues. Please search through [existing issue](https://github.com/mapbox/maki/issues?state=open) and the [backlog in the wiki](https://github.com/mapbox/maki/wiki/Maki-Backlog) to check that your request is not already covered. Please also limit issues to a **single** icon or a small set of **very closely related** icons so they can be more easily fulfilled and closed.
+
 # Contributing to Maki
 
 Maki source files are in SVG format in the `src` subdirectory and are created using [Inkscape][].
