@@ -615,7 +615,8 @@
             "beer",
             "drink",
             "commercial",
-            "biergarten"
+            "biergarten",
+            "pub"
         ],
         "icon": "beer"
     },
