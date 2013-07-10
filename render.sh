@@ -2,7 +2,7 @@
 set -e -u
 
 # Usage:
-#   ./render.sh [png|sprite|css]
+#   ./render.sh [png|sprite|css|csv]
 
 # Config
 tilex=15  # how many icons wide the sprites will be
@@ -87,6 +87,20 @@ function build_css {
     done
 }
 
+function build_csv {
+    # Outputs a simple CSV that can be used in Mapnik/TileMill/etc to
+    # test all of the icons on a map.
+    count=0
+    echo "icon,x,y" > maki.csv
+    for icon in $@; do
+        echo $icon,0,$count >> maki.csv
+        echo $icon,1,$count >> maki.csv
+        echo $icon,2,$count >> maki.csv
+        count=$(($count-1))
+    done
+}
+
+
 # Get a lcst of all the icon names - any icons not in maki.json
 # will not be rendered or included in the sprites.
 icons=$(grep '"icon":' www/maki.json \
@@ -109,7 +123,11 @@ case $@ in
     css )
         build_css $icons
         ;;
+    csv )
+        build_csv $icons
+        ;;
     debug )
+        # Prints out all of the icon and file lists for debugging
         echo -e "\nIcons:"
         echo $icons
         echo -e "\nSVGs:"
@@ -120,6 +138,8 @@ case $@ in
         echo $pngs2x
         ;;
     * )
+        # By default we build the PNGs, sprites, and CSS
+        # but not the CSV or debug output
         build_pngs $svgs
         build_sprite "www/images/maki-sprite.png" $pngs
         build_sprite "www/images/maki-sprite@2x.png" $pngs2x
