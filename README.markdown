@@ -2,23 +2,33 @@
 
 Maki is a point of interest icon set made especially for use with MapBox maps. For more information on how to use Maki with MapBox, see documentation at http://mapbox.com/tilemill/docs/guides/using-maki-icons/.
 
+## src
 
-## Notes on Contributing
+Maki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall. 
 
-The working file that includes all the icons is here: https://github.com/mapbox/maki/blob/gh-pages/src/maki-icons.svg.
+Maki is designed using [Inkscape][]. For information on contributing to Maki see CONTRIBUTING.md.
 
-I use [Inkscape](http://inkscape.org/) for editing and exporting from the .SVG, to take advantage of Inkscape's batch export, as all the icons have unique ID's that Inkscape uses to create file names. 
+## renders
 
-Maki follows these design principles:
+PNG renders of all of the SVGs are in the `renders` directory. High-resolution (aka Retina) versions of each icon are present as well, named using the common `@2x` convention.
 
-- Simple, clear, recognizable
-- Three sizes: 12/18/24 px
-- Single color, with 1px 30% transparent white outline.
-- Based upon internationally recognized symbols when appropriate. Good sources for symbol precedents include [AIGA symbols](http://www.aiga.org/symbol-signs/), OSM's icon set [SBBJ SVG Map Icons](http://www.sjjb.co.uk/mapicons/contactsheet) and the [Noun Project](http://thenounproject.com/).
+## ArcGIS
 
-To view the backlog of icons that need to be created, visit https://github.com/mapbox/maki/wiki/Maki-Backlog
+Style files for ArcGIS 10.1+ are in the `ArcGIS` subdirectory and are maintained by @williamscraigm. Both Desktop (.style) and Server (.ServerStyle) versions are provided.
 
-If you decide to modify `src/maki-icons.svg` in order to add an icon to the set, before submitting a pull request, make sure you clear user-specific settings from the SVG with: `sed -i 's/\ *inkscape:export-filename=".*"//g' maki-icons.svg` on Linux or `sed -i "" -e 's/\ *inkscape:export-filename=".*"//g' maki-icons.svg` on OSX.
+Currently only PNG based picture marker symbols are contained in these styles. In addition to keeping up to date with maki symbols, the following roadmap is planned:
 
-It isn't necessary, but if you want to be an over-acheiver, you can also update the website with your new icon by [following these instructions](https://github.com/mapbox/maki/wiki/Adding-icons-to-the-site)
-## Completed icons
+- vector versions created from SVG source
+- vector versions created from SVG source with added white outline
+- representation marker versions of the two above vector versions
+
+## render.sh
+
+You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create Maki icons. It will render SVGs to PNGs at 100% and 200% resolution, create sprites used for the Maki website, and generate corresponding CSS styles for the sprites.
+
+The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
+
+[SVG]: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
+[Inkscape]: http://inkscape.org
+[Bash]: http://www.gnu.org/software/bash/bash.html
+[ImageMagick]: http://www.imagemagick.org/
