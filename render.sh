@@ -90,13 +90,13 @@ function build_css {
 function build_csv {
     # Outputs a simple CSV that can be used in Mapnik/TileMill/etc to
     # test all of the icons on a map.
-    count=0
-    echo "icon,x,y" > maki.csv
+    count=-179
+    echo "icon,size,x,y" > maki.csv
     for icon in $@; do
-        echo $icon,0,$count >> maki.csv
-        echo $icon,1,$count >> maki.csv
-        echo $icon,2,$count >> maki.csv
-        count=$(($count-1))
+        echo $icon,12,$count,1 >> maki.csv
+        echo $icon,18,$count,2 >> maki.csv
+        echo $icon,24,$count,3 >> maki.csv
+        count=$(($count+1))
     done
 }
 
