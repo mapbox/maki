@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="12.128402"
-     inkscape:cy="12.624394"
+     inkscape:cx="13.394629"
+     inkscape:cy="11.398054"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="true"
@@ -110,7 +110,7 @@
     <g
        style="opacity:0.5;fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="g3921-1"
-       transform="translate(-0.5,-6.5)">
+       transform="translate(-5e-7,-6.5)">
       <g
          id="g4256-1"
          style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
@@ -130,7 +130,7 @@
     </g>
     <g
        id="g3921"
-       transform="translate(-0.5,-6.5)">
+       transform="translate(0,-6.5)">
       <g
          id="g4256">
         <path
