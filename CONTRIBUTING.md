@@ -26,11 +26,10 @@ To view the backlog of icons that need to be created, visit https://github.com/m
 3. You'll want to remove personal information from your SVG files if you're committing or submitting a pull request:
     - Mac OS X: `sed -i "" -e 's/\ *inkscape:export-filename=".*"//g' your-icon-{12,18,24}.svg`
     - Linux: `sed -i 's/\ *inkscape:export-filename=".*"//g' your-icon-{12,18,24}.svg`
-4. Add an appropriate entry to `www/maki.json`
-5. Edit `www/maki.json` and create a new object with:
+4. Edit `www/maki.json` and create a new object with:
     - the icon name
     - the icon filename
     - tags to describe the icon
-6. Run `render.sh` to generate the PNGs, sprites, and CSS
+5. Run `render.sh` to generate the PNGs, sprites, and CSS
 
 Please limit new icon pull requests to one icon each (ie one set of 12, 18, and 24 pixel SVGs) unless they are very closely related in concept and design.
