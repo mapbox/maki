@@ -11,16 +11,10 @@ Maki is designed using [Inkscape][]. For information on contributing to Maki see
 ## renders
 
 PNG renders of all of the SVGs are in the `renders` directory. High-resolution (aka Retina) versions of each icon are present as well, named using the common `@2x` convention.
-<<<<<<< HEAD
 
 ## ArcGIS
 
-- Simple, clear, recognizable
-Currently only PNG based picture marker symbols are contained in these styles. In addition to keeping up to date with maki symbols, the following roadmap is planned:
-
-- vector versions created from SVG source
-- Single color, with 1px 30% transparent white outline.
-- Based upon internationally recognized symbols when appropriate. Good sources for symbol precedents include [AIGA symbols](http://www.aiga.org/symbol-signs/), OSM's icon set [SBBJ SVG Map Icons](http://www.sjjb.co.uk/mapicons/contactsheet) and the [Noun Project](http://thenounproject.com/).
+Style files for ArcGIS 10.1+ are in the `ArcGIS` subdirectory and are maintained by @williamscraigm. Both Desktop (.style) and Server (.ServerStyle) versions are provided. Standard and high-resolution versions of the PNG renders are included in the style.  Additionally, the original SVGs have been converted to EMFs and import as vector EMF based markers. These EMF markers were then further converted to Representation markers. The utility used to create these styles can be found at: https://github.com/williamscraigm/makiArcGISStyle
 
 ## render.sh
 
@@ -28,25 +22,6 @@ You can use the SVGs and PNGs in this repository as they are without building an
 
 The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
 
-=======
-
-## ArcGIS
-
-Style files for ArcGIS 10.1+ are in the `ArcGIS` subdirectory and are maintained by @williamscraigm. Both Desktop (.style) and Server (.ServerStyle) versions are provided.
-
-Currently only PNG based picture marker symbols are contained in these styles. In addition to keeping up to date with maki symbols, the following roadmap is planned:
-
-- vector versions created from SVG source
-- vector versions created from SVG source with added white outline
-- representation marker versions of the two above vector versions
-
-## render.sh
-
-You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create Maki icons. It will render SVGs to PNGs at 100% and 200% resolution, create sprites used for the Maki website, and generate corresponding CSS styles for the sprites.
-
-The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
-
->>>>>>> upstream/gh-pages
 [SVG]: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
 [Inkscape]: http://inkscape.org
 [Bash]: http://www.gnu.org/software/bash/bash.html
