@@ -987,5 +987,17 @@
         "rural"
     ],
     "icon": "farm"
+    },
+    {
+    "name": "Bakery",
+    "tags": [
+        "bakery",
+        "pastry",
+        "croissant",
+        "food",
+        "shop",
+        "bread"
+    ],
+    "icon": "bakery"
     }
 ]
