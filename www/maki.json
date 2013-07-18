@@ -1000,4 +1000,18 @@
     ],
     "icon": "bakery"
     }
+    {
+    "name": "London Underground",
+    "tags": [
+        "deprecated",
+    ],
+    "icon": "london-underground"
+    },
+    {
+    "name": "Minefield",
+    "tags": [
+        "deprecated"
+    ],
+    "icon": "minefield"
+    }
 ]
