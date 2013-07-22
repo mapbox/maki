@@ -32,3 +32,11 @@ The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function corr
 [Inkscape]: http://inkscape.org
 [Bash]: http://www.gnu.org/software/bash/bash.html
 [ImageMagick]: http://www.imagemagick.org/
+
+## Versioning
+
+Maki uses a semantic versioning scheme.
+
+* 0.0.z: bugfixes, modifications
+* 0.y.0: icons added
+* x.0.0: icons removed, sprite scheme changed, or major features added
