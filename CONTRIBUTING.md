@@ -19,7 +19,7 @@ Maki follows these design principles:
 
 To view the backlog of icons that need to be created, visit https://github.com/mapbox/maki/wiki/Maki-Backlog
 
-## New icon process
+## Adding a new icon
 
 1. Create copies of the template SVGs in the `src` directory (`maki-12-base.svg`, `maki-18-base.svg`, `maki-24-base.svg`) with a short descriptive name following the conventions of the other icons.
 2. Design according to the principles outlined above.
