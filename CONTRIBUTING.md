@@ -4,7 +4,7 @@ New icons may be requested via GitHub issues. Please search through [existing is
 
 # Contributing to Maki
 
-Maki source files are in SVG format in the `src` subdirectory and are created using [Inkscape][].
+Maki source files are in SVG format in the `src` subdirectory and are created using [Inkscape](http://inkscape.org).
 
 ## Design principles
 
