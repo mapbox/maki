@@ -45,7 +45,7 @@ function build_sprite {
     rnull=$(for ((i=1; i<=$remainder; i++)); do echo -n 'null: '; done)
 
     montage \
-        -type TrueColorAlpha \
+        -type TrueColorMatte \
         -background transparent \
         -geometry +0+0 \
         -tile ${tilex}x \
