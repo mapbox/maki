@@ -904,6 +904,17 @@
     "icon": "emergency-telephone"
     },
     {
+    "name": "Mobile Phone",
+    "tags": [
+        "mobilephone",
+        "cellphone",
+        "mobile",
+        "cell",
+        "call"
+    ],
+    "icon": "mobile-phone"
+    },
+    {
     "name": "Toilets",
     "tags": [
         "bathroom",
