@@ -14,7 +14,10 @@
    id="svg4764"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="maki-12-base.svg">
+   sodipodi:docname="rocket-12.svg"
+   inkscape:export-filename="renders/rocket-12@2x.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
   <defs
      id="defs4766" />
   <sodipodi:namedview
@@ -24,13 +27,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.6391908"
-     inkscape:cy="9.7417803"
+     inkscape:zoom="1"
+     inkscape:cx="8.4181889"
+     inkscape:cy="3.9531984"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1215"
      inkscape:window-height="776"
