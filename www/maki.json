@@ -173,6 +173,16 @@
         "icon": "cemetery"
     },
     {
+        "name": "Rocket",
+        "tags": [
+            "rocket",
+            "space",
+            "launch",
+            "transportation"
+        ],
+        "icon": "rocket"
+    },
+    {
         "name": "Airport",
         "tags": [
             "airplane",
