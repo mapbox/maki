@@ -51,6 +51,9 @@ maki.search = function () {
               p.words = (p.name.toLowerCase() +' '+ (p.tags.toString()).toLowerCase()).match(/(\w+)/g);
               return p;
           })
+          .reject(function(i) {
+              return i.tags[0] === 'deprecated';
+          })
           .value();
 
           _.each(data, function(icon){
