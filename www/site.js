@@ -6,7 +6,7 @@ maki.map = function() {
     var map = L.mapbox.map('map', 'saman.map-kg3gj8s6', {
         scrollWheelZoom: false,
         dragging: touchable
-    }).setView({ lat:38.91710, lon:-77.03024 }, 17);
+    }).setView({ lat:38.91710, lon:-77.03024 }, 18);
 }();
 
 maki.slideshow = function() {
@@ -79,7 +79,7 @@ maki.search = function () {
     };
 
     $('input', search).focus(function() {
-        $('.icon.close').addClass('active');
+        $('.close').addClass('active');
         $('#maki-set').addClass('active');
         $(this).val('');
         icons.animate({
@@ -120,7 +120,7 @@ maki.search = function () {
         }, 500);
         $('body').removeClass('searching');
         $('input', search).blur().val('');
-        $('.icon.close').removeClass('active');
+        $('.close').removeClass('active');
         $('#maki-set').removeClass('active');
     });
 };

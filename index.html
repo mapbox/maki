@@ -2,7 +2,6 @@
 title: Maki | A clean point of interest icon set from MapBox
 layout: default
 section: maki
-class: box fillDG
 ---
 
 <div id='maki-hero' class='clearfix'>
@@ -20,7 +19,7 @@ class: box fillDG
   <script type='text/template' id='icon-collection'>
     <ul class='icon-set pad2 clearfix'>
       <li class='maki-icon <%= icon%>'><%=name %> icon</li>
-      <li class='title-box fillE'>
+      <li class='title-box'>
         <span class='maki-icon full <%= icon%>'></span>
         <%= title%>
         <small><%= icon %></small>
@@ -33,8 +32,8 @@ class: box fillDG
       <ul class='icon-set pad2 clearfix'>
         <li class='maki-icon <%=icon %>'><%=name %> icon</li>
       </ul>
-      <span class='title-box fillE'>
-        <span class="maki-icon full <%= icon%>"></span>
+      <span class='title-box'>
+        <span class='maki-icon full <%= icon%>'></span>
         <%=name %>
         <small><%= icon %></small>
       </span>
@@ -48,7 +47,7 @@ class: box fillDG
     <form id='search'>
       <input type='text' placeholder='e.g Sports or Bank'>
     </form>
-    <a href='#' class='icon close' title='Press ESC to close'>X</a>
+    <a href='#' class='close' title='Press ESC to close'>&times;</a>
   </div>
     <div class='download callout margin3 col6 pad4'>
     <a class='download-button clearfix' href='https://github.com/mapbox/maki/zipball/gh-pages' class='download'>
@@ -57,7 +56,7 @@ class: box fillDG
         <h3 class="label-title">Download</h3>
       </div>
       <div class='details col7 pad1'>
-        <span class="icon big-icon-download"></span>
+        <span class='big-icon-download'></span>
         <small class='filename'>Maki.zip</small>
         <h3 class='label-title'>225kb</h3>
       </div>
@@ -65,29 +64,29 @@ class: box fillDG
   </div>
 </div>
 
-<div class='info clearfix'>
-  <div class='col6 pad4 float-right'>
+<div class='info clearfix fill-purple dark'>
+  <div class='col4 pad4 margin1r fr prose'>
     <h2>Designed to look great at small sizes and scale up elegantly.</h2>
     <p>We designed Maki with the goal of creating an international, comprehensive, and stylistically unified point of interest icon set. In order to maximize crispness and clarity, we've made three size variations for each symbol. Use all three sizes to scale the icons with the map as you zoom in and out.</p>
   </div>
   <div class='col6 clearfix pad4'>
-    <div id="maki-icon-preview">
-      <div class="preview-screen">
-        <img style="display: block; " class="size-24 active" src="/maki/www/images/maki-preview-24.png" alt="">
-        <img style="display: none; " class="size-18" src="/maki/www/images/maki-preview-18.png" alt="">
-        <img style="display: none; " class="size-12" src="/maki/www/images/maki-preview-12.png" alt="">
+    <div id='maki-icon-preview'>
+      <div class='preview-screen'>
+        <img style='display: block; ' class='size-24 active' src='/maki/www/images/maki-preview-24.png' alt="">
+        <img style='display: none; ' class='size-18' src='/maki/www/images/maki-preview-18.png' alt="">
+        <img style='display: none; ' class='size-12' src='/maki/www/images/maki-preview-12.png' alt="">
       </div>
       <ul class='clearfix'>
-        <li><a href="#size-24" class="button big size-24 active"><span class="icon size-24"></span>24px</a></li>
-        <li><a href="#size-18" class="button big size-18"><span class="icon size-18"></span>18px</a></li>
-        <li><a href="#size-12" class="button big size-12"><span class="icon size-12"></span>12px</a></li>
+        <li><a href='#size-24' class='button size-24 active'><span class='maki size-24'></span>24px</a></li>
+        <li><a href='#size-18' class='button size-18'><span class='maki size-18'></span>18px</a></li>
+        <li><a href='#size-12' class='button size-12'><span class='maki size-12'></span>12px</a></li>
       </ul>
     </div>
   </div>
 </div>
 
-<div class='info clearfix fillG'>
-  <div class='col6 pad4'>
+<div class='info clearfix fill-purple dark'>
+  <div class='col6 pad4 prose'>
     <h2>Open source</h2>
     <p>We publish Maki under a permissive BSD license, so don't hesitate to fork, modify, and use Maki however you wish. Help Maki grow by contributing or creating issues in our issue tracker on GitHub.</p>
     <a href='https://github.com/mapbox/maki' class='big button'><span class="icon reverse github"></span>GitHub</a>
@@ -97,16 +96,16 @@ class: box fillDG
   </div>
 </div>
 
-<div class="clearfix fillM footer-actions">
-  <div class="centered col6 pad4">
+<div class="clearfix fill-grey footer-actions">
+  <div class="center col6 pad4">
     <span class="spot-illustration with-mapbox"></span>
-    <h2>Use with MapBox</h2>
-    <a class="button big" href="https://tiles.mapbox.com/signup/free">Sign up</a>
+    <h2 class='title'>Use with MapBox</h2>
+    <a class="button big" href='//tiles.mapbox.com/signup/free'>Sign up</a>
   </div>
-  <div class="centered col6 pad4">
+  <div class='center col6 pad4'>
     <span class="spot-illustration with-tilemill"></span>
-    <h2>Use with TileMill</h2>
-    <a class="button big" href="http://mapbox.com/tilemill/docs/guides/using-maki-icons/">Documentation</a>
+    <h2 class='title'>Use with TileMill</h2>
+    <a class='button' href='//mapbox.com/tilemill/docs/guides/using-maki-icons/'>Documentation</a>
   </div>
 </div>
 
