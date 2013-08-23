@@ -741,6 +741,17 @@
         "icon": "hospital"
     },
     {
+        "name": "AED",
+        "tags": [
+            "aed",
+            "defibrillator",
+            "emergency",
+            "medical",
+            "heart"
+        ],
+        "icon": "aed"
+    },
+    {
         "name": "Danger",
         "tags": [
             "minefield",
