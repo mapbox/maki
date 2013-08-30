@@ -6,10 +6,6 @@
 /* --------------------------------------
   Branding Overrides
 ----------------------------------------- */
-.branding .logo {
-  background: url(images/sprite.png) 0 10px no-repeat;
-  }
-
 .branding .logos {
   position: relative;
   }
