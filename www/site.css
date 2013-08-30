@@ -1,19 +1,13 @@
 /* --------------------------------------
   Little Helpers
 ----------------------------------------- */
-
-.button .icon { margin-right: 5px;}
+.button .maki { margin-right:5px;}
 
 /* --------------------------------------
   Branding Overrides
 ----------------------------------------- */
-
 .branding .logo {
   background: url(images/sprite.png) 0 10px no-repeat;
-  }
-
-.fillE {
-  background: #28353d url(images/dotgrid-pattern.png);
   }
 
 .branding .logos {
@@ -41,16 +35,6 @@
 /* --------------------------------------
   Basic Styles
 ----------------------------------------- */
-.fillG {
-  background: url(images/dotgrid-pattern.png) 0 0 repeat #6565A0;
-  color: white;
-  }
-
-.fillDG {
-  background: url(images/dotgrid-pattern.png) 0 0 repeat #8A8ACB;
-  color: white;
-  }
-
 #maki-hero {
   position: relative;
   z-index: 0;
@@ -75,8 +59,6 @@
             animation:fadeIn 500ms ease 1000ms both;
   }
 
-.download {
-  }
 .download-button {
   margin: 20px 0;
   border-radius: 4px;
@@ -145,14 +127,14 @@
   Maki Icon Grid
 ----------------------------------------- */
 .canvas {
-  position: relative;
-  background: #fff url(images/bg.png) repeat 0 0;
+  background:#fff url(images/bg.png) repeat 0 0;
+  position:relative;
   }
 
 /*Search box*/
 .canvas-controls {
   padding-top: 0;
-  position: relative;
+  position:relative;
   }
   .canvas-controls form input {
     background: #fff url(images/sprite.png) -441px 10px no-repeat;
@@ -193,9 +175,6 @@ ul.icon-set {
   }
 
 /* Searching icons */
-
-.title { padding: 0;}
-
 #maki-set.active ul  { visibility: hidden\9; }
 
 body.searching #search-results { display: block; }
@@ -299,22 +278,24 @@ a.search-download {
   font-size: 14px;
   bottom: 50px;
   }
-.icon.close {
-  background: #3C4E5A url(images/sprite.png) -195px 0px no-repeat;
-  width: 20px;
-  height: 20px;
-  top: 0;
-  bottom: 0;
-  margin: auto;
-  right: 45px;
-  position: absolute;
-  z-index: 100;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
-  display: none;
+.close {
+  background-color:#3C4E5A;
+  color:#FFF;
+  width:20px;
+  height:20px;
+  line-height:20px;
+  text-align:center;
+  display:block;
+  position:absolute;
+  right:10px;
+  bottom:10px;
+  font-weight:bold;
+  display:none;
+  -webkit-border-radius:2px;
+          border-radius:2px;
   }
-  .icon.close.active { display: block; }
+  .close:hover  { color:#fff; }
+  .close.active { display:block; }
 
 /* --------------------------------------
   Icon Preview
@@ -362,13 +343,15 @@ a.search-download {
     border-radius: 4px 0 0 4px;
     }
 
-#maki-icon-preview .icon {
-  height: 24px;
-  width: 24px;
+#maki-icon-preview .maki {
+  vertical-align:top;
+  display:inline-block;
+  height:24px;
+  width:24px;
   background: url(images/sprite.png) -200px -35px no-repeat;
   }
-#maki-icon-preview .icon.size-18 { background-position-y: -85px;}
-#maki-icon-preview .icon.size-12 { background-position-y: -115px}
+#maki-icon-preview .maki.size-18 { background-position-y: -85px;}
+#maki-icon-preview .maki.size-12 { background-position-y: -115px}
 
 /* --------------------------------------
   Footer
@@ -422,10 +405,10 @@ only screen and (max-width: 640px) {
 @media
   only screen and (-webkit-min-device-pixel-ratio : 2),
   only screen and (min-device-pixel-ratio : 2) {
-  .icon.close,
+  close,
   .canvas-controls form input,
   .maki-details,
-  #maki-icon-preview .icon,
+  #maki-icon-preview .maki,
   .spot-illustration,
   .open-source-illustration,
   .download-button .big-icon-download,

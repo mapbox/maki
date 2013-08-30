@@ -2,16 +2,11 @@
 var maki = {};
 
 maki.map = function() {
-    var makimap = mapbox.map('map', mapbox.layer().id('saman.map-kg3gj8s6', function(l) {
-        var t = l.tilejson();
-        t.attribution = 'POI data from <a href="http://downloads.cloudmade.com/americas/northern_america/united_states/district_of_columbia#downloads_breadcrumbs">cloudmade</a> via OpenStreetMap <a href="http://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>';
-        l.tilejson(t);
-        makimap.ui.refresh();
-        makimap.ui.attribution.add();
-        makimap.centerzoom({ lat: 38.91710, lon: -77.03024 }, 17).setZoomRange(16, 17);
-        makimap.interaction.auto();
-        makimap.ui.zoomer.add();
-    }));
+    var touchable = !('ontouchend' in document);
+    var map = L.mapbox.map('map', 'saman.map-kg3gj8s6', {
+        scrollWheelZoom: false,
+        dragging: touchable
+    }).setView({ lat:38.91710, lon:-77.03024 }, 18);
 }();
 
 maki.slideshow = function() {
@@ -84,7 +79,7 @@ maki.search = function () {
     };
 
     $('input', search).focus(function() {
-        $('.icon.close').addClass('active');
+        $('.close').addClass('active');
         $('#maki-set').addClass('active');
         $(this).val('');
         icons.animate({
@@ -125,7 +120,7 @@ maki.search = function () {
         }, 500);
         $('body').removeClass('searching');
         $('input', search).blur().val('');
-        $('.icon.close').removeClass('active');
+        $('.close').removeClass('active');
         $('#maki-set').removeClass('active');
     });
 };
