@@ -48,7 +48,7 @@ footer:
   <meta name='robots' content='{% if page.hidden %}noindex{% else %}index{% endif %}'/>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   {% if page.description %}<meta name='description' content='{{page.description | strip_html}}'/>{% endif %}
-  <title>{% if page.url == '/' %}{{page.title}} | Fast and beautiful maps{% else %}{{page.title}} | MapBox{% endif %}</title>
+  <title>{{page.title}} | MapBox</title>
 {% if page.section | downcase == 'blog' %}
  {% unless page.title == "Blog" %}
  {% unless page.title == "Blog Archive" %}
