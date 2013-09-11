@@ -52,6 +52,9 @@ function build_sprite {
         -gravity Northwest \
         $@ $rnull \
         $outfile
+
+    # Create a negated 'dark' appropriate version of the sprite.
+    convert $outfile -negate $(echo "$outfile" | sed 's/-sprite/-sprite.dark/')
 }
 
 function build_css {
