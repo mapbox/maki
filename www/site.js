@@ -33,33 +33,6 @@ maki.search = function () {
     var searchResults = _.template($('#search-icons').html());
     var count = _.template($('#count').html());
     var set = {}, total = 0;
-    var data;
-
-    $.ajax({
-      url: 'www/maki.json',
-      dataType: 'json',
-      success: function(resp) {
-        total = 0;
-        data = _(resp).chain()
-          .compact()
-          .map(function(p) {
-              p.words = (p.name.toLowerCase() +' '+ (p.tags.toString()).toLowerCase()).match(/(\w+)/g);
-              return p;
-          })
-          .reject(function(i) {
-              return i.tags[0] === 'deprecated';
-          })
-          .value();
-
-          _.each(data, function(icon){
-            set.title = icon.name;
-            set.icon = icon.icon;
-            total++
-            $('#maki-set').append(template(set));
-          });
-          howMany();
-        }
-    });
 
     var howMany = function() {
       $('.count').append(count({
@@ -77,6 +50,25 @@ maki.search = function () {
         });
         return matches;
     };
+
+    var data = _(window.Maki).chain()
+      .compact()
+      .map(function(p) {
+          p.words = (p.name.toLowerCase() +' '+ (p.tags.toString()).toLowerCase()).match(/(\w+)/g);
+          return p;
+      })
+      .reject(function(i) {
+          return i.tags[0] === 'deprecated';
+      })
+      .map(function(icon){
+        set.title = icon.name;
+        set.icon = icon.icon;
+        total++
+        $('#maki-set').append(template(set));
+        return icon;
+      })
+      .value();
+    howMany();
 
     $('input', search).focus(function() {
         $('.close').addClass('active');
