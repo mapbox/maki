@@ -4,3 +4,4 @@ exclude:
 url: http://mapbox.com
 baseurl: /maki
 permalink: /:title.html
+markdown: rdiscount
