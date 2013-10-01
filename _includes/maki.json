@@ -1034,5 +1034,15 @@
         "deprecated"
     ],
     "icon": "minefield"
-    }
+    },
+    {
+        "name": "Car",
+        "tags": [
+            "car",
+            "auto",
+            "vehicle",
+            "transportation"
+        ],
+        "icon": "car"
+    },
 ]
