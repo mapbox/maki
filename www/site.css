@@ -4,31 +4,6 @@
 .button .maki { margin-right:5px;}
 
 /* --------------------------------------
-  Branding Overrides
------------------------------------------ */
-.branding .logos {
-  position: relative;
-  }
-
-.branding .attribution {
-  position: absolute;
-  left: 0px;
-  top: 35px;
-  color: white;
-  }
-
-.branding .attribution .small-mapbox {
-  display: inline-block;
-  background: url(images/sprite.png) 2px -74px no-repeat;
-  width: 70px;
-  text-indent: -9999px;
-  overflow: hidden;
-  }
-  .branding .attribution .small-mapbox:hover {
-    background-position-x: -78px;
-    }
-
-/* --------------------------------------
   Basic Styles
 ----------------------------------------- */
 #maki-hero {
@@ -58,7 +33,6 @@
 .download-button {
   margin: 20px 0;
   border-radius: 4px;
-  box-shadow: rgba(0,0,0,0.05) 0px 0px 0px 5px;
   }
   .download-button small, .download-button h3 {
             animation: fadeIn 500ms ease 250ms both;
@@ -68,11 +42,7 @@
   .download-button .details small, .download-button .details h3 {
     color: #fff;
     }
-  .download-button .label small, .download-button .label h3 {
-    color: #3C4E5A;
-    }
   .download-button h3 {
-    text-shadow: rgba(0,0,0,0.2) 0px -1px;
     margin-bottom: 0;
     }
   .download-button .details {
@@ -93,9 +63,6 @@
     border-radius: 4px 0 0 4px;
     }
   .download-button:hover .label { border-color: #3bb2d0; }
-  .download-button:active .details {
-    box-shadow: inset rgba(0,0,0,0.4) 0px 1px 3px, inset rgba(0,0,0,0.1) 0px -20px 20px -10px;
-    }
 
 .download-button .big-icon-download {
   background: url(images/sprite.png) -165px 3px no-repeat;
@@ -139,8 +106,6 @@
     padding: 10px 5px;
     line-height: 40px\9; /* IE6,7,8 Hack to center the cursor in IE */
     padding-left: 30px;
-    border-radius: 4px 0 0 4px;
-    box-shadow: rgba(0,0,0,0.05) 0px 0px 0px 5px, inset #ddd 0px 1px 3px;
     -webkit-appearance: none;
     }
 
@@ -275,20 +240,12 @@ a.search-download {
   bottom: 50px;
   }
 .close {
-  background-color:#3C4E5A;
-  color:#FFF;
-  width:20px;
-  height:20px;
   line-height:20px;
-  text-align:center;
   display:block;
   position:absolute;
   right:10px;
   bottom:10px;
-  font-weight:bold;
   display:none;
-  -webkit-border-radius:2px;
-          border-radius:2px;
   }
   .close:hover  { color:#fff; }
   .close.active { display:block; }
@@ -307,7 +264,6 @@ a.search-download {
     margin: auto;
     }
 #maki-icon-preview ul {
-  box-shadow: rgba(0,0,0,0.05) 0 0 0 5px;
   border-radius: 4px;
   }
 
@@ -318,19 +274,14 @@ a.search-download {
   border-radius: 0;
   background: #ABABD1;
   border-right: 1px solid #8A8ACB;
-  box-shadow: none;
   font-size: 12px;
-  text-shadow: none;
-  font-family: 'Opensans',Arial,sans-serif;
-  color: #3C4E5A;
-  text-transform: none;
   min-width: 0;
   transition: background 500ms;
   -moz-transition: background 500ms;
   -webkit-transition: background 500ms;
   -o-transition: background 500ms;
   }
-  #maki-icon-preview li a.active { background: white; }
+  #maki-icon-preview li a.active { background: rgba(255,255,255,.5); }
   #maki-icon-preview li a.size-12 {
     border-radius: 0 4px 4px 0;
     border-right: 0px;
@@ -352,10 +303,6 @@ a.search-download {
 /* --------------------------------------
   Footer
 ----------------------------------------- */
-.footer-actions {
-  color: #3c4e5a;
-  }
-  .footer-actions .cell6:first-child { border-right: 1px solid #ddd; }
 
 .spot-illustration {
   background: url(images/sprite.png) -300px 0px no-repeat;
@@ -365,8 +312,6 @@ a.search-download {
   margin: 0 auto 20px;
   }
   .spot-illustration.with-tilemill { background-position-x: -380px; }
-
-.footer { color: #3c4e5a; }
 
 /* --------------------------------------
   Map Styles
