@@ -1023,5 +1023,15 @@
         "deprecated"
     ],
     "icon": "minefield"
-    }
+    },
+    {
+    "name": "Ice Cream",
+    "tags": [
+        "ice",
+        "sweets",
+        "food",
+        "shop"
+    ],
+    "icon": "ice-cream"
+    },
 ]
