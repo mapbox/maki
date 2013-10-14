@@ -12,6 +12,7 @@ Maki follows these design principles:
 
 - Simple, clear, recognizable
 - Three sizes: 12/18/24 px
+- Aligned on the pixel grid.
 - Single color, with 1px 30% transparent white outline.
 - Based upon internationally recognized symbols when appropriate. Good sources for symbol precedents include [AIGA symbols](http://www.aiga.org/symbol-signs/), OSM's icon set [SBBJ SVG Map Icons](http://www.sjjb.co.uk/mapicons/contactsheet) and the [Noun Project](http://thenounproject.com/).
 

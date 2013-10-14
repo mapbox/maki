@@ -1,6 +1,7 @@
 exclude:
   - README.markdown
   - nounproject
-url: http://mapbox.com
+url: //www.mapbox.com
 baseurl: /maki
 permalink: /:title.html
+markdown: rdiscount

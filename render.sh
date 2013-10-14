@@ -52,6 +52,9 @@ function build_sprite {
         -gravity Northwest \
         $@ $rnull \
         $outfile
+
+    # Create a negated 'dark' appropriate version of the sprite.
+    convert $outfile -negate $(echo "$outfile" | sed 's/-sprite/-sprite.dark/')
 }
 
 function build_css {
@@ -86,6 +89,45 @@ function build_css {
         fi
     done
 }
+
+function build_positions {
+    # Takes a list of icon names, calculates the positions, outputs json
+
+    count=0
+    dx=0
+    dy=0
+    maxwidth=$((54*$tilex/3-1))
+
+    file="www/maki-sprite.json"
+
+    echo "{" > $file;
+
+    for icon in $@; do
+
+        if [ $count -ne 0 ]; then  ## avoid trailing comma
+            echo "," >> $file
+        fi
+
+        count=$(($count + 1))
+
+        echo "\"$icon-24\": { \"x\": $((-1 * dx)), \"y\": $((-1 * $dy)), \"width\": 24, \"height\": 24 }," >> $file
+        echo "\"$icon-18\": { \"x\": $((-1 * dx + 24)), \"y\": $((-1 * $dy)), \"width\": 18, \"height\": 18 }," >> $file
+        echo -n "\"$icon-12\": { \"x\": $((-1 * dx + 42)), \"y\": $((-1 * $dy)), \"width\": 12, \"height\": 12 }" >> $file
+
+        # Check if we need to add a new row yet,
+        # and if so, adjust dy and dy accordingly.
+        # Otherwise just adjust dx.
+        if [ $(echo "$count * 3 % $tilex" | bc) -eq 0 ]; then
+            dy=$(($dy - 24))
+            dx=0
+        else
+            dx=$(($dx - 54))
+        fi
+    done
+
+    echo "}" >> $file
+}
+
 
 function build_csv {
     # Outputs a simple CSV that can be used in Mapnik/TileMill/etc to
@@ -128,6 +170,9 @@ case $@ in
         ;;
     csv )
         build_csv $icons
+        ;;
+    positions )
+        build_positions $icons
         ;;
     debug )
         # Prints out all of the icon and file lists for debugging
