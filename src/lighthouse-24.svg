@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="18.728905"
-     inkscape:cy="11.788127"
+     inkscape:zoom="1"
+     inkscape:cx="13.786897"
+     inkscape:cy="18.232174"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,8 +34,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1378"
      inkscape:window-height="887"
-     inkscape:window-x="978"
-     inkscape:window-y="133"
+     inkscape:window-x="142"
+     inkscape:window-y="51"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -95,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,12 +107,14 @@
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 13,1030.3622 -2.5,1.5 c -0.513539,0.3081 -0.5,1 -0.5,1 l 0,3.5 -1,0 0,2 1,1 0,1 -1,9 8,0 -1,-9 0,-1 1,-1 0,-2 -1,0 0,-3.5 c 0,0 0.005,-0.697 -0.5,-1 l -2.5,-1.5 z m 0,2 1.5,1 c 0.5,0.3333 0.5,1 0.5,1 l 0,2 -4,0 0,-2 c 0,0 0,-0.6667 0.5,-1 l 1.5,-1 z"
-       id="path5580" />
+       d="m 13,1030.3622 -2.5,1.5 c -0.513539,0.3081 -0.5,1 -0.5,1 l 0,3.5 -1,0 0,2 1,1 0,1 -1,9 8,0 -1,-9 0,-1 1,-1 0,-2 -1,0 0,-3.5 c 0,0 0.005,-0.697 -0.5,-1 z"
+       id="path5580"
+       sodipodi:nodetypes="ccccccccccccccccsc" />
     <path
        inkscape:connector-curvature="0"
        id="rect4650"
-       d="m 13,1030.3622 -2.5,1.5 c -0.513539,0.3081 -0.5,1 -0.5,1 l 0,3.5 -1,0 0,2 1,1 0,1 -1,9 8,0 -1,-9 0,-1 1,-1 0,-2 -1,0 0,-3.5 c 0,0 0.005,-0.697 -0.5,-1 l -2.5,-1.5 z m 0,2 1.5,1 c 0.5,0.3333 0.5,1 0.5,1 l 0,2 -4,0 0,-2 c 0,0 0,-0.6667 0.5,-1 l 1.5,-1 z"
-       style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       d="m 13,1030.3622 -2.5,1.5 c -0.513539,0.3081 -0.5,1 -0.5,1 l 0,3.5 -1,0 0,2 1,1 0,1 -1,9 8,0 -1,-9 0,-1 1,-1 0,-2 -1,0 0,-3.5 c 0,0 0.005,-0.697 -0.5,-1 z m 1,4 0,2 -2,0 0,-2 c 0,0 0,-1 1,-1 1,0 1,1 1,1 z"
+       style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="ccccccccccccccccsccccccc" />
   </g>
 </svg>
