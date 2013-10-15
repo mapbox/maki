@@ -1010,6 +1010,17 @@
     ],
     "icon": "bakery"
     },
+   {
+    "name": "Lighthouse",
+    "tags": [
+        "building",
+        "navigation",
+        "nautical",
+        "ocean",
+        "logistics"
+    ],
+    "icon": "lighthouse"
+    },
     {
     "name": "London Underground",
     "tags": [
