@@ -25,17 +25,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="11.992169"
-     inkscape:cy="9.3237238"
+     inkscape:cx="13.981378"
+     inkscape:cy="5.3283695"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1086"
      inkscape:window-height="822"
-     inkscape:window-x="252"
-     inkscape:window-y="0"
+     inkscape:window-x="236"
+     inkscape:window-y="41"
      inkscape:window-maximized="0"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true">
@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,16 +97,24 @@
      id="layer1"
      transform="translate(0,-1034.3622)">
     <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.3"
-       d="m 9.9375,1036.3622 -1.9374998,2 0,3 -1.0000002,0 0,1 1.0000002,1 -1.0000002,7 6,0 -1,-7 1,-1 0,-1 -1,0 0,-3 z m 0.062499,2 1,1 0,2 -1.9999994,0 0,-2 z"
-       id="path5617"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.3"
+       d="m 9.5,1035.3622 -2.4999998,2 0,3 -1.0000002,0 0,1 1.0000002,1 -1.0000002,8 7,0 -1,-8 1,-1 0,-1 -1,0 0,-3 z m 0,2 1,1 0,2 -2,0 0,-2 z"
+       id="path3224"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
     <path
        sodipodi:nodetypes="cccccccccccccccccccc"
        inkscape:connector-curvature="0"
        id="rect4650"
-       d="m 9.9375,1036.3622 -1.9374998,2 0,3 -1.0000002,0 0,1 1.0000002,1 -1.0000002,7 6,0 -1,-7 1,-1 0,-1 -1,0 0,-3 z m 0.062499,2 1,1 0,2 -1.9999994,0 0,-2 z"
+       d="m 9.5,1035.3622 -2.4999998,2 0,3 -1.0000002,0 0,1 1.0000002,1 -1.0000002,8 7,0 -1,-8 1,-1 0,-1 -1,0 0,-3 z m 0,2 1,1 0,2 -2,0 0,-2 z"
        style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0;color:#000000;fill:#f7f7f7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3096"
+       width="15"
+       height="3"
+       x="2"
+       y="-4"
+       transform="translate(0,1034.3622)" />
   </g>
 </svg>
