@@ -1034,5 +1034,16 @@
         "deprecated"
     ],
     "icon": "minefield"
+    },
+    {
+    "name": "Laundry",
+    "tags": [
+        "laundry",
+        "washing machine",
+        "dry_cleaning",
+        "commercial",
+        "store"
+    ],
+    "icon": "laundry"
     }
 ]
