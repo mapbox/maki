@@ -1034,5 +1034,15 @@
         "deprecated"
     ],
     "icon": "minefield"
+    },
+    {
+     "name": "Camera",
+     "tags": [
+         "camera",
+         "photo",
+         "commercial",
+         "shop"
+     ],
+     "icon": "camera"
     }
 ]
