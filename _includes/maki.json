@@ -1010,6 +1010,14 @@
     ],
     "icon": "bakery"
     },
+	{
+    "name": "Dog Park",
+    "tags": [
+        "dog",
+        "pet"
+    ],
+    "icon": "dog-park"
+    },
    {
     "name": "Lighthouse",
     "tags": [
