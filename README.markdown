@@ -14,13 +14,7 @@ PNG renders of all of the SVGs are in the `renders` directory. High-resolution (
 
 ## ArcGIS
 
-Style files for ArcGIS 10.1+ are in the `ArcGIS` subdirectory and are maintained by @williamscraigm. Both Desktop (.style) and Server (.ServerStyle) versions are provided.
-
-Currently only PNG based picture marker symbols are contained in these styles. In addition to keeping up to date with maki symbols, the following roadmap is planned:
-
-- vector versions created from SVG source
-- vector versions created from SVG source with added white outline
-- representation marker versions of the two above vector versions
+Style files for ArcGIS 10.1+ are in the `ArcGIS` subdirectory and are maintained by @williamscraigm. Both Desktop (.style) and Server (.ServerStyle) versions are provided. Standard and high-resolution versions of the PNG renders are included in the style.  Additionally, the original SVGs have been converted to EMFs and import as vector EMF based markers. These EMF markers were then further converted to Representation markers. The utility used to create these styles can be found at: https://github.com/williamscraigm/makiArcGISStyle
 
 ## render.sh
 

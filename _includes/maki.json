@@ -89,7 +89,7 @@
         "icon": "star"
     },
     {
-        "name": "cross",
+        "name": "Cross",
         "tags": [
             "cross",
             "x",
@@ -1010,6 +1010,17 @@
     ],
     "icon": "bakery"
     },
+   {
+    "name": "Lighthouse",
+    "tags": [
+        "building",
+        "navigation",
+        "nautical",
+        "ocean",
+        "logistics"
+    ],
+    "icon": "lighthouse"
+    },
     {
     "name": "London Underground",
     "tags": [
@@ -1023,5 +1034,15 @@
         "deprecated"
     ],
     "icon": "minefield"
+    },
+    {
+     "name": "Camera",
+     "tags": [
+         "camera",
+         "photo",
+         "commercial",
+         "shop"
+     ],
+     "icon": "camera"
     }
 ]
