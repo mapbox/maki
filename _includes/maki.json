@@ -1030,6 +1030,15 @@
     "icon": "lighthouse"
     },
     {
+    "name": "Clothing Store",
+    "tags": [
+        "clothing",
+        "store",
+        "shop"
+    ],
+    "icon": "clothing-store"
+    },
+    {
     "name": "London Underground",
     "tags": [
         "deprecated"
