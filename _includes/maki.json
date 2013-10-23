@@ -1091,5 +1091,16 @@
             "transportation"
         ],
         "icon": "car"
+    },
+    {
+    "name": "Suitcase",
+    "tags": [
+      "suitcase",
+      "travel",
+      "travel agency",
+      "commercial",
+      "store"
+    ],
+    "icon": "suitcase"
     }
 ]
