@@ -88,6 +88,10 @@ function build_css {
             dx=$(($dx - 54))
         fi
     done
+
+    # Update sprite dimensions for retina rules.
+    dim="$(identify -format "%wpx %hpx" www/images/maki-sprite.png)"
+    sed -i "s/background-size: [0-9]*px [0-9]*px;/background-size: $dim;/" www/maki-sprite.css
 }
 
 function build_positions {
