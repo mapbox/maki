@@ -20,7 +20,7 @@
   only screen and (min-device-pixel-ratio : 2) {
   .maki-icon {
     background-image:url(images/maki-sprite@2x.png);
-    background-size: 756px 360px;
+    background-size: 270px 504px;
   }
   .dark .maki-icon { background-image:url(images/maki-sprite.dark@2x.png); }
 }
