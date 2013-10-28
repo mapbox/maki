@@ -20,7 +20,7 @@
   only screen and (min-device-pixel-ratio : 2) {
   .maki-icon {
     background-image:url(images/maki-sprite@2x.png);
-    background-size: 270px 504px; /* Replaced automatically by render.sh */
+    background-size: 000px 000px; /* Replaced automatically by render.sh */
   }
   .dark .maki-icon { background-image:url(images/maki-sprite.dark@2x.png); }
 }
@@ -124,6 +124,7 @@
 .maki-icon.dog-park { background-position: 0px -456px; }
 .maki-icon.lighthouse { background-position: -54px -456px; }
 .maki-icon.clothing-store { background-position: -108px -456px; }
-.maki-icon.london-underground { background-position: -162px -456px; }
-.maki-icon.minefield { background-position: -216px -456px; }
-.maki-icon.camera { background-position: 0px -480px; }
+.maki-icon.polling-place { background-position: -162px -456px; }
+.maki-icon.london-underground { background-position: -216px -456px; }
+.maki-icon.minefield { background-position: 0px -480px; }
+.maki-icon.camera { background-position: -54px -480px; }
