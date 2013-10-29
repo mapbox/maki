@@ -1,6 +1,7 @@
 .maki-icon {
   background-image: url(images/maki-sprite.png);
   background-position: 24px 24px;
+  background-repeat: no-repeat;
   width: 24px;
   height: 24px;
   overflow:hidden;
@@ -20,7 +21,7 @@
   only screen and (min-device-pixel-ratio : 2) {
   .maki-icon {
     background-image:url(images/maki-sprite@2x.png);
-    background-size: 000px 000px; /* Replaced automatically by render.sh */
+    background-size: 270px 504px; /* Replaced automatically by render.sh */
   }
   .dark .maki-icon { background-image:url(images/maki-sprite.dark@2x.png); }
 }

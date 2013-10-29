@@ -1,6 +1,7 @@
 .maki-icon {
   background-image: url(images/maki-sprite.png);
   background-position: 24px 24px;
+  background-repeat: no-repeat;
   width: 24px;
   height: 24px;
   overflow:hidden;
