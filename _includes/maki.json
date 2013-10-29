@@ -1039,6 +1039,15 @@
     "icon": "clothing-store"
     },
     {
+    "name": "Polling Place",
+    "tags": [
+        "poll",
+        "polling",
+        "vote"
+    ],
+    "icon": "polling-place"
+    },
+    {
     "name": "London Underground",
     "tags": [
         "deprecated"
