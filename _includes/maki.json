@@ -1070,5 +1070,16 @@
          "shop"
      ],
      "icon": "camera"
+    },
+    {
+    "name": "Laundry",
+    "tags": [
+        "laundry",
+        "washing machine",
+        "dry_cleaning",
+        "commercial",
+        "store"
+    ],
+    "icon": "laundry"
     }
 ]
