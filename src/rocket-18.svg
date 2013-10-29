@@ -13,7 +13,7 @@
    height="18"
    id="svg4619"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="rocket-18.svg"
    inkscape:export-filename="renders/rocket-18@2x.png"
    inkscape:export-xdpi="180"
@@ -27,19 +27,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="9.1669497"
-     inkscape:cy="11.33288"
+     inkscape:zoom="11.313708"
+     inkscape:cx="25.777509"
+     inkscape:cy="5.4136894"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     showguides="false"
+     showgrid="true"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1215"
-     inkscape:window-height="776"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1920"
+     inkscape:window-height="948"
+     inkscape:window-x="25"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,14 +99,16 @@
      id="layer1"
      transform="translate(0,-1034.3622)">
     <path
-       id="path3998"
-       transform="translate(0,1034.3622)"
-       d="M 16.53125 1 C 15.376152 0.95337344 12.042545 2.36375 9.53125 4.875 C 7.378712 7.0275 5.59375 10.25 5.59375 10.25 C 5.59375 10.9674 7.0324874 12.40625 7.75 12.40625 C 7.75 12.40625 10.784962 10.80885 12.9375 8.65625 C 15.80755 5.78625 17.413134 1.663 16.875 1.125 C 16.807733 1.057725 16.696264 1.0066609 16.53125 1 z M 12.5 4.25 C 13.190356 4.25 13.75 4.8096441 13.75 5.5 C 13.75 6.1903559 13.190356 6.75 12.5 6.75 C 11.809644 6.75 11.25 6.1903559 11.25 5.5 C 11.25 4.8096441 11.809644 4.25 12.5 4.25 z M 5 7 L 2 9.5 L 2 10 L 5 9 L 5.75 9 L 7 7 L 5 7 z M 11 11 L 9 12.25 L 9 13 L 8 16 L 8.5 16 L 11 13 L 11 11 z "
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;opacity:0.3" />
+       sodipodi:nodetypes="csccccccssssscccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4497"
+       d="m 15,1037.3622 c -1.155098,-0.047 -3.488705,0.4888 -6,3 -2.152538,2.1525 -3,5 -3,5 0,0.7174 1.2824874,2 2,2 0,0 2.847462,-0.8474 5,-3 2.234442,-2.2344 2.679746,-4.496 3,-6 l 0,-1 z m -2.232233,3.2323 c 0.488155,0.4881 0.488155,1.2796 0,1.7677 -0.488155,0.4882 -1.279612,0.4882 -1.767767,0 -0.488155,-0.4881 -0.488155,-1.2796 0,-1.7677 0.488155,-0.4882 1.279612,-0.4882 1.767767,0 z M 5,1041.3622 l -1.5,3 2.25,0 1.25,-3 z m 7,5 -3,1.25 0,2.25 3,-1.5 z"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;opacity:0.29999999999999999;color:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        style="fill:#444444;fill-opacity:1;stroke:none"
-       d="M 16.53125 1 C 15.376152 0.95337344 12.042545 2.36375 9.53125 4.875 C 7.378712 7.0275 5.59375 10.25 5.59375 10.25 C 5.59375 10.9674 7.0324874 12.40625 7.75 12.40625 C 7.75 12.40625 10.784962 10.80885 12.9375 8.65625 C 15.80755 5.78625 17.413134 1.663 16.875 1.125 C 16.807733 1.057725 16.696264 1.0066609 16.53125 1 z M 12.5 4.25 C 13.190356 4.25 13.75 4.8096441 13.75 5.5 C 13.75 6.1903559 13.190356 6.75 12.5 6.75 C 11.809644 6.75 11.25 6.1903559 11.25 5.5 C 11.25 4.8096441 11.809644 4.25 12.5 4.25 z M 5 7 L 2 9.5 L 2 10 L 5 9 L 5.75 9 L 7 7 L 5 7 z M 11 11 L 9 12.25 L 9 13 L 8 16 L 8.5 16 L 11 13 L 11 11 z "
-       transform="translate(0,1034.3622)"
-       id="path3088" />
+       d="m 15,1037.3622 c -1.155098,-0.047 -3.488705,0.4888 -6,3 -2.152538,2.1525 -3,5 -3,5 0,0.7174 1.2824874,2 2,2 0,0 2.847462,-0.8474 5,-3 2.234442,-2.2344 2.679746,-4.496 3,-6 l 0,-1 z m -2.232233,3.2323 c 0.488155,0.4881 0.488155,1.2796 0,1.7677 -0.488155,0.4882 -1.279612,0.4882 -1.767767,0 -0.488155,-0.4881 -0.488155,-1.2796 0,-1.7677 0.488155,-0.4882 1.279612,-0.4882 1.767767,0 z M 5,1041.3622 l -1.5,3 2.25,0 1.25,-3 z m 7,5 -3,1.25 0,2.25 3,-1.5 z"
+       id="path3088-77"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccssssscccccccccc" />
   </g>
 </svg>
