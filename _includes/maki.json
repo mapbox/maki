@@ -1081,5 +1081,15 @@
         "store"
     ],
     "icon": "laundry"
+    },
+    {
+        "name": "Car",
+        "tags": [
+            "car",
+            "auto",
+            "vehicle",
+            "transportation"
+        ],
+        "icon": "car"
     }
 ]
