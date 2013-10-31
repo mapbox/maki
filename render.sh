@@ -88,6 +88,10 @@ function build_css {
             dx=$(($dx - 54))
         fi
     done
+
+    # Update sprite dimensions for retina rules.
+    dim="$(identify -format "%wpx %hpx" www/images/maki-sprite.png)"
+    sed -i "s/background-size: [0-9]*px [0-9]*px;/background-size: $dim;/" www/maki-sprite.css
 }
 
 function build_positions {
@@ -186,11 +190,12 @@ case $@ in
         echo $pngs2x
         ;;
     * )
-        # By default we build the PNGs, sprites, and CSS
+        # By default we build the PNGs, sprites, CSS, and position JSON
         # but not the CSV or debug output
         build_pngs $svgs
         build_sprite "www/images/maki-sprite.png" $pngs
         build_sprite "www/images/maki-sprite@2x.png" $pngs2x
         build_css $icons
+        build_positions $icons
         ;;
 esac

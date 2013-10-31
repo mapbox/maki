@@ -89,7 +89,7 @@
         "icon": "star"
     },
     {
-        "name": "cross",
+        "name": "Cross",
         "tags": [
             "cross",
             "x",
@@ -1010,6 +1010,43 @@
     ],
     "icon": "bakery"
     },
+	{
+    "name": "Dog Park",
+    "tags": [
+        "dog",
+        "pet"
+    ],
+    "icon": "dog-park"
+    },
+   {
+    "name": "Lighthouse",
+    "tags": [
+        "building",
+        "navigation",
+        "nautical",
+        "ocean",
+        "logistics"
+    ],
+    "icon": "lighthouse"
+    },
+    {
+    "name": "Clothing Store",
+    "tags": [
+        "clothing",
+        "store",
+        "shop"
+    ],
+    "icon": "clothing-store"
+    },
+    {
+    "name": "Polling Place",
+    "tags": [
+        "poll",
+        "polling",
+        "vote"
+    ],
+    "icon": "polling-place"
+    },
     {
     "name": "London Underground",
     "tags": [
@@ -1023,5 +1060,47 @@
         "deprecated"
     ],
     "icon": "minefield"
+    },
+    {
+     "name": "Camera",
+     "tags": [
+         "camera",
+         "photo",
+         "commercial",
+         "shop"
+     ],
+     "icon": "camera"
+    },
+    {
+    "name": "Laundry",
+    "tags": [
+        "laundry",
+        "washing machine",
+        "dry_cleaning",
+        "commercial",
+        "store"
+    ],
+    "icon": "laundry"
+    },
+    {
+        "name": "Car",
+        "tags": [
+            "car",
+            "auto",
+            "vehicle",
+            "transportation"
+        ],
+        "icon": "car"
+    },
+    {
+    "name": "Suitcase",
+    "tags": [
+      "suitcase",
+      "travel",
+      "travel agency",
+      "commercial",
+      "store"
+    ],
+    "icon": "suitcase"
     }
 ]

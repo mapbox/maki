@@ -353,8 +353,7 @@ only screen and (max-width: 640px) {
   .spot-illustration,
   .open-source-illustration,
   .download-button .big-icon-download,
-  .branding .attribution .small-mapbox,
-  .branding .logo {
+  .branding .attribution .small-mapbox {
     background-image: url(images/sprite@2x.png);
     background-size: 470px 505px;
   }
