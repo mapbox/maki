@@ -161,7 +161,7 @@ body.searching #search-results { display: block; }
 
   #search-results ul#results {
     position: absolute;
-    bottom: 60px;
+    bottom:120px;
     width: 66.6666%;
     margin-left: 16.6666%;
     transition:all 250ms;
@@ -240,11 +240,11 @@ a.search-download {
   bottom: 50px;
   }
 .close {
-  line-height:20px;
+  line-height:10px;
   display:block;
   position:absolute;
-  right:10px;
-  bottom:10px;
+  right:5px;
+  top:5px;
   display:none;
   }
   .close:hover  { color:#fff; }
