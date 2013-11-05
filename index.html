@@ -2,6 +2,7 @@
 title: Maki | A clean point of interest icon set from MapBox
 layout: default
 section: maki
+fullwidth: true
 ---
 <link href='{{site.baseurl}}/www/site.css' rel='stylesheet' />
 <link href='{{site.baseurl}}/www/maki-sprite.css' rel='stylesheet' />
@@ -46,10 +47,10 @@ section: maki
     <ul id='results'></ul>
   </div>
   <div class='canvas-controls margin3 col6 pad4y'>
-    <form id='search'>
+    <form id='search' class='contain'>
       <input type='text' placeholder='e.g Sports or Bank'>
     </form>
-    <a href='#' class='close' title='Press ESC to close'>&times;</a>
+    <a href='#' class='close round dark fill-denim pad1' title='Press ESC to close'>&times;</a>
   </div>
     <div class='download callout margin3 col6 pad4'>
     <a class='download-button clearfix' href='https://github.com/mapbox/maki/zipball/gh-pages' class='download'>
@@ -98,16 +99,16 @@ section: maki
   </div>
 </div>
 
-<div class="clearfix fill-grey footer-actions">
-  <div class="center col6 pad4">
-    <span class="spot-illustration with-mapbox"></span>
+<div class='clearfix fill-grey footer-actions'>
+  <div class='center col6 pad4'>
+    <span class='spot-illustration with-mapbox'></span>
     <h2 class='title'>Use with MapBox</h2>
-    <a class="button big" href='//tiles.mapbox.com/signup/free'>Sign up</a>
+    <a class='button big' href='https://mapbox.com/plans'>Sign up</a>
   </div>
   <div class='center col6 pad4'>
     <span class="spot-illustration with-tilemill"></span>
     <h2 class='title'>Use with TileMill</h2>
-    <a class='button' href='//mapbox.com/tilemill/docs/guides/using-maki-icons/'>Documentation</a>
+    <a class='button' href='https://mapbox.com/tilemill/docs/guides/using-maki-icons/'>Documentation</a>
   </div>
 </div>
 
