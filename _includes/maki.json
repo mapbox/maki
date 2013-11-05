@@ -1058,6 +1058,16 @@
     "icon": "playground"
     },
     {
+    "name": "Entrance",
+    "tags": [
+        "entrance",
+        "enter",
+        "subway",
+        "rail"
+    ],
+    "icon": "entrance"
+    },
+    {
     "name": "London Underground",
     "tags": [
         "deprecated"

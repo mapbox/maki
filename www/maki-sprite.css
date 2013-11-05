@@ -127,9 +127,10 @@
 .maki-icon.clothing-store { background-position: -108px -456px; }
 .maki-icon.polling-place { background-position: -162px -456px; }
 .maki-icon.playground { background-position: -216px -456px; }
-.maki-icon.london-underground { background-position: 0px -480px; }
-.maki-icon.minefield { background-position: -54px -480px; }
-.maki-icon.camera { background-position: -108px -480px; }
-.maki-icon.laundry { background-position: -162px -480px; }
-.maki-icon.car { background-position: -216px -480px; }
-.maki-icon.suitcase { background-position: 0px -504px; }
+.maki-icon.entrance { background-position: 0px -480px; }
+.maki-icon.london-underground { background-position: -54px -480px; }
+.maki-icon.minefield { background-position: -108px -480px; }
+.maki-icon.camera { background-position: -162px -480px; }
+.maki-icon.laundry { background-position: -216px -480px; }
+.maki-icon.car { background-position: 0px -504px; }
+.maki-icon.suitcase { background-position: -54px -504px; }
