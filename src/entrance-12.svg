@@ -14,7 +14,7 @@
    id="svg4764"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="subway-entrance-12.svg">
+   sodipodi:docname="entrance-12.svg">
   <defs
      id="defs4766" />
   <sodipodi:namedview
@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="4.9634629"
-     inkscape:cy="7.1175849"
+     inkscape:zoom="16"
+     inkscape:cx="2.444395"
+     inkscape:cy="9.3272936"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1792"
-     inkscape:window-height="1010"
-     inkscape:window-x="46"
+     inkscape:window-width="1440"
+     inkscape:window-height="833"
+     inkscape:window-x="122"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-grids="true"
@@ -101,12 +101,11 @@
      id="layer1"
      transform="translate(0,-1040.3622)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 3.8125,0 C 3.3540975,0.08746655 2.9917766,0.53339997 3,1 L 3,4 2,4 C 1.4764155,4.0000524 1.0000524,4.4764155 1,5 l 0,1 c 5.24e-5,0.5235845 0.4764155,0.9999476 1,1 l 1,0 0,3 c 5.24e-5,0.523584 0.4764155,0.999948 1,1 l 7,0 c 0.523584,-5.2e-5 0.999948,-0.476416 1,-1 L 12,1 C 11.999948,0.47641553 11.523584,5.2350595e-5 11,0 L 4,0 C 3.9687729,-0.00146523 3.9374771,-0.00146523 3.90625,0 3.8750229,-0.00146523 3.8437271,-0.00146523 3.8125,0 z"
-       transform="translate(0,1040.3622)"
-       id="path3084"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.3"
+       d="m 3.8125,1051.3622 c -0.4584025,-0.088 -0.8207234,-0.5334 -0.8125,-1 l 0,-3 -1,0 c -0.5235845,-10e-5 -0.9999476,-0.4764 -1,-1 l 0,-1 c 5.24e-5,-0.5236 0.4764155,-0.9999 1,-1 l 1,0 0,-3 c 5.24e-5,-0.5236 0.4764155,-0.9999 1,-1 l 7,0 c 0.523584,10e-5 0.999948,0.4764 1,1 l 0,9 c -5.2e-5,0.5236 -0.476416,0.9999 -1,1 -2.3886165,0 -4.811906,0 -7.1875,0 z"
+       id="path3025"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccc" />
     <path
        style="fill:#444444;stroke:none"
        d="M 4 1 L 4 4 L 5 4 L 5 2 L 10 2 L 10 9 L 5 9 L 5 7 L 4 7 L 4 10 L 11 10 L 11 1 L 4 1 z "
@@ -114,7 +113,7 @@
        id="rect3955" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.74518514;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 6 3.5 L 6 5 L 2 5 L 2 6 L 6 6 L 6 7.5 L 9 6 L 9 5 L 6 3.5 z "
+       d="M 6 3 L 6 5 L 2 5 L 2 6 L 6 6 L 6 8 L 7 8 L 7 7 L 8 7 L 8 6 L 9 6 L 9 5 L 8 5 L 8 4 L 7 4 L 7 3 L 6 3 z "
        transform="translate(0,1040.3622)"
        id="path3961" />
   </g>
