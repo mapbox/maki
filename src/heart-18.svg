@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="10.913245"
-     inkscape:cy="12.439281"
+     inkscape:cx="5.381995"
+     inkscape:cy="11.555398"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -117,23 +117,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1034.3622)">
-    <path
-       style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 15.453197,1042.0331 c -1.161208,2.3826 -4.396207,5.8248 -5.9531965,7.3291 -1.5569918,-1.5043 -4.7919899,-4.9465 -5.9531975,-7.3291 C 1.165524,1037.147 7,1033.5596 9.5,1039.3595 c 2.511049,-5.811 8.334475,-2.2125 5.953197,2.6736 z"
-       id="path3808"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="scscs" />
-    <path
-       sodipodi:nodetypes="scscs"
-       inkscape:connector-curvature="0"
-       id="path3041"
-       d="m 47.449779,1042.0351 c -1.161208,2.3819 -4.396207,5.8232 -5.953197,7.3271 -1.556991,-1.5039 -4.79199,-4.9452 -5.953197,-7.3271 -2.381279,-4.8848 3.647745,-8.1413 5.953197,-3.2565 2.305451,-4.8848 8.334475,-1.6283 5.953197,3.2565 z"
-       style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       sodipodi:nodetypes="scscs"
-       inkscape:connector-curvature="0"
-       id="path3043"
-       d="m 67.453197,1042.0331 c -1.161208,2.3826 -4.396207,5.8248 -5.953197,7.3291 -1.556991,-1.5043 -4.791989,-4.9465 -5.953197,-7.3291 C 53.165524,1037.147 59,1033.5596 61.5,1039.3595 c 2.511049,-5.811 8.334475,-2.2125 5.953197,2.6736 z"
-       style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g4352">
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3836"
+         d="m 5.870284,1035.3729 c -0.57914,0.017 -1.1607654,0.1731 -1.6584621,0.4377 -1.9907863,1.0589 -2.9372504,3.8404 -1.5645868,6.6608 1.3144313,2.7006 4.5581017,6.0759 6.1644722,7.6301 0.3674988,0.3476 1.0093375,0.3476 1.3768357,0 1.606368,-1.5542 4.850041,-4.9295 6.164473,-7.6301 1.372527,-2.8202 0.42531,-5.5995 -1.564587,-6.6608 -0.99495,-0.5306 -2.245338,-0.6255 -3.379508,-0.094 -0.71463,0.335 -1.347131,0.9824 -1.9087956,1.7512 -0.5606987,-0.7679 -1.1944962,-1.3853 -1.9087959,-1.72 -0.5668231,-0.2655 -1.1419055,-0.3925 -1.7210455,-0.3752 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.3" />
+      <path
+         sodipodi:nodetypes="scscs"
+         inkscape:connector-curvature="0"
+         id="path3808"
+         d="m 15.440766,1042.0331 c -1.158855,2.3826 -4.387301,5.8248 -5.9411369,7.3291 -1.5538378,-1.5043 -4.7822826,-4.9465 -5.9411379,-7.3291 -2.3764553,-4.8861 3.4462017,-8.4735 5.9411374,-2.6736 2.5059624,-5.811 8.3175914,-2.2125 5.9411374,2.6736 z"
+         style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
 </svg>
