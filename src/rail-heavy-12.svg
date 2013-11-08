@@ -14,7 +14,7 @@
    id="svg4764"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="rail-12.svg">
+   sodipodi:docname="rail-heavy-12.svg">
   <defs
      id="defs4766" />
   <sodipodi:namedview
@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="16.599408"
+     inkscape:cx="18.09375"
      inkscape:cy="4.7323867"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,8 +34,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1100"
      inkscape:window-height="788"
-     inkscape:window-x="169"
-     inkscape:window-y="75"
+     inkscape:window-x="310"
+     inkscape:window-y="141"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -131,7 +131,7 @@
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#444444;fill-opacity:1;stroke:none"
-       d="m 27,1048.8622 -2,0 -1,1.5 2,0 z"
+       d="m 27,1048.8622 -2,0 -1,1.5 3,0 z"
        id="path3787"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -139,7 +139,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3789"
-       d="m 28,1048.8622 2,0 1,1.5 -2,0 z"
+       d="m 28,1048.8622 2,0 1,1.5 -3,0 z"
        style="fill:#444444;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#ffffff;stroke:none"
@@ -203,7 +203,7 @@
        y="1044.3622" />
     <path
        style="fill:#444444;fill-opacity:1;stroke:none"
-       d="m 6,1048.8622 -2.0000001,0 -0.9999999,1.5 1.9999999,0 z"
+       d="m 6,1048.8622 -2.0000001,0 -0.9999999,1.5 3,0 z"
        id="path3064"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -211,7 +211,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3066"
-       d="m 7,1048.8622 2,0 1,1.5 -2,0 z"
+       d="m 7,1048.8622 2,0 1,1.5 -3,0 z"
        style="fill:#444444;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#ffffff;stroke:none"
@@ -251,11 +251,11 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path3078"
-       d="m 41,1048.8622 -2,0 -1,1.5 2,0 z"
+       d="m 41,1048.8622 -2,0 -1,1.5 3,0 z"
        style="fill:#444444;fill-opacity:1;stroke:none" />
     <path
        style="fill:#444444;fill-opacity:1;stroke:none"
-       d="m 42,1048.8622 2,0 1,1.5 -2,0 z"
+       d="m 42,1048.8622 2,0 1,1.5 -3,0 z"
        id="path3080"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
