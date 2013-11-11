@@ -1,4 +1,6 @@
-# Maki 
+# Maki
+
+[![Build Status](https://travis-ci.org/mapbox/maki.png?branch=gh-pages)](https://travis-ci.org/mapbox/maki)
 
 Maki is a point of interest icon set made especially for use with MapBox maps. For more information on how to use Maki with MapBox, see documentation at http://mapbox.com/tilemill/docs/guides/using-maki-icons/.
 

@@ -1,11 +1,17 @@
 {
-    "author": "MapBox",
-    "name": "maki",
-    "description": "Pixel-perfect icons for web cartography",
-    "version": "0.3.0",
-    "homepage": "http://mapbox.com/maki",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/mapbox/maki"
-    }
+  "author": "MapBox",
+  "name": "maki",
+  "description": "Pixel-perfect icons for web cartography",
+  "version": "0.3.0",
+  "homepage": "http://mapbox.com/maki",
+  "scripts": {
+    "test": "mocha -R progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mapbox/maki"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  }
 }
