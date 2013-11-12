@@ -26,10 +26,10 @@
      inkscape:pageshadow="2"
      inkscape:zoom="16"
      inkscape:cx="5.381995"
-     inkscape:cy="11.555398"
+     inkscape:cy="6.555398"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1307"
@@ -118,13 +118,14 @@
      id="layer1"
      transform="translate(0,-1034.3622)">
     <g
-       id="g4352">
+       id="g4352"
+       transform="translate(0,2)">
       <path
          sodipodi:nodetypes="cccccccccccc"
          inkscape:connector-curvature="0"
          id="path3836"
          d="m 5.870284,1035.3729 c -0.57914,0.017 -1.1607654,0.1731 -1.6584621,0.4377 -1.9907863,1.0589 -2.9372504,3.8404 -1.5645868,6.6608 1.3144313,2.7006 4.5581017,6.0759 6.1644722,7.6301 0.3674988,0.3476 1.0093375,0.3476 1.3768357,0 1.606368,-1.5542 4.850041,-4.9295 6.164473,-7.6301 1.372527,-2.8202 0.42531,-5.5995 -1.564587,-6.6608 -0.99495,-0.5306 -2.245338,-0.6255 -3.379508,-0.094 -0.71463,0.335 -1.347131,0.9824 -1.9087956,1.7512 -0.5606987,-0.7679 -1.1944962,-1.3853 -1.9087959,-1.72 -0.5668231,-0.2655 -1.1419055,-0.3925 -1.7210455,-0.3752 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.3" />
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
       <path
          sodipodi:nodetypes="scscs"
          inkscape:connector-curvature="0"
