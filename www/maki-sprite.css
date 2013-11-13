@@ -21,7 +21,7 @@
   only screen and (min-device-pixel-ratio : 2) {
   .maki-icon {
     background-image:url(images/maki-sprite@2x.png);
-    background-size: 270px 529px; /* Replaced automatically by render.sh */
+    background-size: 270px 528px; /* Replaced automatically by render.sh */
   }
   .dark .maki-icon { background-image:url(images/maki-sprite.dark@2x.png); }
 }
@@ -46,8 +46,8 @@
 .maki-icon.airport { background-position: -54px -72px; }
 .maki-icon.heliport { background-position: -108px -72px; }
 .maki-icon.rail { background-position: -162px -72px; }
-.maki-icon.rail-underground { background-position: -216px -72px; }
-.maki-icon.rail-above { background-position: 0px -96px; }
+.maki-icon.rail-metro { background-position: -216px -72px; }
+.maki-icon.rail-light { background-position: 0px -96px; }
 .maki-icon.bus { background-position: -54px -96px; }
 .maki-icon.fuel { background-position: -108px -96px; }
 .maki-icon.parking { background-position: -162px -96px; }
@@ -131,7 +131,9 @@
 .maki-icon.heart { background-position: -54px -480px; }
 .maki-icon.london-underground { background-position: -108px -480px; }
 .maki-icon.minefield { background-position: -162px -480px; }
-.maki-icon.camera { background-position: -216px -480px; }
-.maki-icon.laundry { background-position: 0px -504px; }
-.maki-icon.car { background-position: -54px -504px; }
-.maki-icon.suitcase { background-position: -108px -504px; }
+.maki-icon.rail-underground { background-position: -216px -480px; }
+.maki-icon.rail-above { background-position: 0px -504px; }
+.maki-icon.camera { background-position: -54px -504px; }
+.maki-icon.laundry { background-position: -108px -504px; }
+.maki-icon.car { background-position: -162px -504px; }
+.maki-icon.suitcase { background-position: -216px -504px; }

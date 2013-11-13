@@ -211,24 +211,26 @@
         "icon": "rail"
     },
     {
-        "name": "Rail Underground",
+        "name": "Rail Metro",
         "tags": [
             "rail",
             "train",
-            "transportation",
+            "metro",
             "subway",
-            "underground"
-        ],
-        "icon": "rail-underground"
-    },
-    {
-        "name": "Rail Above",
-        "tags": [
-            "rail",
-            "train",
+            "rapid-transit",
             "transportation"
         ],
-        "icon": "rail-above"
+        "icon": "rail-metro"
+    },
+    {
+        "name": "Rail Light",
+        "tags": [
+            "rail",
+            "train",
+            "light-rail",
+            "transportation"
+        ],
+        "icon": "rail-light"
     },
     {
         "name": "Bus",
@@ -1091,6 +1093,20 @@
         "deprecated"
     ],
     "icon": "minefield"
+    },
+    {
+    "name": "Rail Underground",
+    "tags": [
+        "deprecated"
+    ],
+    "icon": "rail-underground"
+    },
+    {
+    "name": "Rail Above",
+    "tags": [
+        "deprecated"
+    ],
+    "icon": "rail-above"
     },
     {
      "name": "Camera",
