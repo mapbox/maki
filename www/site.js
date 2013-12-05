@@ -34,14 +34,15 @@ maki.search = function () {
     var count = _.template($('#count').html());
     var set = {}, total = 0;
 
-    var howMany = function() {
+    function howMany() {
       $('.count').append(count({
         setcount: total,
         totalcount: total * 3
       }));
     }
-    var find = function(phrase) {
-        var matches = _(data).filter(function(p) {
+
+    function find(phrase) {
+        var matches = data.filter(function(p) {
             return _(phrase).filter(function(a) {
                 return _(p.words).any(function(b) {
                     return a === b || b.indexOf(a) === 0;
@@ -49,7 +50,7 @@ maki.search = function () {
             }).length === phrase.length;
         });
         return matches;
-    };
+    }
 
     var data = _(window.Maki).chain()
       .compact()
@@ -63,7 +64,7 @@ maki.search = function () {
       .map(function(icon){
         set.title = icon.name;
         set.icon = icon.icon;
-        total++
+        total++;
         $('#maki-set').append(template(set));
         return icon;
       })
@@ -88,9 +89,9 @@ maki.search = function () {
         var done = {};
         var phrase = $('input', search).val();
         if (phrase.length >= 1) {
-            var matches = find(phrase.toLowerCase().match(/(\w+)/g));
+            var matches = find(phrase.toLowerCase().match(/(\w+)/g) || '');
             var widthClass = _.size(matches);
-            _(matches).each(function(p) {
+            matches.forEach(function(p) {
                 $('#search-results ul#results')
                   .addClass('active clearfix pad3 size-' + widthClass)
                   .append(searchResults(p));
