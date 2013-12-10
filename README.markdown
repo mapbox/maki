@@ -2,11 +2,11 @@
 
 [![Build Status](https://travis-ci.org/mapbox/maki.png)](https://travis-ci.org/mapbox/maki)
 
-Maki is a point of interest icon set made especially for use with MapBox maps. For more information on how to use Maki with MapBox, see documentation at http://mapbox.com/tilemill/docs/guides/using-maki-icons/.
+Maki is a point of interest icon set made especially for use with Mapbox maps. For more information on how to use Maki with Mapbox, see documentation at http://mapbox.com/tilemill/docs/guides/using-maki-icons/.
 
 ## src
 
-Maki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall. 
+Maki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall.
 
 Maki is designed using [Inkscape][]. For information on contributing to Maki see CONTRIBUTING.md.
 
