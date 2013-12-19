@@ -1162,5 +1162,17 @@
       "salon"
     ],
     "icon": "hairdresser"
+    },
+    {
+    "name": "Chemist",
+    "tags": [
+      "shop",
+      "science",
+      "chemistry",
+      "experiment",
+      "research",
+      "pharmacy"
+    ],
+    "icon": "chemist"
     }
 ]
