@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg4460"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="chemist-24.svg">
+  <defs
+     id="defs4462" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="4.908289"
+     inkscape:cy="9"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="886"
+     inkscape:window-height="1046"
+     inkscape:window-x="1549"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4468"
+       empspacing="2"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       dotted="false"
+       empcolor="#0000ff"
+       empopacity="0.39215686"
+       color="#0000ff"
+       opacity="0.10196078" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,20"
+       id="guide4470" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="4,24"
+       id="guide4472" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="24,13"
+       id="guide4474" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="15,0"
+       id="guide4476" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="23,20"
+       id="guide4478" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="20,23"
+       id="guide4480" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2,5"
+       id="guide4482" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="7,2"
+       id="guide4484" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="13,9"
+       id="guide4486" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="16,13"
+       id="guide4490" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-4.5,15"
+       id="guide3933" />
+    <sodipodi:guide
+       orientation="0.89442719,0.4472136"
+       position="15,13"
+       id="guide3935" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <path
+       id="path2996"
+       transform="translate(0,1028.3622)"
+       d="M 9.28125 3 C 8.5690024 3 8 3.4461 8 4 C 8 4.5541 8.5690024 5 9.28125 5 L 10 5 L 10 9 L 5 19 L 5.96875 20 L 9 20 L 16 20 L 17.03125 20 L 18.96875 20 L 20 19 L 15 9 L 15 5 L 15.71875 5 C 16.430998 5 17 4.5541 17 4 C 17 3.4461 16.430998 3 15.71875 3 L 9.28125 3 z M 12 5 L 13 5 L 13 9 L 16 15 L 9 15 L 12 9 L 12 5 z "
+       style="opacity:0.29999999999999999;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;color:#000000;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="opacity:0.98999999000000005;fill:#454545;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 9.28125 3 C 8.5690024 3 8 3.4461 8 4 C 8 4.5541 8.5690024 5 9.28125 5 L 10 5 L 10 9 L 5 19 L 5.96875 20 L 9 20 L 16 20 L 17.03125 20 L 18.96875 20 L 20 19 L 15 9 L 15 5 L 15.71875 5 C 16.430998 5 17 4.5541 17 4 C 17 3.4461 16.430998 3 15.71875 3 L 9.28125 3 z M 12 5 L 13 5 L 13 9 L 16 15 L 9 15 L 12 9 L 12 5 z "
+       transform="translate(0,1028.3622)"
+       id="rect3012" />
+  </g>
+</svg>
