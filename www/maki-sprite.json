@@ -328,4 +328,7 @@
 "car-12": { "x": 204, "y": 504, "width": 12, "height": 12 },
 "suitcase-24": { "x": 216, "y": 504, "width": 24, "height": 24 },
 "suitcase-18": { "x": 240, "y": 504, "width": 18, "height": 18 },
-"suitcase-12": { "x": 258, "y": 504, "width": 12, "height": 12 }}
+"suitcase-12": { "x": 258, "y": 504, "width": 12, "height": 12 },
+"hairdresser-24": { "x": 0, "y": 528, "width": 24, "height": 24 },
+"hairdresser-18": { "x": 24, "y": 528, "width": 18, "height": 18 },
+"hairdresser-12": { "x": 42, "y": 528, "width": 12, "height": 12 }}
