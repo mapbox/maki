@@ -1151,6 +1151,19 @@
     "icon": "suitcase"
     },
     {
+    "name": "Hairdresser",
+    "tags": [
+      "scissors",
+      "barber shop",
+      "barber",
+      "stylist",
+      "hair",
+      "cut",
+      "salon"
+    ],
+    "icon": "hairdresser"
+    },
+    {
     "name": "Chemist",
     "tags": [
       "shop",
