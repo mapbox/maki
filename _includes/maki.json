@@ -1149,5 +1149,17 @@
       "store"
     ],
     "icon": "suitcase"
+    },
+    {
+    "name": "Chemist",
+    "tags": [
+      "shop",
+      "science",
+      "chemistry",
+      "experiment",
+      "research",
+      "pharmacy"
+    ],
+    "icon": "chemist"
     }
 ]
