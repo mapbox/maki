@@ -41,7 +41,7 @@ function build_sprite {
     shift   # the rest of the arguments should be filenames
 
     count=$(echo $@ | tr ' ' '\n' | wc -l)
-    remainder=$(echo $count \% $tilex | bc)
+    remainder=$(($count % $tilex))
     rnull=$(for ((i=1; i<=$remainder; i++)); do echo -n 'null: '; done)
 
     montage \
@@ -81,7 +81,7 @@ function build_css {
         # Check if we need to add a new row yet,
         # and if so, adjust dy and dy accordingly.
         # Otherwise just adjust dx.
-        if [ $(echo "$count * 3 % $tilex" | bc) -eq 0 ]; then
+        if [ $(($count * 3 % $tilex)) -eq 0 ]; then
             dy=$(($dy - 24))
             dx=0
         else
@@ -122,7 +122,7 @@ function build_positions {
         # Check if we need to add a new row yet,
         # and if so, adjust dy and dy accordingly.
         # Otherwise just adjust dx.
-        if [ $(echo "$count * 3 % $tilex" | bc) -eq 0 ]; then
+        if [ $(($count * 3 % $tilex)) -eq 0 ]; then
             dy=$(($dy - 24))
             dx=0
         else
