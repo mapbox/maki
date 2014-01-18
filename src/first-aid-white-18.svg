@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18"
+   height="18"
+   id="svg27435"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="first-aid-white-18.svg">
+  <defs
+     id="defs27437" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9891803"
+     inkscape:cx="12.590799"
+     inkscape:cy="8.9588378"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="483"
+     inkscape:window-height="454"
+     inkscape:window-x="3232"
+     inkscape:window-y="651"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata27440">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1034.3622)">
+    <g
+       transform="matrix(1.8213093,0,0,1.8213093,-364.45913,480.5281)"
+       id="g14666">
+      <path
+         style="opacity:0;fill:#272525"
+         inkscape:connector-curvature="0"
+         id="path14668"
+         d="m 208.818,313.963 c 0.652,0 1.18,-0.529 1.18,-1.182 v -7.521 c 0,-0.652 -0.527,-1.182 -1.18,-1.182 h -7.521 c -0.652,0 -1.182,0.529 -1.182,1.182 v 7.521 c 0,0.652 0.529,1.182 1.182,1.182 h 7.521 z" />
+      <polygon
+         points="25.02,229.729 25.021,231.752 22.994,231.752 22.994,233.78 25.021,233.78 25.02,235.803 27.045,235.803 27.043,233.78 29.07,233.78 29.07,231.752 27.043,231.752 27.045,229.729 "
+         id="polygon14670"
+         style="opacity:0.6;fill:none;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="translate(178.957,76.248)" />
+      <polygon
+         style="fill:#ffffff;fill-opacity:1"
+         id="polygon14672"
+         points="25.02,229.729 25.021,231.752 22.994,231.752 22.994,233.78 25.021,233.78 25.02,235.803 27.045,235.803 27.043,233.78 29.07,233.78 29.07,231.752 27.043,231.752 27.045,229.729 "
+         transform="translate(178.957,76.248)" />
+    </g>
+  </g>
+</svg>

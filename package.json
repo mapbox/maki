@@ -1,7 +1,7 @@
 {
-  "author": "MapBox",
-  "name": "maki",
-  "description": "Pixel-perfect icons for web cartography",
+  "author": "National Park Service",
+  "name": "npmaki",
+  "description": "Extending the Maki icon set to include the National Park Service symbolset.",
   "version": "0.4.0",
   "homepage": "http://mapbox.com/maki",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/maki"
+    "url": "git://github.com/nationalparkservice/npmaki"
   },
   "devDependencies": {
     "mocha": "~1.14.0"
