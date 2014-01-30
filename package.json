@@ -2,7 +2,7 @@
   "author": "National Park Service",
   "name": "npmaki",
   "description": "Extending the Maki icon set to include the National Park Service symbolset.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "homepage": "http://mapbox.com/maki",
   "scripts": {
     "test": "mocha -R progress"
