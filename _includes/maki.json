@@ -79,7 +79,7 @@
   ],
   "icon": "camping-white"
 },{
-  "name": "Bus and Shuttle Stop",
+  "name": "Bus and Shuttle Stop (Black)",
   "tags": [
     "bus",
     "shuttle",
@@ -87,7 +87,7 @@
   ],
   "icon": "bus-shuttle-stop-black"
 },{
-  "name": "Bus and Shuttle Stop",
+  "name": "Bus and Shuttle Stop (White)",
   "tags": [
     "bus",
     "shuttle",
@@ -95,7 +95,7 @@
   ],
   "icon": "bus-shuttle-stop-white"
 },{
-  "name": "Food Service",
+  "name": "Food Service (Black)",
   "tags": [
     "food",
     "restaurant",
@@ -103,7 +103,7 @@
   ],
   "icon": "food-service-black"
 },{
-  "name": "Food Service",
+  "name": "Food Service (White)",
   "tags": [
     "food",
     "restaurant",
@@ -111,7 +111,7 @@
   ],
   "icon": "food-service-white"
 },{
-  "name": "Gas Station",
+  "name": "Gas Station (Black)",
   "tags": [
     "gas",
     "fuel",
@@ -119,7 +119,7 @@
   ],
   "icon": "gas-station-black"
 },{
-  "name": "Gas Station",
+  "name": "Gas Station (White)",
   "tags": [
     "gas",
     "fuel",
@@ -127,7 +127,7 @@
   ],
   "icon": "gas-station-white"
 },{
-  "name": "Information",
+  "name": "Information (Black)",
   "tags": [
     "information",
     "sevice",
@@ -135,7 +135,7 @@
   ],
   "icon": "information-black"
 },{
-  "name": "Information",
+  "name": "Information (White)",
   "tags": [
     "information",
     "sevice",
@@ -143,7 +143,7 @@
   ],
   "icon": "information-white"
 },{
-  "name": "Lodging",
+  "name": "Lodging (Black)",
   "tags": [
     "hotel",
     "motel",
@@ -151,7 +151,7 @@
   ],
   "icon": "lodging-black"
 },{
-  "name": "Lodging",
+  "name": "Lodging (White)",
   "tags": [
     "hotel",
     "motel",
@@ -159,7 +159,7 @@
   ],
   "icon": "lodging-white"
 },{
-  "name": "Parking",
+  "name": "Parking (Black)",
   "tags": [
     "parking",
     "park",
@@ -167,7 +167,7 @@
   ],
   "icon": "parking-black"
 },{
-  "name": "Parking",
+  "name": "Parking (White)",
   "tags": [
     "parking",
     "park",
@@ -175,7 +175,7 @@
   ],
   "icon": "parking-white"
 },{
-  "name": "Picnic Area",
+  "name": "Picnic Area (Black)",
   "tags": [
     "picnic",
     "recreation",
@@ -183,7 +183,7 @@
   ],
   "icon": "picnic-black"
 },{
-  "name": "Picnic Area",
+  "name": "Picnic Area (White)",
   "tags": [
     "picnic",
     "recreation",
@@ -191,7 +191,7 @@
   ],
   "icon": "picnic-white"
 },{
-  "name": "Ranger Station",
+  "name": "Ranger Station (Black)",
   "tags": [
     "ranger station",
     "ranger",
@@ -199,7 +199,7 @@
   ],
   "icon": "ranger-station-black"
 },{
-  "name": "Ranger Station",
+  "name": "Ranger Station (White)",
   "tags": [
     "ranger station",
     "ranger",
@@ -207,7 +207,7 @@
   ],
   "icon": "ranger-station-white"
 },{
-  "name": "Restroom",
+  "name": "Restroom (Black)",
   "tags": [
     "restroom",
     "bathroom",
@@ -215,7 +215,7 @@
   ],
   "icon": "restroom-black"
 },{
-  "name": "Restroom",
+  "name": "Restroom (White)",
   "tags": [
     "restroom",
     "bathroom",
@@ -223,7 +223,7 @@
   ],
   "icon": "restroom-white"
 },{
-  "name": "Store",
+  "name": "Store (Black)",
   "tags": [
     "store",
     "food",
@@ -231,7 +231,7 @@
   ],
   "icon": "store-black"
 },{
-  "name": "Store",
+  "name": "Store (White)",
   "tags": [
     "store",
     "food",
@@ -239,7 +239,7 @@
   ],
   "icon": "store-white"
 },{
-  "name": "First Aid",
+  "name": "First Aid (Black)",
   "tags": [
     "first aid",
     "medical",
@@ -247,7 +247,7 @@
   ],
   "icon": "first-aid-black"
 },{
-  "name": "First Aid",
+  "name": "First Aid (White)",
   "tags": [
     "first aid",
     "medical",
@@ -255,7 +255,7 @@
   ],
   "icon": "first-aid-white"
 },{
-  "name": "Campfire",
+  "name": "Campfire (Black)",
   "tags": [
     "campfire",
     "",
@@ -263,7 +263,7 @@
   ],
   "icon": "campfire-black"
 },{
-  "name": "Campfire",
+  "name": "Campfire (White)",
   "tags": [
     "campfire",
     "",
@@ -271,7 +271,7 @@
   ],
   "icon": "campfire-white"
 },{
-  "name": "Canoe Access",
+  "name": "Canoe Access (Black)",
   "tags": [
     "canoe access",
     "canoe",
@@ -279,7 +279,7 @@
   ],
   "icon": "canoe-access-black"
 },{
-  "name": "Canoe Access",
+  "name": "Canoe Access (White)",
   "tags": [
     "canoe access",
     "canoe",
@@ -287,7 +287,7 @@
   ],
   "icon": "canoe-access-white"
 },{
-  "name": "Cross Country Ski Trail",
+  "name": "Cross Country Ski Trail (Black)",
   "tags": [
     "cross country ski trail",
     "skiing",
@@ -295,7 +295,7 @@
   ],
   "icon": "cross-country-ski-trail-black"
 },{
-    "name": "Cross Country Ski Trail",
+    "name": "Cross Country Ski Trail (White)",
     "tags": [
       "cross country ski trail",
       "skiing",
@@ -303,28 +303,28 @@
     ],
     "icon": "cross-country-ski-trail-white"
 },{
-    "name": "Drinking Water",
+    "name": "Drinking Water (Black)",
     "tags": [
       "drinking water",
       "water"
     ],
     "icon": "drinking-water-black"
 },{
-    "name": "Drinking Water",
+    "name": "Drinking Water (White)",
     "tags": [
       "drinking water",
       "water"
     ],
     "icon": "drinking-water-white"
 },{
-    "name": "Fishing",
+    "name": "Fishing (Black)",
     "tags": [
       "fishing",
       "recreation"
     ],
     "icon": "fishing-black"
 },{
-    "name": "Fishing",
+    "name": "Fishing (White)",
     "tags": [
       "fishing",
       "recreation",
@@ -332,7 +332,7 @@
     ],
     "icon": "fishing-white"
 },{
-    "name": "Downhill Skiing",
+    "name": "Downhill Skiing (Black)",
     "tags": [
       "downhill skiing",
       "ski",
@@ -340,7 +340,7 @@
     ],
     "icon": "downhill-skiing-black"
 },{
-    "name": "Downhill Skiing",
+    "name": "Downhill Skiing (White)",
     "tags": [
       "downhill skiing",
       "ski",
@@ -348,7 +348,7 @@
     ],
     "icon": "downhill-skiing-white"
 },{
-    "name": "4 Wheel Drive",
+    "name": "4 Wheel Drive (Black)",
     "tags": [
       "4 wheel drive",
       "off road",
@@ -356,7 +356,7 @@
     ],
     "icon": "4-wheel-drive-black"
 },{
-    "name": "4 Wheel Drive",
+    "name": "4 Wheel Drive (White)",
     "tags": [
       "4 wheel drive",
       "off road",
@@ -364,7 +364,7 @@
     ],
     "icon": "4-wheel-drive-white"
 },{
-    "name": "Golfing",
+    "name": "Golfing (Black)",
     "tags": [
       "golfing",
       "golf",
@@ -372,7 +372,7 @@
     ],
     "icon": "golfing-black"
 },{
-    "name": "Golfing",
+    "name": "Golfing (White)",
     "tags": [
       "golifing",
       "golf",
@@ -380,7 +380,7 @@
     ],
     "icon": "golfing-white"
 },{
-    "name": "Horseback Riding",
+    "name": "Horseback Riding (Black)",
     "tags": [
       "horseback riding",
       "horeseback rental",
@@ -388,7 +388,7 @@
     ],
     "icon": "horseback-riding-black"
 },{
-    "name": "Horseback Riding",
+    "name": "Horseback Riding (White)",
     "tags": [
       "horseback riding",
       "horeseback rental",
@@ -396,7 +396,7 @@
     ],
     "icon": "horseback-riding-white"
 },{
-    "name": "Hospital",
+    "name": "Hospital (Black)",
     "tags": [
       "hospital",
       "",
@@ -404,7 +404,7 @@
     ],
     "icon": "hospital-black"
 },{
-    "name": "Hospital",
+    "name": "Hospital (White)",
     "tags": [
       "hospital",
       "",
@@ -412,7 +412,7 @@
     ],
     "icon": "hospital-white"
 },{
-    "name": "Ice Skating",
+    "name": "Ice Skating (Black)",
     "tags": [
       "ice skating",
       "skating",
@@ -420,70 +420,70 @@
     ],
     "icon": "ice-skating-black"
 },{
-  "name": "Ice Skating",
+  "name": "Ice Skating (White)",
   "tags": [
     "ice skating",
     "skating"
   ],
   "icon": "ice-skating-white"
 },{
-  "name": "Litter Receptacle",
+  "name": "Litter Receptacle (Black)",
   "tags": [
     "litter receptacle",
     "trash can"
   ],
   "icon": "litter-receptacle-black"
 },{
-  "name": "Litter Receptacle",
+  "name": "Litter Receptacle (White)",
   "tags": [
     "litter receptacle",
     "trash can"
   ],
   "icon": "litter-receptacle-white"
 },{
-  "name": "Motor Bike Trail",
+  "name": "Motor Bike Trail (Black)",
   "tags": [
     "motor bike trail"
   ],
   "icon": "motor-bike-trail-black"
 },{
-  "name": "Motor Bike Trail",
+  "name": "Motor Bike Trail (White)",
   "tags": [
     "motor bike trail"
   ],
   "icon": "motor-bike-trail-white"
 },{
-  "name": "Marina",
+  "name": "Marina (Black)",
   "tags": [
     "marina"
   ],
   "icon": "marina-black"
 },{
-  "name": "Marina",
+  "name": "Marina (White)",
   "tags": [
     "marina"
   ],
   "icon": "marina-white"
 },{
-  "name": "Pets on Leash",
+  "name": "Pets on Leash (Black)",
   "tags": [
     "pets on leash"
   ],
   "icon": "pets-on-leash-black"
 },{
-  "name": "Pets on Leash",
+  "name": "Pets on Leash (White)",
   "tags": [
     "pets on leash"
   ],
   "icon": "pets-on-leash-white"
 },{
-  "name": "Bear",
+  "name": "Bear (Black)",
   "tags": [
     "bear"
   ],
   "icon": "bear-black"
 },{
-  "name": "Bear",
+  "name": "Bear (White)",
   "tags": [
     "bear"
   ],
