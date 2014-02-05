@@ -21,7 +21,7 @@
   only screen and (min-device-pixel-ratio : 2) {
   .maki-icon {
     background-image:url(images/maki-sprite@2x.png);
-    background-size: 270px 552px; /* Replaced automatically by render.sh */
+    background-size: 270px 553px; /* Replaced automatically by render.sh */
   }
   .dark .maki-icon { background-image:url(images/maki-sprite.dark@2x.png); }
 }
@@ -139,3 +139,5 @@
 .maki-icon.suitcase { background-position: -216px -504px; }
 .maki-icon.hairdresser { background-position: 0px -528px; }
 .maki-icon.chemist { background-position: -54px -528px; }
+.maki-icon.mobilephone { background-position: -108px -528px; }
+.maki-icon.scooter { background-position: -162px -528px; }

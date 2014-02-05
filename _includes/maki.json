@@ -1184,5 +1184,17 @@
       "mobile"
     ],
     "icon": "mobilephone"
+    },
+    {
+    "name": "Scooter",
+    "tags": [
+      "bike",
+      "transportation",
+      "vehicle",
+      "route",
+      "moped",
+      "motorcycle"
+    ],
+    "icon": "scooter"
     }
 ]
