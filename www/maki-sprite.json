@@ -334,4 +334,7 @@
 "hairdresser-12": { "x": 42, "y": 528, "width": 12, "height": 12 },
 "chemist-24": { "x": 54, "y": 528, "width": 24, "height": 24 },
 "chemist-18": { "x": 78, "y": 528, "width": 18, "height": 18 },
-"chemist-12": { "x": 96, "y": 528, "width": 12, "height": 12 }}
+"chemist-12": { "x": 96, "y": 528, "width": 12, "height": 12 },
+"scooter-24": { "x": 108, "y": 528, "width": 24, "height": 24 },
+"scooter-18": { "x": 132, "y": 528, "width": 18, "height": 18 },
+"scooter-12": { "x": 150, "y": 528, "width": 12, "height": 12 }}
