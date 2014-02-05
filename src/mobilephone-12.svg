@@ -14,7 +14,7 @@
    id="svg4764"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="maki-12-base.svg">
+   sodipodi:docname="mobilephone-12.svg">
   <defs
      id="defs4766" />
   <sodipodi:namedview
@@ -24,8 +24,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="5.2664838"
+     inkscape:zoom="45.254834"
+     inkscape:cx="3.1230664"
      inkscape:cy="6.5823301"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -98,8 +98,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1040.3622)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;opacity:0.29999999999999999;color:#000000;fill-rule:nonzero;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 5 1 L 5 2 L 4 2 L 4 10 L 9.03125 10 L 9.03125 2 L 6 2 L 6 1 L 5 1 z "
+       transform="translate(0,1040.3622)"
+       id="rect8093" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
+       style="fill:#44444f;fill-opacity:0.94117647;stroke:none"
        id="rect7768"
        width="5.0230451"
        height="8"
@@ -108,7 +113,7 @@
        ry="1.7382812e-05"
        transform="scale(1,-1)" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
+       style="fill:#44444f;fill-opacity:0.94117647;stroke:none"
        id="rect7770"
        width="1"
        height="1"
