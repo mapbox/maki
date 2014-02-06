@@ -1176,6 +1176,16 @@
     "icon": "chemist"
     },
     {
+    "name": "Mobile phone",
+    "tags": [
+      "phone",
+      "cellphone",
+      "communication",
+      "mobile"
+    ],
+    "icon": "mobilephone"
+    },
+    {
     "name": "Scooter",
     "tags": [
       "bike",
