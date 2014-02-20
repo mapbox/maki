@@ -239,16 +239,16 @@ a.search-download {
   font-size: 14px;
   bottom: 50px;
   }
-.close {
-  line-height:10px;
-  display:block;
+.canvas-controls #maki-close {
+  top: 5px;
+  right: 5px;
   position:absolute;
-  right:5px;
-  top:5px;
   display:none;
+  height: 30px;
+  width: 30px;
+  padding: 5px;
   }
-  .close:hover  { color:#fff; }
-  .close.active { display:block; }
+  .canvas-controls #maki-close.active { display:block; }
 
 /* --------------------------------------
   Icon Preview
