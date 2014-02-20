@@ -154,7 +154,6 @@ body.searching #search-results { display: block; }
     position: absolute;
     margin: auto;
     text-align: center;
-    color: #3C4E5A;
     font-size: 20px;
     }
   #search-results div.active { visibility: inherit; }
@@ -201,11 +200,10 @@ body.searching #search-results { display: block; }
 .title-box {
   position: absolute;
   background: white;
-  left: -25px; right: 0;
+  left: -42px; right: 0;
   bottom: 60px;
-  width: 120px;
+  width: 150px;
   padding: 10px;
-  color: #3C4E5A;
   text-align: center;
   margin: auto;
   white-space:nowrap;
@@ -316,20 +314,6 @@ a.search-download {
 /* --------------------------------------
   Map Styles
 ----------------------------------------- */
-
-#maki #map {
-  color: #444;
-  background: #f5f5f5;
-  position: relative;
-  width: 920px;
-  height: 300px;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  margin-bottom: 20px;
-  }
-.map-tooltip { color: #3C4E5A; }
 
 @media
 only screen and (max-width: 640px) {
