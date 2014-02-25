@@ -2,24 +2,24 @@ var fs = require('fs'),
     assert = require('assert'),
     https = require('https');
 
-describe('maki', function() {
-    it('JSON', function() {
+describe('Maki', function() {
+    it('local JSON should parse', function() {
         assert.doesNotThrow(function() {
             JSON.parse(fs.readFileSync('./_includes/maki.json'));
         }, 'JSON is invalid');
     });
 
-    describe('features', function() {
+    describe('feature', function() {
         var features = JSON.parse(fs.readFileSync('./_includes/maki.json'));
 
         features.forEach(function(f) {
-            describe('feature: ' + f.name, function() {
-                it('properties', function() {
+            describe(f.name, function() {
+                it('should have valid properties', function() {
                     assert.equal(typeof f.name, 'string');
                     assert.equal(typeof f.icon, 'string');
                     assert.equal(typeof f.tags, 'object');
                 });
-                describe('sources', function() {
+                describe('should have source imagery and renders for size', function() {
                     [12, 18, 24].forEach(function(size) {
                         it(size, function() {
                             assert.doesNotThrow(function() {
@@ -47,7 +47,7 @@ describe('maki', function() {
                 });
             });
         });
-        it('should parse', function() {
+        it('JSON should parse', function() {
             assert.doesNotThrow(function() {
                 JSON.parse(body.toString());
             }, 'JSON is invalid');
