@@ -1,5 +1,6 @@
 var fs = require('fs'),
-    assert = require('assert');
+    assert = require('assert'),
+    https = require('https');
 
 describe('maki', function() {
     it('JSON', function() {
@@ -30,6 +31,26 @@ describe('maki', function() {
                     });
                 });
             });
+        });
+    });
+
+    describe('production endpoint', function() {
+        var body = '';
+        it('should be available', function(done) {
+            https.get('https://www.mapbox.com/maki/www/maki.json', function(res) {
+                assert.equal(res.statusCode, 200, 'cannot be found (HTTP ' + res.statusCode + ')');
+                res.on('data', function(chunk) {
+                    body += chunk;
+                })
+                res.on('end', function() {
+                    done();
+                });
+            });
+        });
+        it('should parse', function() {
+            assert.doesNotThrow(function() {
+                JSON.parse(body.toString());
+            }, 'JSON is invalid');
         });
     });
 });
