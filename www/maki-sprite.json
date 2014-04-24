@@ -190,4 +190,10 @@
 "bear-black-12": { "x": 150, "y": 288, "width": 12, "height": 12 },
 "bear-white-24": { "x": 162, "y": 288, "width": 24, "height": 24 },
 "bear-white-18": { "x": 186, "y": 288, "width": 18, "height": 18 },
-"bear-white-12": { "x": 204, "y": 288, "width": 12, "height": 12 }}
+"bear-white-12": { "x": 204, "y": 288, "width": 12, "height": 12 },
+"self-guided-trail-black-24": { "x": 216, "y": 288, "width": 24, "height": 24 },
+"self-guided-trail-black-18": { "x": 240, "y": 288, "width": 18, "height": 18 },
+"self-guided-trail-black-12": { "x": 258, "y": 288, "width": 12, "height": 12 },
+"self-guided-trail-white-24": { "x": 0, "y": 312, "width": 24, "height": 24 },
+"self-guided-trail-white-18": { "x": 24, "y": 312, "width": 18, "height": 18 },
+"self-guided-trail-white-12": { "x": 42, "y": 312, "width": 12, "height": 12 }}

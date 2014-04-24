@@ -488,4 +488,16 @@
     "bear"
   ],
   "icon": "bear-white"
+},{
+  "name": "Self Guided Trail (Black)",
+  "tags": [
+    "trail"
+  ],
+  "icon": "self-guided-trail-black"
+},{
+  "name": "Self Guided Trail (White)",
+  "tags": [
+    "trail"
+  ],
+  "icon": "self-guided-trail-white"
 }]
