@@ -500,4 +500,16 @@
     "trail"
   ],
   "icon": "self-guided-trail-white"
+},{
+  "name": "Trailhead (Black)",
+  "tags": [
+    "trailhead"
+  ],
+  "icon": "trailhead-black"
+},{
+  "name": "Trailhead (White)",
+  "tags": [
+    "trailhead"
+  ],
+  "icon": "trailhead-white"
 }]

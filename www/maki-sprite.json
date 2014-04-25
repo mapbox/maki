@@ -196,4 +196,10 @@
 "self-guided-trail-black-12": { "x": 258, "y": 288, "width": 12, "height": 12 },
 "self-guided-trail-white-24": { "x": 0, "y": 312, "width": 24, "height": 24 },
 "self-guided-trail-white-18": { "x": 24, "y": 312, "width": 18, "height": 18 },
-"self-guided-trail-white-12": { "x": 42, "y": 312, "width": 12, "height": 12 }}
+"self-guided-trail-white-12": { "x": 42, "y": 312, "width": 12, "height": 12 },
+"trailhead-black-24": { "x": 54, "y": 312, "width": 24, "height": 24 },
+"trailhead-black-18": { "x": 78, "y": 312, "width": 18, "height": 18 },
+"trailhead-black-12": { "x": 96, "y": 312, "width": 12, "height": 12 },
+"trailhead-white-24": { "x": 108, "y": 312, "width": 24, "height": 24 },
+"trailhead-white-18": { "x": 132, "y": 312, "width": 18, "height": 18 },
+"trailhead-white-12": { "x": 150, "y": 312, "width": 12, "height": 12 }}
