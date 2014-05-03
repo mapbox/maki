@@ -5,13 +5,14 @@
   "version": "0.4.0",
   "homepage": "http://mapbox.com/maki",
   "scripts": {
-    "test": "mocha -R progress"
+    "test": "tap test/*.js"
   },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/mapbox/maki"
   },
   "devDependencies": {
-    "mocha": "~1.14.0"
+    "tap": "~0.4.9"
   }
 }

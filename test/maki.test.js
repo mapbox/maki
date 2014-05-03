@@ -1,56 +1,42 @@
 var fs = require('fs'),
-    assert = require('assert'),
+    test = require('tap').test,
     https = require('https');
 
-describe('Maki', function() {
-    it('local JSON should parse', function() {
-        assert.doesNotThrow(function() {
-            JSON.parse(fs.readFileSync('./_includes/maki.json'));
-        }, 'JSON is invalid');
-    });
+test('Maki', function(t) {
+    t.doesNotThrow(function() {
+        JSON.parse(fs.readFileSync(__dirname + '/../_includes/maki.json'));
+    }, 'JSON is invalid');
 
-    describe('feature', function() {
-        var features = JSON.parse(fs.readFileSync('./_includes/maki.json'));
+    var features = JSON.parse(fs.readFileSync(__dirname + '/../_includes/maki.json'));
 
-        features.forEach(function(f) {
-            describe(f.name, function() {
-                it('should have valid properties', function() {
-                    assert.equal(typeof f.name, 'string');
-                    assert.equal(typeof f.icon, 'string');
-                    assert.equal(typeof f.tags, 'object');
-                });
-                describe('should have source imagery and renders for size', function() {
-                    [12, 18, 24].forEach(function(size) {
-                        it(size, function() {
-                            assert.doesNotThrow(function() {
-                                fs.statSync('src/' + f.icon + '-' + size + '.svg');
-                                fs.statSync('renders/' + f.icon + '-' + size + '.png');
-                                fs.statSync('renders/' + f.icon + '-' + size + '@2x.png');
-                            }, 'source file missing');
-                        });
-                    });
-                });
-            });
+    features.forEach(function(f) {
+        t.equal(typeof f.name, 'string', 'name property');
+        t.equal(typeof f.icon, 'string', 'icon property');
+        t.equal(typeof f.tags, 'object', 'tags property');
+        [12, 18, 24].forEach(function(size) {
+            t.doesNotThrow(function() {
+                fs.statSync(__dirname + '/../src/' + f.icon + '-' + size + '.svg');
+                fs.statSync(__dirname + '/../renders/' + f.icon + '-' + size + '.png');
+                fs.statSync(__dirname + '/../renders/' + f.icon + '-' + size + '@2x.png');
+            }, 'source file present');
         });
     });
 
-    describe('production endpoint', function() {
-        var body = '';
-        it('should be available', function(done) {
-            https.get('https://www.mapbox.com/maki/www/maki.json', function(res) {
-                assert.equal(res.statusCode, 200, 'cannot be found (HTTP ' + res.statusCode + ')');
-                res.on('data', function(chunk) {
-                    body += chunk;
-                })
-                res.on('end', function() {
-                    done();
-                });
-            });
+    t.end();
+});
+
+test('production endpoint', function(t) {
+    var body = '';
+    https.get('https://www.mapbox.com/maki/www/maki.json', function(res) {
+        t.equal(res.statusCode, 200, 'HTTP=' + res.statusCode);
+        res.on('data', function(chunk) {
+            body += chunk;
         });
-        it('JSON should parse', function() {
-            assert.doesNotThrow(function() {
+        res.on('end', function() {
+            t.doesNotThrow(function() {
                 JSON.parse(body.toString());
-            }, 'JSON is invalid');
+            }, 'JSON is valid');
+            t.end();
         });
     });
 });
