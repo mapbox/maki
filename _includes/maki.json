@@ -596,6 +596,30 @@
     "sailing"
   ],
   "icon": "sailing-white"
+},{
+  "name": "Radiator Water (Black)",
+  "tags": [
+    "radiator water"
+  ],
+  "icon": "radiator-water-black"
+},{
+  "name": "Radiator Water (White)",
+  "tags": [
+    "radiator water"
+  ],
+  "icon": "radiator-water-white"
+},{
+  "name": "Showers (Black)",
+  "tags": [
+    "showers"
+  ],
+  "icon": "showers-black"
+},{
+  "name": "Showers (White)",
+  "tags": [
+    "showers"
+  ],
+  "icon": "showers-white"
 }]
 
 
