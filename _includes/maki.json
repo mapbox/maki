@@ -512,4 +512,52 @@
     "trailhead"
   ],
   "icon": "trailhead-white"
+},{
+  "name": "Recycling (Black)",
+  "tags": [
+    "recycling"
+  ],
+  "icon": "recycling-black"
+},{
+  "name": "Recycling (White)",
+  "tags": [
+    "recycling"
+  ],
+  "icon": "recycling-white"
+},{
+  "name": "Post Office (Black)",
+  "tags": [
+    "post office"
+  ],
+  "icon": "post-office-black"
+},{
+  "name": "Post Ofice (White)",
+  "tags": [
+    "post office"
+  ],
+  "icon": "post-office-white"
+},{
+  "name": "Shelter (Black)",
+  "tags": [
+    "shelter"
+  ],
+  "icon": "shelter-black"
+},{
+  "name": "Shelter (White)",
+  "tags": [
+    "shelter"
+  ],
+  "icon": "shelter-white"
+},{
+  "name": "Scuba Diving (Black)",
+  "tags": [
+    "scuba diving"
+  ],
+  "icon": "scuba-diving-black"
+},{
+  "name": "Scuba Diving (White)",
+  "tags": [
+    "scuba diving"
+  ],
+  "icon": "scuba-diving-white"
 }]
