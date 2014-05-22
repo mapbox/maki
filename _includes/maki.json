@@ -560,4 +560,63 @@
     "scuba diving"
   ],
   "icon": "scuba-diving-white"
+},{
+  "name": "RV Campground (Black)",
+  "tags": [
+    "rv campground"
+  ],
+  "icon": "rv-campground-black"
+},{
+  "name": "RV Campground (White)",
+  "tags": [
+    "rv campground"
+  ],
+  "icon": "rv-campground-white"
+},{
+  "name": "Sanitary Dump Station (Black)",
+  "tags": [
+    "sanitary dump station"
+  ],
+  "icon": "sanitary-dump-station-black"
+},{
+  "name": "Sanitary Dump Station (White)",
+  "tags": [
+    "sanitary dump station"
+  ],
+  "icon": "sanitary-dump-station-white"
+},{
+  "name": "Sailing (Black)",
+  "tags": [
+    "sailing"
+  ],
+  "icon": "sailing-black"
+},{
+  "name": "Sailing (White)",
+  "tags": [
+    "sailing"
+  ],
+  "icon": "sailing-white"
 }]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
