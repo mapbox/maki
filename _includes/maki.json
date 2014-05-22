@@ -620,6 +620,31 @@
     "showers"
   ],
   "icon": "showers-white"
+},{
+  "name": "Sledding (Black)",
+  "tags": [
+    "sledding"
+  ],
+  "icon": "sledding-black"
+},{
+  "name": "Sledding (White)",
+  "tags": [
+    "sledding"
+  ],
+  "icon": "sledding-white"
+  },{
+  "name": "Snowmobile Trail (Black)",
+  "tags": [
+    "snowmobile trail"
+  ],
+  "icon": "snowmobile-trail-black"
+},{
+  "name": "Snowmobile Trail (White)",
+  "tags": [
+    "snowmobile trail"
+  ],
+  "icon": "snowmobile-trail-white"
+
 }]
 
 
