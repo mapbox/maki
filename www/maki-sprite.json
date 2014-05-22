@@ -268,4 +268,16 @@
 "snowmobile-trail-black-12": { "x": 204, "y": 408, "width": 12, "height": 12 },
 "snowmobile-trail-white-24": { "x": 216, "y": 408, "width": 24, "height": 24 },
 "snowmobile-trail-white-18": { "x": 240, "y": 408, "width": 18, "height": 18 },
-"snowmobile-trail-white-12": { "x": 258, "y": 408, "width": 12, "height": 12 }}
+"snowmobile-trail-white-12": { "x": 258, "y": 408, "width": 12, "height": 12 },
+"swimming-black-24": { "x": 0, "y": 432, "width": 24, "height": 24 },
+"swimming-black-18": { "x": 24, "y": 432, "width": 18, "height": 18 },
+"swimming-black-12": { "x": 42, "y": 432, "width": 12, "height": 12 },
+"swimming-white-24": { "x": 54, "y": 432, "width": 24, "height": 24 },
+"swimming-white-18": { "x": 78, "y": 432, "width": 18, "height": 18 },
+"swimming-white-12": { "x": 96, "y": 432, "width": 12, "height": 12 },
+"wheelchair-accessible-black-24": { "x": 108, "y": 432, "width": 24, "height": 24 },
+"wheelchair-accessible-black-18": { "x": 132, "y": 432, "width": 18, "height": 18 },
+"wheelchair-accessible-black-12": { "x": 150, "y": 432, "width": 12, "height": 12 },
+"wheelchair-accessible-white-24": { "x": 162, "y": 432, "width": 24, "height": 24 },
+"wheelchair-accessible-white-18": { "x": 186, "y": 432, "width": 18, "height": 18 },
+"wheelchair-accessible-white-12": { "x": 204, "y": 432, "width": 12, "height": 12 }}

@@ -632,7 +632,7 @@
     "sledding"
   ],
   "icon": "sledding-white"
-  },{
+},{
   "name": "Snowmobile Trail (Black)",
   "tags": [
     "snowmobile trail"
@@ -644,6 +644,30 @@
     "snowmobile trail"
   ],
   "icon": "snowmobile-trail-white"
+},{
+  "name": "Swimming (Black)",
+  "tags": [
+    "swimming"
+  ],
+  "icon": "swimming-black"
+},{
+  "name": "Swimming (White)",
+  "tags": [
+    "swimming"
+  ],
+  "icon": "swimming-white"
+},{
+  "name": "Wheelchair Accessible (Black)",
+  "tags": [
+    "wheelchair accessible "
+  ],
+  "icon": "wheelchair-accessible-black"
+},{
+  "name": "Wheelchair Accessible (White)",
+  "tags": [
+    "wheelchair accessible "
+  ],
+  "icon": "wheelchair-accessible-white"
 
 }]
 
