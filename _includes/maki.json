@@ -668,6 +668,43 @@
     "wheelchair accessible "
   ],
   "icon": "wheelchair-accessible-white"
+},{
+  "name": "Telephone (Black)",
+  "tags": [
+    "telephone"
+  ],
+  "icon": "telephone-black"
+},{
+  "name": "Telephone (White)",
+  "tags": [
+    "telephone"
+  ],
+  "icon": "telephone-white"
+},{
+  "name": "Stable (Black)",
+  "tags": [
+    "stable"
+  ],
+  "icon": "stable-black"
+},{
+  "name": "Stable (White)",
+  "tags": [
+    "stable"
+  ],
+  "icon": "stable-white"
+},{
+  "name": "Wind Surfing (Black)",
+  "tags": [
+    "wind surfing"
+  ],
+  "icon": "wind-surfing-black"
+},{
+  "name": "Wind Surfing (White)",
+  "tags": [
+    "wind surfing"
+  ],
+  "icon": "wind-surfing-white"
+
 
 }]
 
