@@ -72,7 +72,7 @@ maki.search = function () {
     howMany();
 
     $('input', search).focus(function() {
-        $('.close').addClass('active');
+        $('.maki-close').addClass('active');
         $('#maki-set').addClass('active');
         $(this).val('');
         icons.animate({
@@ -103,17 +103,17 @@ maki.search = function () {
     }).debounce(100));
 
     $(document.documentElement).keydown(function (e) {
-        if (e.keyCode === 27) { $('a.close').trigger('click'); }
+        if (e.keyCode === 27) { $('a.maki-close').trigger('click'); }
     });
 
-    $('a.close').click(function (e) {
+    $('a.maki-close').click(function (e) {
         e.preventDefault();
         icons.stop().animate({
             opacity: 30
         }, 500);
         $('body').removeClass('searching');
         $('input', search).blur().val('');
-        $('.close').removeClass('active');
+        $('.maki-close').removeClass('active');
         $('#maki-set').removeClass('active');
     });
 };

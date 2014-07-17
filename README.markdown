@@ -36,3 +36,4 @@ Maki uses a semantic versioning scheme.
 * 0.0.z: bugfixes, modifications
 * 0.y.0: icons added
 * x.0.0: icons removed, sprite scheme changed, or major features added
+

@@ -36,13 +36,16 @@ footer:
 <!DOCTYPE html >
 <html>
 <head>
+  {% if page.prehead %}{{page.prehead}}{% endif %}
   <meta charset='UTF-8'/>
   <meta name='robots' content='{% if page.hidden %}noindex{% else %}index{% endif %}'/>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
   {% if page.description %}<meta name='description' content='{{page.description | strip_html}}'/>{% endif %}
   <title>{% if page.title == 'Mapbox' %}{{page.title}} | Design and publish beautiful maps{% else %}{{page.title}} | Mapbox{% endif %}</title>
 
-  <meta name='st:title' content='{{page.title | replace:"'","&lsquo;"}}' />
+  <meta name='st:title' content='{{page.title | replace:"'","&lsquo;" | replace:"| Mapbox",""}}' />
+  <meta name='st:type' content='{% if page.section %}{{page.section}}{% elsif page.category %}{{page.category}}{% else %}site{% endif %}' />
+  <meta name='st:info' content='{% if page.version %}{{page.version}}{% else %}site{% endif %}' />
 
   {% if page.card %}
   <meta name='twitter:site' content='@Mapbox' />
@@ -76,7 +79,7 @@ footer:
   <!--[if IE 9]><link href='{{site.url}}/css/site-ie9.css' rel='stylesheet' /><![endif]-->
   <link rel='shortcut icon' href='{{site.url}}/img/favicon.ico' type='image/x-icon' />
   <link rel='alternate' type='application/rss+xml' title='RSS' href='{{site.url}}/blog/blog.rss' />
-  <link href='https://api.tiles.mapbox.com/mapbox.js/{% if site.mapboxjs %}{{site.mapboxjs}}{% else %}v1.5.1{% endif %}/mapbox.css' rel='stylesheet' />
+  <link href='https://api.tiles.mapbox.com/mapbox.js/{% if site.mapboxjs %}{{site.mapboxjs}}{% else %}v1.6.1{% endif %}/mapbox.css' rel='stylesheet' />
 
   <!--[if lt IE 9 ]><script src='{{site.url}}/js/redirect-ie.js'></script><![endif]-->
   <script src='{{site.api}}/api/session.js'></script>
@@ -89,7 +92,7 @@ footer:
   Stripe.setPublishableKey(window.location.hostname.indexOf('mapbox.com') !== -1 ?
     'pk_live_hI6mmOTIg7KkywK6vo3vJvpk' : 'pk_test_gmIyREg3sKzAiyMkAEeCsxUG');
   </script>
-  <script src='https://api.tiles.mapbox.com/mapbox.js/{% if site.mapboxjs %}{{site.mapboxjs}}{% else %}v1.5.1{% endif %}/mapbox.js'></script>
+  <script src='https://api.tiles.mapbox.com/mapbox.js/{% if site.mapboxjs %}{{site.mapboxjs}}{% else %}v1.6.1{% endif %}/mapbox.js'></script>
   <script src='{{site.url}}/js/api.js'></script>
   <script src='{{site.url}}/js/libs.js'></script>
   <script src='{{site.url}}/js/site.js'></script>
@@ -101,19 +104,17 @@ footer:
 {% if page.app %}
 {{content}}
 {% else %}
-<div class='masthead fill-white keyline-bottom col12 animate clearfix {% if page.app %}hide-mobile{% else if page.share %}row2{% endif %}'>
+<div class='masthead fill-white keyline-bottom col12 animate clearfix'>
   <div class='limiter clearfix'>
-    <nav id='nav' class='{% if page.share %}col4 margin4{% else %}col12 text-right pad2y{% endif %} contain clearfix noprint '>
+    <nav id='nav' class='col12 text-right pad1y contain clearfix noprint '>
       <script>document.write(App.nav());</script>
     </nav>
   </div>
 </div>
 
-<div class='clearfix{% unless page.fullwidth %} limiter{% endunless %}'>{{content}}</div>
+<div class='{% unless page.fullwidth %} limiter clearfix{% endunless %}'>{{content}}</div>
 
-{% unless page.share %}
-
-<div class='footer keyline-top pad4y fill-white clearfix small'>
+<div class='footer keyline-top pad4y fill-white clearfix small hide-mobile'>
   <div class='limiter'>
     <div class='col6 mobile-cols'>
       <div class='col3'>
@@ -141,30 +142,52 @@ footer:
     </div>
     <div class='col6 newsletter'>
       <form action='https://mapbox.us2.list-manage.com/subscribe/post?u=1b29ad842d113cece02035883&amp;id=6cbe531fd0' method='post' id='mc-embedded-subscribe-form' name='mc-embedded-subscribe-form' class='space-bottom validate' target='_blank'>
-        <fieldset class='pill mobile-cols col12 with-icon clearfix'>
+        <fieldset class='clearfix input-pill col12 pill mobile-cols with-icon'>
           <span class='icon mail quiet'></span>
           <input type='text' value='' placeholder='Subscribe to our newsletter' name='EMAIL' class='col9 required email' id='mce-EMAIL'>
-          <input type='submit' value='Submit' name='subscribe' id='mc-embedded-subscribe' class='col3'>
+          <input type='submit' value='Subscribe' name='subscribe' id='mc-embedded-subscribe' class='col3 quiet'>
         </fieldset>
       </form>
-      Follow Mapbox on <a href='https://twitter.com/mapbox' class='strong'>Twitter</a> and <a href='https://www.facebook.com/MapBoxMaps' class='strong'>Facebook</a>
+      Follow Mapbox on <a href='https://twitter.com/mapbox' class='strong'>Twitter</a> and <a href='https://www.facebook.com/Mapbox' class='strong'>Facebook</a>
     </div>
   </div>
 </div>
 
-<div class='footer-copyright fill-white pad2y small center noprint'>
-  <a href='{{site.url}}/tos'>Terms</a> +
-  <a href='{{site.url}}/privacy'>Privacy</a>
-  &copy; Mapbox
+<!-- mobile --->
+
+<div class='footer keyline-top pad4y fill-light clearfix show-mobile'>
+  <div class='limiter'>
+    <div class='clearfix center mobile-cols'>
+      <div class='col6'>
+        {% for item in page.footer.topnav %}
+        <a id='footer-{{item.title | downcase | replace:' ','-'}}' class='block pad1 col12 strong keyline-bottom' href='{{site.url}}{{item.path}}/'>{{item.title}}</a>
+        {% endfor %}
+      </div>
+      <div class='col6'>
+        {% for item in page.footer.help %}
+        <a id='footer-{{item.title | downcase | replace:' ','-'}}' class='block pad1 strong keyline-bottom' href='{% if item.href %}{{item.href}}{% else %}{{site.url}}{{item.path}}{% endif %}/'><strong>{{item.title}}</strong></a>
+        {% endfor %}
+      </div>
+
+    </div>
+
+  </div>
 </div>
 
-{% endunless %}
+
+
+<div class='footer-copyright fill-white small center noprint'>
+  <div class='limiter'>
+    <div class='pad2y'>
+      <a href='{{site.url}}/tos'>Terms</a> +
+      <a href='{{site.url}}/privacy'>Privacy</a>
+      &copy; Mapbox
+    </div>
+  </div>
+</div>
 {% endif %}
 
-<div id='modal'>
-  <div class='modal-mask fill-darken2 modal animate'></div>
-  <div id='modal-content' class='contain modal modal-content animate'></div>
-</div>
+<div id='modal-content' class='animate modal modal-content'></div>
 
 </body>
 </html>
