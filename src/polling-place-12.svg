@@ -13,7 +13,7 @@
    height="12"
    id="svg4764"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="polling-place-12.svg">
   <defs
      id="defs4766" />
@@ -24,19 +24,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="4.7360815"
-     inkscape:cy="1.5486595"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8.446568"
+     inkscape:cy="7.4753105"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1053"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1354"
+     inkscape:window-height="907"
+     inkscape:window-x="318"
+     inkscape:window-y="5"
+     inkscape:window-maximized="0"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true">
     <inkscape:grid
@@ -102,15 +102,23 @@
      transform="translate(0,-1040.3622)"
      style="display:inline">
     <path
-       id="path8800"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 2.5,1 C 1.691432,1 1,1.691432 1,2.5 l 0,7 C 1,10.308568 1.691432,11 2.5,11 l 7,0 C 10.308568,11 11,10.308568 11,9.5 L 11,7 c 0.005,-0.5249597 -0.47504,-1.0050424 -1,-1 L 9.875,6 11.78125,3.625 C 11.921661,3.4492 12.000153,3.225 12,3 L 12,2 C 11.999848,1.4764 11.523557,1.0002 11,1 L 9.40625,1 C 9.1236977,1.025 8.8548569,1.17725 8.6875,1.40625 L 8,2.34375 8,2 C 8.0050424,1.4750403 7.5249597,0.99495761 7,1 z"
        transform="translate(0,1040.3622)"
-       d="M 2.5 2 C 2.223 2 2 2.223 2 2.5 L 2 9.5 C 2 9.777 2.223 10 2.5 10 L 9.5 10 C 9.777 10 10 9.777 10 9.5 L 10 7 L 9 7 L 9 9 L 3 9 L 3 3 L 7 3 L 7 2 L 2.5 2 z M 9.5 2 L 6.5 6 L 5.5 5 L 4 5 L 4 6 L 6 8 L 7 8 L 11 3 L 11 2 L 9.5 2 z "
-       style="color:#000000;fill:#444444;fill-opacity:1;stroke:#ffffff;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-linejoin:round;stroke-linecap:round;opacity:0.3" />
+       id="path3239"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssccccccccccccs" />
     <path
        style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 2.5 2 C 2.223 2 2 2.223 2 2.5 L 2 9.5 C 2 9.777 2.223 10 2.5 10 L 9.5 10 C 9.777 10 10 9.777 10 9.5 L 10 7 L 9 7 L 9 9 L 3 9 L 3 3 L 7 3 L 7 2 L 2.5 2 z M 9.5 2 L 6.5 6 L 5.5 5 L 4 5 L 4 6 L 6 8 L 7 8 L 11 3 L 11 2 L 9.5 2 z "
+       d="M 2.5 2 C 2.223 2 2 2.223 2 2.5 L 2 9.5 C 2 9.777 2.223 10 2.5 10 L 9.5 10 C 9.777 10 10 9.777 10 9.5 L 10 7 L 9 7 L 9 9 L 3 9 L 3 3 L 7 3 L 7 2 L 2.5 2 z "
        transform="translate(0,1040.3622)"
        id="path3936" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 9.5,1042.3622 -3,4 -1,-1 -1.5,0 0,1 2,2 1,0 4,-5 0,-1 z"
+       id="path3940"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
