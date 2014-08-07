@@ -340,4 +340,7 @@
 "mobilephone-12": { "x": 150, "y": 528, "width": 12, "height": 12 },
 "scooter-24": { "x": 162, "y": 528, "width": 24, "height": 24 },
 "scooter-18": { "x": 186, "y": 528, "width": 18, "height": 18 },
-"scooter-12": { "x": 204, "y": 528, "width": 12, "height": 12 }}
+"scooter-12": { "x": 204, "y": 528, "width": 12, "height": 12 },
+"gift-24": { "x": 216, "y": 528, "width": 24, "height": 24 },
+"gift-18": { "x": 240, "y": 528, "width": 18, "height": 18 },
+"gift-12": { "x": 258, "y": 528, "width": 12, "height": 12 }}
