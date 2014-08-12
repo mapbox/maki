@@ -1196,5 +1196,15 @@
       "motorcycle"
     ],
     "icon": "scooter"
+    },
+    {
+    "name": "Gift",
+    "tags": [
+      "gift",
+      "shop",
+      "commercial",
+      "store"
+    ],
+    "icon": "gift"
     }
 ]
