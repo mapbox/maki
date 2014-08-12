@@ -1198,6 +1198,16 @@
     "icon": "scooter"
     },
     {
+    "name": "Gift",
+    "tags": [
+      "gift",
+      "shop",
+      "commercial",
+      "store"
+    ],
+    "icon": "gift"
+    },
+    {
     "name": "Ice cream",
     "tags": [
       "ice",
