@@ -1196,5 +1196,15 @@
       "motorcycle"
     ],
     "icon": "scooter"
+    },
+    {
+    "name": "Ice cream",
+    "tags": [
+      "ice",
+      "sweets",
+      "food",
+      "shop"
+    ],
+    "icon": "ice-cream"
     }
 ]
