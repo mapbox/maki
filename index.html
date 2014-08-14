@@ -7,18 +7,18 @@ options: full
 <link href='{{site.baseurl}}/www/site.css' rel='stylesheet' />
 <link href='{{site.baseurl}}/www/maki-sprite.css' rel='stylesheet' />
 
-<div id='maki-hero' class='clearfix'>
-  <div class='z10 contain pad4y col6 intro dark'>
-    <div class='fill-purple pad4'>
-      <h2 class='center futura'>Maki</h2>
-      <h2 class='center space-bottom2'>Pixel-perfect icons for web cartography</h2>
+<div id='maki-hero' class=''>
+  <div class=' row12 contain'><div id='map'></div></div>
+
+  <div class='fill-light pad8 col5 row12 pin-right' >
+      <h2 class='futura'>Maki</h2>
+      <h2 class='space-bottom2'>Pixel-perfect icons for web cartography</h2>
       <script type='text-template' id='count'>
         <strong><%= setcount %></strong> different symbols at <strong>3</strong> sizes each for a total of <strong><%= totalcount %></strong> icons and growing.
       </script>
       <p class='prose'>Maki is a clean point of interest icon set made for web cartography. It includes <span class='count'></span></p>
     </div>
-  </div>
-  <div id='map'></div>
+
 </div>
 
 <div class='clearfix canvas'><div class='limiter'>
@@ -95,7 +95,7 @@ options: full
   <div class='col6 pad4y prose'>
     <h2>Open source</h2>
     <p>We publish Maki under a permissive <a href='http://creativecommons.org/publicdomain/zero/1.0/'>CC0</a> license, so don't hesitate to fork, modify, and use Maki however you wish. Help Maki grow by contributing or creating issues in our issue tracker on GitHub.</p>
-    <a href='https://github.com/mapbox/maki' class='col6 button'><span class="icon reverse github"></span>GitHub</a>
+    <a href='https://github.com/mapbox/maki' class='col6 button stroke'><span class="icon reverse github"></span>GitHub</a>
   </div>
   <div class='col6 illustration-container'>
     <div class='open-source-illustration'></div>
