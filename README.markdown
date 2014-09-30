@@ -6,7 +6,7 @@ Maki is a point of interest icon set made especially for use with Mapbox maps. F
 
 ## src
 
-Maki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall. 
+Maki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall.
 
 Maki is designed using [Inkscape][]. For information on contributing to Maki see CONTRIBUTING.md.
 
@@ -20,7 +20,7 @@ Style files for ArcGIS 10.1+ are in the `ArcGIS` subdirectory and are maintained
 
 ## render.sh
 
-You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create Maki icons. It will render SVGs to PNGs at 100% and 200% resolution, create sprites used for the Maki website, and generate corresponding CSS styles for the sprites.
+You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create Maki icons. It will render SVGs to PNGs at 100% and 200% resolution.
 
 The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
 

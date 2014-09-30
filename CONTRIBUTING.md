@@ -31,6 +31,12 @@ To view the backlog of icons that need to be created, visit https://github.com/m
     - the icon name
     - the icon filename
     - tags to describe the icon
-5. Run `render.sh` to generate the PNGs, sprites, and CSS
+5. Run `dev-render.sh` to generate the PNGs, plus sprites, and CSS for the maki website. The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
+
+[SVG]: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
+[Inkscape]: http://inkscape.org
+[Bash]: http://www.gnu.org/software/bash/bash.html
+[ImageMagick]: http://www.imagemagick.org/
+
 
 Please limit new icon pull requests to one icon each (ie one set of 12, 18, and 24 pixel SVGs) unless they are very closely related in concept and design.
