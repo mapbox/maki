@@ -1,0 +1,27 @@
+{
+  "name": "maki",
+  "author": "MapBox",
+  "main": "index.js",
+  "version": "0.4.6",
+  "homepage": "http://mapbox.com/maki",
+  "description": "Pixel-perfect icons for web cartography",
+  "keywords": [
+    "icons",
+    "map",
+    "svg",
+    "png"
+  ],
+  "license": "CC0",
+  "ignore": [
+    "**/.*",
+    "**/_*",
+    "www",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "promo-graphics",
+    "www",
+    "dev-render.sh"
+  ]
+}
