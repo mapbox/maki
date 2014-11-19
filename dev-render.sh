@@ -2,7 +2,7 @@
 set -e -u
 
 # Usage:
-#   ./render.sh [png|sprite|css|csv]
+#   ./render.sh [png|sprite|css|csv|sdf]
 
 # Config
 tilex=15  # how many icons wide the sprites will be
@@ -150,6 +150,10 @@ function build_csv {
     done
 }
 
+function build_sdf {
+    node sdf-render.js
+}
+
 
 # Get a list of all the icon names - any icons not in maki.json
 # will not be rendered or included in the sprites.
@@ -176,6 +180,9 @@ case $@ in
     csv )
         build_csv $icons
         ;;
+    sdf )
+        build_sdf
+        ;;
     positions )
         build_positions $icons
         ;;
@@ -198,5 +205,6 @@ case $@ in
         build_sprite "www/images/maki-sprite@2x.png" $pngs2x
         build_css $icons
         build_positions $icons
+        build_sdf
         ;;
 esac
