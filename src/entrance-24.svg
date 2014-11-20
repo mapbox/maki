@@ -13,7 +13,7 @@
    height="24"
    id="svg4460"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r"
    sodipodi:docname="entrance-24.svg">
   <defs
      id="defs4462" />
@@ -141,15 +141,8 @@
        sodipodi:nodetypes="sscccsscccccccccscccccccccccc" />
     <path
        style="fill:#444444;fill-opacity:1;stroke:none"
-       d="m 10,1035.8622 0,2.5 -6.5,0 c -0.8283264,0 -1.5,0.6764 -1.5,1.5039 0,0.8275 0.6716736,1.4963 1.5,1.4961 l 6.4990267,0 9.733e-4,2.5 c 0.0052,0.3582 0.483722,0.6359 0.780182,0.4344 l 5.011109,-4.019 c 0.263953,-0.1741 0.281053,-0.6181 0.03125,-0.8117 l -5.011109,-3.9725 C 10.357902,1035.181 10,1035.4872 10,1035.8622 z"
-       id="path3826"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsssccccccc" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 7,1031.3622 c -0.5,0 -1.0082234,0.533 -1,0.9994 l 0,4.0006 2,0 0,-3 9,0 0,13 -9,0 0,-3 -2,0 0,4.0006 c 5.24e-5,0.5233 0.4764155,0.9993 1,0.9994 l 11,0 c 0.523584,-10e-5 0.999948,-0.4761 1,-0.9994 l 0,-15.0012 c -5.2e-5,-0.5233 -0.476416,-0.9993 -1,-0.9994 -3.721257,0 -7.29509,0 -11,0 z"
-       id="rect3795"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccc" />
+       d="M 7 3 C 6.5 3 5.9917766 3.5336 6 4 L 6 8 L 8 8 L 8 5 L 17 5 L 17 18 L 8 18 L 8 15 L 6 15 L 6 19 C 6.0000524 19.5233 6.4764155 19.9999 7 20 L 18 20 C 18.523584 19.9999 18.999948 19.5233 19 19 L 19 4 C 18.999948 3.4767 18.523584 3.0001 18 3 L 7 3 z M 10.5 7 C 10.208007 6.9719031 10 7.21875 10 7.5 L 10 10 L 3.5 10 C 2.6716736 10 2 10.6725 2 11.5 C 2 12.3275 2.6716736 13.0002 3.5 13 L 10 13 L 10 15.5 C 10.0052 15.8582 10.48479 16.139 10.78125 15.9375 L 15.78125 11.90625 C 16.045203 11.73215 16.062303 11.28735 15.8125 11.09375 L 10.8125 7.125 C 10.699117 7.0469 10.597331 7.0093656 10.5 7 z "
+       transform="translate(0,1028.3622)"
+       id="path3826" />
   </g>
 </svg>

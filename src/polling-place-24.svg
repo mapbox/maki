@@ -13,7 +13,7 @@
    height="24"
    id="svg4460"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r"
    sodipodi:docname="polling-place-24.svg">
   <defs
      id="defs4462" />
@@ -132,14 +132,8 @@
        id="path3170" />
     <path
        style="color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 6 4 C 5.446 4 5 4.446 5 5 L 5 18 C 5 18.554 5.446 19 6 19 L 19 19 C 19.554 19 20 18.554 20 18 L 20 12 L 18 12 L 18 17 L 7 17 L 7 6 L 15 6 L 15 4 L 6 4 z "
+       d="M 20.5 3 C 19.998765 3.026 19.617488 3.254 19.375 3.5625 L 13 11.1875 L 11.15625 9.03125 C 10.618537 8.40245 9.5601757 8.3297 8.9375 8.875 C 8.3148243 9.4198 8.4293646 10.4363 8.90625 11 L 11.90625 14.53125 C 12.476265 15.18065 13.635341 15.1646 14.1875 14.5 L 21.6875 5.46875 C 22 5.02985 22.121452 4.21845 21.875 3.78125 C 21.580465 3.25875 21.013734 2.9728 20.5 3 z M 6 4 C 5.446 4 5 4.446 5 5 L 5 18 C 5 18.554 5.446 19 6 19 L 19 19 C 19.554 19 20 18.554 20 18 L 20 12 L 18 12 L 18 17 L 7 17 L 7 6 L 15 6 L 15 4 L 6 4 z "
        transform="translate(0,1028.3622)"
        id="rect11284" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#444444;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 19.375,1031.9218 -6.375,7.625 -1.84375,-2.1562 c -0.537713,-0.6288 -1.6109141,-0.7059 -2.2335898,-0.1606 -0.6226757,0.5448 -0.4932954,1.5661 -0.01641,2.1298 l 2.988951,3.5331 c 0.570015,0.6494 1.729091,0.6336 2.28125,-0.031 l 7.511049,-9.0331 c 0.3125,-0.4389 0.434264,-1.2459 0.187812,-1.6831 -0.294535,-0.5225 -0.861578,-0.8103 -1.375312,-0.7831 -0.501235,0.026 -0.882512,0.2511 -1.125,0.5596 z"
-       id="path3846"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccssscccsscc" />
   </g>
 </svg>
