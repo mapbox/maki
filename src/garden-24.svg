@@ -122,7 +122,7 @@
          d="m 170.3,1198.3622 c -0.253,0 -0.3,0.5596 -0.3,1 l 0,2 c 0,2.0312 2,3.0625 4,3 l 0,8 c -1,-2 -4,-5 -7,-4 0,0 2.5,6 7.5,6 5,0 7.5,-6 7.5,-6 -3,-1 -6,2 -7,4 l 0,-8 c 2,0.062 4,-0.9688 4,-3 l 0,-2 c 0,-0.4404 -0.0468,-1 -0.3,-1 -0.19292,0 -0.42562,0.2256 -0.7,0.5 l -1.5,1.5 -1.5,-1.6875 c -0.15657,-0.1761 -0.24696,-0.3125 -0.5,-0.3125 -0.25305,0 -0.34343,0.1364 -0.5,0.3125 l -1.5,1.6875 -1.5,-1.5 c -0.27438,-0.2744 -0.50708,-0.5 -0.7,-0.5 z"
          style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:0;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect22282"
          width="24"
          height="24.000017"

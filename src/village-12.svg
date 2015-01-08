@@ -109,7 +109,7 @@
          d="m 676.5,1316.8622 -2.5,2.5 1,0 0,3 1,0 0,-1.5 1,0 0,1.5 1,0 0,-3 1,0 z m 4,2 -2,2 0,0.5 0.5,0 0,3 1,0 0,-1.5 1,0 0,1.5 1,0 0,-3 1,0 z"
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:0;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5991-0-4-1"
          width="12"
          height="12.000009"

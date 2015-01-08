@@ -136,7 +136,7 @@
            transform="matrix(1.0303132,0,0,1.0303132,-61.121337,1003.2409)" />
       </g>
       <rect
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:0;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect21973"
          width="24"
          height="24.000017"

@@ -112,7 +112,7 @@
          height="12.000007"
          width="11.999998"
          id="rect22192-14-7"
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:0;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          id="path8744"
          d="m 132.5,1270.3622 c -1.76528,0 -3.22866,1.301 -3.46875,3 l -1.03125,0 0,1 1.03125,0 c 0.24009,1.699 1.70347,3 3.46875,3 1.76528,0 3.22866,-1.301 3.46875,-3 l 1.03125,0 0,-1 -1.03125,0 c -0.24009,-1.699 -1.70347,-3 -3.46875,-3 z m 0,1.5 c 0.93197,0 1.71554,0.6373 1.9375,1.5 l -3.875,0 c 0.22196,-0.8627 1.00553,-1.5 1.9375,-1.5 z m -1.9375,2.5 3.875,0 c -0.22196,0.8627 -1.00553,1.5 -1.9375,1.5 -0.93197,0 -1.71554,-0.6373 -1.9375,-1.5 z"
