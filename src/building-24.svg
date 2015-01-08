@@ -125,7 +125,7 @@
          height="24.000034"
          width="24.000017"
          id="rect5877"
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:0;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 641,1077.3622 -7.5,6.5 c -0.3561,0.3086 -0.5,0.5 -0.5,0.75 0,0.4959 0.5,0.75 1,0.75 l 1,0 0,8 c 0,0.554 0.446,1 1,1 l 6.5,0 6.5,0 c 0.554,0 1,-0.446 1,-1 l 0,-8 1,0 c 0.5,0 1,-0.2541 1,-0.75 0,-0.25 -0.13799,-0.4483 -0.5,-0.75 l -7.5,-6.5 z"

@@ -117,7 +117,7 @@
          height="18.000031"
          width="18.000017"
          id="rect22284-6-5"
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:0;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          id="path5792"
          d="m 582.5,1076.3622 -0.5,0.5 0,3 -2,2.5 0,8 6,0 0,-8 -2,-2.5 0,-3 -0.5,-0.5 -1,0 z m 4.5,6 0,3 c 0,0 0,1 1,1 l 1,0 0,3 -1.5,0.5 -0.5,0.5 5,0 -0.5,-0.5 -1.5,-0.5 0,-3 1,0 c 1,0 1,-1 1,-1 l 0,-3 -5,0 z"

@@ -111,7 +111,7 @@
          d="m 273.5,1305.3622 c -2.33186,0 -4.5,-2 -4.5,-4.5 0,-2.5278 3.41667,-7.0556 4.5,-8.5 1.08334,1.4444 4.5,5.9722 4.5,8.5 0,2.5 -2.16813,4.5 -4.5,4.5 z"
          style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:0;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect22611-2"
          width="18.000017"
          height="18.000031"

@@ -118,7 +118,7 @@
          d="m 599.5,1051.3622 -1.5,1.5 c 0,0 0,1.3333 0,2 l 1,1 c 0,0.1667 0,0.5 0,0.5 l 1.5,1 1.5,-1 0,-0.5 1,-1 0,-2 -1.5,-1.5 z m -0.5,2 1,0 0,0.5 -1,0 z m 2,0 1,0 0,0.5 -1,0 z m -5,3 0,1 0.56039,0.2802 2.43961,1.2198 -3,1.5 0,1 0.5,0 5.5,-2.5 3,-1.5 0,-1 -0.5,0 -3,1.5 -0.5,0.5 -1,0 -0.5,-0.5 -3,-1.5 z m 7,3 -1.5,0.5 3,1.5 0.5,0 0,-1 z"
          style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:0;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect22286-3-7-3"
          width="11.999998"
          height="12.000007"

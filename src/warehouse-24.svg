@@ -121,7 +121,7 @@
          d="m 761,3 -7.5,6.5 c -0.36201,0.3017 -0.5,0.5 -0.5,0.75 0,0.4959 0.5,0.75 1,0.75 l 1,0 0,8 c 0,0.554 0.446,1 1,1 l 13,0 c 0.554,0 1,-0.446 1,-1 l 0,-8 1,0 c 0.5,0 1,-0.2541 1,-0.75 C 772,10 771.86201,9.8017 771.5,9.5 L 764,3 z m -2,9 7,0 0,0.5 -7,0 z m 0,2 7,0 0,0.5 -7,0 z m 0,2 7,0 0,0.5 -7,0 z m 0,2 7,0 0,0.5 -7,0 z"
          style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         style="opacity:0.5;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:0;color:#000000;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect13515-8"
          width="24.000017"
          height="24.000034"
