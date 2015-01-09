@@ -24,14 +24,13 @@ To view the backlog of icons that need to be created, visit https://github.com/m
 
 1. Create copies of the template SVGs in the `src` directory (`maki-12-base.svg`, `maki-18-base.svg`, `maki-24-base.svg`) with a short descriptive name following the conventions of the other icons.
 2. Design according to the principles outlined above.
-3. You'll want to remove personal information from your SVG files if you're committing or submitting a pull request:
-    - Mac OS X: `sed -i "" -e 's/\ *inkscape:export-filename=".*"//g' your-icon-{12,18,24}.svg`
-    - Linux: `sed -i 's/\ *inkscape:export-filename=".*"//g' your-icon-{12,18,24}.svg`
-4. Edit `www/maki.json` and create a new object with:
+3. Export the icon as a *plain* SVG to avoid including unneeded information in the file.
+4. Make sure the canvas `<rect>` style contains `visibility:hidden` - Inkscape may remove this.
+5. Edit `www/maki.json` and create a new object with:
     - the icon name
     - the icon filename
     - tags to describe the icon
-5. Run `dev-render.sh` to generate the PNGs, plus sprites, and CSS for the maki website. The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
+6. Run `dev-render.sh` to generate the PNGs, plus sprites, and CSS for the maki website. The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
 
 [SVG]: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
 [Inkscape]: http://inkscape.org
