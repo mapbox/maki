@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="12"
    height="12"
@@ -22,33 +21,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-1040.3622)"
-     id="layer1">
-    <g
-       transform="translate(-438,-33.999983)"
-       id="fire-station-12"
-       style="display:inline">
-      <g
-         transform="translate(-1,-1)"
-         id="g21514">
-        <path
-           d="m 445.5,1076.3622 -1.5,3 -1.5,-1.5 c -0.33139,0.5826 -1.5,2 -1.5,3.5 0,2.2092 2.29086,4 4.5,4 2.20914,0 4.5,-1.7908 4.5,-4 0,-1.5 -1.16861,-2.9174 -1.5,-3.5 l -1.5,1.5 z"
-           inkscape:connector-curvature="0"
-           id="path5434"
-           style="opacity:0.3;color:#000000;fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <path
-           d="m 445.5,1076.3622 -1.5,3 -1.5,-1.5 c -0.33139,0.5826 -1.5,2 -1.5,3.5 0,2.2092 2.29086,4 4.5,4 2.20914,0 4.5,-1.7908 4.5,-4 0,-1.5 -1.16861,-2.9174 -1.5,-3.5 l -1.5,1.5 z m 0,4.5 c 0,0 1.5,1.3423 1.5,2.5 0,0.5 -0.5,1 -1.5,1 -1,0 -1.5,-0.5 -1.5,-1 0,-1.118 1.5,-2.5 1.5,-2.5 z"
-           inkscape:connector-curvature="0"
-           id="path10041-3-2"
-           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      </g>
-    </g>
-  </g>
+  <path
+     d="M 6.5,1 5,4 3.5,2.5 C 3.16861,3.0826 2,4.5 2,6 2,8.2092 4.29086,10 6.5,10 8.70914,10 11,8.2092 11,6 11,4.5 9.83139,3.0826 9.5,2.5 L 8,4 z m 0,4.5 C 6.5,5.5 8,6.8423 8,8 8,8.5 7.5,9 6.5,9 5.5,9 5,8.5 5,8 5,6.882 6.5,5.5 6.5,5.5 z"
+     id="path6252"
+     style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 6.5,1 5,4 3.5,2.5 C 3.16861,3.0826 2,4.5 2,6 2,8.2092 4.29086,10 6.5,10 8.70914,10 11,8.2092 11,6 11,4.5 9.83139,3.0826 9.5,2.5 L 8,4 z m 0,4.5 C 6.5,5.5 8,6.8423 8,8 8,8.5 7.5,9 6.5,9 5.5,9 5,8.5 5,8 5,6.882 6.5,5.5 6.5,5.5 z"
+     id="path10041-3-2"
+     style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <rect
      width="12"
      height="12"

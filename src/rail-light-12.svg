@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="12"
    height="12"
@@ -22,36 +21,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-1040.3622)"
-     id="layer1">
-    <path
-       d="M 5.40625,0 C 5.2402537,0.012 5.0774859,0.06595 4.9375,0.15625 l -1.5,1 C 3.2892391,1.25755 3.1690896,1.3995 3.09375,1.5625 l -1,2 C 2.030132,3.6988 1.997818,3.8496 2,4 L 2,8 C 2.0000185,8.1844899 2.087984,8.3460165 2.1875,8.5 2.0879839,8.6539893 2.0000184,8.8155155 2,9 l 0,1 c 5.24e-5,0.523584 0.4764155,0.999948 1,1 l 3,0 C 6.1844845,10.999982 6.3460107,10.94327 6.5,10.84375 6.6539893,10.943266 6.8155155,10.999982 7,11 l 3,0 c 0.523584,-5.2e-5 0.999948,-0.476416 1,-1 L 11,9 C 10.999982,8.8155155 10.912016,8.6539893 10.8125,8.5 10.912016,8.3460165 10.999982,8.1844899 11,8 L 11,4 C 11.0022,3.8496 10.96987,3.6988 10.90625,3.5625 l -1,-2 C 9.83091,1.3995 9.7107609,1.25755 9.5625,1.15625 l -1.5,-1 C 7.8959467,0.05015 7.6974161,-0.005 7.5,0 6.8020833,0 6.1041667,0 5.40625,0 z"
-       inkscape:connector-curvature="0"
-       transform="translate(0,1040.3622)"
-       id="path3177"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="M 5.5,1 4,2 3,4 3,8 10,8 10,4 9,2 7.5,1 5.5,1 z M 5.5,2 6,2 6,5 4,5 4.5,3.5 5.5,2 z M 7,2 7.5,2 8.5,3.5 9,5 7,5 7,2 z M 4,6 5,6 5,7 4,7 4,6 z M 8,6 9,6 9,7 8,7 8,6 z"
-       inkscape:connector-curvature="0"
-       transform="translate(0,1040.3622)"
-       id="path3248"
-       style="fill:#444444;fill-opacity:1;stroke:none" />
-    <path
-       d="m 4,1048.8622 0,0.5 -1,0 0,1 3,0 c 0,-0.5 0,-1 0,-1.5 z"
-       inkscape:connector-curvature="0"
-       id="path3266"
-       style="fill:#444444;fill-opacity:1;stroke:none" />
-    <path
-       d="m 9,1048.8622 -2,0 c 0,0.5 0,1 0,1.5 l 3,0 0,-1 -1,0 z"
-       inkscape:connector-curvature="0"
-       id="path3268"
-       style="fill:#444444;fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     d="M 5.5,1 4,2 3,4 3,8 10,8 10,4 9,2 7.5,1 5.5,1 z M 5.5,2 6,2 6,5 4,5 4.5,3.5 5.5,2 z M 7,2 7.5,2 8.5,3.5 9,5 7,5 7,2 z M 4,6 5,6 5,7 4,7 4,6 z M 8,6 9,6 9,7 8,7 8,6 z M 4,8.5 4,9 3,9 l 0,1 3,0 0,-1.5 -2,0 z m 3,0 0,1.5 3,0 0,-1 -1,0 0,-0.5 -2,0 z"
+     id="path8445"
+     style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <path
+     d="M 5.5,1 4,2 3,4 3,8 10,8 10,4 9,2 7.5,1 5.5,1 z M 5.5,2 6,2 6,5 4,5 4.5,3.5 5.5,2 z M 7,2 7.5,2 8.5,3.5 9,5 7,5 7,2 z M 4,6 5,6 5,7 4,7 4,6 z M 8,6 9,6 9,7 8,7 8,6 z M 4,8.5 4,9 3,9 l 0,1 3,0 0,-1.5 -2,0 z m 3,0 0,1.5 3,0 0,-1 -1,0 0,-0.5 -2,0 z"
+     id="path3248"
+     style="fill:#444444;fill-opacity:1;stroke:none" />
   <rect
      width="12"
      height="12"

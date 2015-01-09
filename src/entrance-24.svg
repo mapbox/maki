@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="24"
    height="24"
@@ -22,26 +21,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,-1028.3622)"
-     id="layer1">
-    <path
-       d="M 7,2 C 6.3946667,2 5.9322146,2.2811 5.59375,2.625 5.2552854,2.9689 4.9893687,3.397 5,4 l 0,4 c 5.24e-5,0.5236 0.4764155,0.9999 1,1 L 3.5,9 C 2.1272827,9 1,10.1314 1,11.5 1,12.8686 2.133269,14.0003 3.5,14 L 6,14 c -0.5235845,10e-5 -0.9999476,0.4764 -1,1 l 0,4 c 1.132e-4,1.1301 0.8704528,1.9998 2,2 l 11,0 c 1.129547,-2e-4 1.999888,-0.8699 2,-2 L 20,4 C 19.999888,2.8699 19.129547,2.0002 18,2 z m 9,4 0,3.96875 C 14.458929,8.7444991 12.900706,7.5121513 11.375,6.28125 10.921337,5.96885 10.5,6 10.53125,5.984375 12.5,6 11.444789,6 16,6 z M 16,13.03125 16,17 10.53125,17 c -2.8109185,-1.516563 -1.7955052,-0.523689 0,0 0.272865,0.0084 0.546628,-0.0694 0.8125,-0.25 0.02173,-0.02 0.04259,-0.0405 0.0625,-0.0625 z"
-       inkscape:connector-curvature="0"
-       transform="translate(0,1028.3622)"
-       id="path3793"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="M 7,3 C 6.5,3 5.9917766,3.5336 6,4 l 0,4 2,0 0,-3 9,0 0,13 -9,0 0,-3 -2,0 0,4 c 5.24e-5,0.5233 0.4764155,0.9999 1,1 l 11,0 c 0.523584,-10e-5 0.999948,-0.4767 1,-1 L 19,4 C 18.999948,3.4767 18.523584,3.0001 18,3 L 7,3 z m 3.5,4 C 10.208007,6.9719031 10,7.21875 10,7.5 L 10,10 3.5,10 C 2.6716736,10 2,10.6725 2,11.5 2,12.3275 2.6716736,13.0002 3.5,13 l 6.5,0 0,2.5 c 0.0052,0.3582 0.48479,0.639 0.78125,0.4375 l 5,-4.03125 c 0.263953,-0.1741 0.281053,-0.6189 0.03125,-0.8125 l -5,-3.96875 C 10.699117,7.0469 10.597331,7.0093656 10.5,7 z"
-       inkscape:connector-curvature="0"
-       transform="translate(0,1028.3622)"
-       id="path3826"
-       style="fill:#444444;fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     d="M 7,3 C 6.5,3 5.9917766,3.5336 6,4 l 0,4 2,0 0,-3 9,0 0,13 -9,0 0,-3 -2,0 0,4 c 5.24e-5,0.5233 0.4764155,0.9999 1,1 l 11,0 c 0.523584,-10e-5 0.999948,-0.4767 1,-1 L 19,4 C 18.999948,3.4767 18.523584,3.0001 18,3 L 7,3 z m 3.5,4 C 10.208007,6.9719031 10,7.21875 10,7.5 L 10,10 3.5,10 C 2.6716736,10 2,10.6725 2,11.5 2,12.3275 2.6716736,13.0002 3.5,13 l 6.5,0 0,2.5 c 0.0052,0.3582 0.48479,0.639 0.78125,0.4375 l 5,-4.03125 c 0.263953,-0.1741 0.281053,-0.6189 0.03125,-0.8125 l -5,-3.96875 C 10.699117,7.0469 10.597331,7.0093656 10.5,7 z"
+     id="path5585"
+     style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <path
+     d="M 7,3 C 6.5,3 5.9917766,3.5336 6,4 l 0,4 2,0 0,-3 9,0 0,13 -9,0 0,-3 -2,0 0,4 c 5.24e-5,0.5233 0.4764155,0.9999 1,1 l 11,0 c 0.523584,-10e-5 0.999948,-0.4767 1,-1 L 19,4 C 18.999948,3.4767 18.523584,3.0001 18,3 L 7,3 z m 3.5,4 C 10.208007,6.9719031 10,7.21875 10,7.5 L 10,10 3.5,10 C 2.6716736,10 2,10.6725 2,11.5 2,12.3275 2.6716736,13.0002 3.5,13 l 6.5,0 0,2.5 c 0.0052,0.3582 0.48479,0.639 0.78125,0.4375 l 5,-4.03125 c 0.263953,-0.1741 0.281053,-0.6189 0.03125,-0.8125 l -5,-3.96875 C 10.699117,7.0469 10.597331,7.0093656 10.5,7 z"
+     id="path3826"
+     style="fill:#444444;fill-opacity:1;stroke:none" />
   <rect
      width="24"
      height="24"
