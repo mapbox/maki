@@ -102,4 +102,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1028.3622)" />
+  <rect
+     width="24"
+     height="24"
+     x="0"
+     y="0"
+     id="canvas"
+     style="fill:none;stroke:none;visibility:hidden" />
 </svg>

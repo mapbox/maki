@@ -7,80 +7,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
    width="18"
    height="18"
-   id="svg4619"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="clothing-store-18.svg">
+   id="svg4619">
   <defs
      id="defs4621" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="20.215676"
-     inkscape:cy="6.6670998"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1053"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4627"
-       empspacing="2"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="0.5px"
-       spacingy="0.5px"
-       empcolor="#0000ff"
-       empopacity="0.23137255" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="7,18"
-       id="guide4659" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="18,9"
-       id="guide4661" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="16,17"
-       id="guide4663" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="17,14"
-       id="guide4665" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="0,16"
-       id="guide4667" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="8,0"
-       id="guide4669" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="2,10"
-       id="guide4671" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="12,2"
-       id="guide4673" />
-  </sodipodi:namedview>
   <metadata
      id="metadata4624">
     <rdf:RDF>
@@ -89,35 +21,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
      transform="translate(0,-1034.3622)"
+     id="layer1"
      style="display:inline">
     <path
+       d="M 7,2 5,3 2,7 4,9 5,8 l 1,0 0,7 7,0 0,-7 1,0 1,1 L 17,7 14,3 12,2 C 12,2.7730997 11.743986,3.4680836 11.34375,4 10.886227,4.6080514 10.236463,5 9.5,5 8.7635372,5 8.1137729,4.6080514 7.65625,4 7.2560143,3.4680836 7,2.7730997 7,2 z"
+       transform="translate(0,1034.3622)"
        id="path4569"
-       transform="translate(0,1034.3622)"
-       d="M 7 2 L 5 3 L 2 7 L 4 9 L 5 8 L 6 8 L 6 15 L 13 15 L 13 8 L 14 8 L 15 9 L 17 7 L 14 3 L 12 2 C 12 2.7730997 11.743986 3.4680836 11.34375 4 C 10.886227 4.6080514 10.236463 5 9.5 5 C 8.7635372 5 8.1137729 4.6080514 7.65625 4 C 7.2560143 3.4680836 7 2.7730997 7 2 z "
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;color:#000000;fill-rule:nonzero;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.29999999999999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
-       style="fill:#444444;fill-opacity:1;stroke:none"
-       d="M 7 2 L 5 3 L 2 7 L 4 9 L 5 8 L 6 8 L 6 15 L 13 15 L 13 8 L 14 8 L 15 9 L 17 7 L 14 3 L 12 2 C 12 2.7730997 11.743986 3.4680836 11.34375 4 C 10.886227 4.6080514 10.236463 5 9.5 5 C 8.7635372 5 8.1137729 4.6080514 7.65625 4 C 7.2560143 3.4680836 7 2.7730997 7 2 z "
+       d="M 7,2 5,3 2,7 4,9 5,8 l 1,0 0,7 7,0 0,-7 1,0 1,1 L 17,7 14,3 12,2 C 12,2.7730997 11.743986,3.4680836 11.34375,4 10.886227,4.6080514 10.236463,5 9.5,5 8.7635372,5 8.1137729,4.6080514 7.65625,4 7.2560143,3.4680836 7,2.7730997 7,2 z"
        transform="translate(0,1034.3622)"
-       id="rect3340-6" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="path3076"
-       sodipodi:cx="13"
-       sodipodi:cy="-4"
-       sodipodi:rx="3"
-       sodipodi:ry="3"
-       d="m 16,-4 c 0,1.6568542 -1.343146,3 -3,3 -1.656854,0 -3,-1.3431458 -3,-3 0,-1.6568542 1.343146,-3 3,-3 1.656854,0 3,1.3431458 3,3 z"
-       transform="matrix(0.83333335,0,0,-0.97822941,-1.3333335,1056.4493)" />
+       id="rect3340-6"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
   </g>
+  <rect
+     width="18"
+     height="18"
+     x="0"
+     y="0"
+     id="canvas"
+     style="fill:none;stroke:none;visibility:hidden" />
 </svg>

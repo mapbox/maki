@@ -1,6 +1,7 @@
 var fs = require('fs'),
     test = require('tap').test,
-    https = require('https');
+    https = require('https'),
+    jsdom = require('jsdom');
 
 test('Maki', function(t) {
     t.doesNotThrow(function() {
@@ -19,6 +20,31 @@ test('Maki', function(t) {
                 fs.statSync(__dirname + '/../renders/' + f.icon + '-' + size + '.png');
                 fs.statSync(__dirname + '/../renders/' + f.icon + '-' + size + '@2x.png');
             }, 'source file present');
+            jsdom.env({
+                html: fs.readFileSync(__dirname + '/../src/' + f.icon + '-' + size + '.svg'),
+                done: function(errors, window) {
+                    t.equal(
+                        'rect',
+                        window.document.getElementById('canvas')._tagName,
+                        'SVG contains <rect> with id "canvas"'
+                    );
+                    t.equal(
+                        'fill:none;stroke:none;visibility:hidden',
+                        window.document.getElementById('canvas').getAttribute('style'),
+                        'canvas element is hidden'
+                    );
+                    t.equal(
+                        size.toString(),
+                        window.document.getElementById('canvas').getAttribute('width'),
+                        'canvas width matches icon size'
+                    );
+                    t.equal(
+                        size.toString(),
+                        window.document.getElementById('canvas').getAttribute('height'),
+                        'canvas height matches icon size.'
+                    );
+                }
+            });
         });
     });
 
