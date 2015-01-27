@@ -1216,5 +1216,18 @@
       "shop"
     ],
     "icon": "ice-cream"
+    },
+    {
+    "name": "Dentist",
+    "tags": [
+      "dentist",
+      "tooth",
+      "health",
+      "medication",
+      "social",
+      "medicine",
+      "medical"
+    ],
+    "icon": "dentist"
     }
 ]
