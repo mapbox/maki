@@ -488,4 +488,220 @@
     "bear"
   ],
   "icon": "bear-white"
+},{
+  "name": "Self Guided Trail (Black)",
+  "tags": [
+    "trail"
+  ],
+  "icon": "self-guided-trail-black"
+},{
+  "name": "Self Guided Trail (White)",
+  "tags": [
+    "trail"
+  ],
+  "icon": "self-guided-trail-white"
+},{
+  "name": "Trailhead (Black)",
+  "tags": [
+    "trailhead"
+  ],
+  "icon": "trailhead-black"
+},{
+  "name": "Trailhead (White)",
+  "tags": [
+    "trailhead"
+  ],
+  "icon": "trailhead-white"
+},{
+  "name": "Recycling (Black)",
+  "tags": [
+    "recycling"
+  ],
+  "icon": "recycling-black"
+},{
+  "name": "Recycling (White)",
+  "tags": [
+    "recycling"
+  ],
+  "icon": "recycling-white"
+},{
+  "name": "Post Office (Black)",
+  "tags": [
+    "post office"
+  ],
+  "icon": "post-office-black"
+},{
+  "name": "Post Ofice (White)",
+  "tags": [
+    "post office"
+  ],
+  "icon": "post-office-white"
+},{
+  "name": "Shelter (Black)",
+  "tags": [
+    "shelter"
+  ],
+  "icon": "shelter-black"
+},{
+  "name": "Shelter (White)",
+  "tags": [
+    "shelter"
+  ],
+  "icon": "shelter-white"
+},{
+  "name": "Scuba Diving (Black)",
+  "tags": [
+    "scuba diving"
+  ],
+  "icon": "scuba-diving-black"
+},{
+  "name": "Scuba Diving (White)",
+  "tags": [
+    "scuba diving"
+  ],
+  "icon": "scuba-diving-white"
+},{
+  "name": "RV Campground (Black)",
+  "tags": [
+    "rv campground"
+  ],
+  "icon": "rv-campground-black"
+},{
+  "name": "RV Campground (White)",
+  "tags": [
+    "rv campground"
+  ],
+  "icon": "rv-campground-white"
+},{
+  "name": "Sanitary Dump Station (Black)",
+  "tags": [
+    "sanitary dump station"
+  ],
+  "icon": "sanitary-dump-station-black"
+},{
+  "name": "Sanitary Dump Station (White)",
+  "tags": [
+    "sanitary dump station"
+  ],
+  "icon": "sanitary-dump-station-white"
+},{
+  "name": "Sailing (Black)",
+  "tags": [
+    "sailing"
+  ],
+  "icon": "sailing-black"
+},{
+  "name": "Sailing (White)",
+  "tags": [
+    "sailing"
+  ],
+  "icon": "sailing-white"
+},{
+  "name": "Radiator Water (Black)",
+  "tags": [
+    "radiator water"
+  ],
+  "icon": "radiator-water-black"
+},{
+  "name": "Radiator Water (White)",
+  "tags": [
+    "radiator water"
+  ],
+  "icon": "radiator-water-white"
+},{
+  "name": "Showers (Black)",
+  "tags": [
+    "showers"
+  ],
+  "icon": "showers-black"
+},{
+  "name": "Showers (White)",
+  "tags": [
+    "showers"
+  ],
+  "icon": "showers-white"
+},{
+  "name": "Sledding (Black)",
+  "tags": [
+    "sledding"
+  ],
+  "icon": "sledding-black"
+},{
+  "name": "Sledding (White)",
+  "tags": [
+    "sledding"
+  ],
+  "icon": "sledding-white"
+},{
+  "name": "Snowmobile Trail (Black)",
+  "tags": [
+    "snowmobile trail"
+  ],
+  "icon": "snowmobile-trail-black"
+},{
+  "name": "Snowmobile Trail (White)",
+  "tags": [
+    "snowmobile trail"
+  ],
+  "icon": "snowmobile-trail-white"
+},{
+  "name": "Swimming (Black)",
+  "tags": [
+    "swimming"
+  ],
+  "icon": "swimming-black"
+},{
+  "name": "Swimming (White)",
+  "tags": [
+    "swimming"
+  ],
+  "icon": "swimming-white"
+},{
+  "name": "Wheelchair Accessible (Black)",
+  "tags": [
+    "wheelchair accessible "
+  ],
+  "icon": "wheelchair-accessible-black"
+},{
+  "name": "Wheelchair Accessible (White)",
+  "tags": [
+    "wheelchair accessible "
+  ],
+  "icon": "wheelchair-accessible-white"
+},{
+  "name": "Telephone (Black)",
+  "tags": [
+    "telephone"
+  ],
+  "icon": "telephone-black"
+},{
+  "name": "Telephone (White)",
+  "tags": [
+    "telephone"
+  ],
+  "icon": "telephone-white"
+},{
+  "name": "Stable (Black)",
+  "tags": [
+    "stable"
+  ],
+  "icon": "stable-black"
+},{
+  "name": "Stable (White)",
+  "tags": [
+    "stable"
+  ],
+  "icon": "stable-white"
+},{
+  "name": "Wind Surfing (Black)",
+  "tags": [
+    "wind surfing"
+  ],
+  "icon": "wind-surfing-black"
+},{
+  "name": "Wind Surfing (White)",
+  "tags": [
+    "wind surfing"
+  ],
+  "icon": "wind-surfing-white"
 }]

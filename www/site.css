@@ -9,36 +9,24 @@
 #maki-hero {
   position: relative;
   z-index: 0;
+  min-height: 500px;
   }
 
-.intro {
-  min-height: 420px;
-    -webkit-animation:fadeInRight 500ms ease 500ms both;
-       -moz-animation:fadeInRight 500ms ease 500ms both;
-         -o-animation:fadeInRight 500ms ease 500ms both;
-            animation:fadeInRight 500ms ease 500ms both;
-  }
+#maki-hero .intro {
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
 
 #map {
   position: absolute;
+  left: 0;
   right: 0;
   top: 0;
   bottom: 0;
-    -webkit-animation:fadeIn 500ms ease 1000ms both;
-       -moz-animation:fadeIn 500ms ease 1000ms both;
-         -o-animation:fadeIn 500ms ease 1000ms both;
-            animation:fadeIn 500ms ease 1000ms both;
   }
 
-.download-button {
-  margin: 20px 0;
-  border-radius: 4px;
-  }
-  .download-button small, .download-button h3 {
-            animation: fadeIn 500ms ease 250ms both;
-       -moz-animation: fadeIn 500ms ease 250ms both;
-    -webkit-animation: fadeIn 500ms ease 250ms both;
-    }
   .download-button .details small, .download-button .details h3 {
     color: #fff;
     }
@@ -76,6 +64,7 @@
   overflow: hidden;
   height: 350px;
   position: relative;
+  bottom: -40px;
   }
 
 .open-source-illustration {
@@ -95,29 +84,19 @@
   }
 
 /*Search box*/
-.canvas-controls {
-  padding-top: 0;
-  position:relative;
+.canvas-controls form input {
+  background: #fff url(images/sprite.png) -441px 10px no-repeat;
+  width: 100%;
+  height: 40px;
+  padding: 10px 5px;
+  line-height: 40px\9; /* IE6,7,8 Hack to center the cursor in IE */
+  padding-left: 30px;
+  -webkit-appearance: none;
   }
-  .canvas-controls form input {
-    background: #fff url(images/sprite.png) -441px 10px no-repeat;
-    width: 100%;
-    height: 40px;
-    padding: 10px 5px;
-    line-height: 40px\9; /* IE6,7,8 Hack to center the cursor in IE */
-    padding-left: 30px;
-    -webkit-appearance: none;
-    }
 
 /*Icons on the canvas*/
 
 #maki-set { min-height: 300px; }
-#maki-set > ul.icon-set {
-  -webkit-animation:fadeIn 500ms ease 1500ms both;
-     -moz-animation:fadeIn 500ms ease 1500ms both;
-       -o-animation:fadeIn 500ms ease 1500ms both;
-          animation:fadeIn 500ms ease 1500ms both;
-  }
 
 ul.icon-set {
   float: left;
@@ -154,7 +133,6 @@ body.searching #search-results { display: block; }
     position: absolute;
     margin: auto;
     text-align: center;
-    color: #3C4E5A;
     font-size: 20px;
     }
   #search-results div.active { visibility: inherit; }
@@ -201,11 +179,10 @@ body.searching #search-results { display: block; }
 .title-box {
   position: absolute;
   background: white;
-  left: -25px; right: 0;
+  left: -42px; right: 0;
   bottom: 60px;
-  width: 120px;
+  width: 150px;
   padding: 10px;
-  color: #3C4E5A;
   text-align: center;
   margin: auto;
   white-space:nowrap;
@@ -239,16 +216,16 @@ a.search-download {
   font-size: 14px;
   bottom: 50px;
   }
-.close {
-  line-height:10px;
-  display:block;
+.canvas-controls #maki-close {
+  top: 5px;
+  right: 5px;
   position:absolute;
-  right:5px;
-  top:5px;
   display:none;
+  height: 30px;
+  width: 30px;
+  padding: 5px;
   }
-  .close:hover  { color:#fff; }
-  .close.active { display:block; }
+  .canvas-controls #maki-close.active { display:block; }
 
 /* --------------------------------------
   Icon Preview
@@ -301,46 +278,20 @@ a.search-download {
 #maki-icon-preview .maki.size-12 { background-position-y: -115px}
 
 /* --------------------------------------
-  Footer
------------------------------------------ */
-
-.spot-illustration {
-  background: url(images/sprite.png) -300px 0px no-repeat;
-  display: block;
-  height: 60px;
-  width: 60px;
-  margin: 0 auto 20px;
-  }
-  .spot-illustration.with-tilemill { background-position-x: -380px; }
-
-/* --------------------------------------
   Map Styles
 ----------------------------------------- */
-
-#maki #map {
-  color: #444;
-  background: #f5f5f5;
-  position: relative;
-  width: 920px;
-  height: 300px;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  margin-bottom: 20px;
-  }
-.map-tooltip { color: #3C4E5A; }
 
 @media
 only screen and (max-width: 640px) {
   .download { display: none;}
-  #map { position: relative; height: 280px; }
-  .intro { min-height: 0;}
+  #maki-hero { min-height: 0;}
+  #maki-hero .intro { position: relative; padding:0;}
+  #map { display: none; }
   .canvas-controls { padding-bottom: 40px;}
   #results { bottom: -40px;}
   .info .cell6:first-child { padding-bottom: 0;}
-  .footer-actions .cell6:first-child { border-right: 0px; border-bottom: 1px solid #ddd;
-  }
+  .illustration-container { bottom: -20px;}
+
 }
 
 @media
