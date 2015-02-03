@@ -1,12 +1,14 @@
-# Maki
+# NPMaki
 
-[![Build Status](https://travis-ci.org/mapbox/maki.png)](https://travis-ci.org/mapbox/maki)
+[![Build Status](https://travis-ci.org/nationalparkservice/npmaki.png)](https://travis-ci.org/nationalparkservice/npmaki)
 
-Maki is a point of interest icon set made especially for use with Mapbox maps. For more information on how to use Maki with Mapbox, see documentation at http://mapbox.com/tilemill/docs/guides/using-maki-icons/.
+NPMaki is a forked version of Maki - a point of interest icon set made especially for use with Mapbox maps.
+
+The following docs are taken directly from the Maki readme.
 
 ## src
 
-Maki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall. 
+Maki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall.
 
 Maki is designed using [Inkscape][]. For information on contributing to Maki see CONTRIBUTING.md.
 
@@ -36,4 +38,3 @@ Maki uses a semantic versioning scheme.
 * 0.0.z: bugfixes, modifications
 * 0.y.0: icons added
 * x.0.0: icons removed, sprite scheme changed, or major features added
-
