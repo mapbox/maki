@@ -21,7 +21,7 @@
   only screen and (min-device-pixel-ratio : 2) {
   .maki-icon {
     background-image:url(images/maki-sprite@2x.png);
-    background-size: 270px 576px; /* Replaced automatically by render.sh */
+    background-size: 270px 577px; /* Replaced automatically by render.sh */
   }
   .dark .maki-icon { background-image:url(images/maki-sprite.dark@2x.png); }
 }
@@ -144,3 +144,4 @@
 .maki-icon.gift { background-position: -216px -528px; }
 .maki-icon.ice-cream { background-position: 0px -552px; }
 .maki-icon.dentist { background-position: -54px -552px; }
+.maki-icon.stripclub { background-position: -108px -552px; }

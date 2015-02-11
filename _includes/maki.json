@@ -1229,5 +1229,16 @@
       "medical"
     ],
     "icon": "dentist"
+    },
+    {
+    "name": "Stripclub",
+    "tags": [
+      "stripclub",
+      "club",
+      "adult",
+      "striptease",
+      "lapdance"
+    ],
+    "icon": "stripclub"
     }
 ]
