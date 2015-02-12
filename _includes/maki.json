@@ -1229,5 +1229,15 @@
       "medical"
     ],
     "icon": "dentist"
+    },
+    {
+    "name": "Aerialway",
+    "tags": [
+      "gondola",
+      "cable_car",
+      "chairlift",
+      "draglift"
+    ],
+    "icon": "aerialway"
     }
 ]
