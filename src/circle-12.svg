@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="12"
+   id="svg4764"
    height="12"
-   id="svg4764">
+   width="12"
+   version="1.1">
   <defs
      id="defs4766" />
   <metadata
@@ -21,38 +19,37 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     style="stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round;opacity:0.3"
      transform="translate(0,-1040.3622)"
-     id="layer1">
+     id="g4736">
     <g
        transform="translate(30,-34)"
-       id="circle-12"
-       style="display:inline">
+       id="g4738"
+       style="display:inline;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round">
       <g
+         style="stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
          transform="translate(1,0)"
-         id="g21889">
-        <path
-           d="m 20.5,12.25 a 8.25,8.25 0 1 1 -16.5,0 8.25,8.25 0 1 1 16.5,0 z"
-           transform="matrix(-0.54545455,0,0,0.54545455,-17.818182,1073.1804)"
-           id="path17452"
-           style="opacity:0.3;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.66666675;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <path
-           d="m 20.5,12.25 a 8.25,8.25 0 1 1 -16.5,0 8.25,8.25 0 1 1 16.5,0 z"
-           transform="matrix(-0.54545455,0,0,0.54545455,-17.818182,1073.1804)"
-           id="path8564-0"
-           style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      </g>
+         id="g4740" />
     </g>
   </g>
+  <path
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+     id="path8089"
+     d="m 1.9999997,5.5000182 c 0,2.485283 2.0147188,4.4999978 4.5000001,4.4999978 C 8.9852811,10.000016 11,7.9853012 11,5.5000182 11,3.0147351 8.9852811,1.0000202 6.4999998,1.0000202 c -2.4852813,0 -4.5000001,2.0147149 -4.5000001,4.499998 z" />
+  <path
+     d="m 1.9999997,5.5000182 c 0,2.485283 2.0147188,4.4999978 4.5000001,4.4999978 C 8.9852811,10.000016 11,7.9853012 11,5.5000182 11,3.0147351 8.9852811,1.0000202 6.4999998,1.0000202 c -2.4852813,0 -4.5000001,2.0147149 -4.5000001,4.499998 z"
+     id="path8564-0"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
   <rect
-     width="12"
-     height="12"
-     x="0"
-     y="0"
+     style="fill:none;stroke:none;visibility:hidden"
      id="canvas"
-     style="fill:none;stroke:none;visibility:hidden" />
+     y="0"
+     x="0"
+     height="12"
+     width="12" />
 </svg>
