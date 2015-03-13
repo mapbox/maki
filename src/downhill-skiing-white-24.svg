@@ -1,125 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   id="svg27349"
-   version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="fishing-white-24.svg">
-  <defs
-     id="defs27351" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="9.0833806"
-     inkscape:cx="14.197891"
-     inkscape:cy="13.129232"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="629"
-     inkscape:window-height="573"
-     inkscape:window-x="2658"
-     inkscape:window-y="16"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata27354">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1028.3622)">
-    <g
-       id="g14607"
-       transform="matrix(2.4281667,0,0,2.4281667,-681.49418,730.2016)">
-      <path
-         style="opacity:0;fill:#272525"
-         inkscape:connector-curvature="0"
-         id="path14574"
-         d="m 289.365,132.677 c 0.652,0 1.181,-0.529 1.181,-1.182 v -7.521 c 0,-0.652 -0.528,-1.182 -1.181,-1.182 h -7.522 c -0.651,0 -1.181,0.529 -1.181,1.182 v 7.521 c 0,0.652 0.529,1.182 1.181,1.182 h 7.522 z" />
-      <g
-         transform="translate(259.503,-79.638)"
-         id="g14576"
-         style="opacity:0.6;fill:none;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-        <circle
-           d="m 30.008,205.84 c 0,0.36506 -0.29594,0.661 -0.661,0.661 -0.36506,0 -0.661,-0.29594 -0.661,-0.661 0,-0.36506 0.29594,-0.661 0.661,-0.661 0.36506,0 0.661,0.29594 0.661,0.661 z"
-           style="fill:none;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           sodipodi:ry="0.66100001"
-           sodipodi:rx="0.66100001"
-           sodipodi:cy="205.84"
-           sodipodi:cx="29.347"
-           id="circle14578"
-           r="0.66100001"
-           cy="205.84"
-           cx="29.347" />
-        <g
-           id="g14580"
-           style="fill:none;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-          <path
-             d="m 29.021,211.267 c 0.319,0.189 0.731,0.086 0.922,-0.234 l -0.231,-0.139 c -0.113,0.191 -0.361,0.252 -0.551,0.139 l -6.966,-4.09 -0.137,0.233 6.963,4.091 z"
-             id="path14582"
-             inkscape:connector-curvature="0"
-             style="fill:none;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <path
-             d="m 26.499,203.97 c -0.402,-0.271 -0.946,-0.164 -1.218,0.24 -0.149,0.221 -0.19,0.5 -0.117,0.727 l 0.463,1.516 -1.396,0.445 c -0.175,0.07 -0.31,0.234 -0.333,0.436 -0.036,0.295 0.184,0.49 0.479,0.525 0.067,0.008 0.112,-0.012 0.175,-0.027 l 1.906,-0.631 c 0.14,-0.051 0.293,-0.189 0.308,-0.311 0.011,-0.088 0.039,-0.162 0.021,-0.215 l -0.29,-1.037 1.146,0.682 0.139,0.994 c 0.012,0.174 0.091,0.299 0.225,0.373 l 1.498,0.875 c 0.164,0.09 0.371,0.029 0.461,-0.137 0.091,-0.164 0.029,-0.373 -0.135,-0.463 l -1.185,-0.691 -0.137,-1.771 c -0.021,-0.212 -0.136,-0.402 -0.304,-0.52 l -1.706,-1.01 z"
-             id="path14584"
-             inkscape:connector-curvature="0"
-             style="fill:none;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        </g>
-      </g>
-      <g
-         style="fill:#ffffff;fill-opacity:1"
-         transform="translate(259.503,-79.638)"
-         id="g14586">
-        <circle
-           d="m 30.008,205.84 c 0,0.36506 -0.29594,0.661 -0.661,0.661 -0.36506,0 -0.661,-0.29594 -0.661,-0.661 0,-0.36506 0.29594,-0.661 0.661,-0.661 0.36506,0 0.661,0.29594 0.661,0.661 z"
-           cx="29.347"
-           cy="205.84"
-           r="0.66100001"
-           id="circle14588"
-           sodipodi:cx="29.347"
-           sodipodi:cy="205.84"
-           sodipodi:rx="0.66100001"
-           sodipodi:ry="0.66100001"
-           style="fill:#ffffff;fill-opacity:1" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g14590">
-          <path
-             style="fill:#ffffff;fill-opacity:1"
-             inkscape:connector-curvature="0"
-             id="path14592"
-             d="m 29.021,211.267 c 0.319,0.189 0.731,0.086 0.922,-0.234 l -0.231,-0.139 c -0.113,0.191 -0.361,0.252 -0.551,0.139 l -6.966,-4.09 -0.137,0.233 6.963,4.091 z" />
-          <path
-             style="fill:#ffffff;fill-opacity:1"
-             inkscape:connector-curvature="0"
-             id="path14594"
-             d="m 26.499,203.97 c -0.402,-0.271 -0.946,-0.164 -1.218,0.24 -0.149,0.221 -0.19,0.5 -0.117,0.727 l 0.463,1.516 -1.396,0.445 c -0.175,0.07 -0.31,0.234 -0.333,0.436 -0.036,0.295 0.184,0.49 0.479,0.525 0.067,0.008 0.112,-0.012 0.175,-0.027 l 1.906,-0.631 c 0.14,-0.051 0.293,-0.189 0.308,-0.311 0.011,-0.088 0.039,-0.162 0.021,-0.215 l -0.29,-1.037 1.146,0.682 0.139,0.994 c 0.012,0.174 0.091,0.299 0.225,0.373 l 1.498,0.875 c 0.164,0.09 0.371,0.029 0.461,-0.137 0.091,-0.164 0.029,-0.373 -0.135,-0.463 l -1.185,-0.691 -0.137,-1.771 c -0.021,-0.212 -0.136,-0.402 -0.304,-0.52 l -1.706,-1.01 z" />
-        </g>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY st0 "opacity:0.5;">
+	<!ENTITY st1 "fill:#010101;">
+	<!ENTITY st2 "opacity:0.75;">
+	<!ENTITY st3 "fill:#FFFFFF;">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="24px" height="23px" viewBox="0 0 24 23" style="enable-background:new 0 0 24 23;" xml:space="preserve">
+<g style="&st0;">
+	<path style="&st1;" d="M14.3,2.4c-1.1-0.8-2.6-0.5-3.4,0.7c-0.4,0.6-0.5,1.4-0.3,2l1.3,4.2L8,10.5c-0.5,0.2-0.9,0.6-0.9,1.2
+		C7,12.5,7.6,12.9,8.4,13c0.2,0,0.3,0,0.5,0l5.3-1.6c0.4-0.1,0.8-0.5,0.9-0.9c0-0.2,0.1-0.4,0.1-0.6L14.3,7l3.2,1.9l0.4,2.8
+		c0,0.5,0.3,0.8,0.6,1L22,15c0.5,0.2,1.6,0.2,1.9-0.3c0.3-0.5,0.1-1-0.4-1.3L20,11.5V9h-1V7h1c-0.4-0.8-0.5-1.5-1-1.8L14.3,2.4
+		L14.3,2.4z"/>
+	<polygon style="&st1;" points="2,11 21,22 23,22 23,21 24,21 24,22 23,23 21,23 2,12 	"/>
+	<polygon style="&st1;" points="21,6 23,6 23,7 24,7 24,9 23,9 23,10 21,10 21,9 20,9 20,7 21,7 	"/>
+</g>
+<g style="&st2;">
+	<path style="&st1;" d="M13.3,1.4C12.2,0.7,10.7,1,9.9,2.1c-0.4,0.6-0.5,1.4-0.3,2l1.3,4.2L7,9.5c-0.5,0.2-0.9,0.6-0.9,1.2
+		C6,11.5,6.6,11.9,7.4,12c0.2,0,0.3,0,0.5,0l5.3-1.6c0.4-0.1,0.8-0.5,0.9-0.9c0-0.2,0.1-0.4,0.1-0.6L13.3,6l3.2,1.9l0.4,2.8
+		c0,0.5,0.3,0.8,0.6,1L21,14c0.5,0.2,1.6,0.2,1.9-0.3c0.3-0.5,0.1-1-0.4-1.3L19,10.5V8h-1V6h1c-0.4-0.8-0.5-1.5-1-1.8L13.3,1.4
+		L13.3,1.4z"/>
+	<polygon style="&st1;" points="1,10 20,21 22,21 22,20 23,20 23,21 22,22 20,22 1,11 	"/>
+	<polygon style="&st1;" points="20,5 22,5 22,6 23,6 23,8 22,8 22,9 20,9 20,8 19,8 19,6 20,6 	"/>
+</g>
+<g>
+	<path style="&st3;" d="M12.3,0.4C11.2-0.3,9.7,0,8.9,1.1c-0.4,0.6-0.5,1.4-0.3,2l1.3,4.2L6,8.5C5.5,8.7,5.2,9.2,5.1,9.7
+		C5,10.5,5.6,10.9,6.4,11c0.2,0,0.3,0,0.5,0l5.3-1.6C12.6,9.2,13,8.8,13,8.5c0-0.2,0.1-0.4,0.1-0.6L12.3,5l3.2,1.9l0.4,2.8
+		c0,0.5,0.3,0.8,0.6,1L20,13c0.5,0.2,1.6,0.2,1.9-0.3c0.3-0.5,0.1-1-0.4-1.3L18,9.5V7h-1V5h1c-0.4-0.8-0.5-1.5-1-1.8L12.3,0.4
+		L12.3,0.4z"/>
+	<polygon style="&st3;" points="0,9 19,20 21,20 21,19 22,19 22,20 21,21 19,21 0,10 	"/>
+	<polygon style="&st3;" points="19,4 21,4 21,5 22,5 22,7 21,7 21,8 19,8 19,7 18,7 18,5 19,5 	"/>
+</g>
 </svg>

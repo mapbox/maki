@@ -1,137 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="18"
-   height="18"
-   id="svg27435"
-   version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="campfire-black-18.svg">
-  <defs
-     id="defs27437" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="7.9891803"
-     inkscape:cx="12.590799"
-     inkscape:cy="8.9588378"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="483"
-     inkscape:window-height="454"
-     inkscape:window-x="3603"
-     inkscape:window-y="344"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata27440">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1034.3622)">
-    <g
-       transform="matrix(1.8211251,0,0,1.8211251,-364.69459,400.29828)"
-       id="g12740">
-      <path
-         style="opacity:0;fill:#272525"
-         inkscape:connector-curvature="0"
-         id="path12742"
-         d="m 209.105,358.392 c 0.652,0 1.181,-0.527 1.181,-1.18 v -7.521 c 0,-0.652 -0.528,-1.182 -1.181,-1.182 h -7.521 c -0.652,0 -1.182,0.529 -1.182,1.182 v 7.521 c 0,0.652 0.529,1.18 1.182,1.18 h 7.521 z" />
-      <g
-         id="g12744"
-         style="opacity:0.6;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         transform="translate(179.243,196.877)">
-        <g
-           id="g12746"
-           style="stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
-          <path
-             d="m 22.692,158.569 h -0.725 v 1.428 c 0,0.438 0.393,0.794 0.876,0.794 h 6.347 c 0.483,0 0.877,-0.357 0.877,-0.794 v -1.428 h -0.726 v 1.276 c 0,0.161 -0.144,0.29 -0.32,0.29 h -6.009 c -0.178,0 -0.32,-0.129 -0.32,-0.29 v -1.276 z"
-             id="path12748"
-             inkscape:connector-curvature="0"
-             style="fill:#272525;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <polygon
-             points="28.457,158.398 23.571,156.767 23.571,157.892 28.457,159.523 "
-             id="polygon12750"
-             style="fill:#272525;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <path
-             d="m 24.698,156.768 c -0.168,-0.189 -1.285,-1.48 -0.158,-2.598 0.939,-0.932 1.076,-1.714 0.76,-2.094 0,0 2.391,0.982 0.984,3.262 -0.24,0.387 -0.842,0.844 -0.527,1.785 l -1.059,-0.355 z"
-             id="path12752"
-             inkscape:connector-curvature="0"
-             style="fill:#272525;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <path
-             d="m 26.166,157.078 c -0.051,-0.191 -0.28,-0.607 0.419,-1.436 0.374,-0.441 0.515,-1.096 0.548,-1.342 0,0 1.238,0.71 0.007,2.446 l -0.974,0.332 z"
-             id="path12754"
-             inkscape:connector-curvature="0"
-             style="fill:#272525;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-          <polygon
-             points="28.457,156.667 28.457,157.792 28.113,157.905 26.43,157.344 "
-             id="polygon12756"
-             style="fill:#272525;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        </g>
-        <polygon
-           style="fill:#272525;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="polygon12758"
-           points="23.571,159.623 23.571,158.498 23.916,158.386 25.6,158.947 " />
-      </g>
-      <g
-         id="g12760"
-         transform="translate(179.243,196.877)"
-         style="fill:#ffffff;fill-opacity:1;stroke:none">
-        <g
-           id="g12762"
-           style="fill:#ffffff;fill-opacity:1;stroke:none">
-          <path
-             style="fill:#ffffff;fill-opacity:1;stroke:none"
-             inkscape:connector-curvature="0"
-             id="path12764"
-             d="m 22.692,158.569 h -0.725 v 1.428 c 0,0.438 0.393,0.794 0.876,0.794 h 6.347 c 0.483,0 0.877,-0.357 0.877,-0.794 v -1.428 h -0.726 v 1.276 c 0,0.161 -0.144,0.29 -0.32,0.29 h -6.009 c -0.178,0 -0.32,-0.129 -0.32,-0.29 v -1.276 z" />
-          <polygon
-             style="fill:#ffffff;fill-opacity:1;stroke:none"
-             id="polygon12766"
-             points="28.457,158.398 23.571,156.767 23.571,157.892 28.457,159.523 " />
-          <path
-             style="fill:#ffffff;fill-opacity:1;stroke:none"
-             inkscape:connector-curvature="0"
-             id="path12768"
-             d="m 24.698,156.768 c -0.168,-0.189 -1.285,-1.48 -0.158,-2.598 0.939,-0.932 1.076,-1.714 0.76,-2.094 0,0 2.391,0.982 0.984,3.262 -0.24,0.387 -0.842,0.844 -0.527,1.785 l -1.059,-0.355 z" />
-          <path
-             style="fill:#ffffff;fill-opacity:1;stroke:none"
-             inkscape:connector-curvature="0"
-             id="path12770"
-             d="m 26.166,157.078 c -0.051,-0.191 -0.28,-0.607 0.419,-1.436 0.374,-0.441 0.515,-1.096 0.548,-1.342 0,0 1.238,0.71 0.007,2.446 l -0.974,0.332 z" />
-          <polygon
-             style="fill:#ffffff;fill-opacity:1;stroke:none"
-             id="polygon12772"
-             points="28.457,156.667 28.457,157.792 28.113,157.905 26.43,157.344 " />
-        </g>
-        <polygon
-           points="23.571,159.623 23.571,158.498 23.916,158.386 25.6,158.947 "
-           id="polygon12774"
-           style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      </g>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>campfire-white-18</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M7.59259259,9.97330834 C7.2962963,9.67256289 5.51851852,7.44544064 7.31111111,5.84608802 C8.95555556,4.36571964 9.21481481,2.54372779 8.66666667,1.94077696 C8.66666667,1.94077696 11.9407407,4.0876031 10.1481481,7.78049443 C9.53333333,8.43746265 8.80740741,9.20538549 9.35555556,10.7003532 L7.59259259,9.97330834" id="Fill-121" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M10.8888889,10.7003532 C10.8592593,10.0448449 10.2444444,10.5784491 11.2888889,8.41921353 C12.162963,7.62355202 11.8592593,7.10673703 11.6296296,6.32056506 C11.6296296,6.32056506 14.2814815,7.3242665 12.2592593,10.1725887 L10.8888889,10.7003532" id="Fill-122" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M2,13.6202119 L3.48148148,13.6202119 L3.48148148,16.5400706 L16.0740741,16.5400706 L16.0740741,13.6202119 L17.5555556,13.6202119 L17.5555556,16.5400706 L16.0740741,18 L3.48148148,18 L2,16.5400706 L2,13.6202119" id="Fill-123" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M4.96296296,10.7003532 L14.5925926,14.3501766 L14.5925926,15.8101059 L4.96296296,12.1602825 L4.96296296,10.7003532" id="Fill-124" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M4.96296296,14.3501766 L4.96296296,15.8101059 L7.85185185,14.7151589 L5.92592593,13.9851942 L4.96296296,14.3501766" id="Fill-125" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M14.5925926,10.7003532 L11.7037037,11.7953002 L13.6296296,12.5252649 L14.5925926,12.1602825 L14.5925926,10.7003532" id="Fill-126" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M6.59259259,8.97330834 C6.2962963,8.67256289 4.51851852,6.44544064 6.31111111,4.84608802 C7.95555556,3.36571964 8.21481481,1.54372779 7.66666667,0.940776963 C7.66666667,0.940776963 10.9407407,3.0876031 9.14814815,6.78049443 C8.53333333,7.43746265 7.80740741,8.20538549 8.35555556,9.70035316 L6.59259259,8.97330834" id="Fill-121" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M9.88888889,9.70035316 C9.85925926,9.04484488 9.24444444,9.57844906 10.2888889,7.41921353 C11.162963,6.62355202 10.8592593,6.10673703 10.6296296,5.32056506 C10.6296296,5.32056506 13.2814815,6.3242665 11.2592593,9.1725887 L9.88888889,9.70035316" id="Fill-122" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M1,12.6202119 L2.48148148,12.6202119 L2.48148148,15.5400706 L15.0740741,15.5400706 L15.0740741,12.6202119 L16.5555556,12.6202119 L16.5555556,15.5400706 L15.0740741,17 L2.48148148,17 L1,15.5400706 L1,12.6202119" id="Fill-123" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M3.96296296,9.70035316 L13.5925926,13.3501766 L13.5925926,14.8101059 L3.96296296,11.1602825 L3.96296296,9.70035316" id="Fill-124" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M3.96296296,13.3501766 L3.96296296,14.8101059 L6.85185185,13.7151589 L4.92592593,12.9851942 L3.96296296,13.3501766" id="Fill-125" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M13.5925926,9.70035316 L10.7037037,10.7953002 L12.6296296,11.5252649 L13.5925926,11.1602825 L13.5925926,9.70035316" id="Fill-126" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M5.59259259,7.97330834 C5.2962963,7.67256289 3.51851852,5.44544064 5.31111111,3.84608802 C6.95555556,2.36571964 7.21481481,0.543727791 6.66666667,-0.0592230372 C6.66666667,-0.0592230372 9.94074074,2.0876031 8.14814815,5.78049443 C7.53333333,6.43746265 6.80740741,7.20538549 7.35555556,8.70035316 L5.59259259,7.97330834" id="Fill-121" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        <path d="M8.88888889,8.70035316 C8.85925926,8.04484488 8.24444444,8.57844906 9.28888889,6.41921353 C10.162963,5.62355202 9.85925926,5.10673703 9.62962963,4.32056506 C9.62962963,4.32056506 12.2814815,5.3242665 10.2592593,8.1725887 L8.88888889,8.70035316" id="Fill-122" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        <path d="M0,11.6202119 L1.48148148,11.6202119 L1.48148148,14.5400706 L14.0740741,14.5400706 L14.0740741,11.6202119 L15.5555556,11.6202119 L15.5555556,14.5400706 L14.0740741,16 L1.48148148,16 L0,14.5400706 L0,11.6202119" id="Fill-123" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        <path d="M2.96296296,8.70035316 L12.5925926,12.3501766 L12.5925926,13.8101059 L2.96296296,10.1602825 L2.96296296,8.70035316" id="Fill-124" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        <path d="M2.96296296,12.3501766 L2.96296296,13.8101059 L5.85185185,12.7151589 L3.92592593,11.9851942 L2.96296296,12.3501766" id="Fill-125" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        <path d="M12.5925926,8.70035316 L9.7037037,9.79530019 L11.6296296,10.5252649 L12.5925926,10.1602825 L12.5925926,8.70035316" id="Fill-126" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
     </g>
-  </g>
 </svg>

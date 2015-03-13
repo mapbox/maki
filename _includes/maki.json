@@ -53,7 +53,7 @@
     "cycling",
     "trail"
   ],
-  "icon": "bike-trail-black"
+  "icon": "bicycle-trail-black"
 },{
   "name": "Bike Trail (White)",
   "tags": [
@@ -61,7 +61,7 @@
     "cycling",
     "trail"
   ],
-  "icon": "bike-trail-white"
+  "icon": "bicycle-trail-white"
 },{
   "name": "Camping (Black)",
   "tags": [
@@ -69,7 +69,7 @@
     "campsite",
     "tent"
   ],
-  "icon": "camping-black"
+  "icon": "campground-black"
 },{
   "name": "Camping (White)",
   "tags": [
@@ -77,7 +77,7 @@
     "campsite",
     "tent"
   ],
-  "icon": "camping-white"
+  "icon": "campground-white"
 },{
   "name": "Bus and Shuttle Stop (Black)",
   "tags": [
@@ -85,7 +85,7 @@
     "shuttle",
     "transportation"
   ],
-  "icon": "bus-shuttle-stop-black"
+  "icon": "bus-stop-black"
 },{
   "name": "Bus and Shuttle Stop (White)",
   "tags": [
@@ -93,7 +93,7 @@
     "shuttle",
     "transportation"
   ],
-  "icon": "bus-shuttle-stop-white"
+  "icon": "bus-stop-white"
 },{
   "name": "Food Service (Black)",
   "tags": [
@@ -181,7 +181,7 @@
     "recreation",
     ""
   ],
-  "icon": "picnic-black"
+  "icon": "picnic-area-black"
 },{
   "name": "Picnic Area (White)",
   "tags": [
@@ -189,7 +189,7 @@
     "recreation",
     ""
   ],
-  "icon": "picnic-white"
+  "icon": "picnic-area-white"
 },{
   "name": "Ranger Station (Black)",
   "tags": [
@@ -213,7 +213,7 @@
     "bathroom",
     "toilet"
   ],
-  "icon": "restroom-black"
+  "icon": "restrooms-black"
 },{
   "name": "Restroom (White)",
   "tags": [
@@ -221,7 +221,7 @@
     "bathroom",
     "toilet"
   ],
-  "icon": "restroom-white"
+  "icon": "restrooms-white"
 },{
   "name": "Store (Black)",
   "tags": [
@@ -354,7 +354,7 @@
       "off road",
       ""
     ],
-    "icon": "4-wheel-drive-black"
+    "icon": "four-wheel-drive-black"
 },{
     "name": "4 Wheel Drive (White)",
     "tags": [
@@ -362,7 +362,7 @@
       "off road",
       ""
     ],
-    "icon": "4-wheel-drive-white"
+    "icon": "four-wheel-drive-white"
 },{
     "name": "Golfing (Black)",
     "tags": [
@@ -493,13 +493,13 @@
   "tags": [
     "trail"
   ],
-  "icon": "self-guided-trail-black"
+  "icon": "self-guiding-trail-black"
 },{
   "name": "Self Guided Trail (White)",
   "tags": [
     "trail"
   ],
-  "icon": "self-guided-trail-white"
+  "icon": "self-guiding-trail-white"
 },{
   "name": "Trailhead (Black)",
   "tags": [
@@ -577,13 +577,13 @@
   "tags": [
     "sanitary dump station"
   ],
-  "icon": "sanitary-dump-station-black"
+  "icon": "sanitary-disposal-station-black"
 },{
   "name": "Sanitary Dump Station (White)",
   "tags": [
     "sanitary dump station"
   ],
-  "icon": "sanitary-dump-station-white"
+  "icon": "sanitary-disposal-station-white"
 },{
   "name": "Sailing (Black)",
   "tags": [

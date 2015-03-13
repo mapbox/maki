@@ -1,75 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="18"
-   height="18"
-   id="svg27435"
-   version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="lodging-white-18.svg">
-  <defs
-     id="defs27437" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="7.9891803"
-     inkscape:cx="12.590799"
-     inkscape:cy="8.9588378"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="483"
-     inkscape:window-height="454"
-     inkscape:window-x="3219"
-     inkscape:window-y="652"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata27440">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1034.3622)">
-    <g
-       transform="matrix(1.8213093,0,0,1.8213093,-211.95907,251.38189)"
-       id="g13047">
-      <path
-         style="opacity:0;fill:#272525"
-         inkscape:connector-curvature="0"
-         id="path13049"
-         d="m 125.086,439.776 c 0.652,0 1.181,-0.529 1.181,-1.182 v -7.521 c 0,-0.652 -0.528,-1.18 -1.181,-1.18 h -7.521 c -0.652,0 -1.181,0.527 -1.181,1.18 v 7.521 c 0,0.652 0.528,1.182 1.181,1.182 h 7.521 z" />
-      <path
-         d="m 122.02,434.694 c 0.562,0 1.017,-0.455 1.017,-1.016 0,-0.562 -0.455,-1.018 -1.017,-1.018 l -1.498,-0.002 v 2.035 h 1.498 z M 122,431.408 c 1.269,0 2.296,1.027 2.296,2.295 0,1.27 -1.027,2.297 -2.296,2.297 l -1.478,-0.002 v 2.18 h -1.323 v -6.77 H 122 z"
-         id="path13051"
-         inkscape:connector-curvature="0"
-         style="opacity:0.6;fill:none;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         style="fill:#ffffff;fill-opacity:1"
-         inkscape:connector-curvature="0"
-         id="path13053"
-         d="m 122.02,434.694 c 0.562,0 1.017,-0.455 1.017,-1.016 0,-0.562 -0.455,-1.018 -1.017,-1.018 l -1.498,-0.002 v 2.035 h 1.498 z M 122,431.408 c 1.269,0 2.296,1.027 2.296,2.295 0,1.27 -1.027,2.297 -2.296,2.297 l -1.478,-0.002 v 2.18 h -1.323 v -6.77 H 122 z" />
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>parking-white-18</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M8.74074074,2 C11.8,2 14.5925926,4.43808204 14.5925926,7.44553654 C14.5925926,10.4602907 11.6814815,12.9494703 8.62962963,12.9494703 L4.92592593,12.9494703 L4.92592593,18.059223 L2,18.059223 L2,2 L8.74074074,2 L8.74074074,2 Z M8.62962963,10.0296115 C9.97777778,10.0296115 11.237037,8.71567509 11.237037,7.38713936 C11.237037,6.05130399 9.97777778,4.91985873 8.62962963,4.91985873 L4.92592593,4.91985873 L4.92592593,10.0296115 L8.62962963,10.0296115 L8.62962963,10.0296115 Z" id="Fill-27" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M7.74074074,1 C10.8,1 13.5925926,3.43808204 13.5925926,6.44553654 C13.5925926,9.46029068 10.6814815,11.9494703 7.62962963,11.9494703 L3.92592593,11.9494703 L3.92592593,17.059223 L1,17.059223 L1,1 L7.74074074,1 L7.74074074,1 Z M7.62962963,9.02961152 C8.97777778,9.02961152 10.237037,7.71567509 10.237037,6.38713936 C10.237037,5.05130399 8.97777778,3.91985873 7.62962963,3.91985873 L3.92592593,3.91985873 L3.92592593,9.02961152 L7.62962963,9.02961152 L7.62962963,9.02961152 Z" id="Fill-27" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M6.74074074,0 C9.8,0 12.5925926,2.43808204 12.5925926,5.44553654 C12.5925926,8.46029068 9.68148148,10.9494703 6.62962963,10.9494703 L2.92592593,10.9494703 L2.92592593,16.059223 L0,16.059223 L0,0 L6.74074074,0 L6.74074074,0 Z M6.62962963,8.02961152 C7.97777778,8.02961152 9.23703704,6.71567509 9.23703704,5.38713936 C9.23703704,4.05130399 7.97777778,2.91985873 6.62962963,2.91985873 L2.92592593,2.91985873 L2.92592593,8.02961152 L6.62962963,8.02961152 L6.62962963,8.02961152 Z" id="Fill-27" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
     </g>
-  </g>
 </svg>

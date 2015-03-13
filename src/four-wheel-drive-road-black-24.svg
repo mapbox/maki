@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY st0 "opacity:0.1;">
+	<!ENTITY st1 "fill:#010101;">
+	<!ENTITY st2 "opacity:0.2;">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="24px" height="13px" viewBox="0 0 24 13" style="enable-background:new 0 0 24 13;" xml:space="preserve">
+<g style="&st0;">
+	<polygon style="&st1;" points="23,8 23,5 17,5 15,2 14,2 16,5 14,7 11,7 9,5 2,5 2,11 3,11 4,11 4,10 4,9 5,9 5,8 9,8 9,9 10,9 
+		10,10 10,11 11,11 15,11 16,11 16,10 16,9 17,9 17,8 21,8 21,9 22,9 22,10 22,11 23,11 24,11 24,9 	"/>
+	<path style="&st1;" d="M7,9c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S8.1,9,7,9z M8,11.4C8,11.7,7.7,12,7.4,12H6.6
+		C6.3,12,6,11.7,6,11.4v-0.9C6,10.3,6.3,10,6.6,10h0.9C7.7,10,8,10.3,8,10.6V11.4z"/>
+	<path style="&st1;" d="M19,9c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S20.1,9,19,9z M20,11.4c0,0.3-0.3,0.6-0.6,0.6h-0.9
+		c-0.3,0-0.6-0.3-0.6-0.6v-0.9c0-0.3,0.3-0.6,0.6-0.6h0.9c0.3,0,0.6,0.3,0.6,0.6V11.4z"/>
+</g>
+<g style="&st2;">
+	<polygon style="&st1;" points="22,7 22,4 16,4 14,1 13,1 15,4 13,6 10,6 8,4 1,4 1,10 2,10 3,10 3,9 3,8 4,8 4,7 8,7 8,8 9,8 9,9 
+		9,10 10,10 14,10 15,10 15,9 15,8 16,8 16,7 20,7 20,8 21,8 21,9 21,10 22,10 23,10 23,8 	"/>
+	<path style="&st1;" d="M6,8c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S7.1,8,6,8z M7,10.4C7,10.7,6.7,11,6.4,11H5.6
+		C5.3,11,5,10.7,5,10.4V9.6C5,9.3,5.3,9,5.6,9h0.9C6.7,9,7,9.3,7,9.6V10.4z"/>
+	<path style="&st1;" d="M18,8c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S19.1,8,18,8z M19,10.4c0,0.3-0.3,0.6-0.6,0.6h-0.9
+		c-0.3,0-0.6-0.3-0.6-0.6V9.6C17,9.3,17.3,9,17.6,9h0.9C18.7,9,19,9.3,19,9.6V10.4z"/>
+</g>
+<g>
+	<polygon style="&st1;" points="21,6 21,3 15,3 13,0 12,0 14,3 12,5 9,5 7,3 0,3 0,9 1,9 2,9 2,8 2,7 3,7 3,6 7,6 7,7 8,7 8,8 8,9 
+		9,9 13,9 14,9 14,8 14,7 15,7 15,6 19,6 19,7 20,7 20,8 20,9 21,9 22,9 22,7 	"/>
+	<path style="&st1;" d="M5,7C3.9,7,3,7.9,3,9s0.9,2,2,2c1.1,0,2-0.9,2-2S6.1,7,5,7z M6,9.4C6,9.7,5.7,10,5.4,10H4.6
+		C4.3,10,4,9.7,4,9.4V8.6C4,8.3,4.3,8,4.6,8h0.9C5.7,8,6,8.3,6,8.6V9.4z"/>
+	<path style="&st1;" d="M17,7c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S18.1,7,17,7z M18,9.4c0,0.3-0.3,0.6-0.6,0.6h-0.9
+		C16.3,10,16,9.7,16,9.4V8.6C16,8.3,16.3,8,16.6,8h0.9C17.7,8,18,8.3,18,8.6V9.4z"/>
+</g>
+</svg>

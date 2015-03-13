@@ -1,125 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   id="svg27349"
-   version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="wheelchari-accessible-white-24.svg">
-  <defs
-     id="defs27351" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="8.6123905"
-     inkscape:cx="11.808263"
-     inkscape:cy="10.533919"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="483"
-     inkscape:window-height="454"
-     inkscape:window-x="3648"
-     inkscape:window-y="148"
-     inkscape:window-maximized="0"
-     gridtolerance="10">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3004"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata27354">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1028.3622)">
-    <g
-       id="g19873"
-       transform="matrix(2.4264483,0,0,2.4264483,-9.4454002,-707.24549)">
-      <path
-         d="m 5.058,725.194 c -0.652,0 -1.182,-0.529 -1.182,-1.184 v -7.523 c 0,-0.652 0.529,-1.182 1.182,-1.182 h 7.527 c 0.652,0 1.182,0.529 1.182,1.182 v 7.523 c 0,0.654 -0.529,1.184 -1.182,1.184 H 5.058 z"
-         id="path19875"
-         inkscape:connector-curvature="0"
-         style="opacity:0;fill:#272525" />
-      <g
-         style="opacity:0.6;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="g19877">
-        <circle
-           transform="translate(-17.832,17.45)"
-           cx="25.865"
-           cy="699.59802"
-           r="0.662"
-           id="circle19879"
-           sodipodi:cx="25.865"
-           sodipodi:cy="699.59802"
-           sodipodi:rx="0.662"
-           sodipodi:ry="0.662"
-           style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 26.527,699.59802 c 0,0.36561 -0.296388,0.662 -0.662,0.662 -0.365613,0 -0.662,-0.29639 -0.662,-0.662 0,-0.36561 0.296387,-0.662 0.662,-0.662 0.365612,0 0.662,0.29639 0.662,0.662 z" />
-        <path
-           d="m 8.459,723.393 c -1.086,0 -1.967,-0.879 -1.967,-1.967 0,-0.596 0.27,-1.127 0.689,-1.488 l -0.035,-0.615 c -0.703,0.439 -1.176,1.213 -1.176,2.104 0,1.373 1.113,2.488 2.488,2.488 1.012,0 1.877,-0.609 2.266,-1.477 l -0.35,-0.605 c -0.187,0.888 -0.97,1.56 -1.915,1.56 z"
-           id="path19881"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           d="m 12.367,722.221 h -0.459 l -1.119,-1.93 c -0.07,-0.119 -0.193,-0.185 -0.32,-0.188 H 8.814 L 8.796,719.602 H 10 c 0.165,-0.01 0.3,-0.135 0.3,-0.302 0,-0.166 -0.13,-0.294 -0.3,-0.3 H 8.761 l -0.042,-0.569 c -0.023,-0.348 -0.322,-0.621 -0.675,-0.601 -0.353,0.019 -0.621,0.322 -0.603,0.675 l 0.115,2.01 c 0.03,0.353 0.325,0.604 0.675,0.602 h 2.146 l 0.878,1.52 c 0.072,0.117 0.206,0.182 0.342,0.181 l 0,0.006 h 0.769 c 0.165,-0.01 0.3,-0.135 0.3,-0.302 10e-4,-0.167 -0.129,-0.295 -0.299,-0.301 z"
-           id="path19883"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
-      <g
-         id="g19885">
-        <circle
-           style="fill:#272525"
-           sodipodi:ry="0.662"
-           sodipodi:rx="0.662"
-           sodipodi:cy="699.59802"
-           sodipodi:cx="25.865"
-           id="circle19887"
-           r="0.662"
-           cy="699.59802"
-           cx="25.865"
-           transform="translate(-17.832,17.45)"
-           d="m 26.527,699.59802 c 0,0.36561 -0.296388,0.662 -0.662,0.662 -0.365613,0 -0.662,-0.29639 -0.662,-0.662 0,-0.36561 0.296387,-0.662 0.662,-0.662 0.365612,0 0.662,0.29639 0.662,0.662 z" />
-        <path
-           style="fill:#272525"
-           inkscape:connector-curvature="0"
-           id="path19889"
-           d="m 8.459,723.393 c -1.086,0 -1.967,-0.879 -1.967,-1.967 0,-0.596 0.27,-1.127 0.689,-1.488 l -0.035,-0.615 c -0.703,0.439 -1.176,1.213 -1.176,2.104 0,1.373 1.113,2.488 2.488,2.488 1.012,0 1.877,-0.609 2.266,-1.477 l -0.35,-0.605 c -0.187,0.888 -0.97,1.56 -1.915,1.56 z" />
-        <path
-           style="fill:#272525"
-           inkscape:connector-curvature="0"
-           id="path19891"
-           d="m 12.367,722.221 h -0.459 l -1.119,-1.93 c -0.07,-0.119 -0.193,-0.185 -0.32,-0.188 H 8.814 L 8.796,719.602 H 10 c 0.165,-0.01 0.3,-0.135 0.3,-0.302 0,-0.166 -0.13,-0.294 -0.3,-0.3 H 8.761 l -0.042,-0.569 c -0.023,-0.348 -0.322,-0.621 -0.675,-0.601 -0.353,0.019 -0.621,0.322 -0.603,0.675 l 0.115,2.01 c 0.03,0.353 0.325,0.604 0.675,0.602 h 2.146 l 0.878,1.52 c 0.072,0.117 0.206,0.182 0.342,0.181 l 0,0.006 h 0.769 c 0.165,-0.01 0.3,-0.135 0.3,-0.302 10e-4,-0.167 -0.129,-0.295 -0.299,-0.301 z" />
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY st0 "opacity:0.1;">
+	<!ENTITY st1 "fill:#010101;">
+	<!ENTITY st2 "opacity:0.2;">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="22px" height="24px" viewBox="0 0 22 24" style="enable-background:new 0 0 22 24;" xml:space="preserve">
+<g style="&st0;">
+	<polygon style="&st1;" points="21,19 20,19 16,13 10,13 10,11 13,11 14,10 13,9 10,9 10,8 9,7 8,7 7,8 7,14 9,16 15,16 19,21 
+		21,21 22,20 22,19 	"/>
+	<path style="&st1;" d="M14.4,19c-0.9,1.8-2.8,3-4.9,3c-3,0-5.5-2.5-5.5-5.5c0-1.7,0.8-3.2,2-4.2V10c-2.4,1.3-4,3.6-4,6.5
+		C2,20.6,5.4,24,9.5,24c2.8,0,5.2-1.5,6.5-3.8V19H14.4z"/>
+	<polygon style="&st1;" points="8,2 10,2 10,3 11,3 11,5 10,5 10,6 8,6 8,5 7,5 7,3 8,3 	"/>
+</g>
+<g style="&st2;">
+	<polygon style="&st1;" points="20,18 19,18 15,12 9,12 9,10 12,10 13,9 12,8 9,8 9,7 8,6 7,6 6,7 6,13 8,15 14,15 18,20 20,20 
+		21,19 21,18 	"/>
+	<path style="&st1;" d="M13.4,18c-0.9,1.8-2.8,3-4.9,3c-3,0-5.5-2.5-5.5-5.5c0-1.7,0.8-3.2,2-4.2V9c-2.4,1.3-4,3.6-4,6.5
+		C1,19.6,4.4,23,8.5,23c2.8,0,5.2-1.5,6.5-3.8V18H13.4z"/>
+	<polygon style="&st1;" points="7,1 9,1 9,2 10,2 10,4 9,4 9,5 7,5 7,4 6,4 6,2 7,2 	"/>
+</g>
+<g>
+	<polygon style="&st1;" points="19,17 18,17 14,11 8,11 8,9 11,9 12,8 11,7 8,7 8,6 7,5 6,5 5,6 5,12 7,14 13,14 17,19 19,19 20,18 
+		20,17 	"/>
+	<path style="&st1;" d="M12.4,17c-0.9,1.8-2.8,3-4.9,3c-3,0-5.5-2.5-5.5-5.5c0-1.7,0.8-3.2,2-4.2V8c-2.4,1.3-4,3.6-4,6.5
+		C0,18.6,3.4,22,7.5,22c2.8,0,5.2-1.5,6.5-3.8V17H12.4z"/>
+	<polygon style="&st1;" points="6,0 8,0 8,1 9,1 9,3 8,3 8,4 6,4 6,3 5,3 5,1 6,1 	"/>
+</g>
 </svg>

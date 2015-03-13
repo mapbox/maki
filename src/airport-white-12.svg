@@ -1,80 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="12"
-   height="12"
-   id="svg27703"
-   version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="airport-white-12.svg">
-  <defs
-     id="defs27705" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="11.666125"
-     inkscape:cx="16.676762"
-     inkscape:cy="7.1874659"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1099"
-     inkscape:window-height="656"
-     inkscape:window-x="2867"
-     inkscape:window-y="472"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata27708">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1040.3622)">
-    <path
-       style="opacity:0;fill:#ffffff"
-       inkscape:connector-curvature="0"
-       id="path27571"
-       d="m 1.1971166,1040.265 c -0.68347218,0 -1.23910978,0.5569 -1.23910978,1.2404 v 9.5192 c 0,0.686 0.5556376,1.2417 1.23910978,1.2417 h 9.5192494 c 0.686003,0 1.241641,-0.5569 1.241641,-1.2417 v -9.5192 c 0,-0.6848 -0.556903,-1.2404 -1.241641,-1.2404 H 1.1971166 z" />
-    <g
-       id="g27569"
-       transform="matrix(1.2656893,0,0,1.2656893,-45.621492,944.63214)">
-      <path
-         d="m 37.024,75.634 c -0.54,0 -0.979,0.44 -0.979,0.98 v 7.521 c 0,0.542 0.439,0.981 0.979,0.981 h 7.521 c 0.542,0 0.981,-0.44 0.981,-0.981 v -7.521 c 0,-0.541 -0.44,-0.98 -0.981,-0.98 h -7.521 z"
-         id="path27571-7"
-         inkscape:connector-curvature="0"
-         style="opacity:0;fill:#ffffff" />
-      <path
-         style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:#1d1d1c;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         inkscape:connector-curvature="0"
-         id="path27573"
-         d="m 40.354,76.825 c 0.002,-0.58 0.877,-0.58 0.877,0.017 v 2.437 l 3.41,2.051 v 0.9 l -3.395,-1.117 v 1.82 l 0.785,0.615 v 0.711 l -1.211,-0.376 -1.211,0.376 v -0.711 l 0.777,-0.615 v -1.82 L 36.99,82.23 v -0.9 l 3.363,-2.051 v -2.454 z" />
-      <path
-         d="m 40.354,76.825 c 0.002,-0.58 0.877,-0.58 0.877,0.017 v 2.437 l 3.41,2.051 v 0.9 l -3.395,-1.117 v 1.82 l 0.785,0.615 v 0.711 l -1.211,-0.376 -1.211,0.376 v -0.711 l 0.777,-0.615 v -1.82 L 36.99,82.23 v -0.9 l 3.363,-2.051 v -2.454 z"
-         id="path27575"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>airport-white-12</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M4.85714286,12 L6.28571429,10.5714286 L6.28571429,7.71428571 L2.71428571,9.14285714 L2,9.14285714 L2,8.42857143 L6.28571429,5.57142857 L6.28571429,2.71428571 L7,2 L7.71428571,2.71428571 L7.71428571,5.57142857 L12,8.42857143 L12,9.14285714 L11.2857143,9.14285714 L7.71428571,7.71428571 L7.71428571,10.5714286 L9.14285714,12 L4.85714286,12" id="Fill-71" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M3.85714286,11 L5.28571429,9.57142857 L5.28571429,6.71428571 L1.71428571,8.14285714 L1,8.14285714 L1,7.42857143 L5.28571429,4.57142857 L5.28571429,1.71428571 L6,1 L6.71428571,1.71428571 L6.71428571,4.57142857 L11,7.42857143 L11,8.14285714 L10.2857143,8.14285714 L6.71428571,6.71428571 L6.71428571,9.57142857 L8.14285714,11 L3.85714286,11" id="Fill-71" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
+        <path d="M2.85714286,10 L4.28571429,8.57142857 L4.28571429,5.71428571 L0.714285714,7.14285714 L0,7.14285714 L0,6.42857143 L4.28571429,3.57142857 L4.28571429,0.714285714 L5,0 L5.71428571,0.714285714 L5.71428571,3.57142857 L10,6.42857143 L10,7.14285714 L9.28571429,7.14285714 L5.71428571,5.71428571 L5.71428571,8.57142857 L7.14285714,10 L2.85714286,10" id="Fill-71" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
     </g>
-  </g>
 </svg>
