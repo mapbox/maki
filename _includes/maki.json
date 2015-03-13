@@ -1,19 +1,19 @@
 [
   {
-    "name": "4 Wheel Drive (Black)",
+    "name": "Four Wheel Drive (Black)",
     "tags": [
       "4 wheel drive",
       "off road"
     ],
-    "icon": "four-wheel-drive-black"
+    "icon": "four-wheel-drive-road-black"
   },
   {
-    "name": "4 Wheel Drive (White)",
+    "name": "Four Wheel Drive (White)",
     "tags": [
       "4 wheel drive",
       "off road"
     ],
-    "icon": "four-wheel-drive-white"
+    "icon": "four-wheel-drive-road-white"
   },
   {
     "name": "Airport (Black)",
@@ -100,6 +100,24 @@
       "recreation"
     ],
     "icon": "boat-launch-white"
+  },
+  {
+    "name": "Boat Tour (Black)",
+    "tags": [
+      "boats",
+      "sailing",
+      "recreation"
+    ],
+    "icon": "boat-tour-black"
+  },
+  {
+    "name": "Boat Tour (White)",
+    "tags": [
+      "boats",
+      "sailing",
+      "recreation"
+    ],
+    "icon": "boat-tour-white"
   },
   {
     "name": "Bus and Shuttle Stop (Black)",
@@ -485,25 +503,11 @@
     "icon": "post-office-black"
   },
   {
-    "name": "Post Ofice (White)",
+    "name": "Post Office (White)",
     "tags": [
       "post office"
     ],
     "icon": "post-office-white"
-  },
-  {
-    "name": "RV Campground (Black)",
-    "tags": [
-      "rv campground"
-    ],
-    "icon": "rv-campground-black"
-  },
-  {
-    "name": "RV Campground (White)",
-    "tags": [
-      "rv campground"
-    ],
-    "icon": "rv-campground-white"
   },
   {
     "name": "Radiator Water (Black)",
@@ -522,16 +526,14 @@
   {
     "name": "Ranger Station (Black)",
     "tags": [
-      "ranger station",
-      "ranger"
+      "ranger station"
     ],
     "icon": "ranger-station-black"
   },
   {
     "name": "Ranger Station (White)",
     "tags": [
-      "ranger station",
-      "ranger"
+      "ranger station"
     ],
     "icon": "ranger-station-white"
   },
@@ -566,6 +568,20 @@
       "toilet"
     ],
     "icon": "restrooms-white"
+  },
+  {
+    "name": "RV Campground (Black)",
+    "tags": [
+      "rv campground"
+    ],
+    "icon": "rv-campground-black"
+  },
+  {
+    "name": "RV Campground (White)",
+    "tags": [
+      "rv campground"
+    ],
+    "icon": "rv-campground-white"
   },
   {
     "name": "Sailing (Black)",
@@ -752,6 +768,20 @@
       "trailhead"
     ],
     "icon": "trailhead-white"
+  },
+  {
+    "name": "Visitor Center (Black)",
+    "tags": [
+      "visitor center"
+    ],
+    "icon": "visitor-center-black"
+  },
+  {
+    "name": "Visitor Center (White)",
+    "tags": [
+      "visitor center"
+    ],
+    "icon": "visitor-center-white"
   },
   {
     "name": "Wheelchair Accessible (Black)",
