@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.1;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.2;">
-	<!ENTITY st3 "fill:#335126;">
-	<!ENTITY st4 "fill:#FFFFFF;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="22px" height="24px" viewBox="0 0 22 24" style="enable-background:new 0 0 22 24;" xml:space="preserve">
-<g style="&st0;">
-	<path style="&st1;" d="M21,15l-7-4.7V6h2v1h3V3h-3V2h-2h-1v7.7L12,9l-9,6H2v1h2v8h16v-8h2v-1H21z M14,21l-2,2h-2l1-6h-1l1-1h3l-1,1
-		l-0.7,4H14z M14,13.6v0.9V15h-0.6h-0.9H12v-0.6V13h0.6h0.9H14V13.6z"/>
-</g>
-<g style="&st2;">
-	<path style="&st1;" d="M20,14l-7-4.7V5h2v1h3V2h-3V1h-2h-1v7.7L11,8l-9,6H1v1h2v8h16v-8h2v-1H20z M13,20l-2,2H9l1-6H9l1-1h3l-1,1
-		l-0.7,4H13z M13,12.6v0.9V14h-0.6h-0.9H11v-0.6V12h0.6h0.9H13V12.6z"/>
-</g>
-<polygon style="&st3;" points="19,13 12,8.3 12,4 14,4 14,5 17,5 17,1 14,1 14,0 12,0 11,0 11,7.7 10,7 1,13 0,13 0,14 2,14 2,22 
-	18,22 18,14 20,14 20,13 "/>
-<polygon style="&st4;" points="12,19 10,21 8,21 9,15 8,15 9,14 12,14 11,15 10.3,19 "/>
-<polygon style="&st4;" points="12,11.6 12,12.4 12,13 11.4,13 10.6,13 10,13 10,12.4 10,11 10.6,11 11.4,11 12,11 "/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>visitor-center-black-24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="artboard" sketch:type="MSArtboardGroup" transform="translate(-1506.000000, -4129.000000)">
+            <path d="M1467.42,301.602 L1567.42,301.602 L1567.42,4429.73 L1467.42,4429.73 L1467.42,301.602 Z" id="Fill-6" fill="#F4F3F2" sketch:type="MSShapeGroup"></path>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(1503.000000, 546.000000)">
+                <path d="M22,3596 L15,3591.34 L15,3587 L17,3587 L17,3588 L20,3588 L20,3584 L17,3584 L17,3583 L14,3583 L14,3590.67 L13,3590 L4,3596 L3,3596 L3,3597 L5,3597 L5,3605 L21,3605 L21,3597 L23,3597 L23,3596 L22,3596" id="Fill-1246" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M24,3598 L17,3593.34 L17,3589 L19,3589 L19,3590 L22,3590 L22,3586 L19,3586 L19,3585 L16,3585 L16,3592.67 L15,3592 L6,3598 L5,3598 L5,3599 L7,3599 L7,3607 L23,3607 L23,3599 L25,3599 L25,3598 L24,3598" id="Fill-1923" opacity="0.1" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M23,3597 L16,3592.34 L16,3588 L18,3588 L18,3589 L21,3589 L21,3585 L18,3585 L18,3584 L15,3584 L15,3591.67 L14,3591 L5,3597 L4,3597 L4,3598 L6,3598 L6,3606 L22,3606 L22,3598 L24,3598 L24,3597 L23,3597" id="Fill-1922" opacity="0.2" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M15,3602 L13,3604 L11,3604 L12,3598 L11,3598 L12,3597 L15,3597 L14,3598 L13.33,3602 L15,3602" id="Fill-1247" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M15,3594.56 L15,3596 L13,3596 L13,3594 L15,3594 L15,3594.56" id="Fill-1248" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
 </svg>

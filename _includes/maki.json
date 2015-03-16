@@ -25,6 +25,15 @@
     "icon": "airport-black"
   },
   {
+    "name": "Airport HFC (Black)",
+    "tags": [
+      "airport",
+      "plane",
+      "travel"
+    ],
+    "icon": "airport-black-hfc"
+  },
+  {
     "name": "Airport (White)",
     "tags": [
       "airport",
