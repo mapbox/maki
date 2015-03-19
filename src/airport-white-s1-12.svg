@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>airport-white-12-s1</title>
+    <title>airport-white-s1-12</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <rect id="gray" fill="#F0F0F0" sketch:type="MSShapeGroup" x="-60" y="-63" width="155" height="191"></rect>
         <path d="M5.85714286,13 L7.28571429,11.5714286 L7.28571429,8.71428571 L3.71428571,10.1428571 L3,10.1428571 L3,9.42857143 L7.28571429,6.57142857 L7.28571429,3.71428571 L8,3 L8.71428571,3.71428571 L8.71428571,6.57142857 L13,9.42857143 L13,10.1428571 L12.2857143,10.1428571 L8.71428571,8.71428571 L8.71428571,11.5714286 L10.1428571,13 L5.85714286,13" id="Fill-71" opacity="0.1" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
         <path d="M4.85714286,12 L6.28571429,10.5714286 L6.28571429,7.71428571 L2.71428571,9.14285714 L2,9.14285714 L2,8.42857143 L6.28571429,5.57142857 L6.28571429,2.71428571 L7,2 L7.71428571,2.71428571 L7.71428571,5.57142857 L12,8.42857143 L12,9.14285714 L11.2857143,9.14285714 L7.71428571,7.71428571 L7.71428571,10.5714286 L9.14285714,12 L4.85714286,12" id="Fill-71" opacity="0.2" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
         <path d="M3.85714286,11 L5.28571429,9.57142857 L5.28571429,6.71428571 L1.71428571,8.14285714 L1,8.14285714 L1,7.42857143 L5.28571429,4.57142857 L5.28571429,1.71428571 L6,1 L6.71428571,1.71428571 L6.71428571,4.57142857 L11,7.42857143 L11,8.14285714 L10.2857143,8.14285714 L6.71428571,6.71428571 L6.71428571,9.57142857 L8.14285714,11 L3.85714286,11" id="Fill-71" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
