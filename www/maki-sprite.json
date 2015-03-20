@@ -352,4 +352,10 @@
 "wind-surfing-black-12": { "x": 96, "y": 552, "width": 12, "height": 12 },
 "wind-surfing-white-24": { "x": 108, "y": 552, "width": 24, "height": 24 },
 "wind-surfing-white-18": { "x": 132, "y": 552, "width": 18, "height": 18 },
-"wind-surfing-white-12": { "x": 150, "y": 552, "width": 12, "height": 12 }}
+"wind-surfing-white-12": { "x": 150, "y": 552, "width": 12, "height": 12 },
+"wind-surfing-black-resized-24": { "x": 162, "y": 552, "width": 24, "height": 24 },
+"wind-surfing-black-resized-18": { "x": 186, "y": 552, "width": 18, "height": 18 },
+"wind-surfing-black-resized-12": { "x": 204, "y": 552, "width": 12, "height": 12 },
+"wind-surfing-white-resized-24": { "x": 216, "y": 552, "width": 24, "height": 24 },
+"wind-surfing-white-resized-18": { "x": 240, "y": 552, "width": 18, "height": 18 },
+"wind-surfing-white-resized-12": { "x": 258, "y": 552, "width": 12, "height": 12 }}

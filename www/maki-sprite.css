@@ -21,7 +21,7 @@
   only screen and (min-device-pixel-ratio : 2) {
   .maki-icon {
     background-image:url(images/maki-sprite@2x.png);
-    background-size: 276px 576px; /* Replaced automatically by render.sh */
+    background-size: 276px 575px; /* Replaced automatically by render.sh */
   }
   .dark .maki-icon { background-image:url(images/maki-sprite.dark@2x.png); }
 }
@@ -145,3 +145,5 @@
 .maki-icon.wheelchair-accessible-white { background-position: 0px -552px; }
 .maki-icon.wind-surfing-black { background-position: -54px -552px; }
 .maki-icon.wind-surfing-white { background-position: -108px -552px; }
+.maki-icon.wind-surfing-black-resized { background-position: -162px -552px; }
+.maki-icon.wind-surfing-white-resized { background-position: -216px -552px; }
