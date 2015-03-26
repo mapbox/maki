@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.1;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.2;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="24px" height="21px" viewBox="0 0 24 21" style="enable-background:new 0 0 24 21;" xml:space="preserve">
-<g style="&st0;">
-	<path style="&st1;" d="M5.4,3.5l4.4,1.2L12,2h1l-2,3l13,3.6L23,12L9.6,8.5C4.5,6.9,5.4,3.5,5.4,3.5"/>
-	<polygon style="&st1;" points="2,13 2,21 5,20 9,21 13,20 17,21 21,20 24,21 24,19 	"/>
-	<polygon style="&st1;" points="2,8 2,9 11,12 11,11 	"/>
-	<polygon style="&st1;" points="17,13 17,14 24,16 24,15 	"/>
-	<path style="&st1;" d="M14,11c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S15.1,11,14,11z M15,13.6c0,0.2-0.2,0.4-0.4,0.4h-1.1
-		c-0.2,0-0.4-0.2-0.4-0.4v-1.1c0-0.2,0.2-0.4,0.4-0.4h1.1c0.2,0,0.4,0.2,0.4,0.4V13.6z"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<path d="M7.6,6.3L11,7.2l1.7-2.1h0.8L12,7.5l10,2.7l-0.8,2.7l-10.3-2.7C6.9,9,7.6,6.3,7.6,6.3"/>
+		<polygon points="5,13.7 5,19.8 7.3,19.1 10.4,19.8 13.5,19.1 16.6,19.8 19.7,19.1 22,19.8 22,18.3 		"/>
+		<polygon points="5,9.8 5,10.6 12,12.9 12,12.1 		"/>
+		<polygon points="16.6,13.7 16.6,14.4 22,16 22,15.2 		"/>
+		<path d="M14.3,12.1c-0.9,0-1.5,0.7-1.5,1.5c0,0.9,0.7,1.5,1.5,1.5c0.9,0,1.5-0.7,1.5-1.5C15.8,12.8,15.1,12.1,14.3,12.1z M15,14.1
+			c0,0.2-0.2,0.3-0.3,0.3h-0.9c-0.2,0-0.3-0.2-0.3-0.3v-0.9c0-0.2,0.2-0.3,0.3-0.3h0.9c0.2,0,0.3,0.2,0.3,0.3V14.1z"/>
+	</g>
 </g>
-<g style="&st2;">
-	<path style="&st1;" d="M4.4,2.5l4.4,1.2L11,1h1l-2,3l13,3.6L22,11L8.6,7.5C3.5,5.9,4.4,2.5,4.4,2.5"/>
-	<polygon style="&st1;" points="1,12 1,20 4,19 8,20 12,19 16,20 20,19 23,20 23,18 	"/>
-	<polygon style="&st1;" points="1,7 1,8 10,11 10,10 	"/>
-	<polygon style="&st1;" points="16,12 16,13 23,15 23,14 	"/>
-	<path style="&st1;" d="M13,10c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S14.1,10,13,10z M14,12.6c0,0.2-0.2,0.4-0.4,0.4h-1.1
-		c-0.2,0-0.4-0.2-0.4-0.4v-1.1c0-0.2,0.2-0.4,0.4-0.4h1.1c0.2,0,0.4,0.2,0.4,0.4V12.6z"/>
+<g id="icons">
+	<g>
+		<path d="M6.6,5.3L10,6.2l1.7-2.1h0.8L11,6.5l10,2.7l-0.8,2.7L9.9,9.2C5.9,8,6.6,5.3,6.6,5.3"/>
+		<polygon points="4,12.7 4,18.8 6.3,18.1 9.4,18.8 12.5,18.1 15.6,18.8 18.7,18.1 21,18.8 21,17.3 		"/>
+		<polygon points="4,8.8 4,9.6 11,11.9 11,11.1 		"/>
+		<polygon points="15.6,12.7 15.6,13.4 21,15 21,14.2 		"/>
+		<path d="M13.3,11.1c-0.9,0-1.5,0.7-1.5,1.5c0,0.9,0.7,1.5,1.5,1.5c0.9,0,1.5-0.7,1.5-1.5C14.8,11.8,14.1,11.1,13.3,11.1z M14,13.1
+			c0,0.2-0.2,0.3-0.3,0.3h-0.9c-0.2,0-0.3-0.2-0.3-0.3v-0.9c0-0.2,0.2-0.3,0.3-0.3h0.9c0.2,0,0.3,0.2,0.3,0.3V13.1z"/>
+	</g>
 </g>
-<g>
-	<path style="&st1;" d="M3.4,1.5l4.4,1.2L10,0h1L9,3l13,3.6L21,10L7.6,6.5C2.5,4.9,3.4,1.5,3.4,1.5"/>
-	<polygon style="&st1;" points="0,11 0,19 3,18 7,19 11,18 15,19 19,18 22,19 22,17 	"/>
-	<polygon style="&st1;" points="0,6 0,7 9,10 9,9 	"/>
-	<polygon style="&st1;" points="15,11 15,12 22,14 22,13 	"/>
-	<path style="&st1;" d="M12,9c-1.1,0-2,0.9-2,2s0.9,2,2,2c1.1,0,2-0.9,2-2S13.1,9,12,9z M13,11.6c0,0.2-0.2,0.4-0.4,0.4h-1.1
-		c-0.2,0-0.4-0.2-0.4-0.4v-1.1c0-0.2,0.2-0.4,0.4-0.4h1.1c0.2,0,0.4,0.2,0.4,0.4V11.6z"/>
+<g id="guides">
 </g>
 </svg>

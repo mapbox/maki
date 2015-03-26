@@ -1,30 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>boat-launch-white-12</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Group" sketch:type="MSLayerGroup" transform="translate(2.000000, 2.000000)" fill="#0A0B09" opacity="0.5">
-            <path d="M10,8.06886667 L10,7.33553333 L7.85714286,6.70706667 L7.85714286,7.33553333 L10,8.06886667" id="Fill-181" sketch:type="MSShapeGroup"></path>
-            <path d="M0,4.4022 L0,5.13553333 L5,6.6022 L5,5.86886667 L0,4.4022" id="Fill-182" sketch:type="MSShapeGroup"></path>
-            <path d="M1.97142857,3.5134 L2.85714286,3.66886667 L3.36428571,3.9226 L9.25,5.64886667 L9.55714286,4.72266667 L10,3.45913333 L3.60714286,1.58326667 L4.95714286,0.0022 L4.28571429,0.0022 L2.83571429,1.35813333 L0.714285714,0.735533333 L1.97142857,3.5134" id="Fill-183" sketch:type="MSShapeGroup"></path>
-            <path d="M0,10.2688667 L0,6.6022 L10,9.53553333 L10,10.2688667 L0,10.2688667" id="Fill-184" sketch:type="MSShapeGroup"></path>
-            <path d="M5.71428571,5.86886667 L7.14285714,5.86886667 L7.14285714,7.33553333 L5.71428571,7.33553333 L5.71428571,5.86886667 Z" id="Fill-185" sketch:type="MSShapeGroup"></path>
-        </g>
-        <g id="Group" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)" fill="#0A0B09" opacity="0.75">
-            <path d="M10,8.06886667 L10,7.33553333 L7.85714286,6.70706667 L7.85714286,7.33553333 L10,8.06886667" id="Fill-181" sketch:type="MSShapeGroup"></path>
-            <path d="M0,4.4022 L0,5.13553333 L5,6.6022 L5,5.86886667 L0,4.4022" id="Fill-182" sketch:type="MSShapeGroup"></path>
-            <path d="M1.97142857,3.5134 L2.85714286,3.66886667 L3.36428571,3.9226 L9.25,5.64886667 L9.55714286,4.72266667 L10,3.45913333 L3.60714286,1.58326667 L4.95714286,0.0022 L4.28571429,0.0022 L2.83571429,1.35813333 L0.714285714,0.735533333 L1.97142857,3.5134" id="Fill-183" sketch:type="MSShapeGroup"></path>
-            <path d="M0,10.2688667 L0,6.6022 L10,9.53553333 L10,10.2688667 L0,10.2688667" id="Fill-184" sketch:type="MSShapeGroup"></path>
-            <path d="M5.71428571,5.86886667 L7.14285714,5.86886667 L7.14285714,7.33553333 L5.71428571,7.33553333 L5.71428571,5.86886667 Z" id="Fill-185" sketch:type="MSShapeGroup"></path>
-        </g>
-        <g id="Group" sketch:type="MSLayerGroup" fill="#FFFFFF">
-            <path d="M10,8.06886667 L10,7.33553333 L7.85714286,6.70706667 L7.85714286,7.33553333 L10,8.06886667" id="Fill-181" sketch:type="MSShapeGroup"></path>
-            <path d="M0,4.4022 L0,5.13553333 L5,6.6022 L5,5.86886667 L0,4.4022" id="Fill-182" sketch:type="MSShapeGroup"></path>
-            <path d="M1.97142857,3.5134 L2.85714286,3.66886667 L3.36428571,3.9226 L9.25,5.64886667 L9.55714286,4.72266667 L10,3.45913333 L3.60714286,1.58326667 L4.95714286,0.0022 L4.28571429,0.0022 L2.83571429,1.35813333 L0.714285714,0.735533333 L1.97142857,3.5134" id="Fill-183" sketch:type="MSShapeGroup"></path>
-            <path d="M0,10.2688667 L0,6.6022 L10,9.53553333 L10,10.2688667 L0,10.2688667" id="Fill-184" sketch:type="MSShapeGroup"></path>
-            <path d="M5.71428571,5.86886667 L7.14285714,5.86886667 L7.14285714,7.33553333 L5.71428571,7.33553333 L5.71428571,5.86886667 Z" id="Fill-185" sketch:type="MSShapeGroup"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<polygon points="11.5,8.6 11.5,7.9 9.6,7.4 9.6,7.9 		"/>
+		<polygon points="2.5,5.4 2.5,6 7,7.3 7,6.6 		"/>
+		<polygon points="4.3,4.6 5.1,4.7 5.5,4.9 10.8,6.5 11.1,5.6 11.5,4.5 5.7,2.9 7,1.5 6.4,1.5 5.1,2.7 3.1,2.1 		"/>
+		<polygon points="2.5,10.5 2.5,7.3 11.5,9.9 11.5,10.5 		"/>
+		<rect x="7.6" y="6.6" width="1.3" height="1.3"/>
+	</g>
+</g>
+<g id="icons">
+	<g>
+		<polygon fill="#FFFFFF" points="11,8.1 11,7.4 9.1,6.9 9.1,7.4 		"/>
+		<polygon fill="#FFFFFF" points="2,4.9 2,5.5 6.5,6.8 6.5,6.1 		"/>
+		<polygon fill="#FFFFFF" points="3.8,4.1 4.6,4.2 5,4.4 10.3,6 10.6,5.1 11,4 5.2,2.4 6.5,1 5.9,1 4.6,2.2 2.6,1.6 		"/>
+		<polygon fill="#FFFFFF" points="2,10 2,6.8 11,9.4 11,10 		"/>
+		<rect x="7.1" y="6.1" fill="#FFFFFF" width="1.3" height="1.3"/>
+	</g>
+</g>
+<g id="guides">
+</g>
 </svg>

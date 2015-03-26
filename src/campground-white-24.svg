@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.5;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.75;">
-	<!ENTITY st3 "fill:#FFFFFF;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="24px" height="21px" viewBox="0 0 24 21" style="enable-background:new 0 0 24 21;" xml:space="preserve">
-<g style="&st0;">
-	<path style="&st1;" d="M22,20L13,2L4,20H2v1h22v-1H22z M8,20l5-10l5,10H8z"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<path d="M20.5,19.1l-7-13.9l-7,13.9H5v0.8h17v-0.8H20.5z M9.6,19.1l3.9-7.7l3.9,7.7H9.6z"/>
+	</g>
 </g>
-<g style="&st2;">
-	<path style="&st1;" d="M21,19L12,1L3,19H1v1h22v-1H21z M7,19l5-10l5,10H7z"/>
+<g id="icons">
+	<g>
+		<path fill="#FFFFFF" d="M19.5,18.1l-7-13.9l-7,13.9H4v0.8h17v-0.8H19.5z M8.6,18.1l3.9-7.7l3.9,7.7H8.6z"/>
+	</g>
 </g>
-<g>
-	<path style="&st3;" d="M20,18L11,0L2,18H0v1h22v-1H20z M6,18l5-10l5,10H6z"/>
+<g id="guides">
 </g>
 </svg>

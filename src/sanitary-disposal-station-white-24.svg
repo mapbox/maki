@@ -1,40 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.5;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.75;">
-	<!ENTITY st3 "fill:#FFFFFF;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="24px" height="21px" viewBox="0 0 24 21" style="enable-background:new 0 0 24 21;" xml:space="preserve">
-<g style="&st0;">
-	<path style="&st1;" d="M22,11V3h-1V2H6v1H5v8h1v1h5v-2h1V9h3v1h1v2h8v-1H22z M13,6H8L7,5l1-1h5l1,1L13,6z M19,6h-2l-1-1l1-1h2l1,1
-		L19,6z"/>
-	<path style="&st1;" d="M12,10h3v3h-3V10z M13,12h1v-1h-1V12z"/>
-	<polygon style="&st1;" points="10,14 23,14 24,15 24,20 23,21 3,21 2,20 2,15 3,14 6,14 6,15 4,15 3,16 3,19 4,20 12,20 13,19 
-		13,16 12,15 10,15 	"/>
-	<polygon style="&st1;" points="7.5,13 8.5,13 8.5,17 10,17 8,19 6,17 7.5,17 	"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<path d="M20.455,12.114V5.932h-0.773V5.159H8.091v0.772H7.318v6.182h0.772v0.772h3.864v-1.545h0.773v-0.772h2.318v0.772h0.773
+			v1.545H22v-0.772H20.455z M13.5,8.25H9.636L8.864,7.477l0.772-0.773H13.5l0.773,0.773L13.5,8.25z M18.136,8.25h-1.545
+			l-0.772-0.773l0.772-0.773h1.545l0.773,0.773L18.136,8.25z"/>
+		<path d="M12.727,11.341h2.318v2.318h-2.318V11.341z M13.5,12.886h0.773v-0.772H13.5V12.886z"/>
+		<polygon points="11.182,14.432 21.227,14.432 22,15.205 22,19.068 21.227,19.841 5.773,19.841 5,19.068 5,15.205 5.773,14.432 
+			8.091,14.432 8.091,15.205 6.545,15.205 5.773,15.977 5.773,18.295 6.545,19.068 12.727,19.068 13.5,18.295 13.5,15.977 
+			12.727,15.205 11.182,15.205 		"/>
+		<polygon points="9.247,13.659 10.019,13.659 10.019,16.75 11.181,16.75 9.636,18.295 8.09,16.75 9.247,16.75 		"/>
+		<rect x="5" y="5.159" fill="none" width="17" height="14.682"/>
+	</g>
 </g>
-<g style="&st2;">
-	<path style="&st1;" d="M21,10V2h-1V1H5v1H4v8h1v1h5V9h1V8h3v1h1v2h8v-1H21z M12,5H7L6,4l1-1h5l1,1L12,5z M18,5h-2l-1-1l1-1h2l1,1
-		L18,5z"/>
-	<path style="&st1;" d="M11,9h3v3h-3V9z M12,11h1v-1h-1V11z"/>
-	<polygon style="&st1;" points="9,13 22,13 23,14 23,19 22,20 2,20 1,19 1,14 2,13 5,13 5,14 3,14 2,15 2,18 3,19 11,19 12,18 
-		12,15 11,14 9,14 	"/>
-	<polygon style="&st1;" points="6.5,12 7.5,12 7.5,16 9,16 7,18 5,16 6.5,16 	"/>
-</g>
-<g>
-	<path style="&st3;" d="M20,9V1h-1V0H4v1H3v8h1v1h5V8h1V7h3v1h1v2h8V9H20z M11,4H6L5,3l1-1h5l1,1L11,4z M17,4h-2l-1-1l1-1h2l1,1
-		L17,4z"/>
-	<path style="&st3;" d="M10,8h3v3h-3V8z M11,10h1V9h-1V10z"/>
-	<polygon style="&st3;" points="8,12 21,12 22,13 22,18 21,19 1,19 0,18 0,13 1,12 4,12 4,13 2,13 1,14 1,17 2,18 10,18 11,17 
-		11,14 10,13 8,13 	"/>
-	<polygon style="&st3;" points="5.5,11 6.5,11 6.5,15 8,15 6,17 4,15 5.5,15 	"/>
+<g id="icons">
+	<path fill="#FFFFFF" d="M19.455,11.114V4.932h-0.773V4.159H7.091v0.772H6.318v6.182h0.772v0.772h3.864v-1.545h0.773V9.569h2.318
+		v0.772h0.773v1.545H21v-0.772H19.455z M12.5,7.25H8.636L7.864,6.477l0.772-0.773H12.5l0.773,0.773L12.5,7.25z M17.136,7.25h-1.545
+		l-0.772-0.773l0.772-0.773h1.545l0.773,0.773L17.136,7.25z"/>
+	<path fill="#FFFFFF" d="M11.727,10.341h2.318v2.318h-2.318V10.341z M12.5,11.886h0.773v-0.772H12.5V11.886z"/>
+	<polygon fill="#FFFFFF" points="10.182,13.432 20.227,13.432 21,14.205 21,18.069 20.227,18.841 4.773,18.841 4,18.069 4,14.205 
+		4.773,13.432 7.091,13.432 7.091,14.205 5.545,14.205 4.773,14.977 4.773,17.296 5.545,18.069 11.727,18.069 12.5,17.296 
+		12.5,14.977 11.727,14.205 10.182,14.205 	"/>
+	<polygon fill="#FFFFFF" points="8.247,12.659 9.019,12.659 9.019,15.75 10.181,15.75 8.636,17.296 7.09,15.75 8.247,15.75 	"/>
 </g>
 </svg>

@@ -1,21 +1,5 @@
 [
   {
-    "name": "Four Wheel Drive (Black)",
-    "tags": [
-      "4 wheel drive",
-      "off road"
-    ],
-    "icon": "four-wheel-drive-road-black"
-  },
-  {
-    "name": "Four Wheel Drive (White)",
-    "tags": [
-      "4 wheel drive",
-      "off road"
-    ],
-    "icon": "four-wheel-drive-road-white"
-  },
-  {
     "name": "Airport (Black)",
     "tags": [
       "airport",
@@ -25,33 +9,6 @@
     "icon": "airport-black"
   },
   {
-    "name": "Airport HFC (Black)",
-    "tags": [
-      "airport",
-      "plane",
-      "travel"
-    ],
-    "icon": "airport-black-hfc"
-  },
-  {
-    "name": "Airport Lighter Shadow (Black)",
-    "tags": [
-      "airport",
-      "plane",
-      "travel"
-    ],
-    "icon": "airport-black-s1"
-  },
-  {
-    "name": "Airport Single Shadow (Black)",
-    "tags": [
-      "airport",
-      "plane",
-      "travel"
-    ],
-    "icon": "airport-black-s2"
-  },
-  {
     "name": "Airport (White)",
     "tags": [
       "airport",
@@ -59,24 +16,6 @@
       "travel"
     ],
     "icon": "airport-white"
-  },
-  {
-    "name": "Airport Lighter Shadow (White)",
-    "tags": [
-      "airport",
-      "plane",
-      "travel"
-    ],
-    "icon": "airport-white-s1"
-  },
-  {
-    "name": "Airport Single Shadow (White)",
-    "tags": [
-      "airport",
-      "plane",
-      "travel"
-    ],
-    "icon": "airport-white-s2"
   },
   {
     "name": "Amphitheater (Black)",
@@ -326,33 +265,6 @@
     "icon": "food-service-black"
   },
   {
-    "name": "Food Service Lighter Shadow (Black)",
-    "tags": [
-      "food",
-      "restaurant",
-      "dining"
-    ],
-    "icon": "food-service-black-s1"
-  },
-  {
-    "name": "Food Service Single Shadow (White)",
-    "tags": [
-      "food",
-      "restaurant",
-      "dining"
-    ],
-    "icon": "food-service-white-s2"
-  },
-  {
-    "name": "Food Service Lighter Shadow (White)",
-    "tags": [
-      "food",
-      "restaurant",
-      "dining"
-    ],
-    "icon": "food-service-white-s1"
-  },
-  {
     "name": "Food Service (White)",
     "tags": [
       "food",
@@ -360,6 +272,22 @@
       "dining"
     ],
     "icon": "food-service-white"
+  },
+  {
+    "name": "Four Wheel Drive (Black)",
+    "tags": [
+      "4 wheel drive",
+      "off road"
+    ],
+    "icon": "four-wheel-drive-road-black"
+  },
+  {
+    "name": "Four Wheel Drive (White)",
+    "tags": [
+      "4 wheel drive",
+      "off road"
+    ],
+    "icon": "four-wheel-drive-road-white"
   },
   {
     "name": "Gas Station (Black)",
@@ -705,32 +633,11 @@
     "icon": "self-guiding-trail-black"
   },
   {
-    "name": "Self Guided Trail Lighter Shadow (Black)",
-    "tags": [
-      "trail"
-    ],
-    "icon": "self-guiding-trail-black-s1"
-  },
-  {
     "name": "Self Guided Trail (White)",
     "tags": [
       "trail"
     ],
     "icon": "self-guiding-trail-white"
-  },
-  {
-    "name": "Self Guided Trail Lighter Shadow (White)",
-    "tags": [
-      "trail"
-    ],
-    "icon": "self-guiding-trail-white-s1"
-  },
-  {
-    "name": "Self Guided Trail Single Shadow (White)",
-    "tags": [
-      "trail"
-    ],
-    "icon": "self-guiding-trail-white-s2"
   },
   {
     "name": "Shelter (Black)",
@@ -754,32 +661,11 @@
     "icon": "showers-black"
   },
   {
-    "name": "Showers Lighter Shadow (Black)",
-    "tags": [
-      "showers"
-    ],
-    "icon": "showers-black-s1"
-  },
-  {
     "name": "Showers (White)",
     "tags": [
       "showers"
     ],
     "icon": "showers-white"
-  },
-  {
-    "name": "Showers Lighter Shadow (White)",
-    "tags": [
-      "showers"
-    ],
-    "icon": "showers-white-s1"
-  },
-  {
-    "name": "Showers Single Shadow (White)",
-    "tags": [
-      "showers"
-    ],
-    "icon": "showers-white-s2"
   },
   {
     "name": "Sledding (Black)",
@@ -924,19 +810,5 @@
       "wind surfing"
     ],
     "icon": "wind-surfing-white"
-  },
-  {
-    "name": "Wind Surfing Resized (Black)",
-    "tags": [
-      "wind surfing"
-    ],
-    "icon": "wind-surfing-black-resized"
-  },
-  {
-    "name": "Wind Surfing Resized (White)",
-    "tags": [
-      "wind surfing"
-    ],
-    "icon": "wind-surfing-white-resized"
   }
 ]

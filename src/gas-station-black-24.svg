@@ -1,34 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.5;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.75;">
-	<!ENTITY st3 "fill:#FFFFFF;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="20px" height="24px" viewBox="0 0 20 24" style="enable-background:new 0 0 20 24;" xml:space="preserve">
-<g style="&st0;">
-	<path style="&st1;" d="M19,16.4L19,16.4v-1.5V8.2c0-0.7-0.4-1.3-0.9-1.8L15,3.5c-0.2,0-0.8,0.4-0.8,0.4c0,0.2,1.5,1.8,1.5,1.8
-		l0,2.6c0,0.9,0.8,1.8,1.7,1.8L18,9.9v5v1.7l1,5.1c0,0.8-0.9,1.3-1.5,1.3c-0.5,0-1.5-0.5-1.5-1v-8.9c0-1.1-0.6-2.1-1.6-2.1H12V3h-1
-		V2H3v1H2v21h10V12.4h2.4c0.4,0,0.6,0.3,0.6,0.7V22c0,1.2,1.2,2,2.5,2c1.2,0,2.5-0.8,2.5-2C20,21.7,19,16.4,19,16.4z M18,9h-1V7h1V9
-		z M10.5,7.8L9.6,8.6H4.4L3.5,7.8V4.2l0.9-0.9h5.2l0.9,0.9V7.8z"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<path d="M19.7,15.1L19.7,15.1V14V8.8c0-0.6-0.3-1-0.7-1.4l-2.4-2.2c-0.2,0-0.6,0.3-0.6,0.3c0,0.2,1.2,1.4,1.2,1.4l0,2
+			c0,0.7,0.6,1.4,1.3,1.4l0.5-0.1V14v1.3l0.8,3.9c0,0.6-0.7,1-1.2,1c-0.4,0-1.1-0.4-1.1-0.8v-6.8c0-0.8-0.4-1.6-1.3-1.6h-1.8V4.8
+			h-0.8V4H7.3v0.8H6.5V21h7.7v-9h1.8c0.3,0,0.5,0.3,0.5,0.6v6.8c0,0.9,0.9,1.6,1.9,1.6c0.9,0,2-0.6,2-1.6
+			C20.4,19.2,19.7,15.1,19.7,15.1z M18.9,9.4h-0.8V7.9h0.8V9.4z M13.1,8.4l-0.7,0.7H8.4L7.7,8.4V5.7l0.7-0.7h4.1l0.7,0.7V8.4z"/>
+	</g>
 </g>
-<g style="&st2;">
-	<path style="&st1;" d="M18,15.4L18,15.4v-1.5V7.2c0-0.7-0.4-1.3-0.9-1.8L14,2.5c-0.2,0-0.8,0.4-0.8,0.4c0,0.2,1.5,1.8,1.5,1.8
-		l0,2.6c0,0.9,0.8,1.8,1.7,1.8L17,8.9v5v1.7l1,5.1c0,0.8-0.9,1.3-1.5,1.3c-0.5,0-1.5-0.5-1.5-1v-8.9c0-1.1-0.6-2.1-1.6-2.1H11V2h-1
-		V1H2v1H1v21h10V11.4h2.4c0.4,0,0.6,0.3,0.6,0.7V21c0,1.2,1.2,2,2.5,2c1.2,0,2.5-0.8,2.5-2C19,20.7,18,15.4,18,15.4z M17,8h-1V6h1V8
-		z M9.5,6.8L8.6,7.6H3.4L2.5,6.8V3.2l0.9-0.9h5.2l0.9,0.9V6.8z"/>
+<g id="icons">
+	<g>
+		<path d="M18.7,14.1L18.7,14.1V13V7.8c0-0.6-0.3-1-0.7-1.4l-2.4-2.2c-0.2,0-0.6,0.3-0.6,0.3c0,0.2,1.2,1.4,1.2,1.4l0,2
+			c0,0.7,0.6,1.4,1.3,1.4l0.5-0.1V13v1.3l0.8,3.9c0,0.6-0.7,1-1.2,1c-0.4,0-1.1-0.4-1.1-0.8v-6.8c0-0.8-0.4-1.6-1.3-1.6h-1.8V3.8
+			h-0.8V3H6.3v0.8H5.5V20h7.7v-9h1.8c0.3,0,0.5,0.3,0.5,0.6v6.8c0,0.9,0.9,1.6,1.9,1.6c0.9,0,2-0.6,2-1.6
+			C19.4,18.2,18.7,14.1,18.7,14.1z M17.9,8.4h-0.8V6.9h0.8V8.4z M12.1,7.4l-0.7,0.7H7.4L6.7,7.4V4.7l0.7-0.7h4.1l0.7,0.7V7.4z"/>
+	</g>
 </g>
-<g>
-	<path style="&st3;" d="M17,14.4L17,14.4v-1.5V6.2c0-0.7-0.4-1.3-0.9-1.8L13,1.5c-0.2,0-0.8,0.4-0.8,0.4c0,0.2,1.5,1.8,1.5,1.8
-		l0,2.6c0,0.9,0.8,1.8,1.7,1.8L16,7.9v5v1.7l1,5.1c0,0.8-0.9,1.3-1.5,1.3c-0.5,0-1.5-0.5-1.5-1v-8.9C14,10,13.4,9,12.4,9H10V1H9V0H1
-		v1H0v21h10V10.4h2.4c0.4,0,0.6,0.3,0.6,0.7V20c0,1.2,1.2,2,2.5,2c1.2,0,2.5-0.8,2.5-2C18,19.7,17,14.4,17,14.4z M16,7h-1V5h1V7z
-		 M8.5,5.8L7.6,6.6H2.4L1.5,5.8V2.2l0.9-0.9h5.2l0.9,0.9V5.8z"/>
+<g id="guides">
 </g>
 </svg>

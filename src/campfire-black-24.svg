@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.1;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.2;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="23px" height="24px" viewBox="0 0 23 24" style="enable-background:new 0 0 23 24;" xml:space="preserve">
-<g style="&st0;">
-	<path style="&st1;" d="M9.5,13c-0.4-0.4-2.8-3.5-0.4-5.7c2.2-2,2.6-4.5,1.8-5.4c0,0,4.4,2.9,2,8c-0.8,0.9-1.8,2-1.1,4L9.5,13z"/>
-	<path style="&st1;" d="M14,14c0-0.9-0.9-0.2,0.5-3.1C15.7,9.8,15.3,9.1,15,8c0,0,3.6,1.4,0.8,5.3L14,14z"/>
-	<polygon style="&st1;" points="2,18 4,18 4,22 21,22 21,18 23,18 23,22 21,24 4,24 2,22 	"/>
-	<polygon style="&st1;" points="6,14 19,19 19,21 6,16 	"/>
-	<polygon style="&st1;" points="6,19 6,21 9.9,19.5 7.3,18.5 	"/>
-	<polygon style="&st1;" points="19,14 15.1,15.5 17.7,16.5 19,16 	"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<path d="M11.2,12.5c-0.3-0.3-2.2-2.7-0.3-4.4c1.7-1.6,2-3.5,1.4-4.1c0,0,3.4,2.3,1.5,6.2c-0.6,0.7-1.4,1.5-0.8,3.1L11.2,12.5z"/>
+		<path d="M14.7,13.3c0-0.7-0.7-0.1,0.4-2.4c0.9-0.8,0.6-1.4,0.4-2.2c0,0,2.8,1.1,0.7,4.1L14.7,13.3z"/>
+		<polygon points="5.4,16.4 6.9,16.4 6.9,19.5 20.1,19.5 20.1,16.4 21.6,16.4 21.6,19.5 20.1,21 6.9,21 5.4,19.5 		"/>
+		<polygon points="8.5,13.3 18.5,17.1 18.5,18.7 8.5,14.8 		"/>
+		<polygon points="8.5,17.1 8.5,18.7 11.5,17.5 9.5,16.8 		"/>
+		<polygon points="18.5,13.3 15.5,14.4 17.5,15.2 18.5,14.8 		"/>
+	</g>
 </g>
-<g style="&st2;">
-	<path style="&st1;" d="M8.5,12c-0.4-0.4-2.8-3.5-0.4-5.7c2.2-2,2.6-4.5,1.8-5.4c0,0,4.4,2.9,2,8c-0.8,0.9-1.8,2-1.1,4L8.5,12z"/>
-	<path style="&st1;" d="M13,13c0-0.9-0.9-0.2,0.5-3.1C14.7,8.8,14.3,8.1,14,7c0,0,3.6,1.4,0.8,5.3L13,13z"/>
-	<polygon style="&st1;" points="1,17 3,17 3,21 20,21 20,17 22,17 22,21 20,23 3,23 1,21 	"/>
-	<polygon style="&st1;" points="5,13 18,18 18,20 5,15 	"/>
-	<polygon style="&st1;" points="5,18 5,20 8.9,18.5 6.3,17.5 	"/>
-	<polygon style="&st1;" points="18,13 14.1,14.5 16.7,15.5 18,15 	"/>
+<g id="icons">
+	<g>
+		<path d="M10.2,11.5c-0.3-0.3-2.2-2.7-0.3-4.4c1.7-1.6,2-3.5,1.4-4.1c0,0,3.4,2.3,1.5,6.2c-0.6,0.7-1.4,1.5-0.8,3.1L10.2,11.5z"/>
+		<path d="M13.7,12.3c0-0.7-0.7-0.1,0.4-2.4C15,9,14.7,8.5,14.4,7.6c0,0,2.8,1.1,0.7,4.1L13.7,12.3z"/>
+		<polygon points="4.4,15.4 5.9,15.4 5.9,18.5 19.1,18.5 19.1,15.4 20.6,15.4 20.6,18.5 19.1,20 5.9,20 4.4,18.5 		"/>
+		<polygon points="7.5,12.3 17.5,16.1 17.5,17.7 7.5,13.8 		"/>
+		<polygon points="7.5,16.1 7.5,17.7 10.5,16.5 8.5,15.8 		"/>
+		<polygon points="17.5,12.3 14.5,13.4 16.5,14.2 17.5,13.8 		"/>
+	</g>
 </g>
-<g>
-	<path style="&st1;" d="M7.5,11c-0.4-0.4-2.8-3.5-0.4-5.7C9.4,3.3,9.7,0.8,9,0c0,0,4.4,2.9,2,8c-0.8,0.9-1.8,2-1.1,4L7.5,11z"/>
-	<path style="&st1;" d="M12,12c0-0.9-0.9-0.2,0.5-3.1C13.7,7.8,13.3,7.1,13,6c0,0,3.6,1.4,0.8,5.3L12,12z"/>
-	<polygon style="&st1;" points="0,16 2,16 2,20 19,20 19,16 21,16 21,20 19,22 2,22 0,20 	"/>
-	<polygon style="&st1;" points="4,12 17,17 17,19 4,14 	"/>
-	<polygon style="&st1;" points="4,17 4,19 7.9,17.5 5.3,16.5 	"/>
-	<polygon style="&st1;" points="17,12 13.1,13.5 15.7,14.5 17,14 	"/>
+<g id="guides">
 </g>
 </svg>

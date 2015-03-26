@@ -6,8 +6,8 @@ set -e -u
 
 # Config
 tilex=15  # how many icons wide the sprites will be
-svgdir="src"  # SVGs should already be here
-pngdir="renders"  # PNGs will be created, possibly overwritten, here
+svgdir=`pwd`"/src"  # SVGs should already be here
+pngdir=`pwd`"/renders"  # PNGs will be created, possibly overwritten, here
 
 
 function build_pngs {

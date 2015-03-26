@@ -1,37 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.5;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.75;">
-	<!ENTITY st3 "fill:#FFFFFF;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="24px" height="20px" viewBox="0 0 24 20" style="enable-background:new 0 0 24 20;" xml:space="preserve">
-<g style="&st0;">
-	<rect x="2" y="19" style="&st1;" width="8" height="1"/>
-	<polygon style="&st1;" points="22,19 12,19 12,20 22,20 24,18 24,17 	"/>
-	<polygon style="&st1;" points="18,18 23,14 21,11 17,11 16,8 15,8 16,11 16,12 15,13 14,13 12,12 12,11 14,11 15,10 14,9 12,9 
-		12,7 11,7 10,7 10,6 9,6 9,7 8,7 8,13 6,13 5,14 3,17 4,18 	"/>
-	<polygon style="&st1;" points="12,5 13,5 13,3 12,3 12,2 10,2 10,3 9,3 9,5 10,5 10,6 12,6 	"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<rect x="5" y="18.682" width="6.182" height="0.773"/>
+		<polygon points="20.455,18.682 12.727,18.682 12.727,19.455 20.455,19.455 22,17.909 22,17.136 		"/>
+		<polygon points="17.364,17.909 21.227,14.818 19.682,12.5 16.591,12.5 15.818,10.182 15.045,10.182 15.818,12.5 15.818,13.273 
+			15.045,14.045 14.273,14.045 12.727,13.273 12.727,12.5 14.273,12.5 15.045,11.727 14.273,10.955 12.727,10.955 12.727,9.409 
+			11.955,9.409 11.182,9.409 11.182,8.636 10.409,8.636 10.409,9.409 9.636,9.409 9.636,14.045 8.091,14.045 7.318,14.818 
+			5.773,17.136 6.545,17.909 		"/>
+		<polygon points="12.727,7.864 13.5,7.864 13.5,6.318 12.727,6.318 12.727,5.545 11.182,5.545 11.182,6.318 10.409,6.318 
+			10.409,7.864 11.182,7.864 11.182,8.636 12.727,8.636 		"/>
+		<rect x="5" y="5.545" fill="none" width="17" height="13.909"/>
+	</g>
 </g>
-<g style="&st2;">
-	<rect x="1" y="18" style="&st1;" width="8" height="1"/>
-	<polygon style="&st1;" points="21,18 11,18 11,19 21,19 23,17 23,16 	"/>
-	<polygon style="&st1;" points="17,17 22,13 20,10 16,10 15,7 14,7 15,10 15,11 14,12 13,12 11,11 11,10 13,10 14,9 13,8 11,8 11,6 
-		10,6 9,6 9,5 8,5 8,6 7,6 7,12 5,12 4,13 2,16 3,17 	"/>
-	<polygon style="&st1;" points="11,4 12,4 12,2 11,2 11,1 9,1 9,2 8,2 8,4 9,4 9,5 11,5 	"/>
-</g>
-<g>
-	<rect y="17" style="&st3;" width="8" height="1"/>
-	<polygon style="&st3;" points="20,17 10,17 10,18 20,18 22,16 22,15 	"/>
-	<polygon style="&st3;" points="16,16 21,12 19,9 15,9 14,6 13,6 14,9 14,10 13,11 12,11 10,10 10,9 12,9 13,8 12,7 10,7 10,5 9,5 
-		8,5 8,4 7,4 7,5 6,5 6,11 4,11 3,12 1,15 2,16 	"/>
-	<polygon style="&st3;" points="10,3 11,3 11,1 10,1 10,0 8,0 8,1 7,1 7,3 8,3 8,4 10,4 	"/>
+<g id="icons">
+	<rect x="4" y="17.682" fill="#FFFFFF" width="6.182" height="0.773"/>
+	<polygon fill="#FFFFFF" points="19.455,17.682 11.727,17.682 11.727,18.455 19.455,18.455 21,16.909 21,16.136 	"/>
+	<polygon fill="#FFFFFF" points="16.364,16.909 20.227,13.818 18.682,11.5 15.591,11.5 14.818,9.182 14.045,9.182 14.818,11.5 
+		14.818,12.273 14.045,13.045 13.273,13.045 11.727,12.273 11.727,11.5 13.273,11.5 14.045,10.727 13.273,9.955 11.727,9.955 
+		11.727,8.409 10.955,8.409 10.182,8.409 10.182,7.636 9.409,7.636 9.409,8.409 8.636,8.409 8.636,13.045 7.091,13.045 
+		6.318,13.818 4.773,16.136 5.545,16.909 	"/>
+	<polygon fill="#FFFFFF" points="11.727,6.864 12.5,6.864 12.5,5.318 11.727,5.318 11.727,4.545 10.182,4.545 10.182,5.318 
+		9.409,5.318 9.409,6.864 10.182,6.864 10.182,7.636 11.727,7.636 	"/>
 </g>
 </svg>

@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>hospital-white-12</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <path d="M8.42550588,2 L8.42550588,5.55096419 L4.19021176,5.55096419 L4.19021176,2 L2.07256471,2 L2.07256471,11.9426997 L4.19021176,11.9426997 L4.19021176,7.6815427 L8.42550588,7.6815427 L8.42550588,11.9426997 L10.5431529,11.9426997 L10.5431529,2 L8.42550588,2" id="Fill-222" opacity="0.5" fill="#000000" sketch:type="MSShapeGroup"></path>
-        <path d="M7.42550588,1 L7.42550588,4.55096419 L3.19021176,4.55096419 L3.19021176,1 L1.07256471,1 L1.07256471,10.9426997 L3.19021176,10.9426997 L3.19021176,6.6815427 L7.42550588,6.6815427 L7.42550588,10.9426997 L9.54315294,10.9426997 L9.54315294,1 L7.42550588,1" id="Fill-222" opacity="0.75" fill="#000000" sketch:type="MSShapeGroup"></path>
-        <path d="M6.42550588,0 L6.42550588,3.55096419 L2.19021176,3.55096419 L2.19021176,0 L0.0725647059,0 L0.0725647059,9.94269972 L2.19021176,9.94269972 L2.19021176,5.6815427 L6.42550588,5.6815427 L6.42550588,9.94269972 L8.54315294,9.94269972 L8.54315294,0 L6.42550588,0" id="Fill-222" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<polygon points="8.9,1.5 8.9,4.7 5.1,4.7 5.1,1.5 3.1,1.5 3.1,4.7 3.1,6.6 3.1,10.5 5.1,10.5 5.1,6.6 8.9,6.6 8.9,10.5 10.9,10.5 
+			10.9,1.5 		"/>
+	</g>
+</g>
+<g id="icons">
+	<g>
+		<polygon fill="#FFFFFF" points="8.4,1 8.4,4.2 4.6,4.2 4.6,1 2.6,1 2.6,4.2 2.6,6.1 2.6,10 4.6,10 4.6,6.1 8.4,6.1 8.4,10 
+			10.4,10 10.4,1 		"/>
+	</g>
+</g>
+<g id="guides">
+</g>
 </svg>

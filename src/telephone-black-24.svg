@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.1;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.2;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="11px" height="24px" viewBox="0 0 11 24" style="enable-background:new 0 0 11 24;" xml:space="preserve">
-<g style="&st0;">
-	<path style="&st1;" d="M7,2C6,2.1,2.1,3.8,2,12.7C1.9,22,6,24,7,24v-6c-0.9,0-1.1-1.1-1.3-3c-0.1-1.3-0.2-2.4,0-4
-		C5.8,9.9,6.1,8,7,8V2z"/>
-	<polygon style="&st1;" points="8,2 10,2 11,3 11,7 10,8 8,8 	"/>
-	<polygon style="&st1;" points="8,18 10,18 11,19 11,23 10,24 8,24 	"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<path d="M13.886,4c-0.798,0.087-3.776,1.419-3.862,8.271c-0.09,7.22,3.053,8.743,3.862,8.729v-4.636
+			c-0.666,0-0.859-0.823-1.014-2.318c-0.098-0.991-0.128-1.873,0-3.091c0.094-0.855,0.316-2.318,1.014-2.318V4z"/>
+		<polygon points="14.659,4 16.205,4 16.977,4.773 16.977,7.863 16.205,8.637 14.659,8.637 		"/>
+		<polygon points="14.659,16.364 16.205,16.364 16.977,17.137 16.977,20.227 16.205,21 14.659,21 		"/>
+		<rect x="10.023" y="4" fill="none" width="6.954" height="17"/>
+	</g>
 </g>
-<g style="&st2;">
-	<path style="&st1;" d="M6,1C5,1.1,1.1,2.8,1,11.7C0.9,21,5,23,6,23v-6c-0.9,0-1.1-1.1-1.3-3c-0.1-1.3-0.2-2.4,0-4
-		C4.8,8.9,5.1,7,6,7V1z"/>
-	<polygon style="&st1;" points="7,1 9,1 10,2 10,6 9,7 7,7 	"/>
-	<polygon style="&st1;" points="7,17 9,17 10,18 10,22 9,23 7,23 	"/>
-</g>
-<g>
-	<path style="&st1;" d="M5,0C4,0.1,0.1,1.8,0,10.7C-0.1,20,4,22,5,22v-6c-0.9,0-1.1-1.1-1.3-3c-0.1-1.3-0.2-2.4,0-4
-		C3.8,7.9,4.1,6,5,6V0z"/>
-	<polygon style="&st1;" points="6,0 8,0 9,1 9,5 8,6 6,6 	"/>
-	<polygon style="&st1;" points="6,16 8,16 9,17 9,21 8,22 6,22 	"/>
+<g id="icons">
+	<path d="M12.886,3c-0.798,0.087-3.776,1.419-3.862,8.271c-0.09,7.22,3.053,8.743,3.862,8.729v-4.637
+		c-0.666,0-0.859-0.822-1.014-2.318c-0.098-0.991-0.128-1.873,0-3.091c0.094-0.855,0.316-2.318,1.014-2.318V3z"/>
+	<polygon points="13.659,3 15.205,3 15.977,3.773 15.977,6.863 15.205,7.636 13.659,7.636 	"/>
+	<polygon points="13.659,15.363 15.205,15.363 15.977,16.137 15.977,19.227 15.205,20 13.659,20 	"/>
 </g>
 </svg>

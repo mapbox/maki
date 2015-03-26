@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.5;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.75;">
-	<!ENTITY st3 "fill:#FFFFFF;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="16px" height="24px" viewBox="0 0 16 24" style="enable-background:new 0 0 16 24;" xml:space="preserve">
-<g style="&st0;">
-	<polygon style="&st1;" points="14,24 15,24 16,22.6 16,2.6 15,2 13,2 13,3 12,3 12,15 14,15 	"/>
-	<polygon style="&st1;" points="4,23 5,24 6,23 6,11 7,10 8,9 8,2 7,2 7,7.5 5.5,8 5.5,2 4.5,2 4.5,8 3,7.5 3,2 2,2 2,9 3,10 4,11 	
-		"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<polygon points="16.9,20.5 17.6,20.5 18.4,19.4 18.4,4 17.6,3.5 16.1,3.5 16.1,4.3 15.3,4.3 15.3,13.5 16.9,13.5 		"/>
+		<polygon points="9.1,19.7 9.9,20.5 10.7,19.7 10.7,10.5 11.5,9.7 12.2,8.9 12.2,3.5 11.5,3.5 11.5,7.8 10.3,8.1 10.3,3.5 9.5,3.5 
+			9.5,8.1 8.4,7.8 8.4,3.5 7.6,3.5 7.6,8.9 8.4,9.7 9.1,10.5 		"/>
+	</g>
 </g>
-<g style="&st2;">
-	<polygon style="&st1;" points="13,23 14,23 15,21.6 15,1.6 14,1 12,1 12,2 11,2 11,14 13,14 	"/>
-	<polygon style="&st1;" points="3,22 4,23 5,22 5,10 6,9 7,8 7,1 6,1 6,6.5 4.5,7 4.5,1 3.5,1 3.5,7 2,6.5 2,1 1,1 1,8 2,9 3,10 	
-		"/>
+<g id="icons">
+	<g>
+		<polygon fill="#FFFFFF" points="15.9,19.5 16.6,19.5 17.4,18.4 17.4,3 16.6,2.5 15.1,2.5 15.1,3.3 14.3,3.3 14.3,12.5 15.9,12.5 
+					"/>
+		<polygon fill="#FFFFFF" points="8.1,18.7 8.9,19.5 9.7,18.7 9.7,9.5 10.5,8.7 11.2,7.9 11.2,2.5 10.5,2.5 10.5,6.8 9.3,7.1 
+			9.3,2.5 8.5,2.5 8.5,7.1 7.4,6.8 7.4,2.5 6.6,2.5 6.6,7.9 7.4,8.7 8.1,9.5 		"/>
+	</g>
 </g>
-<g>
-	<polygon style="&st3;" points="12,22 13,22 14,20.6 14,0.6 13,0 11,0 11,1 10,1 10,13 12,13 	"/>
-	<polygon style="&st3;" points="2,21 3,22 4,21 4,9 5,8 6,7 6,0 5,0 5,5.5 3.5,6 3.5,0 2.5,0 2.5,6 1,5.5 1,0 0,0 0,7 1,8 2,9 	"/>
+<g id="guides">
 </g>
 </svg>

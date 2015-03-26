@@ -1,45 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.1;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.2;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="22px" height="24px" viewBox="0 0 22 24" style="enable-background:new 0 0 22 24;" xml:space="preserve">
-<g style="&st0;">
-	<path style="&st1;" d="M11.7,10H8.8c-1.1,0-1.1,1.4,0,1.4l3.2,0c0.2,0,0.5-0.1,0.7-0.4L14,8.5V23c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1
-		v-8h1v8c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1V9h1.5v4.9c0,1.1,1.5,1.1,1.5,0V8.4C22,7.2,20.8,6,19.3,6H18v1h-2V6c-0.8,0-2,0.5-2.4,1.1
-		L11.7,10L11.7,10z"/>
-	<polygon style="&st1;" points="2,15 3,15 5,23 8,23 10,15 11,15 9,24 4,24 	"/>
-	<polygon style="&st1;" points="16,2 18,2 18,3 19,3 19,5 18,5 18,6 16,6 16,5 15,5 15,3 16,3 	"/>
-	<circle style="&st1;" cx="5" cy="12" r="1"/>
-	<circle style="&st1;" cx="7" cy="15" r="1"/>
-	<circle style="&st1;" cx="6" cy="18" r="1"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<path d="M13.2,10.2h-2.2c-0.9,0-0.9,1.1,0,1.1l2.5,0c0.2,0,0.4-0.1,0.5-0.3L15,9v11.2c0,0.4,0.3,0.8,0.8,0.8
+			c0.4,0,0.8-0.3,0.8-0.8V14h0.8v6.2c0,0.4,0.3,0.8,0.8,0.8c0.5,0,0.8-0.3,0.8-0.8V9.4h1.2v3.8c0,0.8,1.2,0.8,1.2,0V9
+			c0-0.9-1-1.9-2.1-1.9h-1v0.8h-1.5V7.1c-0.7,0-1.6,0.4-1.9,0.9L13.2,10.2L13.2,10.2z"/>
+		<polygon points="5.8,14 6.5,14 8.1,20.2 10.4,20.2 12,14 12.7,14 11.2,21 7.3,21 		"/>
+		<polygon points="16.6,4 18.1,4 18.1,4.8 18.9,4.8 18.9,6.3 18.1,6.3 18.1,7.1 16.6,7.1 16.6,6.3 15.8,6.3 15.8,4.8 16.6,4.8 		"/>
+		<circle cx="8.1" cy="11.7" r="0.8"/>
+		<circle cx="9.6" cy="14" r="0.8"/>
+		<circle cx="8.9" cy="16.4" r="0.8"/>
+	</g>
 </g>
-<g style="&st2;">
-	<path style="&st1;" d="M10.7,9H7.8c-1.1,0-1.1,1.4,0,1.4l3.2,0c0.2,0,0.5-0.1,0.7-0.4L13,7.5V22c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1
-		v-8h1v8c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1V8h1.5v4.9c0,1.1,1.5,1.1,1.5,0V7.4C21,6.2,19.8,5,18.3,5H17v1h-2V5c-0.8,0-2,0.5-2.4,1.1
-		L10.7,9L10.7,9z"/>
-	<polygon style="&st1;" points="1,14 2,14 4,22 7,22 9,14 10,14 8,23 3,23 	"/>
-	<polygon style="&st1;" points="15,1 17,1 17,2 18,2 18,4 17,4 17,5 15,5 15,4 14,4 14,2 15,2 	"/>
-	<circle style="&st1;" cx="4" cy="11" r="1"/>
-	<circle style="&st1;" cx="6" cy="14" r="1"/>
-	<circle style="&st1;" cx="5" cy="17" r="1"/>
+<g id="icons">
+	<g>
+		<path d="M12.2,9.2h-2.2c-0.9,0-0.9,1.1,0,1.1l2.5,0c0.2,0,0.4-0.1,0.5-0.3L14,8v11.2c0,0.4,0.3,0.8,0.8,0.8c0.4,0,0.8-0.3,0.8-0.8
+			V13h0.8v6.2c0,0.4,0.3,0.8,0.8,0.8c0.5,0,0.8-0.3,0.8-0.8V8.4h1.2v3.8c0,0.8,1.2,0.8,1.2,0V8c0-0.9-1-1.9-2.1-1.9h-1v0.8h-1.5V6.1
+			c-0.7,0-1.6,0.4-1.9,0.9L12.2,9.2L12.2,9.2z"/>
+		<polygon points="4.8,13 5.5,13 7.1,19.2 9.4,19.2 11,13 11.7,13 10.2,20 6.3,20 		"/>
+		<polygon points="15.6,3 17.1,3 17.1,3.8 17.9,3.8 17.9,5.3 17.1,5.3 17.1,6.1 15.6,6.1 15.6,5.3 14.8,5.3 14.8,3.8 15.6,3.8 		"/>
+		<circle cx="7.1" cy="10.7" r="0.8"/>
+		<circle cx="8.6" cy="13" r="0.8"/>
+		<circle cx="7.9" cy="15.4" r="0.8"/>
+	</g>
 </g>
-<g>
-	<path style="&st1;" d="M9.7,8H6.8c-1.1,0-1.1,1.4,0,1.4l3.2,0c0.2,0,0.5-0.1,0.7-0.4L12,6.5V21c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1v-8
-		h1v8c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1V7h1.5v4.9c0,1.1,1.5,1.1,1.5,0V6.4C20,5.2,18.8,4,17.3,4H16v1h-2V4c-0.8,0-2,0.5-2.4,1.1
-		L9.7,8L9.7,8z"/>
-	<polygon style="&st1;" points="0,13 1,13 3,21 6,21 8,13 9,13 7,22 2,22 	"/>
-	<polygon style="&st1;" points="14,0 16,0 16,1 17,1 17,3 16,3 16,4 14,4 14,3 13,3 13,1 14,1 	"/>
-	<circle style="&st1;" cx="3" cy="10" r="1"/>
-	<circle style="&st1;" cx="5" cy="13" r="1"/>
-	<circle style="&st1;" cx="4" cy="16" r="1"/>
+<g id="guides">
 </g>
 </svg>

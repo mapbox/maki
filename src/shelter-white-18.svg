@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>shelter-white-18</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <path d="M19,3.45992937 L19,2 L2.7037037,9.29964684 L2.7037037,10.7595762 L4.18518519,10.0953083 L4.18518519,16.5992937 L19,16.5992937 L19,15.1393643 L5.66666667,15.1393643 L5.66666667,9.43104048 L19,3.45992937" id="Fill-432" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M18,2.45992937 L18,1 L1.7037037,8.29964684 L1.7037037,9.7595762 L3.18518519,9.09530834 L3.18518519,15.5992937 L18,15.5992937 L18,14.1393643 L4.66666667,14.1393643 L4.66666667,8.43104048 L18,2.45992937" id="Fill-432" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M17,1.45992937 L17,0 L0.703703704,7.29964684 L0.703703704,8.7595762 L2.18518519,8.09530834 L2.18518519,14.5992937 L17,14.5992937 L17,13.1393643 L3.66666667,13.1393643 L3.66666667,7.43104048 L17,1.45992937" id="Fill-432" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<polygon points="16.75,4.604 16.75,3.214 3.75,8.786 3.75,10.176 4.679,9.778 4.679,13.429 4.679,14.357 4.679,15.286 
+			16.75,15.286 16.75,13.429 6.536,13.429 6.536,8.981 		"/>
+		<rect x="3.75" y="3.214" fill="none" width="13" height="12.071"/>
+	</g>
+</g>
+<g id="icons">
+	<polygon fill="#FFFFFF" points="16,3.854 16,2.464 3,8.036 3,9.426 3.929,9.028 3.929,12.679 3.929,13.607 3.929,14.536 16,14.536 
+		16,12.679 5.786,12.679 5.786,8.231 	"/>
+</g>
 </svg>

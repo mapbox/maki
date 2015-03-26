@@ -1,36 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.1;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.2;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<g style="&st0;">
-	<rect x="12" y="18" style="&st1;" width="2" height="2"/>
-	<polygon style="&st1;" points="12,17 14,17 14,15 16,13 17,11.1 17,9 15,7 14,7 12,7 10,8 9,10 9,12 11,12 11,10 12,9 14,9 15,10 
-		15,11 14,13 12,15 	"/>
-	<path style="&st1;" d="M24,13c0,6.1-4.9,11-11,11S2,19.1,2,13S6.9,2,13,2S24,6.9,24,13z M13,3.5c-5.2,0-9.5,4.3-9.5,9.5
-		s4.3,9.5,9.5,9.5s9.5-4.3,9.5-9.5S18.2,3.5,13,3.5z"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<rect x="12.7" y="16.4" width="1.5" height="1.5"/>
+		<polygon points="12.7,15.6 14.3,15.6 14.3,14 15.8,12.5 16.6,11 16.6,9.4 15,7.9 14.3,7.9 12.7,7.9 11.2,8.6 10.4,10.2 10.4,11.7 
+			12,11.7 12,10.2 12.7,9.4 14.3,9.4 15,10.2 15,11 14.3,12.5 12.7,14 		"/>
+		<path d="M22,12.5c0,4.7-3.8,8.5-8.5,8.5S5,17.2,5,12.5S8.8,4,13.5,4S22,7.8,22,12.5z M13.5,5.2c-4.1,0-7.3,3.3-7.3,7.3
+			s3.3,7.3,7.3,7.3s7.3-3.3,7.3-7.3S17.6,5.2,13.5,5.2z"/>
+	</g>
 </g>
-<g style="&st2;">
-	<rect x="11" y="17" style="&st1;" width="2" height="2"/>
-	<polygon style="&st1;" points="11,16 13,16 13,14 15,12 16,10.1 16,8 14,6 13,6 11,6 9,7 8,9 8,11 10,11 10,9 11,8 13,8 14,9 
-		14,10 13,12 11,14 	"/>
-	<path style="&st1;" d="M23,12c0,6.1-4.9,11-11,11S1,18.1,1,12S5.9,1,12,1S23,5.9,23,12z M12,2.5c-5.2,0-9.5,4.3-9.5,9.5
-		s4.3,9.5,9.5,9.5s9.5-4.3,9.5-9.5S17.2,2.5,12,2.5z"/>
+<g id="icons">
+	<g>
+		<rect x="11.7" y="15.4" width="1.5" height="1.5"/>
+		<polygon points="11.7,14.6 13.3,14.6 13.3,13 14.8,11.5 15.6,10 15.6,8.4 14,6.9 13.3,6.9 11.7,6.9 10.2,7.6 9.4,9.2 9.4,10.7 
+			11,10.7 11,9.2 11.7,8.4 13.3,8.4 14,9.2 14,10 13.3,11.5 11.7,13 		"/>
+		<path d="M21,11.5c0,4.7-3.8,8.5-8.5,8.5S4,16.2,4,11.5S7.8,3,12.5,3S21,6.8,21,11.5z M12.5,4.2c-4.1,0-7.3,3.3-7.3,7.3
+			s3.3,7.3,7.3,7.3s7.3-3.3,7.3-7.3S16.6,4.2,12.5,4.2z"/>
+	</g>
 </g>
-<g>
-	<rect x="10" y="16" style="&st1;" width="2" height="2"/>
-	<polygon style="&st1;" points="10,15 12,15 12,13 14,11 15,9.1 15,7 13,5 12,5 10,5 8,6 7,8 7,10 9,10 9,8 10,7 12,7 13,8 13,9 
-		12,11 10,13 	"/>
-	<path style="&st1;" d="M22,11c0,6.1-4.9,11-11,11S0,17.1,0,11S4.9,0,11,0S22,4.9,22,11z M11,1.5c-5.2,0-9.5,4.3-9.5,9.5
-		s4.3,9.5,9.5,9.5s9.5-4.3,9.5-9.5S16.2,1.5,11,1.5z"/>
+<g id="guides">
 </g>
 </svg>

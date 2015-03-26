@@ -1,63 +1,50 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>self-guiding-trail-white-12</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <path d="M8.35294118,11.2325069 L9.05882353,11.2325069 L9.05882353,11.9426997 L8.35294118,11.9426997 L8.35294118,11.2325069 Z" id="Fill-413" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M9.76470588,11.2325069 L10.4705882,11.2325069 L10.4705882,11.9426997 L9.76470588,11.9426997 L9.76470588,11.2325069 Z" id="Fill-414" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M11.1764706,11.2325069 L11.8823529,11.2325069 L11.8823529,11.9426997 L11.1764706,11.9426997 L11.1764706,11.2325069 Z" id="Fill-415" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M11.1764706,9.81212121 L11.8823529,9.81212121 L11.8823529,10.522314 L11.1764706,10.522314 L11.1764706,9.81212121 Z" id="Fill-416" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M11.1764706,8.39173554 L11.8823529,8.39173554 L11.8823529,9.10192837 L11.1764706,9.10192837 L11.1764706,8.39173554 Z" id="Fill-417" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M11.1764706,6.97134986 L11.8823529,6.97134986 L11.8823529,7.6815427 L11.1764706,7.6815427 L11.1764706,6.97134986 Z" id="Fill-418" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M11.1764706,5.55096419 L11.8823529,5.55096419 L11.8823529,6.26115702 L11.1764706,6.26115702 L11.1764706,5.55096419 Z" id="Fill-419" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M11.1764706,4.13057851 L11.8823529,4.13057851 L11.8823529,4.84077135 L11.1764706,4.84077135 L11.1764706,4.13057851 Z" id="Fill-420" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M11.1764706,2.71019284 L11.8823529,2.71019284 L11.8823529,3.42038567 L11.1764706,3.42038567 L11.1764706,2.71019284 Z" id="Fill-421" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M9.76470588,2.71019284 L10.4705882,2.71019284 L10.4705882,3.42038567 L9.76470588,3.42038567 L9.76470588,2.71019284 Z" id="Fill-422" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M8.35294118,2.71019284 L9.05882353,2.71019284 L9.05882353,3.42038567 L8.35294118,3.42038567 L8.35294118,2.71019284 Z" id="Fill-423" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M6.94117647,2 L7.64705882,2 L7.64705882,4.13057851 L6.94117647,4.13057851 L6.94117647,2 Z" id="Fill-424" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M6.23529412,2.71019284 L6.94117647,2.71019284 L6.94117647,3.42038567 L6.23529412,3.42038567 L6.23529412,2.71019284 Z" id="Fill-425" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M6.94117647,7.6815427 L7.64705882,7.6815427 L7.64705882,11.9426997 L6.94117647,11.9426997 L6.94117647,7.6815427 Z" id="Fill-426" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M7.64705882,6.97134986 L8.35294118,6.97134986 L8.35294118,8.39173554 L7.64705882,8.39173554 L7.64705882,6.97134986 Z" id="Fill-427" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M8.35294118,6.26115702 L9.05882353,6.26115702 L9.05882353,7.6815427 L8.35294118,7.6815427 L8.35294118,6.26115702 Z" id="Fill-428" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M4.11764706,4.84077135 L5.52941176,4.84077135 L5.52941176,3.42038567 L4.11764706,3.42038567 L4.11764706,4.84077135 Z" id="Fill-429" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M4.11764706,5.55096419 L4.82352941,5.55096419 L6.23529412,6.97134986 L6.23529412,7.6815427 L4.82352941,6.26115702 L4.82352941,8.39173554 L5.52941176,11.9426997 L4.82352941,11.9426997 L4.11764706,9.10192837 L3.41176471,9.10192837 L2.69176471,11.8929862 L2,11.9426997 L2.70588235,8.39173554 L3.41176471,6.97134986 L2,6.97134986 L2,4.84077135 L2.70588235,4.13057851 L4.11764706,5.55096419" id="Fill-430" opacity="0.5" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M7.35294118,10.2325069 L8.05882353,10.2325069 L8.05882353,10.9426997 L7.35294118,10.9426997 L7.35294118,10.2325069 Z" id="Fill-413" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M8.76470588,10.2325069 L9.47058824,10.2325069 L9.47058824,10.9426997 L8.76470588,10.9426997 L8.76470588,10.2325069 Z" id="Fill-414" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M10.1764706,10.2325069 L10.8823529,10.2325069 L10.8823529,10.9426997 L10.1764706,10.9426997 L10.1764706,10.2325069 Z" id="Fill-415" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M10.1764706,8.81212121 L10.8823529,8.81212121 L10.8823529,9.52231405 L10.1764706,9.52231405 L10.1764706,8.81212121 Z" id="Fill-416" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M10.1764706,7.39173554 L10.8823529,7.39173554 L10.8823529,8.10192837 L10.1764706,8.10192837 L10.1764706,7.39173554 Z" id="Fill-417" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M10.1764706,5.97134986 L10.8823529,5.97134986 L10.8823529,6.6815427 L10.1764706,6.6815427 L10.1764706,5.97134986 Z" id="Fill-418" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M10.1764706,4.55096419 L10.8823529,4.55096419 L10.8823529,5.26115702 L10.1764706,5.26115702 L10.1764706,4.55096419 Z" id="Fill-419" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M10.1764706,3.13057851 L10.8823529,3.13057851 L10.8823529,3.84077135 L10.1764706,3.84077135 L10.1764706,3.13057851 Z" id="Fill-420" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M10.1764706,1.71019284 L10.8823529,1.71019284 L10.8823529,2.42038567 L10.1764706,2.42038567 L10.1764706,1.71019284 Z" id="Fill-421" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M8.76470588,1.71019284 L9.47058824,1.71019284 L9.47058824,2.42038567 L8.76470588,2.42038567 L8.76470588,1.71019284 Z" id="Fill-422" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M7.35294118,1.71019284 L8.05882353,1.71019284 L8.05882353,2.42038567 L7.35294118,2.42038567 L7.35294118,1.71019284 Z" id="Fill-423" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M5.94117647,1 L6.64705882,1 L6.64705882,3.13057851 L5.94117647,3.13057851 L5.94117647,1 Z" id="Fill-424" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M5.23529412,1.71019284 L5.94117647,1.71019284 L5.94117647,2.42038567 L5.23529412,2.42038567 L5.23529412,1.71019284 Z" id="Fill-425" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M5.94117647,6.6815427 L6.64705882,6.6815427 L6.64705882,10.9426997 L5.94117647,10.9426997 L5.94117647,6.6815427 Z" id="Fill-426" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M6.64705882,5.97134986 L7.35294118,5.97134986 L7.35294118,7.39173554 L6.64705882,7.39173554 L6.64705882,5.97134986 Z" id="Fill-427" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M7.35294118,5.26115702 L8.05882353,5.26115702 L8.05882353,6.6815427 L7.35294118,6.6815427 L7.35294118,5.26115702 Z" id="Fill-428" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M3.11764706,3.84077135 L4.52941176,3.84077135 L4.52941176,2.42038567 L3.11764706,2.42038567 L3.11764706,3.84077135 Z" id="Fill-429" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M3.11764706,4.55096419 L3.82352941,4.55096419 L5.23529412,5.97134986 L5.23529412,6.6815427 L3.82352941,5.26115702 L3.82352941,7.39173554 L4.52941176,10.9426997 L3.82352941,10.9426997 L3.11764706,8.10192837 L2.41176471,8.10192837 L1.69176471,10.8929862 L1,10.9426997 L1.70588235,7.39173554 L2.41176471,5.97134986 L1,5.97134986 L1,3.84077135 L1.70588235,3.13057851 L3.11764706,4.55096419" id="Fill-430" opacity="0.75" fill="#0A0B09" sketch:type="MSShapeGroup"></path>
-        <path d="M6.35294118,9.23250689 L7.05882353,9.23250689 L7.05882353,9.94269972 L6.35294118,9.94269972 L6.35294118,9.23250689 Z" id="Fill-413" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M7.76470588,9.23250689 L8.47058824,9.23250689 L8.47058824,9.94269972 L7.76470588,9.94269972 L7.76470588,9.23250689 Z" id="Fill-414" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M9.17647059,9.23250689 L9.88235294,9.23250689 L9.88235294,9.94269972 L9.17647059,9.94269972 L9.17647059,9.23250689 Z" id="Fill-415" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M9.17647059,7.81212121 L9.88235294,7.81212121 L9.88235294,8.52231405 L9.17647059,8.52231405 L9.17647059,7.81212121 Z" id="Fill-416" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M9.17647059,6.39173554 L9.88235294,6.39173554 L9.88235294,7.10192837 L9.17647059,7.10192837 L9.17647059,6.39173554 Z" id="Fill-417" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M9.17647059,4.97134986 L9.88235294,4.97134986 L9.88235294,5.6815427 L9.17647059,5.6815427 L9.17647059,4.97134986 Z" id="Fill-418" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M9.17647059,3.55096419 L9.88235294,3.55096419 L9.88235294,4.26115702 L9.17647059,4.26115702 L9.17647059,3.55096419 Z" id="Fill-419" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M9.17647059,2.13057851 L9.88235294,2.13057851 L9.88235294,2.84077135 L9.17647059,2.84077135 L9.17647059,2.13057851 Z" id="Fill-420" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M9.17647059,0.710192837 L9.88235294,0.710192837 L9.88235294,1.42038567 L9.17647059,1.42038567 L9.17647059,0.710192837 Z" id="Fill-421" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M7.76470588,0.710192837 L8.47058824,0.710192837 L8.47058824,1.42038567 L7.76470588,1.42038567 L7.76470588,0.710192837 Z" id="Fill-422" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M6.35294118,0.710192837 L7.05882353,0.710192837 L7.05882353,1.42038567 L6.35294118,1.42038567 L6.35294118,0.710192837 Z" id="Fill-423" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M4.94117647,0 L5.64705882,0 L5.64705882,2.13057851 L4.94117647,2.13057851 L4.94117647,0 Z" id="Fill-424" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M4.23529412,0.710192837 L4.94117647,0.710192837 L4.94117647,1.42038567 L4.23529412,1.42038567 L4.23529412,0.710192837 Z" id="Fill-425" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M4.94117647,5.6815427 L5.64705882,5.6815427 L5.64705882,9.94269972 L4.94117647,9.94269972 L4.94117647,5.6815427 Z" id="Fill-426" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M5.64705882,4.97134986 L6.35294118,4.97134986 L6.35294118,6.39173554 L5.64705882,6.39173554 L5.64705882,4.97134986 Z" id="Fill-427" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M6.35294118,4.26115702 L7.05882353,4.26115702 L7.05882353,5.6815427 L6.35294118,5.6815427 L6.35294118,4.26115702 Z" id="Fill-428" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M2.11764706,2.84077135 L3.52941176,2.84077135 L3.52941176,1.42038567 L2.11764706,1.42038567 L2.11764706,2.84077135 Z" id="Fill-429" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-        <path d="M2.11764706,3.55096419 L2.82352941,3.55096419 L4.23529412,4.97134986 L4.23529412,5.6815427 L2.82352941,4.26115702 L2.82352941,6.39173554 L3.52941176,9.94269972 L2.82352941,9.94269972 L2.11764706,7.10192837 L1.41176471,7.10192837 L0.691764706,9.89298623 L0,9.94269972 L0.705882353,6.39173554 L1.41176471,4.97134986 L0,4.97134986 L0,2.84077135 L0.705882353,2.13057851 L2.11764706,3.55096419" id="Fill-430" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<rect x="8.286" y="9.857" width="0.643" height="0.643"/>
+		<rect x="9.571" y="9.857" width="0.643" height="0.643"/>
+		<rect x="10.857" y="9.857" width="0.643" height="0.643"/>
+		<rect x="10.857" y="8.571" width="0.643" height="0.643"/>
+		<rect x="10.857" y="7.286" width="0.643" height="0.643"/>
+		<rect x="10.857" y="6" width="0.643" height="0.643"/>
+		<rect x="10.857" y="4.714" width="0.643" height="0.642"/>
+		<rect x="10.857" y="3.429" width="0.643" height="0.643"/>
+		<rect x="10.857" y="2.143" width="0.643" height="0.642"/>
+		<rect x="9.571" y="2.143" width="0.643" height="0.642"/>
+		<rect x="8.286" y="2.143" width="0.643" height="0.642"/>
+		<rect x="7" y="1.5" width="0.643" height="1.929"/>
+		<rect x="6.357" y="2.143" width="0.643" height="0.642"/>
+		<rect x="7" y="6.643" width="0.643" height="3.857"/>
+		<rect x="7.643" y="6" width="0.642" height="1.286"/>
+		<rect x="8.286" y="5.357" width="0.643" height="1.286"/>
+		<polygon points="5.714,4.071 5.714,2.786 4.429,2.786 4.429,4.071 5.071,4.071 		"/>
+		<polygon points="4.429,4.714 5.071,4.714 6.357,6 6.357,6.643 5.071,5.357 5.071,7.286 5.714,10.5 5.071,10.5 4.429,7.929 
+			3.786,7.929 3.131,10.45 2.5,10.5 3.143,7.286 3.786,6 2.5,6 2.5,4.071 3.143,3.429 3.786,4.071 		"/>
+		<rect x="2.5" y="1.5" fill="none" width="9" height="9"/>
+	</g>
+</g>
+<g id="icons">
+	<rect x="7.786" y="9.357" fill="#FFFFFF" width="0.643" height="0.643"/>
+	<rect x="9.071" y="9.357" fill="#FFFFFF" width="0.643" height="0.643"/>
+	<rect x="10.357" y="9.357" fill="#FFFFFF" width="0.643" height="0.643"/>
+	<rect x="10.357" y="8.071" fill="#FFFFFF" width="0.643" height="0.643"/>
+	<rect x="10.357" y="6.786" fill="#FFFFFF" width="0.643" height="0.643"/>
+	<rect x="10.357" y="5.5" fill="#FFFFFF" width="0.643" height="0.643"/>
+	<rect x="10.357" y="4.214" fill="#FFFFFF" width="0.643" height="0.642"/>
+	<rect x="10.357" y="2.929" fill="#FFFFFF" width="0.643" height="0.643"/>
+	<rect x="10.357" y="1.643" fill="#FFFFFF" width="0.643" height="0.642"/>
+	<rect x="9.071" y="1.643" fill="#FFFFFF" width="0.643" height="0.642"/>
+	<rect x="7.786" y="1.643" fill="#FFFFFF" width="0.643" height="0.642"/>
+	<rect x="6.5" y="1" fill="#FFFFFF" width="0.643" height="1.929"/>
+	<rect x="5.857" y="1.643" fill="#FFFFFF" width="0.643" height="0.642"/>
+	<rect x="6.5" y="6.143" fill="#FFFFFF" width="0.643" height="3.857"/>
+	<rect x="7.143" y="5.5" fill="#FFFFFF" width="0.642" height="1.286"/>
+	<rect x="7.786" y="4.857" fill="#FFFFFF" width="0.643" height="1.286"/>
+	<polygon fill="#FFFFFF" points="5.214,3.571 5.214,2.286 3.929,2.286 3.929,3.571 4.571,3.571 	"/>
+	<polygon fill="#FFFFFF" points="3.929,4.214 4.571,4.214 5.857,5.5 5.857,6.143 4.571,4.857 4.571,6.786 5.214,10 4.571,10 
+		3.929,7.429 3.286,7.429 2.631,9.95 2,10 2.643,6.786 3.286,5.5 2,5.5 2,3.571 2.643,2.929 3.286,3.571 	"/>
+</g>
 </svg>

@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY st0 "opacity:0.1;">
-	<!ENTITY st1 "fill:#010101;">
-	<!ENTITY st2 "opacity:0.2;">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="24px" height="18px" viewBox="0 0 24 18" style="enable-background:new 0 0 24 18;" xml:space="preserve">
-<g style="&st0;">
-	<path style="&st1;" d="M22.8,2H3.2H2v1.2v13.5v1.2V18h22v-0.1v-1.2V3.2V2H22.8z M22.8,16H22v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1V9h1
-		V8h1V7h1V6h1V5h1V4h0.8V16z M3.2,4H4v1h1v1h1v1h1v1h1v1h1v1v1H8v1H7v1H6v1H5v1H4v1H3.2V4z M16,9h-1v1h-1v1h-2v-1h-1V9h-1V8H9V7H8V6
-		H7V5H6V4H5V3.2h16V4h-1v1h-1v1h-1v1h-1v1h-1V9z M5,16h1v-1h1v-1h1v-1h1v-1h1v-1h1v1h4v-1h1v1h1v1h1v1h1v1h1v1h1v0.8H5V16z"/>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<path d="M21.034,6.318H5.966H5v0.966v10.432v0.921v0.045h17v-0.045v-0.921V7.284V6.318H21.034z M21.034,17.136h-0.58v-0.773
+			h-0.773v-0.773h-0.773v-0.773h-0.773v-0.773h-0.773v-0.773h-0.773V12.5v-0.773h0.773v-0.773h0.773v-0.773h0.773V9.409h0.773V8.636
+			h0.773V7.864h0.58V17.136z M5.966,7.864h0.58v0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773V12.5v0.773H9.636
+			v0.773H8.863v0.773H8.091v0.773H7.318v0.773H6.545v0.773h-0.58V7.864z M15.818,11.727h-0.773V12.5h-0.773v0.773h-1.545V12.5
+			h-0.773v-0.773h-0.773v-0.773h-0.773v-0.773H9.636V9.409H8.863V8.636H8.091V7.864H7.318v-0.58h12.364v0.58h-0.773v0.773h-0.773
+			v0.773h-0.773v0.773h-0.773v0.773h-0.773V11.727z M7.318,17.136h0.773v-0.773h0.773v-0.773h0.773v-0.773h0.773v-0.773h0.773
+			v-0.773h0.773v0.773h3.091v-0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773v0.58H7.318V17.136z"/>
+	</g>
 </g>
-<g style="&st2;">
-	<path style="&st1;" d="M21.8,1H2.2H1v1.2v13.5v1.2V17h22v-0.1v-1.2V2.2V1H21.8z M21.8,15H21v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1V9V8h1V7
-		h1V6h1V5h1V4h1V3h0.8V15z M2.2,3H3v1h1v1h1v1h1v1h1v1h1v1v1H7v1H6v1H5v1H4v1H3v1H2.2V3z M15,8h-1v1h-1v1h-2V9h-1V8H9V7H8V6H7V5H6V4
-		H5V3H4V2.2h16V3h-1v1h-1v1h-1v1h-1v1h-1V8z M4,15h1v-1h1v-1h1v-1h1v-1h1v-1h1v1h4v-1h1v1h1v1h1v1h1v1h1v1h1v0.8H4V15z"/>
-</g>
-<g>
-	<path style="&st1;" d="M20.8,0H1.2H0v1.2v13.5v1.2V16h22v-0.1v-1.2V1.2V0H20.8z M20.8,14H20v-1h-1v-1h-1v-1h-1v-1h-1V9h-1V8V7h1V6
-		h1V5h1V4h1V3h1V2h0.8V14z M1.2,2H2v1h1v1h1v1h1v1h1v1h1v1v1H6v1H5v1H4v1H3v1H2v1H1.2V2z M14,7h-1v1h-1v1h-2V8H9V7H8V6H7V5H6V4H5V3
-		H4V2H3V1.2h16V2h-1v1h-1v1h-1v1h-1v1h-1V7z M3,14h1v-1h1v-1h1v-1h1v-1h1V9h1v1h4V9h1v1h1v1h1v1h1v1h1v1h1v0.8H3V14z"/>
+<g id="icons">
+	<g>
+		<path d="M20.034,5.318H4.966H4v0.966v10.432v0.921v0.045h17v-0.045v-0.921V6.284V5.318H20.034z M20.034,16.136h-0.58v-0.773
+			h-0.773v-0.773h-0.773v-0.773h-0.773v-0.773h-0.773v-0.773h-0.773V11.5v-0.773h0.773V9.955h0.773V9.182h0.773V8.409h0.773V7.636
+			h0.773V6.864h0.58V16.136z M4.966,6.864h0.58v0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773V11.5v0.773H8.636
+			v0.773H7.864v0.773H7.091v0.773H6.318v0.773H5.545v0.773h-0.58V6.864z M14.818,10.727h-0.773V11.5h-0.773v0.773h-1.545V11.5
+			h-0.773v-0.773h-0.773V9.955H9.409V9.182H8.636V8.409H7.864V7.636H7.091V6.864H6.318v-0.58h12.364v0.58h-0.773v0.773h-0.773v0.773
+			h-0.773v0.773h-0.773v0.773h-0.773V10.727z M6.318,16.136h0.773v-0.773h0.773v-0.773h0.773v-0.773h0.773v-0.773h0.773v-0.773
+			h0.773v0.773h3.091v-0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773v0.773h0.773v0.58H6.318V16.136z"/>
+	</g>
 </g>
 </svg>
