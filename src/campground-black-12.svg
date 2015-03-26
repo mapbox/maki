@@ -4,12 +4,12 @@
 	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
 <g id="shadows">
 	<g opacity="0.2">
-		<path d="M10.9,9.2L7,2.1L3.1,9.2H2.5v0.6h9V9.2H10.9z M4.4,9.2L7,5.4l2.6,3.9H4.4z"/>
+		<path d="M9.9,9.2L6,2.1L2.1,9.2H1.5v0.6h9V9.2H9.9z M3.4,9.2L6,5.4l2.6,3.9H3.4z"/>
 	</g>
 </g>
 <g id="icons">
 	<g>
-		<path d="M10.4,8.7L6.5,1.6L2.6,8.7H2v0.6h9V8.7H10.4z M3.9,8.7l2.6-3.9l2.6,3.9H3.9z"/>
+		<path d="M9.4,8.7L5.5,1.6L1.6,8.7H1v0.6h9V8.7H9.4z M2.9,8.7l2.6-3.9l2.6,3.9H2.9z"/>
 	</g>
 </g>
 <g id="guides">

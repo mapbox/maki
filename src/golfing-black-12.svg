@@ -4,32 +4,32 @@
 	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
 <g id="shadows">
 	<g opacity="0.2">
-		<polyline points="8.3,4.7 5.7,5.4 6.4,6.6 5.7,7.3 4.4,10.5 5.1,10.5 6.4,7.9 7,7.9 7,10.5 7.6,10.5 8.3,7.3 7.6,5.4 8.3,5.4 
-			9.6,4.7 		"/>
-		<rect x="5.1" y="3.4" width="1.3" height="1.3"/>
-		<rect x="8.9" y="4.7" width="0.6" height="0.6"/>
-		<rect x="8.3" y="4.1" width="0.6" height="0.6"/>
-		<rect x="7.6" y="3.4" width="0.6" height="0.6"/>
-		<rect x="7" y="2.8" width="0.6" height="0.6"/>
-		<rect x="6.4" y="2.1" width="0.6" height="0.6"/>
-		<rect x="5.7" y="1.5" width="0.6" height="0.6"/>
-		<rect x="5.1" y="1.5" width="0.6" height="0.6"/>
-		<rect x="5.1" y="2.1" width="0.6" height="0.6"/>
+		<polyline points="7.3,4.7 4.7,5.4 5.4,6.6 4.7,7.3 3.4,10.5 4.1,10.5 5.4,7.9 6,7.9 6,10.5 6.6,10.5 7.3,7.3 6.6,5.4 7.3,5.4 
+			8.6,4.7 		"/>
+		<rect x="4.1" y="3.4" width="1.3" height="1.3"/>
+		<rect x="7.9" y="4.7" width="0.6" height="0.6"/>
+		<rect x="7.3" y="4.1" width="0.6" height="0.6"/>
+		<rect x="6.6" y="3.4" width="0.6" height="0.6"/>
+		<rect x="6" y="2.8" width="0.6" height="0.6"/>
+		<rect x="5.4" y="2.1" width="0.6" height="0.6"/>
+		<rect x="4.7" y="1.5" width="0.6" height="0.6"/>
+		<rect x="4.1" y="1.5" width="0.6" height="0.6"/>
+		<rect x="4.1" y="2.1" width="0.6" height="0.6"/>
 	</g>
 </g>
 <g id="icons">
 	<g>
-		<polyline points="7.8,4.2 5.2,4.9 5.9,6.1 5.2,6.8 3.9,10 4.6,10 5.9,7.4 6.5,7.4 6.5,10 7.1,10 7.8,6.8 7.1,4.9 7.8,4.9 9.1,4.2 
+		<polyline points="6.8,4.2 4.2,4.9 4.9,6.1 4.2,6.8 2.9,10 3.6,10 4.9,7.4 5.5,7.4 5.5,10 6.1,10 6.8,6.8 6.1,4.9 6.8,4.9 8.1,4.2 
 					"/>
-		<rect x="4.6" y="2.9" width="1.3" height="1.3"/>
-		<rect x="8.4" y="4.2" width="0.6" height="0.6"/>
-		<rect x="7.8" y="3.6" width="0.6" height="0.6"/>
-		<rect x="7.1" y="2.9" width="0.6" height="0.6"/>
-		<rect x="6.5" y="2.3" width="0.6" height="0.6"/>
-		<rect x="5.9" y="1.6" width="0.6" height="0.6"/>
-		<rect x="5.2" y="1" width="0.6" height="0.6"/>
-		<rect x="4.6" y="1" width="0.6" height="0.6"/>
-		<rect x="4.6" y="1.6" width="0.6" height="0.6"/>
+		<rect x="3.6" y="2.9" width="1.3" height="1.3"/>
+		<rect x="7.4" y="4.2" width="0.6" height="0.6"/>
+		<rect x="6.8" y="3.6" width="0.6" height="0.6"/>
+		<rect x="6.1" y="2.9" width="0.6" height="0.6"/>
+		<rect x="5.5" y="2.3" width="0.6" height="0.6"/>
+		<rect x="4.9" y="1.6" width="0.6" height="0.6"/>
+		<rect x="4.2" y="1" width="0.6" height="0.6"/>
+		<rect x="3.6" y="1" width="0.6" height="0.6"/>
+		<rect x="3.6" y="1.6" width="0.6" height="0.6"/>
 	</g>
 </g>
 <g id="guides">
