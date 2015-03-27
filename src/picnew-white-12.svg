@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
+<g id="shadows">
+	<g opacity="0.2">
+		<rect x="2.5" y="2.5" width="7" height="1"/>
+		<rect x="1.5" y="8.5" width="2" height="1"/>
+		<rect x="8.5" y="8.5" width="2" height="1"/>
+		<rect x="1.5" y="5.5" width="9" height="1"/>
+		<rect x="4.5" y="3.5" width="1" height="1"/>
+		<rect x="6.5" y="3.5" width="1" height="1"/>
+		<rect x="7.5" y="4.5" width="1" height="1"/>
+		<rect x="3.5" y="4.5" width="1" height="1"/>
+		<rect x="3.5" y="6.5" width="1" height="1"/>
+		<rect x="7.5" y="6.5" width="1" height="1"/>
+		<rect x="2.5" y="7.5" width="1" height="1"/>
+		<rect x="8.5" y="7.5" width="1" height="1"/>
+	</g>
+</g>
+<g id="icons">
+</g>
+<g id="sandbox">
+	<g>
+		<rect x="2" y="2" fill="#FFFFFF" width="7" height="1"/>
+		<rect x="1" y="8" fill="#FFFFFF" width="2" height="1"/>
+		<rect x="8" y="8" fill="#FFFFFF" width="2" height="1"/>
+		<rect x="1" y="5" fill="#FFFFFF" width="9" height="1"/>
+		<rect x="4" y="3" fill="#FFFFFF" width="1" height="1"/>
+		<rect x="6" y="3" fill="#FFFFFF" width="1" height="1"/>
+		<rect x="7" y="4" fill="#FFFFFF" width="1" height="1"/>
+		<rect x="3" y="4" fill="#FFFFFF" width="1" height="1"/>
+		<rect x="3" y="6" fill="#FFFFFF" width="1" height="1"/>
+		<rect x="7" y="6" fill="#FFFFFF" width="1" height="1"/>
+		<rect x="2" y="7" fill="#FFFFFF" width="1" height="1"/>
+		<rect x="8" y="7" fill="#FFFFFF" width="1" height="1"/>
+	</g>
+</g>
+</svg>

@@ -810,5 +810,75 @@
       "wind surfing"
     ],
     "icon": "wind-surfing-white"
+  },
+  {
+    "name": "Golf New (Black)",
+    "tags": [
+      "design variation"
+    ],
+    "icon": "golfnew-black"
+  },
+  {
+    "name": "Golf New (White)",
+    "tags": [
+      "design variation"
+    ],
+    "icon": "golfnew-white"
+  },
+  {
+    "name": "Info Frutiger (Black)",
+    "tags": [
+      "wind surfing"
+    ],
+    "icon": "info-frutiger-black"
+  },
+  {
+    "name": "Info Frutiger (White)",
+    "tags": [
+      "wind surfing"
+    ],
+    "icon": "info-frutiger-white"
+  },
+  {
+    "name": "Info Helvetica (Black)",
+    "tags": [
+      "wind surfing"
+    ],
+    "icon": "info-helvetica-black"
+  },
+  {
+    "name": "Info Helvetica (White)",
+    "tags": [
+      "wind surfing"
+    ],
+    "icon": "info-helvetica-white"
+  },
+  {
+    "name": "Picnic New (Black)",
+    "tags": [
+      "wind surfing"
+    ],
+    "icon": "picnew-black"
+  },
+  {
+    "name": "Picnic New (White)",
+    "tags": [
+      "wind surfing"
+    ],
+    "icon": "picnew-white"
+  },
+  {
+    "name": "Visitor Center New (Black)",
+    "tags": [
+      "wind surfing"
+    ],
+    "icon": "visnew-black"
+  },
+  {
+    "name": "Visitor Center New (White)",
+    "tags": [
+      "wind surfing"
+    ],
+    "icon": "visnew-white"
   }
 ]
