@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
+<g id="shadows-text-objects" display="none">
+	
+		<text transform="matrix(1 0 0 1 1.9991 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="9">O</text>
+</g>
+<g id="letters-text-objects" display="none">
+	
+		<text transform="matrix(1 0 0 1 1.499 8.6418)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="9">O</text>
+</g>
+<g id="shadows-outlines">
+	<g opacity="0.2">
+		<path d="M5.501,2.75c1.908,0,3.025,1.387,3.025,3.25c0,1.908-1.107,3.25-3.025,3.25C3.584,9.25,2.477,7.908,2.477,6
+			C2.477,4.137,3.593,2.75,5.501,2.75z M5.501,8.457c1.449,0,2.07-1.206,2.07-2.457c0-1.278-0.684-2.467-2.07-2.458
+			C4.115,3.533,3.431,4.722,3.431,6C3.431,7.251,4.052,8.457,5.501,8.457z"/>
+	</g>
+</g>
+<g id="letters-outlines">
+	<g>
+		<path fill="#FFFFFF" d="M5.001,2.25c1.908,0,3.025,1.387,3.025,3.25c0,1.908-1.107,3.25-3.025,3.25
+			c-1.917,0-3.024-1.342-3.024-3.25C1.977,3.637,3.092,2.25,5.001,2.25z M5.001,7.957c1.449,0,2.07-1.206,2.07-2.457
+			c0-1.278-0.684-2.467-2.07-2.458c-1.386-0.009-2.07,1.18-2.07,2.458C2.931,6.751,3.552,7.957,5.001,7.957z"/>
+	</g>
+</g>
+<g id="guides_and_set-up" display="none">
+</g>
+</svg>

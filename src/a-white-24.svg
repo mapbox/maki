@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows-text-objects" display="none">
+	
+		<text transform="matrix(1 0 0 1 7.3632 18.4326)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="17">A</text>
+</g>
+<g id="letters-text-objects" display="none">
+	
+		<text transform="matrix(1 0 0 1 6.3633 17.4329)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="17">A</text>
+</g>
+<g id="shadows-outlines">
+	<g opacity="0.2">
+		<path d="M12.633,6.568h1.785l5.014,11.865h-1.853l-1.207-2.991h-5.813l-1.207,2.991H7.567L12.633,6.568z M13.466,8.166
+			l-2.363,5.881h4.726L13.466,8.166z"/>
+	</g>
+</g>
+<g id="letters-outlines">
+	<g>
+		<path fill="#FFFFFF" d="M11.633,5.568h1.785l5.014,11.864h-1.853l-1.207-2.991H9.559l-1.207,2.991H6.567L11.633,5.568z
+			 M12.466,7.166l-2.362,5.881h4.725L12.466,7.166z"/>
+	</g>
+</g>
+<g id="guides_and_set-up" display="none">
+</g>
+</svg>

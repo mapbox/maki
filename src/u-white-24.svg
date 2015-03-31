@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows-text-objects" display="none">
+	
+		<text transform="matrix(1 0 0 1 7.3632 18.4326)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="17">U</text>
+</g>
+<g id="letters-text-objects" display="none">
+	
+		<text transform="matrix(1 0 0 1 6.3633 17.4329)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="17">U</text>
+</g>
+<g id="shadows-outlines">
+	<g opacity="0.2">
+		<path d="M18.106,13.52c0,3.332-1.683,5.117-4.607,5.117c-2.923,0-4.606-1.785-4.606-5.117V6.568h1.7v6.73
+			c0,2.278,0.714,3.842,2.906,3.842c2.193,0,2.907-1.563,2.907-3.842v-6.73h1.7V13.52z"/>
+	</g>
+</g>
+<g id="letters-outlines">
+	<g>
+		<path fill="#FFFFFF" d="M17.106,12.521c0,3.331-1.683,5.116-4.606,5.116s-4.607-1.785-4.607-5.116V5.568h1.7V12.3
+			c0,2.277,0.714,3.841,2.907,3.841c2.192,0,2.906-1.563,2.906-3.841V5.568h1.7V12.521z"/>
+	</g>
+</g>
+<g id="guides_and_set-up" display="none">
+</g>
+</svg>

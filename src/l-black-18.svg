@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<g id="shadows-text-objects" display="none">
+	
+		<text transform="matrix(1 0 0 1 6.9997 13.7503)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="13">L</text>
+</g>
+<g id="letters-text-objects" display="none">
+	<text transform="matrix(1 0 0 1 6.25 13.0002)" display="inline" font-family="'FrutigerLTStd-Roman'" font-size="13">L</text>
+</g>
+<g id="shadows-outlines">
+	<g opacity="0.2">
+		<path d="M8.144,4.676h1.301v7.931h3.796v1.144H8.144V4.676z"/>
+	</g>
+</g>
+<g id="letters-outlines">
+	<g>
+		<path d="M7.395,3.926h1.3v7.931h3.796V13H7.395V3.926z"/>
+	</g>
+</g>
+<g id="guides_and_set-up" display="none">
+</g>
+</svg>

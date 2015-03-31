@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="shadows-text-objects" display="none">
+	
+		<text transform="matrix(1 0 0 1 8.7739 18.4326)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="17">2</text>
+</g>
+<g id="numbers-text-objects" display="none">
+	<text transform="matrix(1 0 0 1 7.7739 17.4329)" display="inline" font-family="'FrutigerLTStd-Roman'" font-size="17">2</text>
+</g>
+<g id="shadows-outlines">
+	<g opacity="0.2">
+		<path d="M9.624,16.614c0.612-0.544,1.376-1.207,2.125-1.904c1.309-1.224,3.417-3.145,3.417-5.065c0-1.105-0.985-1.887-2.277-1.887
+			c-1.054,0-2.074,0.408-2.72,0.765l-0.17-1.462c0.986-0.425,2.04-0.697,3.11-0.697c2.142,0,3.858,1.156,3.858,3.383
+			c0,1.973-2.124,4.08-3.434,5.389c-0.663,0.663-1.513,1.377-2.09,1.904h5.694v1.394H9.624V16.614z"/>
+	</g>
+</g>
+<g id="numbers-outlines">
+	<g>
+		<path d="M8.624,15.614C9.236,15.07,10,14.407,10.749,13.71c1.309-1.224,3.417-3.145,3.417-5.065c0-1.104-0.985-1.887-2.277-1.887
+			c-1.054,0-2.074,0.408-2.72,0.765l-0.17-1.462c0.986-0.425,2.04-0.696,3.11-0.696c2.142,0,3.858,1.155,3.858,3.383
+			c0,1.972-2.124,4.079-3.434,5.388c-0.663,0.663-1.513,1.377-2.09,1.904h5.694v1.394H8.624V15.614z"/>
+	</g>
+</g>
+</svg>

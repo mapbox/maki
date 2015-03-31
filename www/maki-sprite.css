@@ -21,7 +21,7 @@
   only screen and (min-device-pixel-ratio : 2) {
   .maki-icon {
     background-image:url(images/maki-sprite@2x.png);
-    background-size: 270px 553px; /* Replaced automatically by render.sh */
+    background-size: 270px 864px; /* Replaced automatically by render.sh */
   }
   .dark .maki-icon { background-image:url(images/maki-sprite.dark@2x.png); }
 }
@@ -131,13 +131,75 @@
 .maki-icon.wheelchair-accessible-white { background-position: -54px -480px; }
 .maki-icon.wind-surfing-black { background-position: -108px -480px; }
 .maki-icon.wind-surfing-white { background-position: -162px -480px; }
-.maki-icon.golfnew-black { background-position: -216px -480px; }
-.maki-icon.golfnew-white { background-position: 0px -504px; }
-.maki-icon.info-frutiger-black { background-position: -54px -504px; }
-.maki-icon.info-frutiger-white { background-position: -108px -504px; }
-.maki-icon.info-helvetica-black { background-position: -162px -504px; }
-.maki-icon.info-helvetica-white { background-position: -216px -504px; }
-.maki-icon.picnew-black { background-position: 0px -528px; }
-.maki-icon.picnew-white { background-position: -54px -528px; }
-.maki-icon.visnew-black { background-position: -108px -528px; }
-.maki-icon.visnew-white { background-position: -162px -528px; }
+.maki-icon.a-black { background-position: -216px -480px; }
+.maki-icon.a-white { background-position: 0px -504px; }
+.maki-icon.b-black { background-position: -54px -504px; }
+.maki-icon.b-white { background-position: -108px -504px; }
+.maki-icon.c-black { background-position: -162px -504px; }
+.maki-icon.c-white { background-position: -216px -504px; }
+.maki-icon.d-black { background-position: 0px -528px; }
+.maki-icon.d-white { background-position: -54px -528px; }
+.maki-icon.e-black { background-position: -108px -528px; }
+.maki-icon.e-white { background-position: -162px -528px; }
+.maki-icon.f-black { background-position: -216px -528px; }
+.maki-icon.f-white { background-position: 0px -552px; }
+.maki-icon.g-black { background-position: -54px -552px; }
+.maki-icon.g-white { background-position: -108px -552px; }
+.maki-icon.h-black { background-position: -162px -552px; }
+.maki-icon.h-white { background-position: -216px -552px; }
+.maki-icon.i-black { background-position: 0px -576px; }
+.maki-icon.i-white { background-position: -54px -576px; }
+.maki-icon.j-black { background-position: -108px -576px; }
+.maki-icon.j-white { background-position: -162px -576px; }
+.maki-icon.k-black { background-position: -216px -576px; }
+.maki-icon.k-white { background-position: 0px -600px; }
+.maki-icon.l-black { background-position: -54px -600px; }
+.maki-icon.l-white { background-position: -108px -600px; }
+.maki-icon.m-black { background-position: -162px -600px; }
+.maki-icon.m-white { background-position: -216px -600px; }
+.maki-icon.n-black { background-position: 0px -624px; }
+.maki-icon.n-white { background-position: -54px -624px; }
+.maki-icon.o-black { background-position: -108px -624px; }
+.maki-icon.o-white { background-position: -162px -624px; }
+.maki-icon.p-black { background-position: -216px -624px; }
+.maki-icon.p-white { background-position: 0px -648px; }
+.maki-icon.q-black { background-position: -54px -648px; }
+.maki-icon.q-white { background-position: -108px -648px; }
+.maki-icon.r-black { background-position: -162px -648px; }
+.maki-icon.r-white { background-position: -216px -648px; }
+.maki-icon.s-black { background-position: 0px -672px; }
+.maki-icon.s-white { background-position: -54px -672px; }
+.maki-icon.t-black { background-position: -108px -672px; }
+.maki-icon.t-white { background-position: -162px -672px; }
+.maki-icon.u-black { background-position: -216px -672px; }
+.maki-icon.u-white { background-position: 0px -696px; }
+.maki-icon.v-black { background-position: -54px -696px; }
+.maki-icon.v-white { background-position: -108px -696px; }
+.maki-icon.w-black { background-position: -162px -696px; }
+.maki-icon.w-white { background-position: -216px -696px; }
+.maki-icon.x-black { background-position: 0px -720px; }
+.maki-icon.x-white { background-position: -54px -720px; }
+.maki-icon.y-black { background-position: -108px -720px; }
+.maki-icon.y-white { background-position: -162px -720px; }
+.maki-icon.z-black { background-position: -216px -720px; }
+.maki-icon.z-white { background-position: 0px -744px; }
+.maki-icon.0-black { background-position: -54px -744px; }
+.maki-icon.0-white { background-position: -108px -744px; }
+.maki-icon.1-black { background-position: -162px -744px; }
+.maki-icon.1-white { background-position: -216px -744px; }
+.maki-icon.2-black { background-position: 0px -768px; }
+.maki-icon.2-white { background-position: -54px -768px; }
+.maki-icon.3-black { background-position: -108px -768px; }
+.maki-icon.3-white { background-position: -162px -768px; }
+.maki-icon.4-black { background-position: -216px -768px; }
+.maki-icon.4-white { background-position: 0px -792px; }
+.maki-icon.5-black { background-position: -54px -792px; }
+.maki-icon.5-white { background-position: -108px -792px; }
+.maki-icon.6-black { background-position: -162px -792px; }
+.maki-icon.6-white { background-position: -216px -792px; }
+.maki-icon.7-black { background-position: 0px -816px; }
+.maki-icon.7-white { background-position: -54px -816px; }
+.maki-icon.8-black { background-position: -108px -816px; }
+.maki-icon.8-white { background-position: -162px -816px; }
+.maki-icon.9-black { background-position: -216px -816px; }
+.maki-icon.9-white { background-position: 0px -840px; }
