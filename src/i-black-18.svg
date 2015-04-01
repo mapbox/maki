@@ -4,19 +4,22 @@
 	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 8.4426 13.7503)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="13">I</text>
+		<text transform="matrix(1 0 0 1 8.4426 13.7503)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="13">I</text>
 </g>
 <g id="letters-text-objects" display="none">
-	<text transform="matrix(1 0 0 1 7.6929 13.0002)" display="inline" font-family="'FrutigerLTStd-Roman'" font-size="13">I</text>
+	<text transform="matrix(1 0 0 1 7.6929 13.0002)" display="inline" font-family="'FrutigerLTStd-Bold'" font-size="13">I</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M9.6,4.676H10.9v9.074H9.6V4.676z"/>
+		<path d="M9.34,4.676h1.82v9.074H9.34V4.676z"/>
 	</g>
 </g>
 <g id="letters-outlines">
 	<g>
 		<path d="M8.85,3.926h1.301V13H8.85V3.926z"/>
+	</g>
+	<g>
+		<path d="M8.59,3.926h1.82V13H8.59V3.926z"/>
 	</g>
 </g>
 <g id="guides_and_set-up" display="none">

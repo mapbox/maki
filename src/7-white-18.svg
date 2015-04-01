@@ -4,20 +4,20 @@
 	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 6.636 13.7503)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="13">7</text>
+		<text transform="matrix(1 0 0 1 6.636 13.7503)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="13">7</text>
 </g>
 <g id="numbers-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 5.8862 13.0002)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="13">7</text>
+		<text transform="matrix(1 0 0 1 5.8862 13.0002)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Bold'" font-size="13">7</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M13.02,5.742L9.665,13.75h-1.43l3.458-8.008h-4.42V4.676h5.746V5.742z"/>
+		<path d="M7.286,4.676h5.851v1.508L9.912,13.75H7.937l3.367-7.645H7.286V4.676z"/>
 	</g>
 </g>
 <g id="numbers-outlines">
 	<g>
-		<path fill="#FFFFFF" d="M12.27,4.992L8.916,13H7.485l3.458-8.008h-4.42V3.926h5.746V4.992z"/>
+		<path fill="#FFFFFF" d="M6.536,3.926h5.851v1.508L9.162,13H7.187l3.367-7.645H6.536V3.926z"/>
 	</g>
 </g>
 </svg>

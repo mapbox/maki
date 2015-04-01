@@ -4,24 +4,24 @@
 	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 6.2781 13.7503)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="13">R</text>
+		<text transform="matrix(1 0 0 1 6.2781 13.7503)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="13">R</text>
 </g>
 <g id="letters-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 5.5283 13.0002)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="13">R</text>
+		<text transform="matrix(1 0 0 1 5.5283 13.0002)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Bold'" font-size="13">R</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M7.357,4.676H9.58c1.795,0,3.523,0.286,3.523,2.457c0,1.105-0.819,1.885-1.872,2.067v0.025
-			c0.403,0.156,0.598,0.352,0.884,0.91l1.717,3.614H12.35l-1.391-3.146C10.556,9.72,10.126,9.72,9.438,9.72h-0.78v4.03h-1.3V4.676z
-			 M8.657,8.576h1.105c1.234,0,1.963-0.546,1.963-1.417c0-0.819-0.624-1.339-1.82-1.339H8.657V8.576z"/>
+		<path d="M7.175,4.676h1.964c1.95,0,4.277-0.064,4.277,2.457c0,1.066-0.716,1.95-1.872,2.106v0.025
+			c0.493,0.039,0.779,0.533,0.962,0.937l1.456,3.549h-2.028l-1.092-2.834c-0.261-0.676-0.494-0.937-1.262-0.937H8.995v3.771h-1.82
+			V4.676z M8.995,8.55h0.598c0.897,0,1.925-0.13,1.925-1.261c0-1.092-1.015-1.184-1.925-1.184H8.995V8.55z"/>
 	</g>
 </g>
 <g id="letters-outlines">
 	<g>
-		<path fill="#FFFFFF" d="M6.607,3.926H8.83c1.795,0,3.523,0.286,3.523,2.457c0,1.105-0.819,1.885-1.872,2.067v0.025
-			c0.403,0.156,0.598,0.352,0.884,0.91L13.082,13H11.6l-1.391-3.146C9.806,8.97,9.377,8.97,8.688,8.97h-0.78V13h-1.3V3.926z
-			 M7.907,7.826h1.105c1.234,0,1.963-0.546,1.963-1.417c0-0.819-0.624-1.339-1.82-1.339H7.907V7.826z"/>
+		<path fill="#FFFFFF" d="M6.426,3.926h1.963c1.95,0,4.277-0.064,4.277,2.457c0,1.066-0.716,1.95-1.872,2.106v0.025
+			c0.493,0.039,0.779,0.533,0.962,0.937L13.212,13h-2.028l-1.092-2.834C9.832,9.49,9.598,9.229,8.83,9.229H8.246V13h-1.82V3.926z
+			 M8.246,7.8h0.598c0.896,0,1.924-0.13,1.924-1.261c0-1.092-1.014-1.184-1.924-1.184H8.246V7.8z"/>
 	</g>
 </g>
 <g id="guides_and_set-up" display="none">

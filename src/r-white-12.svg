@@ -3,25 +3,24 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
-	
-		<text transform="matrix(1 0 0 1 2.7505 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="9">R</text>
+	<text transform="matrix(1 0 0 1 2.7505 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="9">R</text>
 </g>
 <g id="letters-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 2.2505 8.6418)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="9">R</text>
+		<text transform="matrix(1 0 0 1 2.2505 8.6418)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Bold'" font-size="9">R</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M3.498,2.858h1.539c1.242,0,2.439,0.197,2.439,1.701c0,0.765-0.566,1.305-1.296,1.431v0.019
-			c0.279,0.108,0.414,0.243,0.612,0.63l1.188,2.503H6.955L5.991,6.963C5.713,6.351,5.415,6.351,4.938,6.351h-0.54v2.791h-0.9V2.858z
-			 M4.398,5.559h0.765c0.855,0,1.359-0.378,1.359-0.981c0-0.566-0.432-0.927-1.26-0.927H4.398V5.559z"/>
+		<path d="M3.372,2.858h1.359c1.35,0,2.962-0.046,2.962,1.701c0,0.738-0.495,1.35-1.297,1.458v0.019
+			c0.342,0.026,0.54,0.368,0.666,0.647l1.009,2.458H6.667L5.911,7.179C5.73,6.711,5.568,6.531,5.037,6.531H4.632v2.61h-1.26V2.858z
+			 M4.632,5.541h0.415c0.621,0,1.332-0.091,1.332-0.874c0-0.756-0.702-0.818-1.332-0.818H4.632V5.541z"/>
 	</g>
 </g>
 <g id="letters-outlines">
 	<g>
-		<path fill="#FFFFFF" d="M2.998,2.358h1.539c1.242,0,2.439,0.197,2.439,1.701c0,0.765-0.566,1.305-1.296,1.431v0.019
-			c0.279,0.108,0.414,0.243,0.612,0.63l1.188,2.503H6.455L5.491,6.463C5.213,5.851,4.915,5.851,4.438,5.851H3.898v2.791h-0.9V2.358z
-			 M3.898,5.059h0.765c0.855,0,1.359-0.378,1.359-0.981c0-0.566-0.432-0.927-1.261-0.927H3.898V5.059z"/>
+		<path fill="#FFFFFF" d="M2.871,2.358H4.23c1.351,0,2.963-0.046,2.963,1.701c0,0.738-0.495,1.35-1.297,1.458v0.019
+			c0.342,0.026,0.54,0.368,0.666,0.647l1.009,2.458H6.167L5.41,6.679C5.23,6.211,5.068,6.031,4.537,6.031H4.132v2.61H2.871V2.358z
+			 M4.132,5.041h0.415c0.621,0,1.332-0.091,1.332-0.874c0-0.756-0.703-0.818-1.332-0.818H4.132V5.041z"/>
 	</g>
 </g>
 <g id="guides_and_set-up" display="none">

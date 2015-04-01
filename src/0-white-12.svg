@@ -3,25 +3,24 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
-	
-		<text transform="matrix(1 0 0 1 2.9981 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="9">0</text>
+	<text transform="matrix(1 0 0 1 2.9981 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="9">0</text>
 </g>
 <g id="numbers-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 2.498 8.6418)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="9">0</text>
+		<text transform="matrix(1 0 0 1 2.498 8.6418)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Bold'" font-size="9">0</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M5.501,2.75c1.737,0,2.134,1.873,2.134,3.25c0,1.376-0.396,3.25-2.134,3.25S3.367,7.377,3.367,6
-			C3.367,4.623,3.764,2.75,5.501,2.75z M5.501,8.512C6.581,8.512,6.68,6.784,6.68,6c0-0.793-0.144-2.512-1.179-2.512
-			S4.321,5.208,4.321,6C4.321,6.784,4.421,8.512,5.501,8.512z"/>
+		<path d="M3.313,6.018c0-1.575,0.477-3.268,2.179-3.268c1.836,0,2.196,1.81,2.196,3.268c0,1.458-0.378,3.232-2.196,3.232
+			C3.557,9.25,3.313,7.332,3.313,6.018z M6.428,6.018c0-0.811,0-2.332-0.936-2.332c-0.918,0-0.918,1.521-0.918,2.332
+			c0,0.792-0.01,2.295,0.918,2.295C6.438,8.313,6.428,6.81,6.428,6.018z"/>
 	</g>
 </g>
 <g id="numbers-outlines">
 	<g>
-		<path fill="#FFFFFF" d="M5.001,2.25c1.737,0,2.134,1.873,2.134,3.25c0,1.377-0.396,3.25-2.134,3.25S2.867,6.877,2.867,5.5
-			C2.867,4.123,3.264,2.25,5.001,2.25z M5.001,8.012c1.08,0,1.179-1.728,1.179-2.511c0-0.793-0.144-2.512-1.179-2.512
-			c-1.036,0-1.18,1.719-1.18,2.512C3.821,6.284,3.92,8.012,5.001,8.012z"/>
+		<path fill="#FFFFFF" d="M2.812,5.518c0-1.575,0.478-3.268,2.18-3.268c1.836,0,2.196,1.81,2.196,3.268
+			c0,1.459-0.378,3.232-2.196,3.232C3.057,8.75,2.812,6.833,2.812,5.518z M5.928,5.518c0-0.811,0-2.332-0.936-2.332
+			c-0.918,0-0.918,1.521-0.918,2.332c0,0.792-0.01,2.295,0.918,2.295C5.938,7.813,5.928,6.31,5.928,5.518z"/>
 	</g>
 </g>
 </svg>

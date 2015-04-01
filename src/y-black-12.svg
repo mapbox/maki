@@ -3,20 +3,19 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
-	
-		<text transform="matrix(1 0 0 1 2.9986 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="9">Y</text>
+	<text transform="matrix(1 0 0 1 2.9986 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="9">Y</text>
 </g>
 <g id="letters-text-objects" display="none">
-	<text transform="matrix(1 0 0 1 2.4985 8.6418)" display="inline" font-family="'FrutigerLTStd-Roman'" font-size="9">Y</text>
+	<text transform="matrix(1 0 0 1 2.4985 8.6418)" display="inline" font-family="'FrutigerLTStd-Bold'" font-size="9">Y</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M5.556,6.513L3.098,2.858h1.054l1.872,2.817l1.827-2.817h1.054L6.456,6.513v2.629h-0.9V6.513z"/>
+		<path d="M5.394,6.657L3.098,2.858h1.477L6.06,5.495l1.513-2.637h1.332L6.653,6.657v2.484h-1.26V6.657z"/>
 	</g>
 </g>
 <g id="letters-outlines">
 	<g>
-		<path d="M5.055,6.013L2.598,2.358H3.65l1.873,2.817l1.827-2.817h1.054L5.955,6.013v2.629h-0.9V6.013z"/>
+		<path d="M4.893,6.157L2.598,2.358h1.477L5.56,4.995l1.513-2.637h1.332L6.153,6.157v2.484H4.893V6.157z"/>
 	</g>
 </g>
 <g id="guides_and_set-up" display="none">

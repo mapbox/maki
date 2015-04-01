@@ -3,23 +3,22 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
-	
-		<text transform="matrix(1 0 0 1 2.9981 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="9">P</text>
+	<text transform="matrix(1 0 0 1 2.9981 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="9">P</text>
 </g>
 <g id="letters-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 2.498 8.6418)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="9">P</text>
+		<text transform="matrix(1 0 0 1 2.498 8.6418)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Bold'" font-size="9">P</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M3.745,2.858h1.647c1.287,0,2.359,0.449,2.359,1.881c0,1.396-1.09,1.891-2.224,1.891H4.646v2.512h-0.9V2.858z
-			 M4.646,5.838h0.892c0.558,0,1.26-0.279,1.26-1.107c0-0.792-0.828-1.08-1.386-1.08H4.646V5.838z"/>
+		<path d="M3.619,2.858h1.594c1.368,0,2.619,0.396,2.619,1.898c0,1.468-1.071,1.999-2.421,1.999H4.88v2.386H3.619V2.858z
+			 M4.88,5.766h0.441c0.63,0,1.197-0.207,1.197-0.937c0-0.729-0.55-0.98-1.197-0.98H4.88V5.766z"/>
 	</g>
 </g>
 <g id="letters-outlines">
 	<g>
-		<path fill="#FFFFFF" d="M3.245,2.358h1.647c1.287,0,2.359,0.449,2.359,1.881c0,1.396-1.09,1.891-2.225,1.891H4.146v2.512h-0.9
-			V2.358z M4.146,5.338h0.892c0.558,0,1.26-0.279,1.26-1.107c0-0.792-0.828-1.08-1.387-1.08H4.146V5.338z"/>
+		<path fill="#FFFFFF" d="M3.119,2.358h1.594c1.368,0,2.619,0.396,2.619,1.898c0,1.468-1.071,1.999-2.422,1.999H4.379v2.386h-1.26
+			V2.358z M4.379,5.266H4.82c0.631,0,1.198-0.207,1.198-0.937c0-0.729-0.55-0.98-1.198-0.98H4.379V5.266z"/>
 	</g>
 </g>
 <g id="guides_and_set-up" display="none">

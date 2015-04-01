@@ -3,21 +3,24 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 12 12" enable-background="new 0 0 12 12" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
-	
-		<text transform="matrix(1 0 0 1 2.4986 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="9">K</text>
+	<text transform="matrix(1 0 0 1 2.4986 9.142)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="9">K</text>
 </g>
 <g id="letters-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 1.9985 8.6418)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="9">K</text>
+		<text transform="matrix(1 0 0 1 1.9985 8.6418)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Bold'" font-size="9">K</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M3.345,2.858h0.9v2.763l2.683-2.763h1.197l-2.952,2.97l3.187,3.313H7.045l-2.8-3.079v3.079h-0.9V2.858z"/>
+		<path d="M3.228,2.858h1.261v2.7l2.269-2.7h1.549L5.722,5.819l2.691,3.322H6.766L4.507,6.225H4.488v2.917H3.228V2.858z"/>
 	</g>
 </g>
 <g id="letters-outlines">
 	<g>
 		<path fill="#FFFFFF" d="M2.845,2.358h0.9v2.763l2.683-2.763h1.197l-2.953,2.97l3.188,3.313H6.545l-2.8-3.079v3.079h-0.9V2.358z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M2.728,2.358h1.261v2.7l2.269-2.7h1.549L5.222,5.319l2.691,3.322H6.266l-2.26-2.917H3.988v2.917H2.728
+			V2.358z"/>
 	</g>
 </g>
 <g id="guides_and_set-up" display="none">

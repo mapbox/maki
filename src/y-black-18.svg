@@ -4,19 +4,19 @@
 	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 5.9143 13.7503)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="13">Y</text>
+		<text transform="matrix(1 0 0 1 5.9143 13.7503)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="13">Y</text>
 </g>
 <g id="letters-text-objects" display="none">
-	<text transform="matrix(1 0 0 1 5.1646 13.0002)" display="inline" font-family="'FrutigerLTStd-Roman'" font-size="13">Y</text>
+	<text transform="matrix(1 0 0 1 5.1646 13.0002)" display="inline" font-family="'FrutigerLTStd-Bold'" font-size="13">Y</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M9.606,9.954L6.058,4.676h1.521l2.704,4.069l2.64-4.069h1.521l-3.537,5.278v3.796h-1.3V9.954z"/>
+		<path d="M9.372,10.162L6.058,4.676h2.132l2.146,3.81l2.184-3.81h1.925l-3.251,5.486v3.588h-1.82V10.162z"/>
 	</g>
 </g>
 <g id="letters-outlines">
 	<g>
-		<path d="M8.856,9.204L5.308,3.926h1.521l2.705,4.069l2.639-4.069h1.521l-3.537,5.278V13h-1.3V9.204z"/>
+		<path d="M8.623,9.412L5.308,3.926h2.132l2.146,3.81l2.184-3.81h1.925l-3.251,5.486V13H8.623V9.412z"/>
 	</g>
 </g>
 <g id="guides_and_set-up" display="none">

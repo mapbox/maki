@@ -4,20 +4,23 @@
 	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 9.2499 18.4326)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="17">L</text>
+		<text transform="matrix(1 0 0 1 9.2499 18.4326)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="17">L</text>
 </g>
 <g id="letters-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 8.25 17.4329)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="17">L</text>
+		<text transform="matrix(1 0 0 1 8.25 17.4329)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Bold'" font-size="17">L</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M10.746,6.568h1.699v10.368h4.964v1.496h-6.663V6.568z"/>
+		<path d="M10.627,6.568h2.38v9.994h4.606v1.87h-6.986V6.568z"/>
 	</g>
 </g>
 <g id="letters-outlines">
 	<g>
 		<path fill="#FFFFFF" d="M9.746,5.568h1.699v10.368h4.964v1.496H9.746V5.568z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M9.627,5.568h2.38v9.994h4.606v1.87H9.627V5.568z"/>
 	</g>
 </g>
 <g id="guides_and_set-up" display="none">

@@ -4,20 +4,23 @@
 	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
 <g id="shadows-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 7.3632 18.4326)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Roman'" font-size="17">H</text>
+		<text transform="matrix(1 0 0 1 7.3632 18.4326)" display="inline" opacity="0.2" font-family="'FrutigerLTStd-Bold'" font-size="17">H</text>
 </g>
 <g id="letters-text-objects" display="none">
 	
-		<text transform="matrix(1 0 0 1 6.3633 17.4329)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Roman'" font-size="17">H</text>
+		<text transform="matrix(1 0 0 1 6.3633 17.4329)" display="inline" fill="#FFFFFF" font-family="'FrutigerLTStd-Bold'" font-size="17">H</text>
 </g>
 <g id="shadows-outlines">
 	<g opacity="0.2">
-		<path d="M8.961,6.568h1.7v4.963h5.677V6.568h1.7v11.864h-1.7v-5.405h-5.677v5.405h-1.7V6.568z"/>
+		<path d="M8.74,6.568h2.38v4.793h4.76V6.568h2.379v11.864H15.88V13.23h-4.76v5.202H8.74V6.568z"/>
 	</g>
 </g>
 <g id="letters-outlines">
 	<g>
 		<path fill="#FFFFFF" d="M7.961,5.568h1.7v4.963h5.677V5.568h1.7v11.864h-1.7v-5.405H9.661v5.405h-1.7V5.568z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M7.74,5.568h2.38v4.793h4.76V5.568h2.379v11.864H14.88v-5.201h-4.76v5.201H7.74V5.568z"/>
 	</g>
 </g>
 <g id="guides_and_set-up" display="none">
