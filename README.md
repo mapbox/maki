@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/nationalparkservice/npmaki.png)](https://travis-ci.org/nationalparkservice/npmaki)
 
-NPMaki is a forked version of Maki - a point of interest icon set designed and maintained by [Mapbox](https://www.mapbox.com]. NPMaki, however, uses an optimized version of the National Park Service's [symbolset](http://www.nps.gov/hfc/carto/map-symbols.cfm) in place of Mapbox's symbols.
+NPMaki is a forked version of Maki - a point of interest icon set designed and maintained by [Mapbox](https://www.mapbox.com). NPMaki, however, uses an optimized version of the National Park Service's [symbolset](http://www.nps.gov/hfc/carto/map-symbols.cfm) in place of Mapbox's symbols.
 
 ## src
 
