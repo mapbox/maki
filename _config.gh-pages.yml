@@ -1,8 +1,0 @@
-api: https://www.mapbox.com
-url: https://www.mapbox.com
-exclude:
-  - README.markdown
-  - nounproject
-baseurl: /maki
-permalink: /:title.html
-markdown: rdiscount

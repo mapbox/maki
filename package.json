@@ -1,9 +1,9 @@
 {
   "author": "National Park Service",
   "name": "npmaki",
-  "description": "Extending the Maki icon set to include the National Park Service symbolset.",
-  "version": "0.4.2",
-  "homepage": "http://mapbox.com/maki",
+  "description": "A web-friendly symbolset for the National Park Service.",
+  "version": "1.0.0",
+  "homepage": "http://www.nps.gov/npmap/tools/npmaki/",
   "scripts": {
     "test": "tap test/*.js"
   },

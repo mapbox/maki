@@ -52,9 +52,6 @@ function build_sprite {
         -gravity Northwest \
         $@ $rnull \
         $outfile
-
-    # Create a negated 'dark' appropriate version of the sprite.
-    convert $outfile -negate $(echo "$outfile" | sed 's/-sprite/-sprite.dark/')
 }
 
 function build_css {
@@ -68,15 +65,15 @@ function build_css {
     dy=0
     maxwidth=$((54*$tilex/3-1))
 
-    cat www/maki-sprite.css.tpl > www/maki-sprite.css
+    cat www/npmaki-sprite.css.tpl > www/npmaki-sprite.css
 
     for icon in $@; do
 
         count=$(($count + 1))
 
 
-        echo ".maki-icon.$icon { background-position: ${dx}px ${dy}px; }" \
-            >> www/maki-sprite.css
+        echo ".npmaki-icon.$icon { background-position: ${dx}px ${dy}px; }" \
+            >> www/npmaki-sprite.css
 
         # Check if we need to add a new row yet,
         # and if so, adjust dy and dy accordingly.
@@ -90,9 +87,9 @@ function build_css {
     done
 
     # Update sprite dimensions for retina rules.
-    dim="$(identify -format "%wpx %hpx" www/images/maki-sprite.png)"
-    cat www/maki-sprite.css | sed "s/background-size: [0-9]*px [0-9]*px;/background-size: $dim;/" > www/maki-sprite.css.tmp
-    mv www/maki-sprite.css.tmp www/maki-sprite.css
+    dim="$(identify -format "%wpx %hpx" www/images/npmaki-sprite.png)"
+    cat www/npmaki-sprite.css | sed "s/background-size: [0-9]*px [0-9]*px;/background-size: $dim;/" > www/npmaki-sprite.css.tmp
+    mv www/npmaki-sprite.css.tmp www/npmaki-sprite.css
 }
 
 function build_positions {
@@ -103,7 +100,7 @@ function build_positions {
     dy=0
     maxwidth=$((54*$tilex/3-1))
 
-    file="www/maki-sprite.json"
+    file="www/npmaki-sprite.json"
 
     echo "{" > $file;
 
@@ -137,23 +134,23 @@ function build_positions {
 function build_csv {
     # Outputs a simple CSV that can be used in Mapnik/TileMill/etc to
     # test all of the icons on a map. Example CartoCSS:
-    #     marker-file: url("/path/to/maki/src/[icon]-[size].svg");
+    #     marker-file: url("/path/to/npmaki/src/[icon]-[size].svg");
     #     marker-allow-overlap: true;
 
     count=-179
-    echo "icon,size,x,y" > maki.csv
+    echo "icon,size,x,y" > npmaki.csv
     for icon in $@; do
-        echo $icon,12,$count,1 >> maki.csv
-        echo $icon,18,$count,2 >> maki.csv
-        echo $icon,24,$count,3 >> maki.csv
+        echo $icon,12,$count,1 >> npmaki.csv
+        echo $icon,18,$count,2 >> npmaki.csv
+        echo $icon,24,$count,3 >> npmaki.csv
         count=$(($count+1))
     done
 }
 
 
-# Get a lcst of all the icon names - any icons not in maki.json
+# Get a lcst of all the icon names - any icons not in npmaki.json
 # will not be rendered or included in the sprites.
-icons=$(grep '"icon":' www/maki.json \
+icons=$(grep '"icon":' www/npmaki.json \
     | sed 's/.*\:\ "\([-a-z0-9]*\)".*/\1/' \
     | tr '\n' ' ')
 
@@ -167,8 +164,8 @@ case $@ in
         build_pngs $svgs
         ;;
     sprite | sprites )
-        build_sprite "www/images/maki-sprite.png" $pngs
-        build_sprite "www/images/maki-sprite@2x.png" $pngs2x
+        build_sprite "www/images/npmaki-sprite.png" $pngs
+        build_sprite "www/images/npmaki-sprite@2x.png" $pngs2x
         ;;
     css )
         build_css $icons
@@ -194,8 +191,8 @@ case $@ in
         # By default we build the PNGs, sprites, CSS, and position JSON
         # but not the CSV or debug output
         build_pngs $svgs
-        build_sprite "www/images/maki-sprite.png" $pngs
-        build_sprite "www/images/maki-sprite@2x.png" $pngs2x
+        build_sprite "www/images/npmaki-sprite.png" $pngs
+        build_sprite "www/images/npmaki-sprite@2x.png" $pngs2x
         build_css $icons
         build_positions $icons
         ;;

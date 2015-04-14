@@ -2,38 +2,35 @@
 
 [![Build Status](https://travis-ci.org/nationalparkservice/npmaki.png)](https://travis-ci.org/nationalparkservice/npmaki)
 
-NPMaki is a forked version of Maki - a point of interest icon set made especially for use with Mapbox maps.
-
-The following docs are taken directly from the Maki readme.
+NPMaki is a forked version of Maki - a point of interest icon set designed and maintained by [Mapbox](https://www.mapbox.com]. NPMaki, however, uses an optimized version of the National Park Service's [symbolset](http://www.nps.gov/hfc/carto/map-symbols.cfm) in place of Mapbox's symbols.
 
 ## src
 
-Maki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall.
-
-Maki is designed using [Inkscape][]. For information on contributing to Maki see CONTRIBUTING.md.
+NPMaki's source [SVG][] files are in the `src` subdirectory. To create pixel-perfect icons at different sizes, each icon is designed 3 times for 12, 18, and 24 pixels wide/tall.
 
 ## renders
 
 PNG renders of all of the SVGs are in the `renders` directory. High-resolution (aka Retina) versions of each icon are present as well, named using the common `@2x` convention.
 
-## ArcGIS
-
-Style files for ArcGIS 10.1+ are in the `ArcGIS` subdirectory and are maintained by @williamscraigm. Both Desktop (.style) and Server (.ServerStyle) versions are provided. Standard and high-resolution versions of the PNG renders are included in the style.  Additionally, the original SVGs have been converted to EMFs and import as vector EMF based markers. These EMF markers were then further converted to Representation markers. The utility used to create these styles can be found at: https://github.com/williamscraigm/makiArcGISStyle
-
 ## render.sh
 
-You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create Maki icons. It will render SVGs to PNGs at 100% and 200% resolution, create sprites used for the Maki website, and generate corresponding CSS styles for the sprites.
+You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create NPMaki icons. It will render SVGs to PNGs at 100% and 200% resolution, create sprites used by [NPMap.js](https://github.com/nationalparkservice/npmap.js), [NPMap Builder](https://github.com/nationalparkservice/npmap-builder], and the [Places Editor](https://github.com/nationalparkservice/places-editor) and generate corresponding CSS styles for the sprites.
 
-The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
+The script requires [Bash][http://www.gnu.org/software/bash/bash.html], [Inkscape][http://inkscape.org], and [ImageMagick][http://www.imagemagick.org/] to function correctly. Each icon must have an appropriate entry in `www/npmaki.json` to be rendered correctly.
 
 [SVG]: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
 [Inkscape]: http://inkscape.org
 [Bash]: http://www.gnu.org/software/bash/bash.html
 [ImageMagick]: http://www.imagemagick.org/
 
+You can run the script like this:
+
+    cd npmaki
+    bash render.sh
+
 ## Versioning
 
-Maki uses a semantic versioning scheme.
+NPMaki uses a semantic versioning scheme.
 
 * 0.0.z: bugfixes, modifications
 * 0.y.0: icons added
