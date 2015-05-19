@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="Ebene_1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="layer1" transform="translate(0,-1028.3622)">
+	<g id="aerialway-24">
+
+			<path opacity="0.3" fill="#444444" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" enable-background="new    " d="
+			M14.871,1035.003l5.129-0.641v-2l-5.516,0.689c-0.367-0.415-0.887-0.689-1.484-0.689c-0.371,0-0.701,0.129-1,0.306
+			c-0.297-0.177-0.625-0.306-0.998-0.306c-0.878,0-1.603,0.572-1.872,1.358l-5.129,0.641v2l5.515-0.689
+			c0.367,0.416,0.888,0.69,1.484,0.69v2H6c-1.104,0-2,0.896-2,2v6c0,1.105,0.896,2,2,2h12c1.105,0,2-0.895,2-2v-6
+			c0-1.104-0.895-2-2-2h-4.998v-2C13.879,1036.361,14.602,1035.789,14.871,1035.003z M11,1044.362H6v-4h5V1044.362z M18,1044.362h-5
+			v-4h5V1044.362z"/>
+		<path fill="#49484A" d="M14.871,1035.003l5.129-0.641v-2l-5.516,0.689c-0.367-0.415-0.887-0.689-1.484-0.689
+			c-0.371,0-0.701,0.129-1,0.306c-0.297-0.177-0.625-0.306-0.998-0.306c-0.878,0-1.603,0.572-1.872,1.358L4,1034.362v2l5.516-0.69
+			c0.367,0.416,0.888,0.69,1.484,0.69v2H6c-1.104,0-2,0.896-2,2v6c0,1.105,0.896,2,2,2h12c1.105,0,2-0.895,2-2v-6
+			c0-1.104-0.895-2-2-2h-5l0.002-2C13.879,1036.361,14.602,1035.789,14.871,1035.003z M11,1044.362H6v-4h5V1044.362z M18,1044.362
+			h-5v-4h5V1044.362z"/>
+	</g>
+</g>
+<rect id="canvas" style="fill:none;stroke:none;visibility:hidden" width="24" height="24"/>
+</svg>
