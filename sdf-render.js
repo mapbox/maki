@@ -26,7 +26,8 @@ glob('src/*-24.svg', function (err, files) {
         for (var i = 0; i < paths.length; i++) {
             var path = paths[i];
 
-            if (!path.attributes.style || !/fill:#(44|45){3}/.test(path.attributes.style.value))
+            if ((!path.attributes.style || !/fill:#(44|45){3}/.test(path.attributes.style.value)) &&
+                (!path.attributes.fill || !/#(44|45){3}/.test(path.attributes.fill.value)))
                 continue;
 
             var svgPath = new SvgPath(path.attributes.d.value).abs().unshort();
