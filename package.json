@@ -10,7 +10,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nationalparkservice/npmaki"
+    "url": "git://github.com/nationalparkservice/npmaki.git"
   },
   "devDependencies": {
     "tap": "~0.4.9"
