@@ -154,6 +154,24 @@
     "icon": "campground-white"
   },
   {
+    "name": "Campsite (Black)",
+    "tags": [
+      "camp",
+      "campsite",
+      "tent"
+    ],
+    "icon": "campsite-black"
+  },
+  {
+    "name": "Campsite (White)",
+    "tags": [
+      "camp",
+      "campsite",
+      "tent"
+    ],
+    "icon": "campsite-white"
+  },
+  {
     "name": "Canoe Access (Black)",
     "tags": [
       "canoe access",

@@ -3,15 +3,19 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
 <g id="shadows">
-	<g opacity="0.2">
-		<path d="M15.8,13.9L10.2,3.7L4.7,13.9H3.8v0.9h13v-0.9H15.8z M6.5,13.9l3.7-5.6l3.7,5.6H6.5z"/>
-	</g>
 </g>
 <g id="icons">
-	<g>
-		<path d="M15.1,13.1L9.5,2.9L3.9,13.1H3v0.9h13v-0.9H15.1z M5.8,13.1l3.7-5.6l3.7,5.6H5.8z"/>
+	<g opacity="0.2">
+		<path d="M13.5,14.1L9,6.2l-4.5,7.9H3.8v0.8l10.6,0v-0.8H13.5z M7,14.1l2-4.3l2,4.3H7z"/>
 	</g>
+	<polygon opacity="0.2" points="15.4,12.9 15.4,12.7 11,4.9 10.4,5.9 14.8,13.7 15.9,13.7 	"/>
+	<polygon opacity="0.2" points="12.9,3.6 12.4,4.5 16.8,12.3 16.8,10.4 	"/>
+	<g>
+		<path d="M12.8,13.4L8.3,5.4l-4.5,7.9H3v0.8l10.6,0v-0.8H12.8z M6.2,13.4l2-4.3l2,4.3H6.2z"/>
+	</g>
+	<polygon points="14.7,12.1 14.6,12 10.2,4.2 9.7,5.1 14.1,12.9 15.1,12.9 	"/>
+	<polygon points="12.1,2.8 11.6,3.8 16,11.6 16,9.7 	"/>
 </g>
-<g id="guides">
+<g id="guides" display="none">
 </g>
 </svg>
