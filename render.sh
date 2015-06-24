@@ -2,7 +2,7 @@
 set -e -u
 
 # Usage:
-#   ./render.sh [png|sprite|css|csv]
+#   ./render.sh [png|android|sprite|css|csv]
 
 # Config
 tilex=15  # how many icons wide the sprites will be
@@ -29,6 +29,49 @@ function build_pngs {
     done
 }
 
+function build_drawable_pngs {
+    # Given a size and list of icons, outputs scaled PNGs into drawable-* subdirectories of $RES_DIR
+
+    case $1 in
+        24 | 18 | 12 )
+            size_opt=$1
+            shift
+            ;;
+        * )
+            show_android_usage 1
+            ;;
+    esac
+
+    local -A dpscale=( ['m']=1 ['h']=3/2 ['xh']=2 ['xxh']=3 ['xxxh']=4 )
+    outdir=${RES_DIR:-$pngdir}
+
+    for icon in $@; do
+        svg=$svgdir/${icon}-${size_opt}.svg
+        if !([ -f $svg ]); then
+            echo "Error: icon '${icon}' not found at $svg. Skipping..." && continue
+        fi
+
+        outname=`echo $(basename $svg .svg)|sed 's/-/_/g'`
+
+        for prefix in ${!dpscale[@]}; do
+            mkdir -p ${outdir}/drawable-${prefix}dpi
+            outpath=drawable-${prefix}dpi/ic_maki_${outname}dp.png
+            outpx=`echo "${size_opt}*${dpscale[$prefix]}"|bc`
+
+            inkscape \
+                --export-height=$outpx \
+                --export-width=$outpx \
+                --export-png=${outdir}/${outpath} \
+                $svg | grep '^Bitmap' &
+        done
+        wait
+    done
+}
+
+function show_android_usage {
+    echo "usage: RES_DIR=/path/to/src/main/res ./render.sh android [12|18|24] [icon-name] ..."
+    exit $1
+}
 
 function build_csv {
     # Outputs a simple CSV that can be used in Mapnik/TileMill/etc to
@@ -58,9 +101,13 @@ svgs=$(for icon in $icons; do echo -n $svgdir/${icon}-{24,18,12}.svg" "; done)
 pngs=$(for icon in $icons; do echo -n $pngdir/${icon}-{24,18,12}.png" "; done)
 pngs2x=$(for icon in $icons; do echo -n $pngdir/${icon}-{24,18,12}@2x.png" "; done)
 
-case $@ in
+case $1 in
     png | pngs )
         build_pngs $svgs
+        ;;
+    android )
+        [ ${#@} -lt 3 ] && show_android_usage 1
+        build_drawable_pngs ${@:2}
         ;;
     csv )
         build_csv $icons

@@ -22,6 +22,8 @@ Style files for ArcGIS 10.1+ are in the `ArcGIS` subdirectory and are maintained
 
 You can use the SVGs and PNGs in this repository as they are without building anything, however a render script is included to assist designers/developers who want to modify or create Maki icons. It will render SVGs to PNGs at 100% and 200% resolution.
 
+It can also render PNGs scaled appropriately for the various Android screen resolutions, and output them directly into the corresponding drawable-*dpi subdirectories of the Android resources folder.
+
 The script requires [Bash][], [Inkscape][], and [ImageMagick][] to function correctly. Each icon must have an appropriate entry in `www/maki.json` to be rendered correctly.
 
 [SVG]: http://en.wikipedia.org/wiki/Scalable_Vector_Graphics
