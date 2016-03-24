@@ -15,7 +15,7 @@ options: full
       <h2 class='futura'>Maki</h2>
       <h2 class='space-bottom2'>Pixel-perfect icons for web cartography</h2>
       <script type='text-template' id='count'>
-        <strong><%= setcount %></strong> different symbols at <strong>3</strong> sizes each for a total of <strong><%= totalcount %></strong> icons and growing.
+        <strong><%- setcount %></strong> different symbols at <strong>3</strong> sizes each for a total of <strong><%- totalcount %></strong> icons and growing.
       </script>
       <p class='prose'>Maki is a clean point of interest icon set made for web cartography. It includes <span class='count'></span></p>
     </div>
@@ -25,11 +25,11 @@ options: full
 <div class='clearfix canvas'><div class='limiter'>
   <script type='text/template' id='icon-collection'>
     <ul class='icon-set pad2 clearfix'>
-      <li class='maki-icon <%= icon%>'><%=name %> icon</li>
+      <li class='maki-icon <%- icon%>'><%- name %> icon</li>
       <li class='title-box'>
-        <span class='maki-icon full <%= icon%>'></span>
-        <%= title%>
-        <small><%= icon %></small>
+        <span class='maki-icon full <%- icon%>'></span>
+        <%- title%>
+        <small><%- icon %></small>
       </li>
     </ul>
   </script>
@@ -37,12 +37,12 @@ options: full
   <script type='text/template' id='search-icons'>
     <li>
       <ul class='icon-set pad2 clearfix'>
-        <li class='maki-icon <%=icon %>'><%=name %> icon</li>
+        <li class='maki-icon <%- icon %>'><%- name %> icon</li>
       </ul>
       <span class='title-box'>
-        <span class='maki-icon full <%= icon%>'></span>
-        <%=name %>
-        <small><%= icon %></small>
+        <span class='maki-icon full <%- icon%>'></span>
+        <%- name %>
+        <small><%- icon %></small>
       </span>
     </li>
   </script>
