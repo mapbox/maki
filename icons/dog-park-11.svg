@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="11"
+   height="11"
+   id="svg2"
+   inkscape:version="0.91+devel+osxmenu r12911"
+   sodipodi:docname="dog-park-11.svg"
+   viewBox="0 0 11 11">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3426"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="90.509668"
+     inkscape:cx="7.7133508"
+     inkscape:cy="2.5428527"
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4694"
+       spacingx="0.5"
+       spacingy="0.5"
+       color="#ff3f3f"
+       opacity="0.1254902"
+       empspacing="2" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+     d="M 7.5,1 C 7.5,1 7.154311,1.0370671 7,1.5 l -0.5,2 2,1.5 1.5,0 c 1,0 1,-1 1,-1 L 9.5,2.5 C 9,2 8.5,2 8,2 L 8,1.5 C 8,1.5 8,1 7.5,1 Z m -5,1 C 2.5,2 2.1466006,1.9931059 1.7773438,2.1777344 1.4080868,2.3623629 1,2.8333333 1,3.5 L 1,4.4648438 C 0.99958793,4.4765588 0.99958793,4.4882849 1,4.5 L 1,5 1,5.5 C 1,6.5 1,7 0.5,7 0.5,7 0,7 0,7.5 l 0,2 C 0,9.5 0,10 0.5,10 1,10 1,9.5 1,9.5 L 1,8 C 1.3536663,8 1.6905702,7.8628585 2,7.7011719 L 2,9.5 C 2,9.5 2,10 2.5,10 3,10 3,9.5 3,9.5 L 3,7 6,7 6.6640625,8.9921875 C 6.9999809,9.9999426 7.5,10 7.5,10 L 8,10 C 8,10 8.5,10 8.5,9.5 8.5,9 8,9 8,9 L 8,6.5 C 8,5.609375 7.367833,5.2449031 7,5 L 5.4980469,4 2,4 2,3.5 C 2,3.1666667 2.0919132,3.1376371 2.2226562,3.0722656 2.3533994,3.0068941 2.5,3 2.5,3 3.1761613,3.00956 3.1761613,1.9904374 2.5,2 Z"
+     id="rect4698"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccscsccccssccccccccccccscccsccscssccsscc" />
+</svg>
