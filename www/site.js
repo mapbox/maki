@@ -32,7 +32,7 @@ maki.search = function () {
     var search = $('#search');
     var searchResults = _.template($('#search-icons').html());
     var count = _.template($('#count').html());
-    var set = {}, total = 0;
+    var total = 0;
 
     function howMany() {
       $('.count').append(count({
@@ -62,10 +62,11 @@ maki.search = function () {
           return i.tags[0] === 'deprecated';
       })
       .map(function(icon){
-        set.title = icon.name;
-        set.icon = icon.icon;
         total++;
-        $('#maki-set').append(template(set));
+        $('#maki-set').append(template({
+          name: icon.name || '',
+          title: icon.title || ''
+        }));
         return icon;
       })
       .value();
@@ -94,7 +95,10 @@ maki.search = function () {
             matches.forEach(function(p) {
                 $('#search-results ul#results')
                   .addClass('active clearfix pad3 size-' + widthClass)
-                  .append(searchResults(p));
+                  .append(searchResults({
+                    icon: p.icon || '',
+                    name: p.name || ''
+                  }));
             });
             if (matches.length) return;
         }
