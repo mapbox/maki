@@ -1,22 +1,33 @@
 {
-  "dining": [
+  "airport": [
+    "airfield",
+    "airport",
+    "heliport",
+    "rocket"
+  ],
+  "mountain_peak": [
+    "mountain",
+    "volcano"
+  ],    
+  "poi_dining": [
+    "bakery",    
     "bar",
     "beer",
     "cafe",
     "fast-food",
+    "ice-cream",    
     "restaurant"
   ],
-  "education": [
+  "poi_education": [
     "college",
     "school"
   ],
-  "general": [
+  "poi_general": [
     "alcohol-shop",
     "amusement-park",
     "aquarium",
     "art-gallery",
     "attraction",
-    "bakery",
     "bank",
     "bicycle",
     "bicycle-share",
@@ -30,11 +41,9 @@
     "embassy",
     "fire-station",
     "fuel",
-    "garden",
     "grocery",
     "hairdresser",
     "harbor",
-    "ice-cream",
     "information",
     "laundry",
     "library",
@@ -50,12 +59,10 @@
     "religious-christian",
     "religious-jewish",
     "religious-muslim",
-    "rocket",
     "shop",
     "stadium",
     "star",
     "suitcase",
-    "sushi",
     "swimming",
     "theatre",
     "toilet",
@@ -64,36 +71,31 @@
     "triangle-stroked",
     "veterinary"
   ],
-  "health": [
+  "poi_health": [
     "dentist",
     "doctor",
     "hospital",
     "pharmacy"
   ],
-  "outdoors": [
-    "america-football",
-    "baseball",
-    "basketball",
+  "poi_outdoors": [
     "campsite",
     "cemetery",
     "dog-park",
+    "garden",    
     "golf",
-    "mountain",
     "park",
     "picnic-site",
     "playground",
-    "volcano",
     "zoo"
   ],
-  "transit": [
-    "airfield",
-    "airport",
+  "poi_transit": [
     "bus",
+    "ferry"
+  ],
+  "rail_station": [
     "entrance",
-    "ferry",
-    "heliport",
     "rail",
     "rail-light",
-    "rail-metro"
+    "rail-metro"    
   ]
 }
