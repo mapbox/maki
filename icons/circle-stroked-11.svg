@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="11"
+   height="11"
+   id="svg4764"
+   inkscape:version="0.91+devel+osxmenu r12911"
+   sodipodi:docname="circle-stroked-11.svg"
+   viewBox="0 0 11 11">
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3377"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="55.545455"
+     inkscape:cx="3.2495908"
+     inkscape:cy="5.3379705"
+     inkscape:current-layer="svg4764">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3435" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4766" />
+  <metadata
+     id="metadata4769">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path style="fill:#000000;fill-opacity:1"
+     d="M 5.5,0 C 8.5375828,0 11,2.4624111 11,5.5 11,8.5375889 8.5375828,11 5.5,11 2.4624172,11 0,8.5375889 0,5.5 0,2.4624111 2.4624172,0 5.5,0 Z m 0,1.2222222 c -2.3625678,0 -4.2777778,1.9152222 -4.2777778,4.2777778 0,2.3625556 1.91521,4.2777778 4.2777778,4.2777778 C 7.8625678,9.7777778 9.777778,7.8625556 9.777778,5.5 9.777778,3.1374444 7.8625678,1.2222222 5.5,1.2222222 Z"
+     inkscape:connector-curvature="0"
+     id="path8564-5-6-2"
+      />
+</svg>

@@ -1,9 +1,0 @@
-url: https://www.mapbox.com
-api: https://www.mapbox.com/core
-tileApi: https://api.tiles.mapbox.com
-exclude:
-  - README.markdown
-  - nounproject
-baseurl: /maki
-permalink: /:title.html
-markdown: rdiscount
