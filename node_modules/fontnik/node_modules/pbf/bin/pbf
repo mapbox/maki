@@ -1,0 +1,174 @@
+#!/usr/bin/env node
+
+'use strict';
+
+var resolve = require('resolve-protobuf-schema');
+
+if (process.argv.length > 2) {
+    console.log('\'use strict\';');
+    compileMessages(resolve.sync(process.argv[2]),
+        process.argv.indexOf('--browser') !== -1 ? 'window' : 'exports', {},
+        process.argv.indexOf('--no-read') === -1,
+        process.argv.indexOf('--no-write') === -1);
+} else {
+    console.warn('Error: no path to proto file given.');
+}
+
+function compileMessage(message, parentName, enums, read, write) {
+    var name = message.name,
+        nameLow = name.toLowerCase(),
+        nameCap = name.charAt(0).toUpperCase() + name.substr(1),
+        i, field, part;
+
+    console.log('\n// %s ========================================\n', name);
+
+    var methods = [];
+    if (read) methods.push('read: read' + nameCap);
+    if (write) methods.push('write: write' + nameCap);
+
+    console.log((message.messages.length ? 'var ' + name + ' = ' : '') +
+        '%s.%s = {%s};\n', parentName, name, methods.join(', '));
+
+    if (message.enums.length) {
+        for (i = 0; i < message.enums.length; i++) {
+            var en = message.enums[i];
+            enums[en.name] = true;
+            console.log('%s.%s = ' + JSON.stringify(en.values, null, 4) + ';\n', name, en.name);
+        }
+    }
+
+    if (read) {
+        console.log('function read%s(pbf, end) {', nameCap);
+        part = 'pbf.readFields(read' + nameCap + 'Field, ' + repeatedDest(message.fields) + ', end);';
+        var hasDefaults = false;
+        for (i = 0; i < message.fields.length; i++) {
+            field = message.fields[i];
+            if (enums[field.type] && field.options.default !== undefined) {
+                hasDefaults = true;
+                break;
+            }
+        }
+        if (hasDefaults) {
+            console.log('    var ' + nameLow + ' = ' + part);
+            for (i = 0; i < message.fields.length; i++) {
+                field = message.fields[i];
+                if (enums[field.type] && field.options.default !== undefined) {
+                    console.log('    if (%s.%s === undefined) %s.%s = ' + JSON.stringify(field.options.default) + ';',
+                        nameLow, field.name, nameLow, field.name);
+                }
+            }
+            console.log('    return %s;', nameLow);
+        } else {
+            console.log('    return ' + part);
+        }
+        console.log('}\n');
+
+        console.log('function read%sField(tag, %s, pbf) {', nameCap, nameLow);
+
+        for (i = 0; i < message.fields.length; i++) {
+            field = message.fields[i];
+            part = field.repeated && !field.options.packed ? '.push(' + readMethod(field, enums) + ')' :
+                    ' = ' + readMethod(field, enums);
+            console.log('    ' + (i ? 'else if' : 'if') + ' (tag === %d) %s.%s%s;',
+                field.tag, nameLow, field.name, part);
+        }
+        console.log('}');
+    }
+
+    if (read && write) console.log('');
+
+    if (write) {
+        console.log('function write%s(%s, pbf) {', nameCap, nameLow);
+        var iDeclared;
+        for (i = 0; i < message.fields.length; i++) {
+            field = message.fields[i];
+            if (!iDeclared && field.repeated && !field.options.packed) {
+                console.log('    var i;');
+                iDeclared = true;
+            }
+            console.log('    if (%s.%s !== undefined) %s;', nameLow, field.name,
+                writeMethod(field.tag, field.type, nameLow + '.' + field.name,
+                    field.repeated, field.options.packed, enums));
+        }
+        console.log('}');
+    }
+
+    compileMessages(message, name, enums, read, write);
+}
+
+function compileMessages(parent, parentName, enums, read, write) {
+    for (var i = 0; i < parent.messages.length; i++) {
+        compileMessage(parent.messages[i], parentName, enums, read, write);
+    }
+}
+
+function repeatedDest(fields) {
+    var repeated = [];
+    for (var i = 0; i < fields.length; i++) {
+        if (fields[i].repeated && !fields[i].options.packed) repeated.push('"' + fields[i].name + '": []');
+    }
+    return '{' + repeated.join(', ') + '}';
+}
+
+function readMethod(field, enums) {
+    var type = field.type;
+
+    var prefix = 'pbf.read';
+    if (field.options.packed) prefix += 'Packed';
+
+    switch (field.type) {
+    case 'string':   return prefix + 'String()';
+    case 'float':    return prefix + 'Float()';
+    case 'double':   return prefix + 'Double()';
+    case 'bool':     return prefix + 'Boolean()';
+    case 'enum':
+    case 'uint32':
+    case 'uint64':
+    case 'int32':
+    case 'int64':    return prefix + 'Varint()';
+    case 'sint32':
+    case 'sint64':   return prefix + 'SVarint()';
+    case 'fixed32':  return prefix + 'Fixed32()';
+    case 'fixed64':  return prefix + 'Fixed64()';
+    case 'sfixed32': return prefix + 'SFixed32()';
+    case 'sfixed64': return prefix + 'SFixed64()';
+    case 'bytes':    return prefix + 'Bytes()';
+    default:         return enums[field.type] ? prefix + 'Varint()' :
+                        'read' + type.charAt(0).toUpperCase() + type.substr(1) + '(pbf, pbf.readVarint() + pbf.pos)';
+    }
+}
+
+function writeMethod(tag, type, name, repeated, packed, enums) {
+    if (repeated && !packed) return repeatedWriteMethod(tag, type, name, enums);
+
+    var prefix = 'pbf.write';
+    if (packed) prefix += 'Packed';
+
+    var postfix = (packed ? '' : 'Field') + '(' + tag + ', ' + name + ')';
+
+    switch (type) {
+    case 'string':   return prefix + 'String' + postfix;
+    case 'float':    return prefix + 'Float' + postfix;
+    case 'double':   return prefix + 'Double' + postfix;
+    case 'bool':     return prefix + 'Boolean' + postfix;
+    case 'enum':
+    case 'uint32':
+    case 'uint64':
+    case 'int32':
+    case 'int64':    return prefix + 'Varint' + postfix;
+    case 'sint32':
+    case 'sint64':   return prefix + 'SVarint' + postfix;
+    case 'fixed32':  return prefix + 'Fixed32' + postfix;
+    case 'fixed64':  return prefix + 'Fixed64' + postfix;
+    case 'sfixed32': return prefix + 'SFixed32' + postfix;
+    case 'sfixed64': return prefix + 'SFixed64' + postfix;
+    case 'bytes':    return prefix + 'Bytes' + postfix;
+    default:         return enums[type] ? prefix + 'Varint' + postfix :
+                                prefix + 'Message(' + tag + ', write' +
+                                type.charAt(0).toUpperCase() + type.substr(1) + ', ' + name + ')';
+    }
+}
+
+function repeatedWriteMethod(tag, type, name, enums) {
+    return 'for (i = 0; i < ' + name + '.length; i++) ' + writeMethod(tag, type, name + '[i]', false, false, enums);
+}
