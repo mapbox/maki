@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PNG Test</title>
+    <style>
+        body { background: #eee; font: 12px Arial; margin: 10px; }
+        img { margin: 2px; background: url(bg.png); }
+        h3 { margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <h3>Basic</h3>
+    <img src="img/basn0g08.png"> <img src="out/basn0g08.png"> grayscale<br>
+    <img src="img/basn2c08.png"> <img src="out/basn2c08.png"> color<br>
+    <img src="img/basn3p08.png"> <img src="out/basn3p08.png"> paletted<br>
+    <img src="img/basn4a08.png"> <img src="out/basn4a08.png"> grayscale + alpha<br>
+    <img src="img/basn6a08.png"> <img src="out/basn6a08.png"> color + alpha<br>
+
+    <h3>Image filtering</h3>
+    <img src="img/f00n0g08.png"> <img src="out/f00n0g08.png"> grayscale, filter 0<br>
+    <img src="img/f00n2c08.png"> <img src="out/f00n2c08.png"> color, filter 0<br>
+    <img src="img/f01n0g08.png"> <img src="out/f01n0g08.png"> grayscale, filter 1<br>
+    <img src="img/f01n2c08.png"> <img src="out/f01n2c08.png"> color, filter 1<br>
+    <img src="img/f02n0g08.png"> <img src="out/f02n0g08.png"> grayscale, filter 2<br>
+    <img src="img/f02n2c08.png"> <img src="out/f02n2c08.png"> color, filter 2<br>
+    <img src="img/f03n0g08.png"> <img src="out/f03n0g08.png"> grayscale, filter 3<br>
+    <img src="img/f03n2c08.png"> <img src="out/f03n2c08.png"> color, filter 3<br>
+    <img src="img/f04n0g08.png"> <img src="out/f04n0g08.png"> grayscale, filter 4<br>
+    <img src="img/f04n2c08.png"> <img src="out/f04n2c08.png"> color, filter 4<br>
+
+    <h3>Transparency</h3>
+    <img src="img/tp0n0g08.png"> <img src="out/tp0n0g08.png"> grayscale, not transparent<br>
+    <img src="img/tp0n2c08.png"> <img src="out/tp0n2c08.png"> color, not transparent<br>
+    <img src="img/tp0n3p08.png"> <img src="out/tp0n3p08.png"> paletted, not transparent<br>
+    <img src="img/tbrn2c08.png"> <img src="out/tbrn2c08.png"> color, transparent<br>
+    <img src="img/tp1n3p08.png"> <img src="out/tp1n3p08.png"> paletted, transparent<br>
+</body>
+</html>
