@@ -1,2 +1,4 @@
-.DS_Store*
-_site/
+.gitignore
+.DS_Store
+*.DS_Store
+/node_modules
