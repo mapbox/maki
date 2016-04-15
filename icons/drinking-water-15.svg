@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg4159" sodipodi:docname="drinking-water-15.svg" inkscape:version="0.91 r13725" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px"
-	 viewBox="-292 193 15 15" enable-background="new -292 193 15 15" xml:space="preserve">
-<sodipodi:namedview  inkscape:guide-bbox="true" inkscape:window-maximized="0" inkscape:window-y="0" inkscape:window-x="0" inkscape:object-nodes="true" inkscape:object-paths="true" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:snap-bbox="true" inkscape:current-layer="svg4159" inkscape:pageopacity="0" inkscape:window-height="726" inkscape:window-width="1457" inkscape:pageshadow="2" pagecolor="#ffffff" bordercolor="#666666" inkscape:cx="5.6131528" inkscape:cy="12.949013" gridtolerance="10" objecttolerance="10" borderopacity="1" showgrid="true" id="namedview7" guidetolerance="10" inkscape:zoom="22.250293" showguides="true">
-	<inkscape:grid  type="xygrid" id="grid4135"></inkscape:grid>
-</sodipodi:namedview>
-<path id="path4165" sodipodi:nodetypes="cccccsccccccccccccc" inkscape:connector-curvature="0" d="M-283.5,193
-	c-1.5,0-2.9,0.7-3.7,1.9c-0.7,1.2-0.8,2.5-0.8,4.1h3c0-2,0.1-2.2,0.3-2.5c0.2-0.3,0.7-0.5,1.2-0.5h4.5v-3H-283.5z M-289,208h5l1-7
-	l-7,0L-289,208z M-289,202h5l-0.3,2h-4.4L-289,202z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <title>drinking-water-15</title>
+  <path d="M8,1h6V4H9.5a0.5,0.5,0,0,0-.5.5V7H6V3A2,2,0,0,1,8,1Zm0.9,10.94h0v0l0,0L7.5,9,6.13,11.89l0,0v0h0A1.5,1.5,0,1,0,8.89,11.94Z"/>
 </svg>
