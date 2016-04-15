@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" sodipodi:docname="vets-11.svg" inkscape:version="0.91 r13725" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="11px" height="11px"
-	 viewBox="-294 195 11 11" enable-background="new -294 195 11 11" xml:space="preserve">
-<sodipodi:namedview  inkscape:guide-bbox="true" inkscape:window-maximized="0" inkscape:window-y="88" inkscape:window-x="64" inkscape:window-height="903" inkscape:window-width="1610" inkscape:snap-smooth-nodes="true" inkscape:object-nodes="true" inkscape:object-paths="true" inkscape:snap-bbox-midpoints="true" inkscape:bbox-nodes="true" inkscape:current-layer="layer1" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:snap-bbox="true" inkscape:bbox-paths="true" inkscape:snap-intersection-paths="true" id="base" units="px" showguides="true" showborder="false" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" inkscape:cy="8.904833" inkscape:cx="1.2457559" inkscape:zoom="16" showgrid="false" inkscape:snap-bbox-edge-midpoints="true">
-	<inkscape:grid  color="#ff3f00" type="xygrid" spacingy="0.5" id="grid3336" opacity="0.1254902" spacingx="0.5" empspacing="2">
-		</inkscape:grid>
-</sodipodi:namedview>
-<path id="path3340" d="M-288.5,199c-1.6,0-2.2,1.5-2.4,2.9c-1,0.5-1.6,1-1.6,1c-0.6,0.6-0.6,1.5-0.1,2.1s1.5,0.6,2.1,0.1
-	c0,0,0,0,0.1,0c0,0,0.8-0.7,2-0.7s2,0.7,2,0.7c0.6,0.6,1.5,0.5,2.1,0s0.5-1.5,0-2.1c0,0-0.6-0.6-1.6-1
-	C-286.3,200.5-286.9,199-288.5,199z"/>
-<path id="ellipse4140" d="M-284,198.1c0.5,0.3,0.6,1.2,0.2,2c-0.4,0.8-1.2,1.1-1.8,0.8s-0.6-1.2-0.2-2
-	C-285.3,198.2-284.5,197.8-284,198.1z"/>
-<path id="ellipse4148" d="M-293,198.1c-0.5,0.3-0.6,1.2-0.2,2s1.2,1.1,1.8,0.8s0.6-1.2,0.2-2S-292.5,197.8-293,198.1z"/>
-<path id="ellipse4150" d="M-286,195.6c0.5,0.3,0.6,1.2,0.2,2c-0.4,0.8-1.2,1.1-1.8,0.8s-0.6-1.2-0.2-2
-	C-287.3,195.7-286.5,195.3-286,195.6z"/>
-<path id="ellipse4152" d="M-291,195.6c-0.5,0.3-0.6,1.2-0.2,2c0.4,0.8,1.2,1.1,1.8,0.8s0.6-1.2,0.2-2
-	C-289.7,195.7-290.5,195.3-291,195.6z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
+  <title>veterinary-11</title>
+  <path d="M5.5,4.32A2.2,2.2,0,0,0,3.36,6.78h0a4.4,4.4,0,0,0-1.21.63,1.42,1.42,0,0,0-.29,2,1.48,1.48,0,0,0,2,.28A2.89,2.89,0,0,1,5.5,9.17a2.89,2.89,0,0,1,1.64.49,1.41,1.41,0,0,0,2-.21,1.35,1.35,0,0,0-.21-2L8.85,7.41a6.4,6.4,0,0,0-1.21-.63h0A2.2,2.2,0,0,0,5.5,4.32ZM1.63,3.12a1.11,1.11,0,0,0-.55,1.44,1.08,1.08,0,0,0,1.15,1,1.11,1.11,0,0,0,.55-1.44A1.08,1.08,0,0,0,1.63,3.12Zm7.74,0a1.11,1.11,0,0,1,.55,1.44,1.08,1.08,0,0,1-1.15,1,1.11,1.11,0,0,1-.55-1.44A1.08,1.08,0,0,1,9.37,3.12ZM3.77,1a1,1,0,0,0-.55,1.32A1.26,1.26,0,0,0,4.38,3.41a1,1,0,0,0,.55-1.32A1.26,1.26,0,0,0,3.77,1ZM7.23,1a1,1,0,0,1,.55,1.32A1.26,1.26,0,0,1,6.62,3.41a1,1,0,0,1-.55-1.32A1.26,1.26,0,0,1,7.23,1Z"/>
 </svg>
