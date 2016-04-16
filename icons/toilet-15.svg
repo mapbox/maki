@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg2" sodipodi:docname="toilet-15.svg" inkscape:version="0.91 r13725" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px"
-	 viewBox="-292 193 15 15" enable-background="new -292 193 15 15" xml:space="preserve">
-<sodipodi:namedview  inkscape:snap-intersection-paths="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:guide-bbox="true" inkscape:window-maximized="0" inkscape:window-y="195" inkscape:window-x="281" inkscape:snap-smooth-nodes="true" inkscape:object-nodes="true" inkscape:object-paths="true" inkscape:snap-bbox-midpoints="true" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:snap-bbox="true" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:pageopacity="0.0" inkscape:window-height="720" inkscape:window-width="1280" inkscape:pageshadow="2" pagecolor="#ffffff" bordercolor="#666666" inkscape:cx="7.4975014" inkscape:cy="7.4964524" showborder="true" borderopacity="1.0" showgrid="false" id="base" inkscape:zoom="22.627417" showguides="true" units="px">
-	<inkscape:grid  color="#ff3f00" type="xygrid" opacity="0.1254902" empspacing="2" spacingx="0.5" spacingy="0.5" id="grid3336">
-		</inkscape:grid>
-</sodipodi:namedview>
-<path d="M-287.5,193c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5S-286.7,193-287.5,193z M-279.5,193
-	c-0.8,0-1.5,0.7-1.5,1.5s0.7,1.5,1.5,1.5s1.5-0.7,1.5-1.5S-278.7,193-279.5,193z M-281.5,197c-0.3,0-0.5,0.2-0.5,0.5v5
-	c0,0.3,0.2,0.5,0.5,0.5c0,0,0,0,0,0v1h0.5v3.5c0,0.3,0.2,0.5,0.5,0.5c0.3,0,0.5-0.2,0.5-0.5c0,0,0,0,0,0V204h1v3.5
-	c0,0.3,0.2,0.5,0.5,0.5c0.3,0,0.5-0.2,0.5-0.5c0,0,0,0,0,0V204h0.5v-1c0.3,0,0.5-0.2,0.5-0.5c0,0,0,0,0,0v-5c0-0.3-0.2-0.5-0.5-0.5
-	c0,0,0,0,0,0c0,0,0,0-0.1,0L-281.5,197C-281.5,197-281.5,197-281.5,197z M-289,197c-0.1,0-0.3,0.1-0.3,0.2l-2.5,2.5
-	c-0.2,0.2-0.2,0.5,0,0.7c0.2,0.2,0.5,0.2,0.7,0c0,0,0,0,0,0l1.7-1.7l-1.5,5.3h2v3.5c0,0.3,0.2,0.5,0.5,0.5c0.3,0,0.5-0.2,0.5-0.5
-	c0,0,0,0,0,0V204h1v3.5c0,0.3,0.2,0.5,0.5,0.5c0.3,0,0.5-0.2,0.5-0.5c0,0,0,0,0,0V204h2l-1.5-5.3l1.7,1.7c0.2,0.2,0.5,0.2,0.7,0
-	c0.2-0.2,0.2-0.5,0-0.7c0,0,0,0,0,0l-2.5-2.5c-0.1-0.1-0.2-0.2-0.4-0.2c0,0,0,0-0.1,0L-289,197C-289,197-289,197-289,197z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <title>toilet-15</title>
+  <path d="M4.5,3A1.5,1.5,0,1,1,6,1.5,1.5,1.5,0,0,1,4.5,3ZM14,1.5A1.5,1.5,0,1,0,12.5,3,1.5,1.5,0,0,0,14,1.5ZM8.86,6.64h0L6.38,4.15h0A0.51,0.51,0,0,0,6,4H3a0.51,0.51,0,0,0-.35.14h0L0.14,6.63a0.52,0.52,0,1,0,.73.73L3,5.2,1,11H3v3.33a0.5,0.5,0,0,0,0,.15,0.51,0.51,0,0,0,1,0H4V11H5v3.5H5a0.51,0.51,0,0,0,1,0,0.5,0.5,0,0,0,0-.15V11H8L6,5.2,8.14,7.36h0a0.51,0.51,0,0,0,.38.17A0.52,0.52,0,0,0,9,7,0.51,0.51,0,0,0,8.86,6.64ZM14.5,4h-4a0.5,0.5,0,0,0-.5.5v5a0.5,0.5,0,0,0,1,0v5a0.5,0.5,0,0,0,1,0v-5h1v5a0.5,0.5,0,0,0,1,0v-5a0.5,0.5,0,0,0,1,0v-5A0.5,0.5,0,0,0,14.5,4Z"/>
 </svg>

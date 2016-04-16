@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg4764" sodipodi:docname="school-11.svg" inkscape:version="0.91+devel+osxmenu r12911" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="11px" height="11px"
-	 viewBox="-294 195 11 11" enable-background="new -294 195 11 11" xml:space="preserve">
-<path id="path6911" d="M-285.4,195.1c-0.2,0-0.3,0.1-0.3,0.1l-2.8,2.8c0,0-0.5,0.5-0.5,1v1h1.1c0.4,0,0.9-0.5,0.9-0.5l2.8-2.8
-	c0.2-0.2,0-0.5,0-0.5l-0.2-0.2l-0.5-0.5l-0.2-0.2C-285.3,195.2-285.4,195.2-285.4,195.1z M-292.5,197c-0.3,0-0.5,0.1-0.5,0.5v5
-	l3.5,1.5v0.5c0,0.5,0.5,0.5,0.5,0.5h1c0,0,0.5,0,0.5-0.5V204l3.5-1.5v-4.6l-2.3,2.3c0,0-0.2,0.2-0.4,0.4s-0.6,0.4-1.2,0.4h-0.1v2h-1
-	v-2c-0.6,0-1-0.4-1-1v-1c0-0.3,0.1-0.5,0.1-0.7l-2.4-1.2C-292.3,197.1-292.4,197-292.5,197z M-287.8,198l0.8,0.8
-	c-0.2,0.2-0.7,0.8-1,0.8h-0.5V199C-288.5,198.6-288,198.2-287.8,198z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
+  <title>school-11</title>
+  <path d="M4.5,2.5H1V1H4.5V2.5ZM2,3.5H1v4H2v-4Zm2.5,0h-1v4h1v-4Zm-2,6.38a0.34,0.34,0,0,0,.53,0L4.46,8.5H1ZM8.5,9V8H10V6H7.5V5H10V3H8.5V2H10V1H6.5v9H10V9H8.5Z"/>
 </svg>
