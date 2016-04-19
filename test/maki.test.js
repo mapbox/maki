@@ -71,7 +71,6 @@ test('valid svgs', function(t) {
       !(width === 11 || width === 15) ||
       height !== width) errors.push('invalid size');
 
-
     if (parseFloat(svg.$.viewBox.split(' ')[2]) !== width ||
       parseFloat(svg.$.viewBox.split(' ')[3]) !== height) errors.push('invalid viewBox');
 
@@ -86,7 +85,6 @@ test('valid svgs', function(t) {
     if (svg.$.viewBox && svg.$.viewBox.split(' ').some(v => !v.toString().match(pixelUnitRegex))) {
       errors.push('Viewbox must use pixel units');
     }
-
     if (invalidElement(svg)) errors.push('has ' + invalidElement(svg));
     if (svg.g) traverseGroups(svg.g);
     if (svg.path) checkPaths(svg.path);
