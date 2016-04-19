@@ -5,7 +5,6 @@ var fs = require('fs'),
 
 var parseString = xml2js.parseString;
 
-
 test('valid svgs', function(t) {
 
   fs.readdir('./icons/', function(err, files) {

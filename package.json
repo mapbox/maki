@@ -5,7 +5,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/maki.test.js | tap-spec"
+    "test": "tape test/maki.test.js | tap-spec",
+    "build": "node scripts/make-layouts.js"
   },
   "devDependencies": {
     "tape" : "^4.2.2",
