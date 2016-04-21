@@ -5,7 +5,6 @@ var fs = require('fs'),
 
 var parseString = xml2js.parseString;
 
-
 test('valid svgs', function(t) {
 
   fs.readdir('./icons/', function(err, files) {
@@ -35,6 +34,7 @@ test('valid svgs', function(t) {
 
   function validateSvg(svg, fileName) {
     var errors = [],
+        pixelUnitRegex = /^-?([0-9])+( ?px)?$/,
         height = parseFloat(svg.$.height),
         width = parseFloat(svg.$.width);
 
@@ -47,17 +47,17 @@ test('valid svgs', function(t) {
         return invalid;
       });
       return invalid;
-    };
+    }
 
     function checkPaths(pathArray) {
       pathArray.forEach(function(path) {
-        if (path.$.transform) errors.push('transformed paths');
+        if (path.$ && path.$.transform) errors.push('transformed paths');
       });
     };
 
     function traverseGroups(groupArray) {
       groupArray.forEach(function(group) {
-        if (group.$.transform) errors.push('transformed groups');
+        if (group.$ && group.$.transform) errors.push('transformed groups');
         if (invalidElement(group)) errors.push('has ' + invalidElement(group));
         if (group.path) {
           checkPaths(group.path);
@@ -65,13 +65,26 @@ test('valid svgs', function(t) {
           traverseGroups(group.g);
         }
       });
-    };
+    }
 
     if (!(height === 11 || height === 15) ||
       !(width === 11 || width === 15) ||
       height !== width) errors.push('invalid size');
+
     if (parseFloat(svg.$.viewBox.split(' ')[2]) !== width ||
       parseFloat(svg.$.viewBox.split(' ')[3]) !== height) errors.push('invalid viewBox');
+
+    if (svg.$.width && !svg.$.width.toString().match(pixelUnitRegex)) {
+      errors.push('Width must use pixel units');
+    }
+
+    if (svg.$.height && !svg.$.height.toString().match(pixelUnitRegex)) {
+      errors.push('Height must use pixel units');
+    }
+
+    if (svg.$.viewBox && svg.$.viewBox.split(' ').some(v => !v.toString().match(pixelUnitRegex))) {
+      errors.push('Viewbox must use pixel units');
+    }
     if (invalidElement(svg)) errors.push('has ' + invalidElement(svg));
     if (svg.g) traverseGroups(svg.g);
     if (svg.path) checkPaths(svg.path);
