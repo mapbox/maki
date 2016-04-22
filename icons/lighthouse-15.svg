@@ -1,4 +1,4 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
   <title>lighthouse-15</title>
-  <path d="M5.5,6L1,7V6.5l4.5-1V6Zm0-2.5L1,2.5V3L5.5,4V3.5Zm4,0V4L14,3V2.5ZM9.5,6L14,7V6.5l-4.5-1V6ZM8,7V2h2.5a0.5,0.5,0,0,0,.2-1l-3-1a0.5,0.5,0,0,0-.41,0l-3,1a0.5,0.5,0,0,0,.2,1H7V7H5L3,14h9L10,7H8Z"/>
+  <path d="M4.5,6L0,7V6.5l4.5-1V6Zm0-2.5L0,2.5V3L4.5,4V3.5Zm6,0V4L15,3V2.5Zm0,2.5L15,7V6.5l-4.5-1V6ZM8,7V2h2.5a0.5,0.5,0,0,0,.2-1l-3-1a0.5,0.5,0,0,0-.41,0l-3,1a0.5,0.5,0,0,0,.2,1H7V7H5L3,14h9L10,7H8Z"/>
 </svg>
