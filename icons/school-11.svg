@@ -1,4 +1,4 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
   <title>school-11</title>
-  <path d="M4.5,2.5H1V1H4.5V2.5ZM2,3.5H1v4H2v-4Zm2.5,0h-1v4h1v-4Zm-2,6.38a0.34,0.34,0,0,0,.53,0L4.46,8.5H1ZM8.5,9V8H10V6H7.5V5H10V3H8.5V2H10V1H6.5v9H10V9H8.5Z"/>
+  <path d="M8.5,9V8H10V6H7.5V5H10V3H8.5V2H10V1H6v9h4V9H8.5ZM4,7H1V1H4V7ZM4,8L2.5,10,1,8H4Z"/>
 </svg>
