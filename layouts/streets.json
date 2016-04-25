@@ -1,28 +1,28 @@
 {
-  "airport": [
+  "Airport": [
     "airfield",
     "airport",
     "heliport",
     "rocket"
   ],
-  "mountain_peak": [
+  "Mountain peak": [
     "mountain",
     "volcano"
-  ],    
-  "poi_dining": [
-    "bakery",    
+  ],
+  "Dining": [
+    "bakery",
     "bar",
     "beer",
     "cafe",
     "fast-food",
-    "ice-cream",    
+    "ice-cream",
     "restaurant"
   ],
-  "poi_education": [
+  "Education": [
     "college",
     "school"
   ],
-  "poi_general": [
+  "General": [
     "alcohol-shop",
     "amusement-park",
     "aquarium",
@@ -70,31 +70,31 @@
     "triangle-stroked",
     "veterinary"
   ],
-  "poi_health": [
+  "Health": [
     "dentist",
     "doctor",
     "hospital",
     "pharmacy"
   ],
-  "poi_outdoors": [
+  "Outdoors": [
     "campsite",
     "cemetery",
     "dog-park",
-    "garden",    
+    "garden",
     "golf",
     "park",
     "picnic-site",
     "playground",
     "zoo"
   ],
-  "poi_transit": [
+  "Transit": [
     "bus",
     "ferry"
   ],
-  "rail_station": [
+  "Rail station": [
     "entrance",
     "rail",
     "rail-light",
-    "rail-metro"    
+    "rail-metro"
   ]
 }

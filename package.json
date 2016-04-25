@@ -23,8 +23,8 @@
     "poi",
     "svg"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Mapbox",
+  "license": "CC0",
   "bugs": {
     "url": "https://github.com/mapbox/map-icons/issues"
   },
