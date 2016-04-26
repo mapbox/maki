@@ -49,3 +49,7 @@ files.forEach(function(fileName, j) {
 });
 
 ```
+
+### Note about branches
+
+The main branch for the Maki project is `master`. The old version of Maki still exists in the `mb-pages` branch, which must remain intact because a number of old Mapbox projects depend on files it serves from its `www/` directory.
