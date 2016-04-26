@@ -1,11 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="11px" height="11px" viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#000001;}
-</style>
-<title>square-11</title>
-<path class="st0" d="M1,0h9c0.6,0,1,0.4,1,1v9c0,0.6-0.4,1-1,1H1c-0.6,0-1-0.4-1-1V1C0,0.4,0.4,0,1,0z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
+  <title>square-11</title>
+  <path d="M9,10H2A1,1,0,0,1,1,9V2A1,1,0,0,1,2,1H9a1,1,0,0,1,1,1V9A1,1,0,0,1,9,10Z"/>
 </svg>
