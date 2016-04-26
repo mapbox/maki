@@ -1,68 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg4764"
-   x="0px"
-   y="0px"
-   height="11"
-   width="11"
-   viewBox="0 0 11 11"
-   enable-background="new 0 0 11 11"
-   xml:space="preserve"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="volcano-11.svg"><metadata
-     id="metadata4147"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs4145" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1478"
-     inkscape:window-height="954"
-     id="namedview4143"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:object-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="1"
-     inkscape:cx="6.4296625"
-     inkscape:cy="7.0790224"
-     inkscape:current-layer="svg4764"
-     inkscape:window-x="334"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:snap-nodes="true"
-     showguides="false"
-     inkscape:guide-bbox="true"><inkscape:grid
-       type="xygrid"
-       id="grid5796"
-       spacingx="0.5"
-       spacingy="0.5"
-       empspacing="2"
-       color="#ff0000"
-       opacity="0.1254902" /><sodipodi:guide
-       position="35.520175,8.8460906"
-       orientation="-0.85726012,-0.51488357"
-       id="guide6281" /></sodipodi:namedview><path
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 3 1 L 4.5 4 L 6.5 4 L 8 3 L 8 2 L 6 3 L 6 1 L 5.5 1 L 5 2.5 L 3.5 1 L 3 1 z M 3.5214844 5 L 1.0234375 9.1601562 C 0.8006975 9.5296104 1.067892 9.999905 1.5 10 L 9.5 10 C 9.932109 9.999907 10.199303 9.5296112 9.9765625 9.1601562 L 7.4785156 5 L 7 5 L 7 5.5 C 7 5.777 6.777 6 6.5 6 C 6.223 6 6 5.777 6 5.5 A 0.5 0.5 0 0 0 5.5 5 A 0.5 0.5 0 0 0 5 5.5 L 5 7.5 C 5 7.777 4.777 8 4.5 8 C 4.223 8 4 7.777 4 7.5 L 4 5 L 3.5214844 5 z "
-     id="rect3338" /></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4764" inkscape:version="0.91 r13725" sodipodi:docname="volcano-11.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="11px" height="11px"
+	 viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
+<path id="rect3338" d="M3,1l1.5,3h2L8,3V2L6,3V1H5.5L5,2.5L3.5,1H3z M3.5215,5l-2.498,4.1602C0.8007,9.5296,1.0679,9.9999,1.5,10h8
+	c0.4321-0.0001,0.6993-0.4704,0.4766-0.8398L7.4785,5H7v0.5C7,5.777,6.777,6,6.5,6S6,5.777,6,5.5C6,5.2239,5.7761,5,5.5,5
+	S5,5.2239,5,5.5v2C5,7.777,4.777,8,4.5,8S4,7.777,4,7.5V5H3.5215z"/>
+</svg>

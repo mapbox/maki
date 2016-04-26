@@ -1,4 +1,7 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
-  <title>building-11</title>
-  <path d="M2,1v9H6V6H8v4H9V1H2ZM5,9H3V6H5V9ZM5,5H3V3H5V5ZM8,5H6V3H8V5Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="11px" height="11px" viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
+<path d="M2,1v9h4V6h2v4h1V1H2z M5,9H3V6h2V9z M5,5H3V3h2V5z M8,5H6V3h2V5z"/>
 </svg>

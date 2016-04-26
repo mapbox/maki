@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1"
-	 id="svg4764" sodipodi:docname="college-11.svg" inkscape:version="0.91+devel+osxmenu r12911" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="11" height="11"
-	 viewBox="-294 195 11 11" enable-background="new -294 195 11 11" xml:space="preserve">
-<path d="M-292,202.3c0.3-0.2,0.5-0.5,0.5-0.8c0-0.4-0.2-0.7-0.6-0.9v-1.2l3.6,1.6l5.5-2.5l-5.5-2.5l-5.5,2.5l1.2,0.5v1.6
-	c-0.4,0.2-0.6,0.5-0.6,0.9c0,0.3,0.2,0.6,0.5,0.8l-0.5,1.7c-0.3,1,0.5,1,0.5,1h1c0,0,0.8,0,0.5-1L-292,202.3z"/>
-<path d="M-290.5,201.2c0,0.1,0,0.2,0,0.3v0c0,0.4-0.2,0.8-0.4,1.1c0.2,0.4,0.4,0.8,0.4,1.4v0.6c0.5,0.2,1.2,0.4,2,0.4
-	c2.5,0,3.5-1.5,3.5-1.5v-3l-3.5,1.6L-290.5,201.2z"/>
+	 id="svg4764" inkscape:version="0.91+devel+osxmenu r12911" sodipodi:docname="college-11.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="11px" height="11px"
+	 viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
+<g>
+	<path style="fill:#010101;" d="M2,7.3c0.3-0.2,0.5-0.5,0.5-0.8c0-0.4-0.2-0.7-0.6-0.9V4.4L5.5,6L11,3.5L5.5,1L0,3.5L1.2,4v1.6
+		C0.8,5.8,0.6,6.1,0.6,6.5c0,0.3,0.2,0.6,0.5,0.8L0.6,9c-0.3,1,0.5,1,0.5,1h1c0,0,0.8,0,0.5-1L2,7.3z"/>
+	<path style="fill:#010101;" d="M3.5,6.2c0,0.1,0,0.2,0,0.3c0,0.4-0.2,0.8-0.4,1.1C3.3,8,3.5,8.4,3.5,9v0.6C4,9.8,4.7,10,5.5,10
+		C8,10,9,8.5,9,8.5v-3L5.5,7.1L3.5,6.2z"/>
+</g>
 </svg>

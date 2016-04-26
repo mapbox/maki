@@ -1,64 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg4619"
-   sodipodi:docname="swimming-15.svg"
-   inkscape:version="0.91 r13725"
-   x="0px"
-   y="0px"
-   width="15"
-   height="15"
-   viewBox="0 0 15 15"
-   enable-background="new 0 0 599 400"
-   xml:space="preserve"><metadata
-     id="metadata10"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs8" /><sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="10"
-     inkscape:window-x="58"
-     inkscape:window-height="817"
-     inkscape:window-width="1867"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:object-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:current-layer="svg4619"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:snap-intersection-paths="true"
-     objecttolerance="10"
-     guidetolerance="10"
-     gridtolerance="10"
-     id="namedview4"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     inkscape:cy="7.3020932"
-     inkscape:cx="10.197937"
-     inkscape:zoom="1"
-     showgrid="false"
-     inkscape:snap-bbox-edge-midpoints="true"><inkscape:grid
-       color="#ff0000"
-       type="xygrid"
-       spacingy="0.5"
-       id="grid3336"
-       opacity="0.1254902"
-       spacingx="0.5"
-       empspacing="2" /></sodipodi:namedview><path
-     d="m 10.111329,2.0000002 c -0.1124706,0 -0.4355466,0.146484 -0.4355466,0.146484 L 6.353516,3.8261722 c -0.44239,0.176206 -0.617743,0.881963 -0.351563,1.234375 l 0.970704,1.408203 -3.970704,2.029297 1.998047,1.5 2.501953,-1.5 2.5,1.5 1.001954,-1.001954 -3,-4 2.55664,-1.529296 c 0.52862,-0.266183 0.44336,-0.70452 0.44336,-0.970704 -0.004,-0.209946 -0.360208,-0.496093 -0.892578,-0.496093 z m 2.140624,3 c -0.967259,0 -1.751953,0.782742 -1.751953,1.75 0,0.967259 0.784693,1.751953 1.751953,1.751953 0.967261,0 1.75,-0.784694 1.75,-1.751953 0,-0.967258 -0.782739,-1.75 -1.75,-1.75 z M 2.5,10 0,11.5 0,13.000001 2.5,11.5 5,13.000001 7.501953,11.5 l 2.5,1.500001 L 12,11.5 15,13.000001 15,11.5 12,10 10.001953,11.5 7.501953,10 5,11.5 2.5,10 Z"
-     id="path16388"
-     inkscape:connector-curvature="0" /></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4619" inkscape:version="0.91 r13725" sodipodi:docname="swimming-15.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px"
+	 viewBox="0 0 15 15" style="enable-background:new 0 0 15 15;" xml:space="preserve">
+<path id="path16388" inkscape:connector-curvature="0" d="M10.1113,2C9.9989,2,9.6758,2.1465,9.6758,2.1465L6.3535,3.8262
+	C5.9111,4.0024,5.7358,4.7081,6.002,5.0605l0.9707,1.4082L3.002,8.498L5,9.998l2.502-1.5l2.5,1.5l1.002-1.002l-3-4l2.5566-1.5293
+	c0.5286-0.2662,0.4434-0.7045,0.4434-0.9707C10.9999,2.2861,10.6437,2,10.1113,2z M12.252,5C11.2847,5,10.5,5.7827,10.5,6.75
+	s0.7847,1.752,1.752,1.752s1.75-0.7847,1.75-1.752S13.2192,5,12.252,5z M2.5,10L0,11.5V13l2.5-1.5L5,13l2.502-1.5l2.5,1.5L12,11.5
+	l3,1.5v-1.5L12,10l-1.998,1.5l-2.5-1.5L5,11.5L2.5,10z"/>
+</svg>

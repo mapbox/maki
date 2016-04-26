@@ -1,4 +1,10 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
-  <title>post-11</title>
-  <path d="M10,5.5V9a1,1,0,0,1-1,1H2A1,1,0,0,1,1,9V5.5A0.5,0.5,0,0,1,1.5,5a0.49,0.49,0,0,1,.21,0h0L5.5,7,9.3,5h0a0.49,0.49,0,0,1,.2,0A0.5,0.5,0,0,1,10,5.5ZM1.25,2.92h0L1.33,3,5.5,5,9.69,3h0l0.06,0h0A0.49,0.49,0,0,0,10,2.5,0.5,0.5,0,0,0,9.5,2h-8a0.5,0.5,0,0,0-.5.5A0.49,0.49,0,0,0,1.25,2.92Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="11px" height="11px" viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
+<path d="M10,5.5V9c0,0.5523-0.4477,1-1,1H2c-0.5523,0-1-0.4477-1-1V5.5C1,5.2239,1.2239,5,1.5,5c0.0692-0.0152,0.1408-0.0152,0.21,0
+	l0,0L5.5,7l3.8-2l0,0c0.066-0.0138,0.134-0.0138,0.2,0C9.7761,5,10,5.2239,10,5.5z M1.25,2.92L1.25,2.92L1.33,3L5.5,5l4.19-2l0,0
+	h0.06l0,0C9.9296,2.9019,10.0292,2.7025,10,2.5C10,2.2239,9.7761,2,9.5,2h-8C1.2239,2,1,2.2239,1,2.5
+	C1.0026,2.6745,1.0978,2.8345,1.25,2.92z"/>
 </svg>

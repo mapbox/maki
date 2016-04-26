@@ -1,69 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg4619"
-   sodipodi:docname="volcano-15.svg"
-   inkscape:version="0.91 r13725"
-   x="0px"
-   y="0px"
-   width="15px"
-   height="15px"
-   viewBox="-292 193 15 15"
-   enable-background="new -292 193 15 15"
-   xml:space="preserve"><defs
-     id="defs4138" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1544"
-     inkscape:window-height="894"
-     id="namedview4136"
-     showgrid="false"
-     inkscape:zoom="32"
-     inkscape:cx="7.326856"
-     inkscape:cy="7.4445799"
-     inkscape:window-x="61"
-     inkscape:window-y="325"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4619"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:object-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-intersection-paths="true"
-     showborder="true"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:snap-nodes="true"
-     inkscape:bbox-nodes="true"><inkscape:grid
-       type="xygrid"
-       id="grid4714"
-       spacingx="0.5"
-       spacingy="0.5"
-       color="#ff0000"
-       opacity="0.1254902"
-       empspacing="2" /><sodipodi:guide
-       position="7.5,11.5"
-       orientation="-0.85255609,0.52263574"
-       id="guide5600" /></sodipodi:namedview><metadata
-     id="metadata4873"><rdf:RDF><cc:Work
-         rdf:about=""><dc:title></dc:title></cc:Work></rdf:RDF></metadata><path
-     inkscape:connector-curvature="0"
-     style="fill:#000000;fill-opacity:1"
-     d="m -283.51559,193.99996 c -0.14643,0.005 -0.2835,0.0731 -0.375,0.1875 l -1.66016,2.07422 -1.60547,-1.52344 c -0.43586,-0.40112 -1.08386,0.15455 -0.75391,0.64648 l 1.66602,2.40039 c 0.1913,0.27561 0.59438,0.28835 0.80273,0.0254 0.16626,-0.20983 0.44141,-0.67773 0.94141,-0.67773 0.5,0 0.7929,0.49067 0.94141,0.67773 0.17496,0.22039 0.49725,0.25305 0.71289,0.0723 l 1.66797,-1.40039 c 0.4408,-0.37414 6.4e-4,-1.07349 -0.52735,-0.83789 l -1.29492,0.58203 0,-1.72656 c 1.1e-4,-0.28235 -0.23341,-0.50879 -0.51562,-0.5 z m -3.48438,5 -2.92383,5.92383 c -0.0769,0.0769 -0.0762,0.23092 -0.0762,0.38476 0,0.53846 0.38372,0.69141 0.69141,0.69141 l 9.61718,0 c 0.38462,0 0.69141,-0.15295 0.69141,-0.69141 0,-0.15384 7.9e-4,-0.23092 -0.0762,-0.38476 l -2.92377,-5.92383 c -0.5,0 -1,0.5 -1,1 l 0,0.5 c 0,0.277 -0.223,0.5 -0.5,0.5 -0.277,0 -0.5,-0.223 -0.5,-0.5 l 0,-0.5 a 0.5,0.5 0 0 0 -0.5,-0.5 0.5,0.5 0 0 0 -0.5,0.5 l 0,2 c 0,0.277 -0.223,0.5 -0.5,0.5 -0.277,0 -0.5,-0.223 -0.5,-0.5 l 0,-2 c 0,-0.5 -0.5,-1 -1,-1 z"
-     id="path6447" /></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4619" inkscape:version="0.91 r13725" sodipodi:docname="volcano-15.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px"
+	 viewBox="0 0 15 15" style="enable-background:new 0 0 15 15;" xml:space="preserve">
+<path id="path6447" inkscape:connector-curvature="0" style="fill:#010101;" d="M8.4844,1.0002
+	c-0.1464,0.005-0.2835,0.0731-0.375,0.1875L6.4492,3.2619L4.8438,1.7385C4.4079,1.3374,3.7599,1.893,4.0899,2.385l1.666,2.4004
+	C5.9472,5.061,6.3503,5.0737,6.5586,4.8108C6.7249,4.6009,7,4.133,7.5,4.133s0.7929,0.4907,0.9414,0.6777
+	c0.175,0.2204,0.4973,0.2531,0.7129,0.0723l1.668-1.4004c0.4408-0.3741,0.0006-1.0735-0.5273-0.8379L9,3.2268V1.5002
+	C9.0002,1.2179,8.7666,0.9915,8.4844,1.0002L8.4844,1.0002z M5,6.0002L2.0762,11.924C1.9993,12.0009,2,12.155,2,12.3088
+	c0,0.5385,0.3837,0.6914,0.6914,0.6914h9.6172c0.3846,0,0.6914-0.153,0.6914-0.6914c0-0.1538,0.0008-0.2309-0.0762-0.3848L10,6.0002
+	c-0.5,0-1,0.5-1,1v0.5c0,0.277-0.223,0.5-0.5,0.5S8,7.7772,8,7.5002v-0.5c0-0.2761-0.2238-0.5-0.5-0.5S7,6.7241,7,7.0002v2
+	c0,0.277-0.223,0.5-0.5,0.5S6,9.2772,6,9.0002v-2C6,6.5002,5.5,6.0002,5,6.0002z"/>
+</svg>

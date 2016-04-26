@@ -1,65 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg4619"
-   x="0px"
-   y="0px"
-   height='15'
-   width='15'
-   viewBox="0 0 15 15"
-   enable-background="new 0 0 15 15"
-   xml:space="preserve"
-   inkscape:version="0.91+devel+osxmenu r12911"
-   sodipodi:docname="museum-15.svg"><metadata
-     id="metadata55370"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs55368" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="983"
-     inkscape:window-height="692"
-     id="namedview55366"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="22.996146"
-     inkscape:cy="11.288421"
-     inkscape:current-layer="svg4619"
-     inkscape:window-x="278"
-     inkscape:window-y="47"
-     inkscape:window-maximized="0"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"><inkscape:grid
-       type="xygrid"
-       id="grid55917"
-       spacingx="0.5"
-       spacingy="0.5"
-       color="#ff0000"
-       opacity="0.1254902"
-       empspacing="2" /></sodipodi:namedview><path
-     style="fill:#000000;fill-opacity:1;stroke-width:1"
-     d="M 7.5,0 1,3.4453125 1,4 14,4 14,3.4453125 7.5,0 Z M 2,5 2,10 1,11.554688 1,13 14,13 14,11.554688 13,10 13,5 2,5 Z M 4.6152344,6 A 0.62506256,0.62506256 0 0 1 5.0664062,6.1835938 L 7.5,8.6171875 9.9335938,6.1835938 A 0.62506256,0.62506256 0 0 1 11,6.625 l 0,4.242188 a 0.62506256,0.62506256 0 1 1 -1.25,0 l 0,-2.7343755 -1.8085938,1.8085935 a 0.62506256,0.62506256 0 0 1 -0.8828124,0 L 5.25,8.1328125 l 0,2.7343755 a 0.62506256,0.62506256 0 1 1 -1.25,0 L 4,6.625 A 0.62506256,0.62506256 0 0 1 4.6152344,6 Z"
-     id="path7509"
-     inkscape:connector-curvature="0" /></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4619" inkscape:version="0.91+devel+osxmenu r12911" sodipodi:docname="museum-15.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px"
+	 viewBox="0 0 15 15" style="enable-background:new 0 0 15 15;" xml:space="preserve">
+<path id="path7509" inkscape:connector-curvature="0" d="M7.5,0L1,3.4453V4h13V3.4453L7.5,0z M2,5v5l-1,1.5547V13h13v-1.4453L13,10
+	V5H2z M4.6152,6c0.169-0.0023,0.3318,0.0639,0.4512,0.1836L7.5,8.6172l2.4336-2.4336c0.2445-0.2437,0.6402-0.2432,0.884,0.0013
+	C10.9341,6.3017,10.9997,6.46,11,6.625v4.2422c0.0049,0.3452-0.271,0.629-0.6162,0.6338c-0.3452,0.0049-0.629-0.271-0.6338-0.6162
+	c-0.0001-0.0059-0.0001-0.0118,0-0.0177V8.1328L7.9414,9.9414c-0.244,0.2433-0.6388,0.2433-0.8828,0L5.25,8.1328v2.7344
+	c0.0049,0.3452-0.271,0.629-0.6162,0.6338C4.2887,11.5059,4.0049,11.2301,4,10.8849c-0.0001-0.0059-0.0001-0.0118,0-0.0177V6.625
+	C4,6.2836,4.2739,6.0054,4.6152,6z"/>
+</svg>

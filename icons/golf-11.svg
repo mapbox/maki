@@ -1,87 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="11"
-   height="11"
-   id="svg4764"
-   inkscape:version="0.91+devel+osxmenu r12911"
-   sodipodi:docname="golf-11.svg"
-   viewBox="0 0 11 11">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview3424"
-     inkscape:document-units="px"
-     showgrid="false"
-     inkscape:zoom="16"
-     inkscape:cx="7.5185852"
-     inkscape:cy="3.4336759"
-     inkscape:current-layer="svg4764"
-     inkscape:snap-bbox="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid11593"
-       spacingx="0.5"
-       spacingy="0.5"
-       color="#ff3f3f"
-       opacity="0.1254902"
-       empspacing="2" />
-    <sodipodi:guide
-       position="-89.393443,-2.0017086"
-       orientation="-0.77988145,-0.62592725"
-       id="guide11679" />
-    <sodipodi:guide
-       position="27.556319,8.8365589"
-       orientation="0.51290494,0.85844541"
-       id="guide11904" />
-    <sodipodi:guide
-       position="25.5,6.5"
-       orientation="0.4817689,-0.87629831"
-       id="guide11906" />
-  </sodipodi:namedview>
-  <defs
-     id="defs4766" />
-  <metadata
-     id="metadata4769">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.63156796;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-     d="M 4.049211,0.63796995 C 3.5323218,1.1813711 4.2728721,1.8129967 4.7284317,1.3132113 L 5.223769,0.76978657 7.556319,2.1634411 3.30631,4.5 C 3.01258,4.6614861 2.964798,4.940665 3.07241,5.22118 l 0.88865,2.31647 -0.93553,2.804627 c -0.12816,0.384478 0.17194,0.648771 0.47453,0.657712 0.19542,0.0058 0.3919,-0.093 0.47467,-0.341313 L 4.89463,7.895065 5.74813,7.611868 6,8.117241 6,10.5 c 0,0 0,0.499989 0.49999,0.499989 0.49999,0 0.49999,-0.499989 0.49999,-0.499989 l 0,-2.382759 C 7,8 6.989266,7.861838 6.935769,7.754771 L 5.654568,4.4150219 8.207335,3.0115689 C 8.394175,2.9313889 8.49746,2.7580753 8.49746,2.5000958 8.49746,2.2741635 8.2797696,2.0870913 8.0410827,1.9444806 L 4.904732,0.07057267 c -0.1594857,-0.09528959 -0.2749168,-0.04298684 -0.32256,0.0071 z M 3.00002,2.0001718 c -0.55227,0 -0.99998,0.447705 -0.99998,0.999978 0,0.552273 0.44771,0.999978 0.99998,0.999978 C 3.55229,4.0001278 4,3.5524228 4,3.0001498 4,2.4478768 3.55229,2.0001718 3.00002,2.0001718 Z"
-     id="path11685"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssccssccscccccsccsccssssssssss" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4764" inkscape:version="0.91+devel+osxmenu r12911" sodipodi:docname="golf-11.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="11px" height="11px"
+	 viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
+<path id="path11685" inkscape:connector-curvature="0" sodipodi:nodetypes="ssccssccscccccsccsccssssssssss" d="M4.0492,0.638
+	C3.5323,1.1814,4.2729,1.813,4.7284,1.3132l0.4953-0.5434l2.3326,1.3937L3.3063,4.5C3.0126,4.6615,2.9648,4.9407,3.0724,5.2212
+	l0.8886,2.3165l-0.9355,2.8046C2.8974,10.7268,3.1975,10.991,3.5001,11c0.1954,0.0058,0.3919-0.093,0.4747-0.3413l0.9199-2.7636
+	l0.8535-0.2832L6,8.1172V10.5c0,0,0,0.5,0.5,0.5S7,10.5,7,10.5V8.1172C7,8,6.9893,7.8618,6.9358,7.7548L5.6546,4.415l2.5528-1.4035
+	c0.1868-0.0802,0.2901-0.2535,0.2901-0.5115c0-0.2259-0.2177-0.413-0.4564-0.5556L4.9047,0.0706
+	c-0.1595-0.0953-0.2749-0.043-0.3226,0.0071L4.0492,0.638z M3,2.0002c-0.5523,0-1,0.4477-1,1s0.4477,1,1,1s1-0.4477,1-1
+	S3.5523,2.0002,3,2.0002z"/>
 </svg>

@@ -1,66 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg4619"
-   sodipodi:docname="airport-15.svg"
-   inkscape:version="0.91+devel+osxmenu r12911"
-   x="0px"
-   y="0px"
-   height='15'
-   width='15'
-   viewBox="0 0 15 15"
-   enable-background="new 0 0 15 15"
-   xml:space="preserve"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><sodipodi:namedview
-     id="namedview3346"
-     inkscape:current-layer="svg4619"
-     inkscape:window-height="733"
-     inkscape:pageopacity="0"
-     inkscape:window-width="1287"
-     inkscape:window-y="23"
-     inkscape:pageshadow="2"
-     inkscape:document-units="px"
-     inkscape:window-maximized="0"
-     inkscape:window-x="-5"
-     inkscape:cx="10.07725"
-     borderopacity="1"
-     objecttolerance="10"
-     bordercolor="#666666"
-     gridtolerance="10"
-     showgrid="false"
-     inkscape:cy="5.9384601"
-     inkscape:zoom="1"
-     guidetolerance="10"
-     pagecolor="#ffffff"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:snap-bbox="true"><inkscape:grid
-       type="xygrid"
-       id="grid3389"
-       spacingy="0.5"
-       spacingx="0.5"
-       empspacing="2"
-       color="#cb0041"
-       opacity="0.19607843"
-       originx="0"
-       empcolor="#3f5aff"
-       empopacity="0.25098039" /></sodipodi:namedview><path
-     style="fill:#000000;fill-opacity:1;stroke-width:1"
-     id="path7712-0"
-     sodipodi:nodetypes="cccccccccccccccsccc"
-     inkscape:connector-curvature="0"
-     d="M 15.000001,6.818182 15,8.5 8.5,7.5 8.1818188,12.272728 11,14 11,15 7.4999998,14.318182 4,15 4,14 6.8181818,12.272728 6.5,7.5 0,8.5 0,6.818182 6.5,4.5 l 0,-3 C 6.5,1.5 6.5,0 7.4999998,0 8.5,0 8.5,1.5 8.5,1.5 l 0,2.8181819 z" /></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4619" inkscape:version="0.91+devel+osxmenu r12911" sodipodi:docname="airport-15.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px"
+	 viewBox="0 0 15 15" style="enable-background:new 0 0 15 15;" xml:space="preserve">
+<path id="path7712-0" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccsccc" d="M15,6.8182L15,8.5l-6.5-1
+	l-0.3182,4.7727L11,14v1l-3.5-0.6818L4,15v-1l2.8182-1.7273L6.5,7.5L0,8.5V6.8182L6.5,4.5v-3c0,0,0-1.5,1-1.5s1,1.5,1,1.5v2.8182
+	L15,6.8182z"/>
+</svg>

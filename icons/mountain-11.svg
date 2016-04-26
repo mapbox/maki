@@ -1,69 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg4764"
-   x="0px"
-   y="0px"
-   height="11"
-   width="11"
-   viewBox="0 0 11 11"
-   enable-background="new 0 0 11 11"
-   xml:space="preserve"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="mountain-11.svg"><metadata
-     id="metadata4147"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs4145" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1478"
-     inkscape:window-height="954"
-     id="namedview4143"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:object-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="3.6455992"
-     inkscape:cy="8.2489255"
-     inkscape:current-layer="svg4764"
-     inkscape:window-x="712"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:snap-nodes="true"
-     showguides="false"
-     inkscape:guide-bbox="true"><inkscape:grid
-       type="xygrid"
-       id="grid5796"
-       spacingx="0.5"
-       spacingy="0.5"
-       empspacing="2"
-       color="#ff0000"
-       opacity="0.1254902" /><sodipodi:guide
-       position="35.520175,8.8460906"
-       orientation="-0.85726012,-0.51488357"
-       id="guide6281" /></sodipodi:namedview><path
-     inkscape:connector-curvature="0"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 5.517578,1.2324219 C 5.316543,1.2262287 5.1270594,1.3279986 5.0234374,1.5 L 1.0234375,8.1601562 C 0.8006975,8.5296102 1.067892,8.9999049 1.5,9 L 9.4999999,9 C 9.9321089,8.9999067 10.199303,8.5296112 9.9765624,8.1601562 L 5.9765624,1.5 C 5.8793204,1.3385786 5.70624,1.2383824 5.517578,1.2324219 Z M 5.519528,2.1542969 8.4316405,7 7.7597655,7 6.4160155,5.7734375 5.5195311,7 4.6249999,5.7734375 3.2812499,7 2.6093749,7 5.5195311,2.1542969 Z"
-     id="rect3338" /></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4764" inkscape:version="0.91 r13725" sodipodi:docname="mountain-11.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="11px" height="11px"
+	 viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
+<path id="rect3338" inkscape:connector-curvature="0" d="M5.5176,1.2324C5.3165,1.2262,5.1271,1.328,5.0234,1.5l-4,6.6602
+	C0.8007,8.5296,1.0679,8.9999,1.5,9h8c0.4321-0.0001,0.6993-0.4704,0.4766-0.8398l-4-6.6602
+	C5.8793,1.3386,5.7062,1.2384,5.5176,1.2324z M5.5195,2.1543L8.4316,7H7.7598L6.416,5.7734L5.5195,7L4.625,5.7734L3.2812,7H2.6094
+	C2.6094,7,5.5195,2.1543,5.5195,2.1543z"/>
+</svg>
