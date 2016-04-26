@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1"
-	 id="svg4619" sodipodi:docname="grocery-15.svg" inkscape:version="0.91+devel+osxmenu r12911" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+	 id="svg4619" inkscape:version="0.91+devel+osxmenu r12911" sodipodi:docname="grocery-15.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="15px" height="15px"
-	 viewBox="-292 193 15 15" enable-background="new -292 193 15 15" xml:space="preserve">
-<sodipodi:namedview  inkscape:window-maximized="0" inkscape:window-y="50" inkscape:window-x="98" inkscape:snap-smooth-nodes="true" inkscape:object-nodes="true" inkscape:bbox-paths="true" inkscape:bbox-nodes="true" inkscape:snap-bbox="true" inkscape:document-units="px" inkscape:current-layer="svg4619" inkscape:object-paths="true" inkscape:pageopacity="0" inkscape:window-height="680" inkscape:pageshadow="2" inkscape:window-width="927" inkscape:snap-intersection-paths="true" inkscape:snap-bbox-edge-midpoints="true" pagecolor="#ffffff" bordercolor="#666666" inkscape:cx="2.557335" inkscape:cy="8.1230276" gridtolerance="10" objecttolerance="10" borderopacity="1" showgrid="true" id="namedview3406" guidetolerance="10" inkscape:zoom="32">
-	
-		<inkscape:grid  color="#ff0000" type="xygrid" opacity="0.1254902" empspacing="2" spacingx="0.44117647" spacingy="0.44117647" id="grid3333">
-		</inkscape:grid>
-</sodipodi:namedview>
-<path id="path4776" sodipodi:nodetypes="ccccsccccsccccssccssccsccssssssssss" inkscape:connector-curvature="0" d="M-279.2,193.5
-	c0,0-0.6,0-1.2,0.4c-0.5,0.3-1,1.1-1.1,2.1h-9.5l1.5,5c0.3,1,1.5,1,1.5,1h6.5v0.2c0,0,0,0.3-0.2,0.7s-0.3,0.6-1.1,0.6h-6.5
-	c-1,0-1,1.5,0,1.5h1.2h5h0.2c1.2,0,2.1-0.7,2.4-1.4s0.3-1.3,0.3-1.3V202v-5.8c0-0.8,0.2-1,0.4-1.1s0.3-0.1,0.3-0.1h0.5
-	c0,0,0.8,0,0.8-0.8s-0.8-0.8-0.8-0.8H-279.2z M-283,205c-0.6,0-1,0.4-1,1c0,0.6,0.4,1,1,1s1-0.4,1-1C-282,205.4-282.4,205-283,205z
-	 M-288,205c-0.6,0-1,0.4-1,1c0,0.6,0.4,1,1,1s1-0.4,1-1C-287,205.4-287.4,205-288,205z"/>
+	 viewBox="0 0 15 15" style="enable-background:new 0 0 15 15;" xml:space="preserve">
+<g>
+	<path d="M3.2001,14c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1c0-0.6-0.4-1-1-1C3.6001,13,3.2001,13.4,3.2001,14z"/>
+	<path d="M8.2001,14c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1c0-0.6-0.4-1-1-1C8.6001,13,8.2001,13.4,8.2001,14z"/>
+	<path d="M13.25,1.5c-0.0178,0-0.05,0-0.05,0s-1.3921-0.0412-1.947,0.5C10.7195,2.5202,10.5,2.9177,10.5,4H1.2001l1.3935,4.814
+		c0.0035,0.0073,0.0104,0.0139,0.0142,0.0211c0.2344,0.6573,0.8458,1.1308,1.5768,1.1583C4.1876,9.9947,4.2001,10,4.2001,10h6.5v0.2
+		c0,0,0,0.3-0.2,0.7c-0.2,0.4-0.3,0.6-1.1,0.6H2.9c-1,0-1,1.5,0,1.5h1.2h0.1h4.9h0.1h0.1c1.2,0,2.1-0.7,2.4-1.4
+		c0.3-0.7,0.3-1.3,0.3-1.3V10L12,4c0-0.5236,0.2294-1,0.7-1c0,0,0.5323,0,0.55,0C13.6642,3,14,2.6642,14,2.25S13.6642,1.5,13.25,1.5
+		z"/>
+</g>
 </svg>
