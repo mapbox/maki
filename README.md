@@ -4,7 +4,7 @@
 
 A pixel-aligned point of interest icon set made for cartographers.
 
-This repo only contains the source SVG files. Check out [maki website](mapbox.com/maki-icons) to use an icon editing tool and read detailed design guidelines.
+This repo only contains the source SVG files. Check out [maki website](https://mapbox.com/maki-icons/) to use an icon editing tool and read detailed design guidelines.
 
 ### Format
 
@@ -18,7 +18,7 @@ Maki welcomes contributions from designers who need icons for specific points of
 
 ### Testing
 
-Every icon in Maki must pass the automated tests in [tests/maki.test.js](https://github.com/mapbox/maki/tree/mb-pages/test/maki.test.js). These tests check the following:
+Every icon in Maki must pass the automated tests in [tests/maki.test.js](https://github.com/mapbox/maki/tree/master/test/maki.test.js). These tests check the following:
 
 - Filename must end with '-11.svg' or '-15.svg'.
 - SVG file cannot contain the following elements: rectangle, circle, ellipse, line, polyline, polygon.
