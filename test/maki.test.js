@@ -1,11 +1,30 @@
 var fs = require('fs'),
     path = require('path'),
     test = require('tape'),
-    xml2js = require('xml2js');
+    xml2js = require('xml2js'),
+    makiLayoutAll = require('../layouts/all');
 
 var parseString = xml2js.parseString;
 
-test('valid svgs', function(t) {
+test('all.json layout ', function(t) {
+  fs.readdir('./icons/', function(err, files) {
+    var svgFiles = files.filter(function(file) {
+      return file.split('.').pop().indexOf('svg') !== -1;
+    });
+    var filtered = svgFiles
+      .filter(function(file) {
+        return file.indexOf('-11.svg') > -1;
+      })
+      .map(function(file) {
+        return file.split('-11.svg')[0];
+      });
+    t.deepEqual(filtered, makiLayoutAll.all, 'includes all icons');
+    t.end();
+  });
+
+});
+
+test('valid svgs ', function(t) {
 
   fs.readdir('./icons/', function(err, files) {
     var svgFiles = files.filter(function(file) {
