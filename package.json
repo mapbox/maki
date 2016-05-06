@@ -2,7 +2,7 @@
   "author": "Mapbox",
   "name": "maki",
   "description": "Pixel-perfect icons for web cartography",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "main": "index.js",
   "scripts": {
     "test": "tape test/maki.test.js | tap-spec",
@@ -26,7 +26,7 @@
   "author": "Mapbox",
   "license": "CC0",
   "bugs": {
-    "url": "https://github.com/mapbox/map-icons/issues"
+    "url": "https://github.com/mapbox/maki/issues"
   },
-  "homepage": "https://github.com/mapbox/map-icons"
+  "homepage": "https://github.com/mapbox/maki"
 }
