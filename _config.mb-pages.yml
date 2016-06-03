@@ -6,4 +6,3 @@ exclude:
   - nounproject
 baseurl: /maki
 permalink: /:title.html
-markdown: rdiscount
