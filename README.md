@@ -16,6 +16,10 @@ This repo only contains the source SVG files. Check out [maki website](https://m
 
 Maki welcomes contributions from designers who need icons for specific points of interest. Check out the [design guidelines](https://www.mapbox.com/maki-icons/guidelines/) before submitting a pull request. Pull requests will only be merged if all tests pass.
 
+### Updating Layouts
+
+Layouts are used in tools that use maki programmatically. There are two layouts in maki/layouts. "streets" must be updated manually, based on data in mapbox streets vector tiles. "all" should be updated every time a new icon is added to the icon set by running `node ./scripts/make-layouts.js`.
+
 ### Testing
 
 Every icon in Maki must pass the automated tests in [tests/maki.test.js](https://github.com/mapbox/maki/tree/master/test/maki.test.js). These tests check the following:
