@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
   <title>buildings</title>
-  <path d="M8,9V2.5a1,1,0,0,0-1-1H4a1,1,0,0,0-1,1V9H2v1H9V9ZM6,3H7V4H6ZM6,5H7V6H6ZM6,7H7V8H6Z"/>
+  <path d="M6,9V3A1,1,0,0,0,5,2H3A1,1,0,0,0,2,3v7H9V9ZM3,3H5V4H3ZM3,5H5V6H3ZM3,7H5V8H3Z"/>
+  <circle cx="8" cy="7" r="1"/>
+  <rect x="7.5" y="7.5" width="1" height="1.5"/>
 </svg>
