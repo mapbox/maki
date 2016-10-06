@@ -62,7 +62,7 @@ test('valid svgs ', function(t) {
         invalid = false;
 
       keys.some(function(key) {
-        invalid = key.match(/^(rectangle|circle|ellipse|line|polyline|polygon)$/) && key;
+        invalid = key.match(/^(rectangle|circle|ellipse|line|polyline|polygon|style)$/) && key;
         return invalid;
       });
       return invalid;
@@ -77,10 +77,11 @@ test('valid svgs ', function(t) {
     function traverseGroups(groupArray) {
       groupArray.forEach(function(group) {
         if (group.$ && group.$.transform) errors.push('transformed groups');
-        if (invalidElement(group)) errors.push('has ' + invalidElement(group));
+        if (invalidElement(group)) errors.push(' has ' + invalidElement(group));
         if (group.path) {
           checkPaths(group.path);
-        } else if (group.g) {
+        }
+        if (group.g) {
           traverseGroups(group.g);
         }
       });
