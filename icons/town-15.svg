@@ -1,9 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
-  <title>city-15</title>
-  <g id="_15" data-name="15">
-    <path d="M10.5,2.5,8,4.5v8h2V11h1v1.5h2v-8Zm-.5,7H9V8h1ZM10,7H9V5.5h1ZM9.237,4.5l1.263-1,1.263,1ZM12,9.5H11V8h1ZM12,7H11V5.5h1Z"/>
-  </g>
+  <title>town-15</title>
   <g id="Layer_7" data-name="Layer 7">
-    <path d="M4.5,1.5,2,3.5v8H4V10H5v1.5H7v-8ZM4,8.5H3V7H4ZM4,6H3V4.5H4ZM3.237,3.5,4.5,2.5l1.263,1ZM6,8.5H5V7H6ZM6,6H5V4.5H6Z"/>
+    <path d="M4.5,1.5,2,4V14H4V12H5v2H7V4ZM3,4,4.5,2.5,6,4Z"/>
+    <path d="M10.5,2.5,8,5v8h2V11h1v2h2V5ZM9,5l1.5-1.5L12,5Z"/>
+    <rect x="3" y="9" width="1" height="1" fill="#edefef"/>
+    <rect x="5" y="9" width="1" height="1" fill="#edefef"/>
+    <rect x="9" y="8" width="1" height="1" fill="#edefef"/>
+    <rect x="11" y="8" width="1" height="1" fill="#edefef"/>
+    <rect x="9" y="6" width="1" height="1" fill="#edefef"/>
+    <rect x="11" y="6" width="1" height="1" fill="#edefef"/>
+    <rect x="3" y="7" width="1" height="1" fill="#edefef"/>
+    <rect x="5" y="7" width="1" height="1" fill="#edefef"/>
+    <rect x="3" y="5" width="1" height="1" fill="#edefef"/>
+    <rect x="5" y="5" width="1" height="1" fill="#edefef"/>
   </g>
 </svg>

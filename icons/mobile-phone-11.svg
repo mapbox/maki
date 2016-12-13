@@ -1,8 +1,8 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="5" height="8.5" viewBox="0 0 5 8.5">
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
   <title>mobile-phone-11</title>
   <g id="Layer_7" data-name="Layer 7">
-    <g id="_Group_" data-name=" Group ">
-      <path d="M7.5,2H7V1H6V2H3.5a.5.5,0,0,0-.5.5V9a.5.5,0,0,0,.5.5h4A.5.5,0,0,0,8,9V2.5A.5.5,0,0,0,7.5,2ZM7,3V6.5H4V3ZM5,8.5H4v-1H5Zm1-1H7v1H6Z" transform="translate(-3 -1)"/>
+    <g id="_15-2" data-name=" 15">
+      <path d="M7.5,1.5H7V.5H6v1H3.5A.5.5,0,0,0,3,2V9a.5.5,0,0,0,.5.5h4A.5.5,0,0,0,8,9V2A.5.5,0,0,0,7.5,1.5ZM5,8.5H4v-1H5Zm0-2H4v-1H5Zm2,2H6v-1H7Zm0-2H6v-1H7Zm0-2H4v-2H7Z"/>
     </g>
   </g>
 </svg>
