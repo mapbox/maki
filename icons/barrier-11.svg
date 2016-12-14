@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
+  <title>barrier-11</title>
+  <g id="Layer_9" data-name="Layer 9">
+    <polygon points="2 9 2 3 2.5 2 3 3 3 9 2 9"/>
+    <polygon points="4 9 4 3 4.5 2 5 3 5 9 4 9"/>
+    <polygon points="6 9 6 3 6.5 2 7 3 7 9 6 9"/>
+    <polygon points="8 9 8 3 8.5 2 9 3 9 9 8 9"/>
+    <rect x="1" y="4" width="9" height="1"/>
+    <rect x="1" y="7" width="9" height="1"/>
+  </g>
+</svg>
