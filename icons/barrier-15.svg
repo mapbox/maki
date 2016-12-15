@@ -1,11 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
   <title>barrier-15</title>
   <g id="Layer_9" data-name="Layer 9">
-    <polygon points="2 13 2 4 3 2 4 4 4 13 2 13"/>
-    <polygon points="5 13 5 4 6 2 7 4 7 13 5 13"/>
-    <polygon points="8 13 8 4 9 2 10 4 10 13 8 13"/>
-    <polygon points="11 13 11 4 12 2 13 4 13 13 11 13"/>
-    <rect x="1" y="5" width="13" height="2"/>
-    <rect x="1" y="9" width="13" height="2"/>
+    <path d="M1,3v8H3v3H4V13h7v1h1V11h2V3ZM2,4H4.793l6,6H7.207L2,4.793Zm0,6V6.207L5.793,10Zm9,2H4V11h7Zm2-2h-.793l-6-6H9.793L13,7.207Zm0-4.207L11.207,4H13Z"/>
   </g>
 </svg>
