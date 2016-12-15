@@ -1,7 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
-  <title>city-15</title>
-  <g id="Layer_8" data-name="Layer 8">
-    <path d="M6,3V2H5V1H4V2H3V3H2V14H7V3ZM4,13H3V12H4Zm0-2H3V10H4ZM4,9H3V8H4ZM4,7H3V6H4ZM4,5H3V4H4Zm2,8H5V12H6Zm0-2H5V10H6ZM6,9H5V8H6ZM6,7H5V6H6ZM6,5H5V4H6Z"/>
-    <path d="M12,4V2h-.5V4h-2V2H9V4H8v9h5V4Zm-2,8H9V11h1Zm0-2H9V9h1Zm0-2H9V7h1Zm0-2H9V5h1Zm2,6H11V11h1Zm0-2H11V9h1Zm0-2H11V7h1Zm0-2H11V5h1Z"/>
+  <title>city-15-NEW</title>
+  <g id="Layer_10" data-name="Layer 10">
+    <g>
+      <polygon points="10 9 11 9 11 3 8 3 8 4 10 4 10 9"/>
+      <rect x="10" y="10" width="2" height="3"/>
+      <polygon points="13 2 13 1 10 1 10 2 12 2 12 9 13 9 13 12 14 12 14 2 13 2"/>
+      <path d="M7,2H1V13H4V4H7ZM3,12H2V11H3Zm0-2H2V9H3ZM3,8H2V7H3ZM3,6H2V5H3ZM3,4H2V3H3Z"/>
+      <path d="M5,14H9V5H5Zm3-1H7V12H8ZM8,9H7V8H8ZM6,6H7V7H6Zm0,4H7v1H6Z"/>
+    </g>
   </g>
 </svg>

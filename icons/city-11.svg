@@ -1,13 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
-  <title>city-11</title>
-  <g id="Layer_8" data-name="Layer 8">
-    <polygon points="5 3 5 2 4 2 4 1 3 1 3 2 2 2 2 3 1 3 1 10 6 10 6 3 5 3"/>
-    <path d="M9.5,3V1.5H9V3H8V1.5H7.5V3H7v7h3V3ZM9,9H8V8H9ZM9,7H8V6H9ZM9,5H8V4H9Z"/>
-    <rect x="2" y="8" width="1" height="1" fill="#fff"/>
-    <rect x="2" y="6" width="1" height="1" fill="#fff"/>
-    <rect x="2" y="4" width="1" height="1" fill="#fff"/>
-    <rect x="4" y="8" width="1" height="1" fill="#fff"/>
-    <rect x="4" y="6" width="1" height="1" fill="#fff"/>
-    <rect x="4" y="4" width="1" height="1" fill="#fff"/>
+  <title>city-11-NEW</title>
+  <g id="Layer_10" data-name="Layer 10">
+    <g>
+      <rect x="4" y="4" width="3" height="6"/>
+      <polygon points="5 1 2 1 2 9 3 9 3 3 5 3 5 1"/>
+      <polygon points="8 5 9 5 9 2 6 2 6 3 8 3 8 5"/>
+      <rect x="8" y="6" width="2" height="3"/>
+    </g>
   </g>
 </svg>

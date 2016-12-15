@@ -1,7 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
-  <title>village-15</title>
-  <g id="Layer_7" data-name="Layer 7">
-    <path d="M4.5,1,1,5H2V9H4V7H5V9H7V5H8ZM3,4,4.5,2.208,6,4Z"/>
-    <path d="M10.5,3,8,6v5h2V9h1v2h2V7h1ZM9,6l1.5-1.729L12,6Z"/>
+  <title>village-15-NEW</title>
+  <g id="Layer_10" data-name="Layer 10">
+    <g>
+      <polygon points="3 10 5 10 5 14 7 14 7 12 8 12 8 14 10 14 10 10 12 10 7.5 4 3 10"/>
+      <rect x="2" y="11" width="2" height="2"/>
+      <polygon points="4.833 4.244 4 3 1 8 2 8 4.833 4.244"/>
+      <polygon points="11 1 9.305 3.26 12 7 12 5 14 5 11 1"/>
+    </g>
   </g>
 </svg>

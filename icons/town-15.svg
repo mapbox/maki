@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
-  <title>town-15</title>
-  <g id="Layer_7" data-name="Layer 7">
-    <path d="M10.5,2.5,8,5v8h2V11h1v2h2V5ZM10,9H9V8h1Zm0-2H9V6h1Zm2,2H11V8h1Zm0-2H11V6h1ZM9,5l1.5-1.5L12,5Z"/>
-    <path d="M4.5,1.5,2,4V14H4V12H5v2H7V4ZM4,10H3V9H4ZM4,8H3V7H4ZM4,6H3V5H4Zm2,4H5V9H6ZM6,8H5V7H6ZM6,6H5V5H6ZM3,4,4.5,2.5,6,4Z"/>
+  <title>town-15-NEW</title>
+  <g id="Layer_10" data-name="Layer 10">
+    <path d="M5,1,2,4v8H3V7.5L7,4V3ZM4,5H3V4H4Z"/>
+    <path d="M7.5,6,4,9v5H7V12H8v2h3V9ZM7,11H5V9H7Zm3,0H8V9h2Z"/>
+    <path d="M9,1,8,2V4l4,3.5V9h1V5Zm1,3H9V3h1Z"/>
   </g>
 </svg>
