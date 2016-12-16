@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
-  <title>town-11-NEW</title>
-  <g id="Layer_10" data-name="Layer 10">
-    <path d="M5.5,5,3,7v3H5V9H6v1H8V7ZM5,8H4V7H5ZM7,8H6V7H7Z"/>
-    <path d="M3,1,1,3V9H2V6L5,3.5V3ZM3,4H2V3H3Z"/>
-    <path d="M7,1,5.5,2l.5.5v1L9,6V7h1V3.5ZM8,4H7V3H8Z"/>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
+  <title>town-11</title>
+  <g>
+    <path d="M3.7,1.234h-.01a.23.23,0,0,0-.371,0H3.3L1.071,3.915,1,4.089V9.75a.25.25,0,0,0,.25.25h1.5A.25.25,0,0,0,3,9.75V8H4V9.75a.25.25,0,0,0,.25.25h1.5A.25.25,0,0,0,6,9.75V4.089l-.072-.175ZM3,6H2V5H3ZM5,6H4V5H5Z"/>
+    <path d="M9.908,5.916,9.9,5.9,8.677,4.677h0l-.009-.009H8.654a.218.218,0,0,0-.308,0H8.333l-.009.009h0L7.079,5.921A.246.246,0,0,0,7,6.1V8.75A.25.25,0,0,0,7.25,9h2.5A.25.25,0,0,0,10,8.75V6.1A.241.241,0,0,0,9.908,5.916ZM9,8H8V7H9Z"/>
   </g>
 </svg>
