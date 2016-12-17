@@ -1,6 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="11" height="11" viewBox="0 0 11 11">
   <title>barrier-11</title>
-  <g id="Layer_9" data-name="Layer 9">
-    <path d="M1,2V7H2v3H3V9H8v1H9V7h1V2ZM2,3H3.646l3,3H4.354L2,3.646ZM2,4.354,3.646,6H2ZM8,8H3V7H8ZM9,5.337v.012H9V6H7.354l-3-3H6.646L9,5.349V4.642L7.354,3H9Z"/>
-  </g>
+  <path d="M9.5,2h-8a.5.5,0,0,0-.5.5v4a.5.5,0,0,0,.5.5H2V9.5a.5.5,0,0,0,1,0V9H8v.5a.5.5,0,0,0,1,0V7h.5a.5.5,0,0,0,.5-.5v-4A.5.5,0,0,0,9.5,2ZM2,3H3.646l3,3H4.354L2,3.646ZM2,6V4.354L3.646,6ZM3,8V7H8V8ZM9,6H7.354l-3-3H6.646L9,5.349ZM9,4.642,7.354,3H9Z"/>
 </svg>
