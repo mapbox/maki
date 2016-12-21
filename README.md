@@ -12,6 +12,10 @@ This repo only contains the source SVG files. Check out [maki website](https://m
 - Icons are available in two sizes: 11px x 11px and 15px x 15px.
 - Icons are each a single unified SVG path, with no transforms, groups or strokes.
 
+### Icon Requests
+
+Maki welcomes icon requests from map-makers in need of a points of interest icon. Open an issue to make a request, and make sure to provide the required information outlined in the issue.
+
 ### Contributing
 
 Maki welcomes contributions from designers who need icons for specific points of interest. Check out the [design guidelines](https://www.mapbox.com/maki-icons/guidelines/) before submitting a pull request. Pull requests will only be merged if all tests pass.
