@@ -14,7 +14,7 @@ This repo only contains the source SVG files. Check out [maki website](https://m
 
 ### Icon Requests
 
-Maki welcomes icon requests from map-makers in need of a points of interest icon. Open an issue to make a request, and make sure to provide the required information outlined in the issue.
+Maki welcomes icon requests from people in need of points of interest icons. Open an issue to make a request, and make sure to provide the required information outlined in the issue template.
 
 ### Contributing
 
