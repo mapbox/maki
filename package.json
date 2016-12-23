@@ -1,6 +1,6 @@
 {
   "author": "Mapbox",
-  "name": "maki",
+  "name": "@mapbox/maki",
   "description": "Pixel-perfect icons for web cartography",
   "version": "2.1.0",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "build": "node scripts/make-layouts.js"
   },
   "devDependencies": {
-    "tape" : "^4.2.2",
+    "tape": "^4.2.2",
     "tap-spec": "^4.1.1",
     "xml2js": "^0.4.15"
   },
@@ -23,7 +23,6 @@
     "poi",
     "svg"
   ],
-  "author": "Mapbox",
   "license": "CC0",
   "bugs": {
     "url": "https://github.com/mapbox/map-icons/issues"
