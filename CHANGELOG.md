@@ -2,13 +2,17 @@
 
 
 
-## v3.0.0
+## v3.0.0 [to be released January 2017]
 
 _This is a breaking change_
 
 #### Renaming Icons 
 
 - Rename `central-building-11` and `central-building-15` icon files to `building-alt1-11` and `building-alt1-15`
+
+#### Edited Icons
+
+- telephone-11.svg
 
 #### New Icons
 
