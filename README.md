@@ -12,24 +12,6 @@ This repo only contains the source SVG files. Check out [maki website](https://m
 - Icons are available in two sizes: 11px x 11px and 15px x 15px.
 - Icons are each a single unified SVG path, with no transforms, groups or strokes.
 
-### Icon Requests
-
-Maki welcomes icon requests from people in need of points of interest icons. Open an issue to make a request, and make sure to provide the required information outlined in the issue template.
-
-### Contributing
-
-Maki welcomes contributions from designers who need icons for specific points of interest. Check out the [design guidelines](https://www.mapbox.com/maki-icons/guidelines/) before submitting a pull request. Pull requests will only be merged if all tests pass.
-
-### Testing
-
-Every icon in Maki must pass the automated tests in [tests/maki.test.js](https://github.com/mapbox/maki/tree/master/test/maki.test.js). These tests check the following:
-
-- Filename must end with '-11.svg' or '-15.svg'.
-- SVG file cannot contain the following elements: rectangle, circle, ellipse, line, polyline, polygon.
-- SVG file cannot contain transformed groups or paths.
-- Both height and width must equal 11 or 15, and height and width must be equal.
-- Height, width, and viewbox must use pixel units.
-
 ### For developers
 
 Maki is ready to be used by developers. Install Maki via NPM:
@@ -51,9 +33,19 @@ files.forEach(function(fileName, j) {
     });
   });
 });
-
 ```
 
 ### Note about branches
 
-The main branch for the Maki project is `master`. The old version of Maki still exists in the `mb-pages` branch, which must remain intact because a number of old Mapbox projects depend on files it serves from its `www/` directory.
+The main branch for the Maki project is `master`, however any icon contribution work should branch off of the development branch. The old version of Maki still exists in the `mb-pages` branch, which must remain intact because a number of old Mapbox projects depend on files it serves from its `www/` directory.
+
+### Icon Requests & Contributing
+
+Maki welcomes icon requests from people in need of points of interest icons. Open an issue to make a request, and make sure to provide the required information outlined in the issue template.
+
+Maki also welcomes contributions from designers who need icons for specific points of interest. Check out the [design guidelines](https://www.mapbox.com/maki-icons/guidelines/) before opening an issue.
+
+### Workflow
+
+For both icon requests and contributions, please follow this [workflow sequenence](https://gist.github.com/natslaughter/faafd62bdc43a31e57801165ba8fc4d3).
+
