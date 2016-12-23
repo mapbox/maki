@@ -37,20 +37,22 @@ files.forEach(function(fileName, j) {
 
 ## Note about branches
 
-The main branch for the Maki project is `master`, however any icon contribution work should branch off of the development branch. The old version of Maki still exists in the `mb-pages` branch, which must remain intact because a number of old Mapbox projects depend on files it serves from its `www/` directory.
+The main branch for the Maki project is `master`, however any icon contribution work should branch off of the development branch. 
+
+The old version of Maki still exists in the `mb-pages` branch, which must remain intact because a number of old Mapbox projects depend on files it serves from its `www/` directory.
 
 ## Icon requests
 
 Maki welcomes icon requests from people in need of points of interest icons. Open an issue to make a request, and make sure to provide the required information outlined in the issue template.
 
-## Contributing & workflow
+## Workflow for contributing a new Maki icon
 
 Maki also welcomes contributions from designers who need icons for specific points of interest. Check out the [design guidelines](https://www.mapbox.com/maki-icons/guidelines/) before opening an issue.
 
 Please follow these steps to contribute to Maki.
 
 #### 1: Create an issue  
-Make icon request issue (ticket) based on the ISSUE_TEMPLATE.md. If your request is for a group of icons, create individual request issues for each icon. This ticket is where all communication and documentation regarding your icon design will occur and reside. 
+Open an issue and make sure to provide the required information outlined in the issue template. If your request is for a group of icons, create individual request issues for each icon. This ticket is where all communication and documentation regarding your icon design will occur and reside. 
 
 #### 2: Create a branch    
 From the current development branch - named "v[version-number]-dev" - create a new branch. Name the branch after the icon; for example if you are creating a new ‘garden’ icon, your branch name would be ‘garden’. If the icon request is a group of icons, create one branch for the icon group and name it something succinct and descriptive. 
@@ -74,10 +76,10 @@ Every icon in Maki must pass the automated tests in [tests/maki.test.js](https:/
 - Both height and width must equal 11 or 15, and height and width must be equal.
 - Height, width, and viewbox must use pixel units.
 
-Another requred step for passing tests is updating the "all.json" file with any new icon names. Simply running `npm run build` will add any new icons to this file. 
+Another required step for passing tests is updating the "all.json" file with any new icon names. Simply running `npm run build` will add any new icons to this file. 
 
 #### 5: Create a pull request  & final review
-Create a pull request and if needed, a Maki team member will support you with technical feedback. 
+Create a pull request and if needed, a Maki team member will support you with technical feedback. Make sure to include a link to the relevant ticket in your pull request.  
 
 #### 6: Merge to the development branch  
 After the final review approval, a Maki team member will merge the icon branch to the development (dev) branch and close your request ticket.
