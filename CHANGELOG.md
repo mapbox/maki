@@ -2,7 +2,7 @@
 
 
 
-## v3.0.0 [to be released January 2017]
+## v3.0.0 [to be released January 2017.]
 
 _This is a breaking change_
 
