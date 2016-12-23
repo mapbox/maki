@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   viewBox="0 0 11 11"
+   height="11"
+   width="11"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><rect
+     y="-5.000001"
+     x="-4.0576174e-006"
+     height="17"
+     width="17"
+     id="rect3335-7"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.19999981;stroke-dasharray:none;stroke-opacity:1" /><path
+     id="rect5072"
+     d="M 0.58427514,2 C 0.28665008,2 0,2.2684096 0,2.5730393 l 0,3.9195455 c -0.0056179,0.2658453 0.26111942,0.518651 0.54770445,0.518651 L 7.476748,7 C 7.7528924,6.9995522 8,6.7538571 8,6.4777017 L 8,5.4976171 C 8,5.2214617 7.7528838,5.0022322 7.476748,5 L 5,5 5,2.5618035 C 5,2.2765936 4.7177857,2 4.4325786,2 Z M 10.489248,1.0040653 c -0.16391,0.00378 -0.315424,0.088277 -0.404992,0.2258689 C 10.084256,1.2299342 9,2.8906767 9,5.5220358 9,8.1533955 10.059813,9.746723 10.059813,9.746723 10.161914,9.9237171 10.31485,9.9949677 10.462814,10 10.742475,10.009511 11.018586,9.7703278 11,9.4761464 10.994191,9.3842038 10.959057,9.2873499 10.885371,9.1917864 10.885371,9.1917864 10,7.8661984 10,5.4995642 10,3.1329295 10.909814,1.7868176 10.909814,1.7868176 10.971065,1.6987491 10.999201,1.6021702 11,1.5078308 11.002239,1.2433097 10.789545,0.99639558 10.489248,1.0040653 Z M 1,3.0061234 3,3 3,5 1,5 Z M 1,8 C 0.38171728,8 0,8.4476952 0,9 c 0,0.5523037 0.38171728,1 1,1 l 6,0 C 7.6182827,10 8,9.5523037 8,9 8,8.4476952 7.6182827,8 7,8 Z"
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></svg>
