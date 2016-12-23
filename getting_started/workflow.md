@@ -13,8 +13,17 @@ If you are designing an icon for another individual, all communication between y
 Finalize the icon design before creating a pull request. To reiterate: try and document from start to finish the design process on the ticket. 
 
 #### 4: File check & test  
-Check your file(s) for extraneous anchor points, make sure the file is a single path and double check the .svg file in a text editor. 
-Open the .svg file in the Maki editor to ensure it is compatable, or run `npm test` to make sure tests are passing. If the icon cannot be opened by the editor or tests are failing, it's most likely an issue with the geometry or unnecessary code such as css in your .svg file(s).
+Check your file(s) for extraneous anchor points, make sure the file is a single path and double check the .svg file in a text editor. Open the .svg file in the Maki editor to ensure it is compatable, or run `npm test` to make sure tests are passing. If the icon cannot be opened by the editor or tests are failing, it's most likely an issue with the geometry or unnecessary code such as css in your .svg file(s).
+
+Every icon in Maki must pass the automated tests in [tests/maki.test.js](https://github.com/mapbox/maki/tree/master/test/maki.test.js). These tests check the following:
+
+- Filename must end with '-11.svg' or '-15.svg'.
+- SVG file cannot contain the following elements: rectangle, circle, ellipse, line, polyline, polygon.
+- SVG file cannot contain transformed groups or paths.
+- Both height and width must equal 11 or 15, and height and width must be equal.
+- Height, width, and viewbox must use pixel units.
+
+Another requred step for passing tests is updating the "all.json" file with any new icon names. Simply running `npm run build` will add any new icons to this file. 
 
 #### 5: Create a pull request  
 Create a pull request (PR) and assign a senior team member as a ‘reviewer,’ so they can double check the file(s) and sign off on merging to the development branch.
