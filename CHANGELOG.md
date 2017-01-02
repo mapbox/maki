@@ -1,21 +1,50 @@
-Changelog
-========================================================================
+## Changelog
 
 
-v4.0.0
-------------------------------------------------------------------------
+
+## v3.0.0 [to be released January 2017.]
 
 _This is a breaking change_
 
-- Renaming icon .svg files
-    - Icons with strokes (circles, squares, stars) have been consistently labelled with the ending 'squared'.
+#### Renaming Icons 
 
+- Rename `central-building-11` and `central-building-15` icon files to `building-alt1-11` and `building-alt1-15`
 
-v3.1.0
-------------------------------------------------------------------------
+#### Edited Icons
 
-_This is a minor release, backwards-compatible to v.0.0._
+- telephone-11.svg
 
-- Icons added
-	- garden-center-11.svg
-	- garden-center-15.svg
+#### New Icons
+
+- barrier-11.svg
+- barrier-15.svg
+- city-11.svg
+- city-15.svg
+- defibrillator-11.svg
+- defibrillator-15.svg
+- emergency-phone-11.svg
+- emergency-phone-15.svg
+- entrance-alt1-11.svg
+- entrance-alt1-15.svg
+- fence-11.svg
+- fence-15.svg
+- horse-riding-11.svg
+- horse-riding-15.svg
+- landcover-11.svg
+- landcover-15.svg
+- landuse-11.svg
+- landuse-15.svg
+- logging-11.svg
+- logging-15.svg
+- marker-stroked-11.svg
+- marker-stroked-15.svg
+- mobile-phone-11.svg
+- mobile-phone-15.svg
+- park-alt1-11.svg
+- park-alt1-15.svg
+- slaughterhouse-11.svg
+- slaughterhouse-15.svg
+- town-11.svg
+- town-15.svg
+- village-11.svg
+- village-15.svg
