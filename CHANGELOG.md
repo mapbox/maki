@@ -1,12 +1,14 @@
 ## Changelog
 
+## v4.0.0
 
+Remove dirname from index.js exports.
 
 ## v3.0.0
 
 _This is a breaking change_
 
-#### Renaming Icons 
+#### Renaming Icons
 
 - Rename `central-building-11` and `central-building-15` icon files to `building-alt1-11` and `building-alt1-15`
 
