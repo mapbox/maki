@@ -1,6 +1,6 @@
-Hello! Thanks for contributing. 
+<!--Hello! Thanks for contributing.-->
 
-If you are opening an issue about the Maki editor, style guidelines or another Maki-related component, please provide a detailed description and any supporting imagery. If you are making an icon request, please make sure the following items are in your issue. 
+<!--If you are opening an issue about the Maki editor, style guidelines or another Maki-related component, please provide a detailed description and any supporting imagery. If you are making an icon request, please make sure the following items are in your issue.-->
 
 #### Icon Request
 - [ ] Make the issue title: "[icon name] icon." E.g. "garden icon" or "place-of-worship icon"
