@@ -20,7 +20,7 @@ Maki is ready to be used by developers. Install Maki via NPM:
 npm install maki --save
 ```
 
-The maki module exports two properties: `dirname` which just points to the directory that contains icons, and then `layouts` which is an object that can be used to organize and display icons in your app or website. Here's an example usage in Node.js:
+The maki module exports `layouts` which is an object that can be used to organize and display icons in your app or website. Here's an example usage in Node.js:
 
 ``` js
 var maki = require('maki');
@@ -37,7 +37,7 @@ files.forEach(function(fileName, j) {
 
 ## Note about branches
 
-The main branch for the Maki project is `master`, however any icon contribution work should branch off of the development branch. 
+The main branch for the Maki project is `master`. 
 
 The old version of Maki still exists in the `mb-pages` branch, which must remain intact because a number of old Mapbox projects depend on files it serves from its `www/` directory.
 
