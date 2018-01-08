@@ -17,13 +17,13 @@ This repo only contains the source SVG files. Check out [maki website](https://m
 Maki is ready to be used by developers. Install Maki via NPM:
 
 ```
-npm install maki --save
+npm install @mapbox/maki --save
 ```
 
 The maki module exports `layouts` which is an object that can be used to organize and display icons in your app or website. Here's an example usage in Node.js:
 
 ``` js
-var maki = require('maki');
+var maki = require('@mapbox/maki');
 
 files.forEach(function(fileName, j) {
   maki.layouts.all.forEach(function(icon) {
