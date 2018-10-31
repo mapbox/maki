@@ -1,0 +1,20 @@
+{
+  "extends": "eslint:recommended",
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "globals": {
+    "process": true,
+    "module": true,
+    "require": true
+  },
+  "rules": {
+    "key-spacing": [2, { "beforeColon": false, "afterColon": true }],
+    "indent": [2, 2],
+    "quotes": [2, "single"],
+    "no-console": [0],
+    "semi": [2, "always"],
+    "no-undef": 0
+  }
+}
