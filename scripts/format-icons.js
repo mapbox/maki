@@ -15,7 +15,7 @@ const iconPath = path.join(__dirname, '../icons');
 
 function gatherIcons() {
   return pReaddir(iconPath).then(files => {
-    const svgFiles = files.filter(f => f.indexOf('svg') !== -1);
+    const svgFiles = files.filter(f => f.indexOf('.svg') !== -1);
 
     return Promise.all(
       svgFiles.map(f => pReadFile(path.join(iconPath, f), 'utf8'))
