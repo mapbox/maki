@@ -7,7 +7,10 @@ const fs = require('fs'),
 const pReadFile = pify(fs.readFile);
 const pReaddir = pify(fs.readdir);
 
-const builder = new xml2js.Builder({ rootName: 'svg' });
+const builder = new xml2js.Builder({
+  rootName: 'svg',
+  xmldec: { version: '1.0', encoding: 'UTF-8' }
+});
 const iconPath = path.join(__dirname, '../icons');
 
 function gatherIcons() {
