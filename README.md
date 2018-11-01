@@ -11,7 +11,8 @@ This repo only contains the source SVG files. Check out [maki website](https://m
 
 - Source icons are in the SVG file format.
 - Icons are available in two sizes: 11px x 11px and 15px x 15px.
-- Icons are each a single unified SVG path, with no transforms, groups or strokes.
+- Icons should consist only of paths and groups. Paths should only have a `d` property.
+- Each Icon's svg tag should have an `id` property that corresponds to it's filename without the extension.
 
 ## For developers
 
@@ -77,7 +78,7 @@ Every icon in Maki must pass the automated tests in [tests/maki.test.js](https:/
 - Both height and width must equal 11 or 15, and height and width must be equal.
 - Height, width, and viewbox must use pixel units.
 
-#### 5: Create a pull request  & final review
+#### 5: Create a pull request & final review
 Create a pull request and if needed, a Maki team member will support you with technical feedback. Make sure to include a link to the relevant ticket in your pull request.  
 
 #### 6: Merge to the development branch  
@@ -94,7 +95,7 @@ Document all updates that occur in the CHANGELOG.md file under the version numbe
 Update the version number in the Maki repository package.json file, and run `npm publish`.
 
 #### 3: Update the Maki website  
-In the maki-icons repository, update the Maki dependency version number in the package.json file. 
+In the maki-icons repository, update the Maki dependency version number in the package.json file.
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki?ref=badge_large)
