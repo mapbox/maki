@@ -1,4 +1,5 @@
 [![Circle CI](https://circleci.com/gh/mapbox/maki-2.svg?style=svg)](https://circleci.com/gh/mapbox/maki-2)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki?ref=badge_shield)
 
 # Maki
 
@@ -96,3 +97,6 @@ Update the version number in the Maki repository package.json file, and run `npm
 
 #### 3: Update the Maki website  
 In the maki-icons repository, update the Maki dependency version number in the package.json file. 
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki?ref=badge_large)
