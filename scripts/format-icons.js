@@ -36,15 +36,49 @@ function gatherIcons() {
   });
 }
 
+// Note: this function in impure, and mutates data input.
 function clean({ fileName, data }) {
-  // Clean top level keys
-  const allowedKeys = ['version', 'id', 'xmlns', 'width', 'height', 'viewBox'];
-  Object.keys(data.$).forEach(k => {
-    if (!allowedKeys.includes(k)) {
-      delete data.$[k];
+  const allowedEls = ['path', 'g'];
+  Object.keys(data).forEach(k => {
+    // $ refers to own properties
+    if (k === '$') {
+      return;
+    }
+
+    // Remove disallowed elements.
+    if (!allowedEls.includes(k)) {
+      delete data[k];
+    } else {
+      // clean child nodes if allowed element
+      data[k].forEach(el => {
+        clean({ fileName, data: el });
+      });
     }
   });
-  data.$.id = fileName.replace('.svg', '');
+
+  // Remove unsupported keys
+  const allowedProps = [
+    'version',
+    'id',
+    'xmlns',
+    'width',
+    'height',
+    'viewBox',
+    'd'
+  ];
+
+  if (data.$) {
+    Object.keys(data.$).forEach(k => {
+      if (!allowedProps.includes(k)) {
+        delete data.$[k];
+      }
+    });
+  }
+
+  // Only runs on top level element
+  if (data.$ && data.$.viewBox) {
+    data.$.id = fileName.replace('.svg', '');
+  }
 
   return data;
 }
