@@ -12,7 +12,7 @@ This repo only contains the source SVG files. Check out [maki website](https://m
 - Source icons are in the SVG file format.
 - Icons are available in two sizes: 11px x 11px and 15px x 15px.
 - Icons should consist only of paths and groups. Paths should only have a `d` property.
-- Each Icon's svg tag should have an `id` property that corresponds to it's filename without the extension.
+- Each icon's svg tag should have an `id` property that corresponds to its filename without the extension. This id property is added automatically as part of a pre-commit hook.
 
 ## For developers
 

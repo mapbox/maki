@@ -30,9 +30,9 @@
   ],
   "license": "CC0",
   "bugs": {
-    "url": "https://github.com/mapbox/map-icons/issues"
+    "url": "https://github.com/mapbox/maki/issues"
   },
-  "homepage": "https://github.com/mapbox/map-icons",
+  "homepage": "https://github.com/mapbox/maki",
   "husky": {
     "hooks": {
       "pre-commit": "eslint ./scripts/* && prettier --write ./scripts/* && npm run build && git add ."
