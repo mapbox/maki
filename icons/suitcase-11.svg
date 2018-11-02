@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-	 id="svg4764" inkscape:version="0.91 r13725" sodipodi:docname="suitcase-11.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="11px" height="11px"
-	 viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
-<path id="path17" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccccccccccccc" d="M8,3V1.578L7.3601,1H3.6399
-	L3,1.7477V3H1.5L1,3.5v6L1.5,10h8L10,9.5v-6L9.5,3H8z M4,2h3v1H4V2z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" id="suitcase-11" xmlns="http://www.w3.org/2000/svg" width="11px" height="11px" viewBox="0 0 11 11">
+  <path id="path17" d="M8,3V1.578L7.3601,1H3.6399&#xA;&#x9;L3,1.7477V3H1.5L1,3.5v6L1.5,10h8L10,9.5v-6L9.5,3H8z M4,2h3v1H4V2z"/>
 </svg>

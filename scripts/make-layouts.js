@@ -1,5 +1,4 @@
-var fs = require('fs'),
-    path = require('path');
+var fs = require('fs');
 
 function make() {
   fs.readdir('./icons/', function(err, files) {
@@ -17,6 +16,6 @@ function make() {
       console.log('✓ Successfully generated all.json layout');
     });
   });
-};
+}
 
 make();
