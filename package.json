@@ -6,12 +6,17 @@
   "main": "index.js",
   "scripts": {
     "test": "tape test/maki.test.js | tap-spec",
-    "build": "node scripts/make-layouts.js"
+    "build": "node scripts/make-layouts.js && node scripts/format-icons.js"
   },
   "devDependencies": {
-    "tape": "^4.2.2",
+    "eslint": "^5.6.0",
+    "husky": "^1.0.0",
+    "mkdirp": "^0.5.1",
+    "pify": "^4.0.1",
+    "prettier": "^1.14.3",
     "tap-spec": "^4.1.1",
-    "xml2js": "^0.4.15"
+    "tape": "^4.2.2",
+    "xml2js": "^0.4.19"
   },
   "repository": {
     "type": "git",
@@ -25,7 +30,15 @@
   ],
   "license": "CC0",
   "bugs": {
-    "url": "https://github.com/mapbox/map-icons/issues"
+    "url": "https://github.com/mapbox/maki/issues"
   },
-  "homepage": "https://github.com/mapbox/map-icons"
+  "homepage": "https://github.com/mapbox/maki",
+  "husky": {
+    "hooks": {
+      "pre-commit": "eslint ./scripts/* && prettier --write ./scripts/* && npm run build && git add ."
+    }
+  },
+  "prettier": {
+    "singleQuote": true
+  }
 }
