@@ -16,7 +16,8 @@
     "prettier": "^1.14.3",
     "tap-spec": "^4.1.1",
     "tape": "^4.2.2",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.4.19",
+    "@mapbox/style-components": "^0.6.3"
   },
   "repository": {
     "type": "git",

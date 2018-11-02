@@ -1,8 +1,8 @@
-const fs = require('fs'),
-  path = require('path'),
-  pify = require('pify'),
-  xml2js = require('xml2js'),
-  mkdirp = require('mkdirp');
+const fs = require('fs');
+const path = require('path');
+const pify = require('pify');
+const xml2js = require('xml2js');
+const mkdirp = require('mkdirp');
 
 const pReadFile = pify(fs.readFile);
 const pReaddir = pify(fs.readdir);
