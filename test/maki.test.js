@@ -1,12 +1,16 @@
-var fs = require('fs'),
-  test = require('tape'),
-  xml2js = require('xml2js'),
-  makiLayoutAll = require('../layouts/all');
+const fs = require('fs');
+const test = require('tape');
+const path = require('path');
+const pify = require('pify');
+const xml2js = require('xml2js');
+const makiLayoutAll = require('../layouts/all');
+const { generateIconFromSvg, validation } = require('@mapbox/style-components');
 
-var parseString = xml2js.parseString;
+const parseString = xml2js.parseString;
+const svgPath = path.join(__dirname, '../icons/');
 
 test('all.json layout ', function(t) {
-  fs.readdir('./icons/', function(err, files) {
+  fs.readdir(svgPath, function(err, files) {
     var svgFiles = files.filter(function(file) {
       return (
         file
@@ -28,7 +32,7 @@ test('all.json layout ', function(t) {
 });
 
 test('valid svgs ', function(t) {
-  fs.readdir('./icons/', function(err, files) {
+  fs.readdir(svgPath, function(err, files) {
     var svgFiles = files.filter(function(file) {
       return (
         file
@@ -141,4 +145,24 @@ test('valid svgs ', function(t) {
         errors.join(', ')
     );
   }
+});
+
+test('svg are compatible with style components', (t) => {
+  return pify(fs.readdir)(svgPath)
+    .then(files => {
+      return Promise.all(
+        files
+          .filter(f => f.indexOf('.svg') !== -1)
+          .map(f => pify(fs.readFile)(path.join(svgPath, f), 'utf8'))
+      );
+    })
+    .then(svgs => svgs.map(generateIconFromSvg))
+    .then(iconDatum => {
+      t.equal(validation.validate.icons(iconDatum).length, 0);
+      t.end();
+    })
+    .catch(e => {
+      t.fail(e);
+      t.end();
+    });
 });
