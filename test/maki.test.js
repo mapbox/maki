@@ -147,6 +147,13 @@ test('valid svgs ', function(t) {
   }
 });
 
+/*
+ * "Style components" are an experimental feature that power Mapbox's map design
+ * workflow. Part of that workflow involves converting Maki SVGs into a JSON
+ * icon format. Maki icons should generally be compatible with style components
+ * after running the build script defined in package.json. If this test is
+ * failin for you, reach out to @samanpwbb or another Mapboxer.
+ */
 test('svg are compatible with style components', (t) => {
   return pify(fs.readdir)(svgPath)
     .then(files => {
