@@ -4,7 +4,7 @@ const path = require('path');
 const pify = require('pify');
 const xml2js = require('xml2js');
 const makiLayoutAll = require('../layouts/all');
-const { generateIconFromSvg, validation } = require('@mapbox/style-components');
+const { generateIconFromSvg, validate } = require('@mapbox/style-components');
 
 const parseString = xml2js.parseString;
 const svgPath = path.join(__dirname, '../icons/');
@@ -165,7 +165,7 @@ test('svg are compatible with style components', (t) => {
     })
     .then(svgs => svgs.map(generateIconFromSvg))
     .then(iconDatum => {
-      t.equal(validation.validate.icons(iconDatum).length, 0);
+      t.equal(validate.icons(iconDatum).length, 0);
       t.end();
     })
     .catch(e => {
