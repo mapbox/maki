@@ -1,5 +1,14 @@
 ## Changelog
 
+## v6.0.0
+
+- (breaking) rename the following icons:
+  - america-football → american-football
+  - confectionary → confectionery
+  - convenience-store → convenience
+  - fitness-center → fitness-centre
+  - garden-center → garden-centre
+
 ## v5.0.0
 
 - (breaking) Rename buddhism to religous-buddhist.
