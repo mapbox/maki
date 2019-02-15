@@ -9,12 +9,10 @@ const path = require('path');
  * @return {array} – array of file contents
  */
 
-function gatherFiles(dir, { parse } = { parse: false }) {
+function gatherFiles(dir) {
   return fs
     .readdirSync(dir)
-    .filter(f => f.match(/.(json|svg)$/))
-    .map(f => fs.readFileSync(path.join(dir, f), 'utf8'))
-    .map(f => (parse ? JSON.parse(f) : f));
+    .map(f => fs.readFileSync(path.join(dir, f), 'utf8'));
 }
 
 module.exports = gatherFiles;
