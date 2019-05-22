@@ -42,16 +42,12 @@ test('valid svgs ', function(t) {
       );
     });
 
+    makiLayoutAll.all.forEach(function(name) {
+      t.ok(svgFiles.indexOf(`${name}-11.svg`) >= 0, `${name}-11.svg exists`);
+      t.ok(svgFiles.indexOf(`${name}-15.svg`) >= 0, `${name}-15.svg exists`);
+    });
+
     svgFiles.forEach(function(fileName, j) {
-      function endsWith(str, test) {
-        return str.lastIndexOf(test) === str.length - test.length;
-      }
-
-      t.ok(
-        endsWith(fileName, '-11.svg') || endsWith(fileName, '-15.svg'),
-        fileName + ' filename ends with "-11.svg or "-15.svg"'
-      );
-
       fs.readFile('./icons/' + fileName, 'utf8', function(err, file) {
         if (err) t.fail(err);
         parseString(file, function(err, parsed) {
