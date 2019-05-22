@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/mapbox/maki-2.svg?style=svg)](https://circleci.com/gh/mapbox/maki-2)
+![Travis status](https://travis-ci.org/mapbox/maki.svg?branch=master)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki?ref=badge_shield)
 
 # Maki
