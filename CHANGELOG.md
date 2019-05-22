@@ -1,5 +1,21 @@
 ## Changelog
 
+## v6.0.0
+
+- (breaking) rename the following icons:
+  - america-football → american-football
+  - confectionary → confectionery
+  - convenience-store → convenience
+  - fitness-center → fitness-centre
+  - garden-center → garden-centre
+
+## v5.0.0
+
+- (breaking) Rename buddhism to religous-buddhist.
+- Format SVG for all icons (ensure all icons have an id property and remove namespaced properties), and add formatting script to scripts/.
+- Add new icons and clean up contents of all old icons.
+- Add bridge, communications tower, waterfall, shoe, optician, car-repair, charging-station, watermill, car-rental, casino, furniture, globe, hardware, jewelry-store, paint, watch, and windmill icons.
+
 ## v4.0.0
 
 Remove dirname from index.js exports.
