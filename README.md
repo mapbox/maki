@@ -56,8 +56,8 @@ Please follow these steps to contribute to Maki.
 #### 1: Create an issue  
 Open an issue and make sure to provide the required information outlined in the issue template. If your request is for a group of icons, create individual request issues for each icon. This ticket is where all communication and documentation regarding your icon design will occur and reside.
 
-#### 2: Create a branch    
-From the current development branch - named "v[version-number]-dev" - create a new branch. Name the branch after the icon; for example if you are creating a new ‘garden’ icon, your branch name would be ‘garden’. If the icon request is a group of icons, create one branch for the icon group and name it something succinct and descriptive.
+#### 2: Create a branch
+create a new branch from the master branch. Name the branch after the icon; for example if you are creating a new ‘garden’ icon, your branch name would be ‘garden’. If the icon request is a group of icons, create one branch for the icon group and name it something succinct and descriptive. 
 
 #### 3: Icon design
 You are now ready to design your icon. A good place to start is using one of our Illustrator or Inkscape templates, which have the 11 and 15 pixel dimensions set and .svg exporting notes.
@@ -81,21 +81,17 @@ Every icon in Maki must pass the automated tests in [tests/maki.test.js](https:/
 #### 5: Create a pull request & final review
 Create a pull request and if needed, a Maki team member will support you with technical feedback. Make sure to include a link to the relevant ticket in your pull request.  
 
-#### 6: Merge to the development branch  
-After the final review approval, a Maki team member will merge the icon branch to the development (dev) branch and close your request ticket.
+#### 6: Merge to the master branch  
+After the final review approval, a Maki team member will merge the icon branch to the master branch and close your request ticket.
 
 ## Release procedures
 
-#### 1: Merge to the master branch   
-Strategically merge the dev branch into the master branch for the release of new icons. At this time, there is no frequency for updates and releases.
-
-#### 2: Changelog & publishing the Maki repository  
+#### 1: Changelog & publishing the Maki repository  
 Document all updates that occur in the CHANGELOG.md file under the version number used in the dev branch.
-
 Update the version number in the Maki repository package.json file, and run `npm publish`.
 
-#### 3: Update the Maki website  
-In the maki-icons repository, update the Maki dependency version number in the package.json file.
+#### 2: Update the Maki website  
+In the maki-icons repository, update the Maki dependency version number in the package.json file. 
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmapbox%2Fmaki?ref=badge_large)
