@@ -28,7 +28,7 @@ The maki module exports `layouts` which is an object that can be used to organiz
 var maki = require('@mapbox/maki');
 
 files.forEach(function(fileName, j) {
-  maki.layouts.all.forEach(function(icon) {
+  maki.layouts.forEach(function(icon) {
     fs.readFile(maki.dirname + '/icons/' + icon + '.svg', 'utf8', function(err, file) {
       // Read icons as strings in node
       console.log(file);
