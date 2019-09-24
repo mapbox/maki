@@ -1,5 +1,13 @@
 ## Changelog
 
+## v6.1.1
+
+- fix `bicycle-share-11` icon path to get optimized correctly downstream
+
+## v6.1.0
+
+- add `svgArray` as key on export in addition to existing `layouts` key
+
 ## v6.0.0
 
 - (breaking) rename the following icons:
