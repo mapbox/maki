@@ -2,7 +2,7 @@
 
 ## v6.1.1
 
-- fix `bicycle-share-11` icon path to get optimized correctly downstream
+- fix `bicycle-share-11` icon path
 
 ## v6.1.0
 
