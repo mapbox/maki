@@ -1,4 +1,4 @@
-<svg id="castle-JP-15" xmlns="http://www.w3.org/2000/svg" width="12" height="10.5" viewBox="0 0 12 10.5">
-  <title>castle-JP_15</title>
-  <path d="M12.5,12.5a1,1,0,0,1-1-.9995V7H10A1,1,0,0,1,9,6V4H6V6A1,1,0,0,1,5,7H3.5v4.5a1,1,0,0,1-2,0V6a1,1,0,0,1,1-1H4V3A1,1,0,0,1,5,2h5a1,1,0,0,1,1,1V5h1.5a1,1,0,0,1,1,1v5.5a1,1,0,0,1-.9995,1Z" transform="translate(-1.5 -2)"/>
+<svg id="castle-JP-15" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <title>castle-JP-15</title>
+  <path d="M12.5,12.75a1,1,0,0,1-1-.9995V7.25H10a1,1,0,0,1-1-1v-2H6v2a1,1,0,0,1-1,1H3.5v4.5a1,1,0,0,1-2,0V6.25a1,1,0,0,1,1-1H4v-2a1,1,0,0,1,1-1h5a1,1,0,0,1,1,1v2h1.5a1,1,0,0,1,1,1v5.5a1,1,0,0,1-.9995,1Z"/>
 </svg>
