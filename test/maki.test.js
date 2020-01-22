@@ -1,10 +1,8 @@
 const fs = require('fs');
 const test = require('tape');
 const path = require('path');
-const pify = require('pify');
 const xml2js = require('xml2js');
 const makiLayoutAll = require('../layouts/all');
-const { generateIconFromSvg, validate } = require('@mapbox/style-components');
 
 const parseString = xml2js.parseString;
 const svgPath = path.join(__dirname, '../icons/');
@@ -141,31 +139,4 @@ test('valid svgs ', function(t) {
         errors.join(', ')
     );
   }
-});
-
-/*
- * "Style components" are an experimental feature that power Mapbox's map design
- * workflow. Part of that workflow involves converting Maki SVGs into a JSON
- * icon format. Maki icons should generally be compatible with style components
- * after running the build script defined in package.json. If this test is
- * failin for you, reach out to @samanpwbb or another Mapboxer.
- */
-test('svg are compatible with style components', (t) => {
-  return pify(fs.readdir)(svgPath)
-    .then(files => {
-      return Promise.all(
-        files
-          .filter(f => f.indexOf('.svg') !== -1)
-          .map(f => pify(fs.readFile)(path.join(svgPath, f), 'utf8'))
-      );
-    })
-    .then(svgs => svgs.map(generateIconFromSvg))
-    .then(iconDatum => {
-      t.equal(validate.icons(iconDatum).length, 0);
-      t.end();
-    })
-    .catch(e => {
-      t.fail(e);
-      t.end();
-    });
 });
