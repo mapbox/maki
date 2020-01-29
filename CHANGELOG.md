@@ -1,5 +1,9 @@
 ## Changelog
 
+## v6.2.0
+
+- add alternative localized icon set
+
 ## v6.1.1
 
 - fix `bicycle-share-11` icon path
