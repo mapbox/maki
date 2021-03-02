@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" id="town-hall" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
-  <path id="path7509" d="M7.5,0L1,3.4453V4h13V3.4453L7.5,0z M2,5v5l-1,1.5547V13h13v-1.4453L13,10V5H2z M4,6h1v5.5H4V6z M7,6h1v5.5H7&#xA;&#x9;V6z M10,6h1v5.5h-1V6z"/>
+<svg version="1.1" id="town-hall-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">
+  <path d="M13,3.9902H9.0114l-0.0114-0.5V0.999L7.5045-0.0079L6.0034,0.999v2.9913H2L1,4.9426V6h13V4.9426L13,3.9902z M7.4904,1.4921&#xA;&#x9;c0.4118,0,0.7456,0.3358,0.7456,0.75c0,0.4142-0.3338,0.75-0.7456,0.75s-0.7455-0.3358-0.7455-0.75&#xA;&#x9;C6.7448,1.8279,7.0786,1.4921,7.4904,1.4921z M13,7H2v4l-1,1.5547V14h13v-1.4453L13,11V7z M5,12.5H4V8h1V12.5z M8,12.5H7V8h1V12.5z&#xA;&#x9; M11,12.5h-1V8h1V12.5z"/>
 </svg>
