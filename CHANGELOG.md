@@ -2,6 +2,7 @@
 
 ## v7.0.0
 
+- add monument-JP
 - removes all `-11.svg` sizes
 - removes `-15.svg` from maki names
 - `px` in svg width/height attributes are removed
