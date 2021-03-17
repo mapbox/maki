@@ -13,13 +13,16 @@ Closes #<!--insert issue number here-->.
 ### For author
 
 - [ ] Cite changes under the `HEAD` tag in [`CHANGELOG.md`](../CHANGELOG.md)
-- [ ] PR contains only one icon with 11x11 and 15x15 variation
+- [ ] PR contains only one 15x15 icon
 - [ ] Changes fall in accordance to the [Maki guidelines](https://labs.mapbox.com/maki-icons/guidelines/)
   - [ ] Icon geometry is aligned to the pixel grid
   - [ ] Icon stays within a 2px trim area
   - [ ] Icon uses common geometric building blocks used throughout Maki
   - [ ] Icon corners are rounded in either full or half pixel increments
   - [ ] Any strokes use 1px
+- [ ] Upload the new icon to the [Maki icon editor](https://labs.mapbox.com/maki-icons/editor/)
+  - [ ] Compare with existing icons
+  - [ ] Test that stroke/backgrounds/padding work visually
 
 ### For reviewer
 
