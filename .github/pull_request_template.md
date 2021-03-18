@@ -5,7 +5,7 @@
 ### Link to demonstration
 
 <!-- Provide a link to a interactive map that uses the new icon with 11x11 and 15x15 variation. -->
-
+<!-- NOTE: upload your icon to the Maki icon editor (linked below) and add a 1px stroke colored #ffffff before uploading to an interactive map. -->
 ---
 
 Closes #<!--insert issue number here-->.
