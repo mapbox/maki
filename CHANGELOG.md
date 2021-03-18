@@ -1,5 +1,9 @@
 ## Changelog
 
+## HEAD
+
+- add caution icon
+
 ## v6.2.0
 
 - add alternative localized icon set
