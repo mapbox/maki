@@ -1,5 +1,12 @@
 ## Changelog
 
+## v7.0.0
+
+- removes all `-11.svg` sizes
+- removes `-15.svg` from maki names
+- `px` in svg width/height attributes are removed
+- `npm test` and `npm build` have been updated to reflect name changes
+
 ## v6.2.0
 
 - add alternative localized icon set

@@ -6,9 +6,9 @@ function make() {
 
     var all = {
       all: files
-        // Assume all icons include both size 11 and 15
-        .filter(file => file.indexOf('-15.svg') !== -1)
-        .map(file => file.split('-15.svg')[0])
+        // removes .svg in title name
+        .filter(file => file.indexOf('.svg') !== -1)
+        .map(file => file.split('.svg')[0])
     };
 
     fs.writeFile('./layouts/all.json', JSON.stringify(all), function(err) {
