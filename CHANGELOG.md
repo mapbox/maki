@@ -6,6 +6,7 @@
 - removes `-15.svg` from maki names
 - `px` in svg width/height attributes are removed
 - `npm test` and `npm build` have been updated to reflect name changes
+- add caution icon
 
 ## v6.2.0
 
