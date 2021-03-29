@@ -7,6 +7,9 @@
 - `px` in svg width/height attributes are removed
 - `npm test` and `npm build` have been updated to reflect name changes
 - add caution icon
+- update car icon
+- update car-rental icon
+- update car-repair icon
 
 ## v6.2.0
 
