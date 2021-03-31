@@ -2,12 +2,14 @@
 
 ## v7.0.0
 
+- update library icon
 - removes all `-11.svg` sizes
 - removes `-15.svg` from maki names
 - `px` in svg width/height attributes are removed
 - `npm test` and `npm build` have been updated to reflect name changes
 - add caution icon
 - add construction icon
+- add road-accident icon
 
 ## v6.2.0
 
