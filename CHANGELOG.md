@@ -11,6 +11,7 @@
 - update car icon
 - update car-rental icon
 - update car-repair icon
+- add construction icon
 - add road-accident icon
 
 ## v6.2.0
