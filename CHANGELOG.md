@@ -2,6 +2,7 @@
 
 ## v7.0.0
 
+- update library icon
 - removes all `-11.svg` sizes
 - removes `-15.svg` from maki names
 - `px` in svg width/height attributes are removed
@@ -10,6 +11,7 @@
 - update car icon
 - update car-rental icon
 - update car-repair icon
+- add road-accident icon
 
 ## v6.2.0
 
