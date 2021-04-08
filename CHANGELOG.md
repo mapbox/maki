@@ -2,6 +2,7 @@
 
 ## v7.0.0
 
+- add diamond icon
 - update library icon
 - removes all `-11.svg` sizes
 - removes `-15.svg` from maki names
