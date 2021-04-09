@@ -13,6 +13,7 @@
 - update car-repair icon
 - add construction icon
 - add road-accident icon
+- add hot-spring icon
 
 ## v6.2.0
 
