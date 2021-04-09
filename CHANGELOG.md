@@ -14,6 +14,7 @@
 - add construction icon
 - add road-accident icon
 - add hot-spring icon
+- add elevator icon
 
 ## v6.2.0
 
