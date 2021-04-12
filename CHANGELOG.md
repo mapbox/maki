@@ -15,6 +15,7 @@
 - add construction icon
 - add road-accident icon
 - add hot-spring icon
+- add turnstile icon
 
 ## v6.2.0
 
