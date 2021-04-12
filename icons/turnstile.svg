@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="turnstile" width="15" height="15" viewBox="0 0 15 15">
+  <path d="M12,4.5a.5.5,0,0,1-.5.5H5.707L9.854,9.146a.5.5,0,0,1-.708.708L5,5.707V13H3V2H5V4h6.5A.5.5,0,0,1,12,4.5Z"/>
+</svg>
