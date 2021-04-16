@@ -2,8 +2,9 @@
 
 ## v7.0.0
 
-
 - add lighthouse-JP icon
+- add ferry-JP icon
+- add monument-JP
 - update museum and town-hall icons
 - add diamond icon
 - update library icon
