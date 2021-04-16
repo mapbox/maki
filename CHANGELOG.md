@@ -2,6 +2,7 @@
 
 ## v7.0.0
 
+- update museum and town-hall icons
 - add diamond icon
 - update library icon
 - removes all `-11.svg` sizes
