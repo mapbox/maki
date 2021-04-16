@@ -2,6 +2,7 @@
 
 ## v7.0.0
 
+- add monument-JP
 - update museum and town-hall icons
 - add diamond icon
 - update library icon
