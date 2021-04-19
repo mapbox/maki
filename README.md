@@ -10,7 +10,7 @@ This repo only contains the source SVG files. Check out [maki website](https://m
 ## Format
 
 - Source icons are in the SVG file format.
-- Icons are available in two sizes: 11px x 11px and 15px x 15px.
+- Icons are available in one size: 15px x 15px
 - Icons should consist only of paths and groups. Paths should only have a `d` property.
 - Each icon's svg tag should have an `id` property that corresponds to its filename without the extension. This id property is added automatically as part of a pre-commit hook.
 
@@ -29,7 +29,7 @@ var maki = require('@mapbox/maki');
 
 files.forEach(function(fileName, j) {
   maki.layouts.all.forEach(function(icon) {
-    fs.readFile(maki.dirname + '/icons/' + icon + '-11.svg', 'utf8', function(err, file) {
+    fs.readFile(maki.dirname + '/icons/' + icon + '.svg', 'utf8', function(err, file) {
       // Read icons as strings in node
       console.log(file);
     });
@@ -39,7 +39,7 @@ files.forEach(function(fileName, j) {
 
 ## Note about branches
 
-The main branch for the Maki project is `master`.
+The main branch for the Maki project is `main`.
 
 The old version of Maki still exists in the `mb-pages` branch, which must remain intact because a number of old Mapbox projects depend on files it serves from its `www/` directory.
 
@@ -68,7 +68,7 @@ Open an issue and make sure to provide the required information outlined in the 
 create a new branch from the master branch. Name the branch after the icon; for example if you are creating a new ‘garden’ icon, your branch name would be ‘garden’. If the icon request is a group of icons, create one branch for the icon group and name it something succinct and descriptive.
 
 #### 3: Icon design
-You are now ready to design your icon. A good place to start is using one of our Illustrator or Inkscape templates, which have the 11 and 15 pixel dimensions set and .svg exporting notes.
+You are now ready to design your icon. A good place to start is using one of our Illustrator or Inkscape templates, which have the 15 pixel dimensions set and .svg exporting notes.
 As you design your icon, post drafts to the ticket for feedback. It's recommended to post after every major draft so that at the end, the entire design process has been documented. This documentation will help future designers contribute to Maki.
 
 If you are designing an icon for another individual, all communication between you and the requestor should occur on the ticket as well.
@@ -80,10 +80,10 @@ Check your file(s) for extraneous anchor points, make sure the file is a single 
 
 Every icon in Maki must pass the automated tests in [tests/maki.test.js](https://github.com/mapbox/maki/tree/master/test/maki.test.js). These tests check the following:
 
-- Filename must end with '-11.svg' or '-15.svg'.
+- Filename must end with '.svg'.
 - SVG file cannot contain the following elements: rectangle, circle, ellipse, line, polyline, polygon.
 - SVG file cannot contain transformed groups or paths.
-- Both height and width must equal 11 or 15, and height and width must be equal.
+- Both height and width must equal 15, and height and width must be equal.
 - Height, width, and viewbox must use pixel units.
 
 #### 5: Create a pull request & final review

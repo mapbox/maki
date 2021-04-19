@@ -19,10 +19,10 @@ test('all.json layout ', function(t) {
     });
     var filtered = svgFiles
       .filter(function(file) {
-        return file.indexOf('-11.svg') > -1;
+        return file.indexOf('.svg') > -1;
       })
       .map(function(file) {
-        return file.split('-11.svg')[0];
+        return file.split('.svg')[0];
       });
     t.deepEqual(filtered, makiLayoutAll.all, 'includes all icons');
     t.end();
@@ -41,8 +41,7 @@ test('valid svgs ', function(t) {
     });
 
     makiLayoutAll.all.forEach(function(name) {
-      t.ok(svgFiles.indexOf(`${name}-11.svg`) >= 0, `${name}-11.svg exists`);
-      t.ok(svgFiles.indexOf(`${name}-15.svg`) >= 0, `${name}-15.svg exists`);
+      t.ok(svgFiles.indexOf(`${name}.svg`) >= 0, `${name}.svg exists`);
     });
 
     svgFiles.forEach(function(fileName, j) {
@@ -99,8 +98,8 @@ test('valid svgs ', function(t) {
     }
 
     if (
-      !(height === 11 || height === 15) ||
-      !(width === 11 || width === 15) ||
+      !(height === 15) ||
+      !(width === 15) ||
       height !== width
     )
       errors.push('invalid size');

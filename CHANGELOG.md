@@ -1,5 +1,26 @@
 ## Changelog
 
+## v7.0.0
+
+- add lighthouse-JP icon
+- add ferry-JP icon
+- add monument-JP
+- update museum and town-hall icons
+- add diamond icon
+- update library icon
+- removes all `-11.svg` sizes
+- removes `-15.svg` from maki names
+- `px` in svg width/height attributes are removed
+- `npm test` and `npm build` have been updated to reflect name changes
+- add caution icon
+- update car icon
+- update car-rental icon
+- update car-repair icon
+- add construction icon
+- add road-accident icon
+- add hot-spring icon
+- add elevator icon
+
 ## v6.2.0
 
 - add alternative localized icon set
