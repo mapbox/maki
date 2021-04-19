@@ -2,6 +2,7 @@
 
 ## v7.0.0
 
+- add arrow icon
 - add lighthouse-JP icon
 - add ferry-JP icon
 - add monument-JP
