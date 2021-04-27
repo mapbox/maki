@@ -21,6 +21,7 @@
 - add road-accident icon
 - add hot-spring icon
 - add elevator icon
+- update bakery icon
 
 ## v6.2.0
 
