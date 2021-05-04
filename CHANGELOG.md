@@ -20,6 +20,7 @@
 - add construction icon
 - add road-accident icon
 - add hot-spring icon
+- add turnstile icon
 - add elevator icon
 - update bakery icon
 
