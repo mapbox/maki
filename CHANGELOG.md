@@ -2,6 +2,11 @@
 
 ## v7.0.0
 
+- add arrow icon
+- add lighthouse-JP icon
+- add ferry-JP icon
+- add monument-JP
+- update museum and town-hall icons
 - add diamond icon
 - update library icon
 - removes all `-11.svg` sizes
@@ -16,6 +21,8 @@
 - add road-accident icon
 - add hot-spring icon
 - add turnstile icon
+- add elevator icon
+- update bakery icon
 
 ## v6.2.0
 
