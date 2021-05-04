@@ -22,6 +22,7 @@
 - add hot-spring icon
 - add elevator icon
 - update bakery icon
+- add highway-rest-area
 
 ## v6.2.0
 
