@@ -22,6 +22,7 @@
 - add hot-spring icon
 - add elevator icon
 - update bakery icon
+- update formatting in drinking-water,entrance, furniture, globe, ice-cream, karaoke, shoe, veterinary, watch, communications-tower, confectionary, convenience, dog-park, grocery, restaurant-noodle, restaurant-pizza, restaurant-seafood, slipway
 - add highway-rest-area
 
 ## v6.2.0
