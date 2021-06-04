@@ -46,7 +46,7 @@ test('valid svgs ', function(t) {
       );
     });
 
-    makiLayoutAll.all.forEach(function(name) {
+    makiLayoutAll.forEach(function(name) {
       t.ok(svgFiles.indexOf(`${name}.svg`) >= 0, `${name}.svg exists`);
     });
 
