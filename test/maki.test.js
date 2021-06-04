@@ -2,10 +2,16 @@ const fs = require('fs');
 const test = require('tape');
 const path = require('path');
 const xml2js = require('xml2js');
+const maki = require('../');
 const makiLayoutAll = require('../layouts/all');
 
 const parseString = xml2js.parseString;
 const svgPath = path.join(__dirname, '../icons/');
+
+test('index', function(t) {
+  t.deepEqual(makiLayoutAll, maki.layouts, 'exports layout');
+  t.end();
+});
 
 test('all.json layout ', function(t) {
   fs.readdir(svgPath, function(err, files) {
@@ -24,7 +30,7 @@ test('all.json layout ', function(t) {
       .map(function(file) {
         return file.split('.svg')[0];
       });
-    t.deepEqual(filtered, makiLayoutAll.all, 'includes all icons');
+    t.deepEqual(filtered, makiLayoutAll, 'includes all icons');
     t.end();
   });
 });
@@ -40,7 +46,7 @@ test('valid svgs ', function(t) {
       );
     });
 
-    makiLayoutAll.all.forEach(function(name) {
+    makiLayoutAll.forEach(function(name) {
       t.ok(svgFiles.indexOf(`${name}.svg`) >= 0, `${name}.svg exists`);
     });
 

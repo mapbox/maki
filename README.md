@@ -25,11 +25,13 @@ npm install @mapbox/maki --save
 The maki module exports `layouts` which is an object that can be used to organize and display icons in your app or website. Here's an example usage in Node.js:
 
 ``` js
-var maki = require('@mapbox/maki');
+const { layouts } = require('@mapbox/maki');
+const fs = require('fs');
+const path = require('path');
 
-files.forEach(function(fileName, j) {
-  maki.layouts.all.forEach(function(icon) {
-    fs.readFile(maki.dirname + '/icons/' + icon + '.svg', 'utf8', function(err, file) {
+files.forEach(fileName => {
+  layouts.forEach(icon => {
+    fs.readFile(path.join(__dirname + `./icons/${icon}.svg`), 'utf8', (err, file) => {
       // Read icons as strings in node
       console.log(file);
     });
