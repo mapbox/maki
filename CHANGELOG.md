@@ -2,6 +2,7 @@
 
 ## v7.0.0
 
+- (breaking) Change `layouts` export to access list from `layouts.all` #457
 - add arrow icon
 - add lighthouse-JP icon
 - add ferry-JP icon
@@ -9,8 +10,8 @@
 - update museum and town-hall icons
 - add diamond icon
 - update library icon
-- removes all `-11.svg` sizes
-- removes `-15.svg` from maki names
+- (breaking) removes all `-11.svg` sizes
+- (breaking) removes `-15.svg` from maki names
 - `px` in svg width/height attributes are removed
 - `npm test` and `npm build` have been updated to reflect name changes
 - add caution icon
