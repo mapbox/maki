@@ -4,9 +4,10 @@
   "description": "Pixel-perfect icons for web cartography",
   "version": "7.0.0",
   "main": "index.js",
+  "browser": "browser.js",
   "scripts": {
     "test": "tape test/maki.test.js | tap-spec",
-    "build": "node scripts/make-layouts.js && node scripts/format-icons.js"
+    "build": "node scripts/make-layouts.js && node scripts/format-icons.js && node scripts/make-browser.js"
   },
   "devDependencies": {
     "eslint": "^5.6.0",
