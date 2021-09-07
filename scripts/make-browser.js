@@ -9,3 +9,16 @@ writeFile(
     console.log('✓ Successfully generated browser.js');
   }
 );
+
+writeFile(
+  './esm.js',
+  [
+    '/* eslint-disable */',
+    'export const layouts = ' + JSON.stringify(maki.layouts),
+    'export const svgArray = ' + JSON.stringify(maki.svgArray)
+  ].join('\n'),
+  function(err) {
+    if (err) console.log(err);
+    console.log('✓ Successfully generated esm.js');
+  }
+);
