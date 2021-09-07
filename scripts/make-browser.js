@@ -2,7 +2,7 @@ const maki = require('..');
 const { writeFile } = require('fs');
 
 writeFile(
-  './browser.js',
+  './browser.cjs.js',
   '/* eslint-disable */\nmodule.exports = ' + JSON.stringify(maki),
   function(err) {
     if (err) console.log(err);
@@ -11,7 +11,7 @@ writeFile(
 );
 
 writeFile(
-  './esm.js',
+  './browser.esm.js',
   [
     '/* eslint-disable */',
     'export const layouts = ' + JSON.stringify(maki.layouts),
