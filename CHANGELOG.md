@@ -1,5 +1,11 @@
 ## Changelog
 
+## v7.1.0
+
+Infrastructure changes:
+
+- `@mapbox/maki` can now be used from ESM modules and browser.
+
 ## v7.0.0
 
 - add `restaurant-bbq` icon
