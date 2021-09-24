@@ -81,6 +81,12 @@ function clean({ fileName, data }) {
   // Only runs on top level element
   if (data.$ && data.$.viewBox) {
     data.$.id = fileName.replace('.svg', '');
+
+    // if width or height attributes have px definitions then remove
+    if (typeof data.$.width === 'string' || typeof data.$.height === 'string') {
+      data.$.width = data.$.width.replace('px', '');
+      data.$.height = data.$.height.replace('px', '');
+    }
   }
 
   return data;

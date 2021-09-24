@@ -1,5 +1,47 @@
 ## Changelog
 
+## v7.1.0
+
+Infrastructure changes:
+
+- `@mapbox/maki` can now be used from ESM modules and browser.
+
+## v7.0.0
+
+- add `restaurant-bbq` icon
+- add `observation-tower` icon
+- add `racetrack` icon
+- add `racetrack-cycling` icon
+- add `racetrack-horse` icon
+- add `racetrack-boat` icon
+- (breaking) Change `layouts` export to access list from `layouts.all` #457
+- add arrow icon
+- add lighthouse-JP icon
+- add ferry-JP icon
+- add monument-JP
+- update museum and town-hall icons
+- add diamond icon
+- update library icon
+- (breaking) removes all `-11.svg` sizes
+- (breaking) removes `-15.svg` from maki names
+- `px` in svg width/height attributes are removed
+- `npm test` and `npm build` have been updated to reflect name changes
+- add caution icon
+- update car icon
+- update car-rental icon
+- update car-repair icon
+- add construction icon
+- add road-accident icon
+- add hot-spring icon
+- add elevator icon
+- update bakery icon
+- update formatting in drinking-water,entrance, furniture, globe, ice-cream, karaoke, shoe, veterinary, watch, communications-tower, confectionary, convenience, dog-park, grocery, restaurant-noodle, restaurant-pizza, restaurant-seafood, slipway
+- add highway-rest-area
+
+## v6.2.0
+
+- add alternative localized icon set
+
 ## v6.1.1
 
 - fix `bicycle-share-11` icon path

@@ -1,13 +1,17 @@
 const fs = require('fs');
 const test = require('tape');
 const path = require('path');
-const pify = require('pify');
 const xml2js = require('xml2js');
+const maki = require('../');
 const makiLayoutAll = require('../layouts/all');
-const { generateIconFromSvg, validate } = require('@mapbox/style-components');
 
 const parseString = xml2js.parseString;
 const svgPath = path.join(__dirname, '../icons/');
+
+test('index', function(t) {
+  t.deepEqual(makiLayoutAll, maki.layouts, 'exports layout');
+  t.end();
+});
 
 test('all.json layout ', function(t) {
   fs.readdir(svgPath, function(err, files) {
@@ -21,12 +25,12 @@ test('all.json layout ', function(t) {
     });
     var filtered = svgFiles
       .filter(function(file) {
-        return file.indexOf('-11.svg') > -1;
+        return file.indexOf('.svg') > -1;
       })
       .map(function(file) {
-        return file.split('-11.svg')[0];
+        return file.split('.svg')[0];
       });
-    t.deepEqual(filtered, makiLayoutAll.all, 'includes all icons');
+    t.deepEqual(filtered, makiLayoutAll, 'includes all icons');
     t.end();
   });
 });
@@ -42,9 +46,8 @@ test('valid svgs ', function(t) {
       );
     });
 
-    makiLayoutAll.all.forEach(function(name) {
-      t.ok(svgFiles.indexOf(`${name}-11.svg`) >= 0, `${name}-11.svg exists`);
-      t.ok(svgFiles.indexOf(`${name}-15.svg`) >= 0, `${name}-15.svg exists`);
+    makiLayoutAll.forEach(function(name) {
+      t.ok(svgFiles.indexOf(`${name}.svg`) >= 0, `${name}.svg exists`);
     });
 
     svgFiles.forEach(function(fileName, j) {
@@ -101,8 +104,8 @@ test('valid svgs ', function(t) {
     }
 
     if (
-      !(height === 11 || height === 15) ||
-      !(width === 11 || width === 15) ||
+      !(height === 15) ||
+      !(width === 15) ||
       height !== width
     )
       errors.push('invalid size');
@@ -141,31 +144,4 @@ test('valid svgs ', function(t) {
         errors.join(', ')
     );
   }
-});
-
-/*
- * "Style components" are an experimental feature that power Mapbox's map design
- * workflow. Part of that workflow involves converting Maki SVGs into a JSON
- * icon format. Maki icons should generally be compatible with style components
- * after running the build script defined in package.json. If this test is
- * failin for you, reach out to @samanpwbb or another Mapboxer.
- */
-test('svg are compatible with style components', (t) => {
-  return pify(fs.readdir)(svgPath)
-    .then(files => {
-      return Promise.all(
-        files
-          .filter(f => f.indexOf('.svg') !== -1)
-          .map(f => pify(fs.readFile)(path.join(svgPath, f), 'utf8'))
-      );
-    })
-    .then(svgs => svgs.map(generateIconFromSvg))
-    .then(iconDatum => {
-      t.equal(validate.icons(iconDatum).length, 0);
-      t.end();
-    })
-    .catch(e => {
-      t.fail(e);
-      t.end();
-    });
 });

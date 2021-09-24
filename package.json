@@ -2,13 +2,16 @@
   "author": "Mapbox",
   "name": "@mapbox/maki",
   "description": "Pixel-perfect icons for web cartography",
-  "version": "6.1.1",
+  "version": "7.1.0",
   "main": "index.js",
+  "browser": "browser.cjs.js",
+  "module": "browser.esm.js",
   "scripts": {
-    "test": "tape test/maki.test.js | tap-spec",
-    "build": "node scripts/make-layouts.js && node scripts/format-icons.js"
+    "test": "tape test/*.test.js | tap-spec",
+    "build": "node scripts/make-layouts.js && node scripts/format-icons.js && node scripts/make-browser.js"
   },
   "devDependencies": {
+    "esbuild": "^0.12.25",
     "eslint": "^5.6.0",
     "husky": "^1.0.0",
     "mkdirp": "^0.5.1",
@@ -16,8 +19,7 @@
     "prettier": "^1.14.3",
     "tap-spec": "^4.1.1",
     "tape": "^4.2.2",
-    "xml2js": "^0.4.19",
-    "@mapbox/style-components": "^0.7.0"
+    "xml2js": "^0.4.19"
   },
   "repository": {
     "type": "git",
