@@ -8,11 +8,10 @@ const path = require('path');
  * @param {string} dir - Path to directory of files.
  * @return {array} – array of file contents
  */
-
+const hiddenFileRegex = /(^|\/)\.[^/.]/g;
 function gatherFiles(dir) {
-  return fs
-    .readdirSync(dir)
-    .map(f => fs.readFileSync(path.join(dir, f), 'utf8'));
+  const list = fs.readdirSync(dir).filter(item => !hiddenFileRegex.test(item));
+  return list.map(f => fs.readFileSync(path.join(dir, f), 'utf8'));
 }
 
 module.exports = gatherFiles;
