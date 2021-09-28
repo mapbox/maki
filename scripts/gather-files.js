@@ -8,9 +8,8 @@ const path = require('path');
  * @param {string} dir - Path to directory of files.
  * @return {array} – array of file contents
  */
-const hiddenFileRegex = /(^|\/)\.[^/.]/g;
 function gatherFiles(dir) {
-  const list = fs.readdirSync(dir).filter(item => !hiddenFileRegex.test(item));
+  const list = fs.readdirSync(dir).filter(item => item.match(/.svg$/));
   return list.map(f => fs.readFileSync(path.join(dir, f), 'utf8'));
 }
 
