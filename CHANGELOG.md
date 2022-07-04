@@ -1,5 +1,18 @@
 ## Changelog
 
+## HEAD
+
+- add `toll-booth` icon
+- add `historic` icon
+- add `tunnel` icon
+- update parking icon
+- add `gate` icon
+- add `lift-gate` icon
+- center 38 icons: defibrillator, art-gallery, landmark-JP, restaurant-pizza, post-JP, construction, slaughterhouse, landuse, campsite, residential-community, blood-bank, racetrack-boat, farm, furniture, slipway, barrier, music, paint, shop, bridge, entrance, town, fuel, charging-station, snowmobile, star-stroked, mountain, rocket, commercial, heart, gaming, village, triangle, triangle-stroked, baseball, hospital-JP, fence, playground
+- update 34 icons: bus, aquarium, clothing-store, religious-jewish, square, square-stroked, marker-stroked, marker, circle-stroked, fire-station, roadblock, suitcase, water, gift, waterfall, toilet, city, cross, car-rental, car-repair, bowling-alley, amusement-park, shelter, basketball, skateboard, optician, hot-spring, teahouse, ferry-JP, village, campsite, religious-muslim, post, caution 
+- update formatting in slaughterhouse, slipway, construction, restaurant-pizza, snowmobile
+- update school icon
+
 ## v7.1.0
 
 Infrastructure changes:
