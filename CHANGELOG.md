@@ -12,6 +12,7 @@
 - update 34 icons: bus, aquarium, clothing-store, religious-jewish, square, square-stroked, marker-stroked, marker, circle-stroked, fire-station, roadblock, suitcase, water, gift, waterfall, toilet, city, cross, car-rental, car-repair, bowling-alley, amusement-park, shelter, basketball, skateboard, optician, hot-spring, teahouse, ferry-JP, village, campsite, religious-muslim, post, caution 
 - update formatting in slaughterhouse, slipway, construction, restaurant-pizza, snowmobile
 - update school icon
+- add `parking-paid` icon
 
 ## v7.1.0
 
