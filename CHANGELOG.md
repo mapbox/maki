@@ -1,7 +1,8 @@
 ## Changelog
 
-## HEAD
+## v7.2.0
 
+- add `animal-shelter` icon
 - add `toll-booth` icon
 - add `historic` icon
 - add `tunnel` icon
