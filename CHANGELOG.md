@@ -1,4 +1,4 @@
-## v7.2.1
+## v8.0.0
 
 - rename `toll-booth` to `toll` to reflect `maki_beta` data
 
