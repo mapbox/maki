@@ -2,7 +2,7 @@
   "author": "Mapbox",
   "name": "@mapbox/maki",
   "description": "Pixel-perfect icons for web cartography",
-  "version": "7.2.0",
+  "version": "8.0.0",
   "main": "index.js",
   "browser": "browser.cjs.js",
   "module": "browser.esm.js",
