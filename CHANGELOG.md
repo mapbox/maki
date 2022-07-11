@@ -1,5 +1,7 @@
 ## Changelog
 
+- rename `toll-booth` to `toll` to reflect `maki_beta` data
+
 ## v7.2.0
 
 - add `animal-shelter` icon
