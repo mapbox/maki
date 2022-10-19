@@ -1,3 +1,8 @@
+## HEAD
+
+- add test to confirm icons contain a single `path` element
+- update `hot-spring` icon to have single `path`
+
 ## v8.0.0
 
 - rename `toll-booth` to `toll` to reflect `maki_beta` data
