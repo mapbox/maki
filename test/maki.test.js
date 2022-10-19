@@ -84,7 +84,13 @@ test('valid svgs ', function(t) {
       return invalid;
     }
 
+    function checkPathLength(pathArray) {
+      if (pathArray.length > 1) errors.push('too many paths');
+    }
+
     function checkPaths(pathArray) {
+      checkPathLength(pathArray);
+
       pathArray.forEach(function(path) {
         if (path.$ && path.$.transform) errors.push('transformed paths');
       });
