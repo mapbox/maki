@@ -1,4 +1,4 @@
-## HEAD
+## v8.0.1
 
 - add test to confirm icons contain a single `path` element
 - update `hot-spring` icon to have single `path`
