@@ -9,8 +9,8 @@ const path = require('path');
  * @return {array} – array of file contents
  */
 function gatherFiles(dir) {
-  const list = fs.readdirSync(dir).filter(item => item.match(/.svg$/));
-  return list.map(f => fs.readFileSync(path.join(dir, f), 'utf8'));
+  const list = fs.readdirSync(dir).filter((item) => item.match(/.svg$/));
+  return list.map((f) => fs.readFileSync(path.join(dir, f), 'utf8'));
 }
 
 module.exports = gatherFiles;
