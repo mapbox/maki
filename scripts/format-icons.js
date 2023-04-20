@@ -9,20 +9,20 @@ const pReaddir = pify(fs.readdir);
 
 const builder = new xml2js.Builder({
   rootName: 'svg',
-  xmldec: { version: '1.0', encoding: 'UTF-8' },
+  xmldec: { version: '1.0', encoding: 'UTF-8' }
 });
 const iconPath = path.join(__dirname, '../icons');
 
 function gatherIcons() {
-  return pReaddir(iconPath).then((files) => {
-    const svgFiles = files.filter((f) => f.indexOf('.svg') !== -1);
+  return pReaddir(iconPath).then(files => {
+    const svgFiles = files.filter(f => f.indexOf('.svg') !== -1);
 
     return Promise.all(
-      svgFiles.map((f) => pReadFile(path.join(iconPath, f), 'utf8'))
+      svgFiles.map(f => pReadFile(path.join(iconPath, f), 'utf8'))
     )
-      .then((svgs) => {
+      .then(svgs => {
         return Promise.all(
-          svgs.map((svg) => {
+          svgs.map(svg => {
             // Need to create a parser for each svg
             const parser = new xml2js.Parser();
             const pParse = pify(parser.parseString);
@@ -30,10 +30,10 @@ function gatherIcons() {
           })
         );
       })
-      .then((parsedSvgs) => {
+      .then(parsedSvgs => {
         return parsedSvgs.map((pSvg, i) => ({
           fileName: svgFiles[i],
-          data: pSvg.svg,
+          data: pSvg.svg
         }));
       });
   });
@@ -42,7 +42,7 @@ function gatherIcons() {
 // Note: this function in impure, and mutates data input.
 function clean({ fileName, data }) {
   const allowedEls = ['path', 'g'];
-  Object.keys(data).forEach((k) => {
+  Object.keys(data).forEach(k => {
     // $ refers to own properties
     if (k === '$') {
       return;
@@ -53,7 +53,7 @@ function clean({ fileName, data }) {
       delete data[k];
     } else {
       // clean child nodes if allowed element
-      data[k].forEach((el) => {
+      data[k].forEach(el => {
         clean({ fileName, data: el });
       });
     }
@@ -67,11 +67,11 @@ function clean({ fileName, data }) {
     'width',
     'height',
     'viewBox',
-    'd',
+    'd'
   ];
 
   if (data.$) {
-    Object.keys(data.$).forEach((k) => {
+    Object.keys(data.$).forEach(k => {
       if (!allowedProps.includes(k)) {
         delete data.$[k];
       }
@@ -96,7 +96,7 @@ function write(cleanedSvgs) {
   const pWrite = pify(fs.writeFile);
   return pify(mkdirp)(iconPath).then(
     Promise.all(
-      cleanedSvgs.map((svgObj) => {
+      cleanedSvgs.map(svgObj => {
         const svg = builder.buildObject(svgObj);
         pWrite(path.join(iconPath, `${svgObj.$.id}.svg`), svg, 'utf8');
       })
@@ -105,7 +105,7 @@ function write(cleanedSvgs) {
 }
 
 function formatIcons() {
-  return gatherIcons().then((svgs) => {
+  return gatherIcons().then(svgs => {
     const cleanedSvgs = svgs.map(clean);
     write(cleanedSvgs);
   });
