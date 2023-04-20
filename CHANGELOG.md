@@ -1,3 +1,8 @@
+## HEAD
+
+- fix critical vulnerabilities
+- update charging-station icon
+
 ## v8.0.1
 
 - add test to confirm icons contain a single `path` element
