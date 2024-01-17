@@ -1,3 +1,7 @@
+## HEAD
+
+- Update CODEOWNERS
+
 ## v8.0.1
 
 - add test to confirm icons contain a single `path` element
