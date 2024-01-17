@@ -1,6 +1,8 @@
 ## HEAD
 
 - Update CODEOWNERS
+- fix critical vulnerabilities
+- update charging-station icon
 
 ## v8.0.1
 
