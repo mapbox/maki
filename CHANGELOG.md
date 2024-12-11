@@ -1,5 +1,6 @@
 ## HEAD
 
+- added taxi.svg
 - Update CODEOWNERS
 - fix critical vulnerabilities
 - update charging-station icon
