@@ -1,5 +1,6 @@
 ## HEAD
 
+- added `taxi` icon
 - Update CODEOWNERS
 - fix critical vulnerabilities
 - update charging-station icon
