@@ -10,7 +10,7 @@ const builder = new xml2js.Builder({
 
 async function gatherIcons(iconPath) {
   const files = await readdir(iconPath);
-  const svgFiles = files.filter(f => f.indexOf('.svg') !== -1);
+  const svgFiles = files.filter(f => f.endsWith('.svg'));
 
   return Promise.all(
     svgFiles.map(f => readFile(path.join(iconPath, f), 'utf8'))
