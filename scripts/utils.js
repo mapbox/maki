@@ -1,10 +1,7 @@
-const { promises: fs } = require('fs');
-
-const { readdir, readFile } = require('node:fs/promises');
+const { readdir, readFile, writeFile, mkdir } = require('node:fs/promises');
 const path = require('path');
 const pify = require('pify');
 const xml2js = require('xml2js');
-const mkdirp = dir => fs.mkdir(dir, { recursive: true });
 
 const builder = new xml2js.Builder({
   rootName: 'svg',
@@ -36,15 +33,13 @@ async function gatherIcons(iconPath) {
     });
 }
 
-function write(cleanedSvgs, iconPath) {
-  const pWrite = pify(fs.writeFile);
-  return pify(mkdirp)(iconPath).then(
-    Promise.all(
-      cleanedSvgs.map(svgObj => {
-        const svg = builder.buildObject(svgObj);
-        return pWrite(path.join(iconPath, `${svgObj.$.id}.svg`), svg, 'utf8');
-      })
-    )
+async function write(cleanedSvgs, iconPath) {
+  await mkdir(iconPath, { recursive: true });
+  return Promise.all(
+    cleanedSvgs.map(svgObj => {
+      const svg = builder.buildObject(svgObj);
+      return writeFile(path.join(iconPath, `${svgObj.$.id}.svg`), svg, 'utf8');
+    })
   );
 }
 
