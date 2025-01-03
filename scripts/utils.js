@@ -43,7 +43,7 @@ function write(cleanedSvgs, iconPath) {
     Promise.all(
       cleanedSvgs.map(svgObj => {
         const svg = builder.buildObject(svgObj);
-        pWrite(path.join(iconPath, `${svgObj.$.id}.svg`), svg, 'utf8');
+        return pWrite(path.join(iconPath, `${svgObj.$.id}.svg`), svg, 'utf8');
       })
     )
   );
