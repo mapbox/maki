@@ -12,25 +12,23 @@ async function gatherIcons(iconPath) {
   const files = await readdir(iconPath);
   const svgFiles = files.filter(f => f.endsWith('.svg'));
 
-  return Promise.all(
+  const svgs = await Promise.all(
     svgFiles.map(f => readFile(path.join(iconPath, f), 'utf8'))
-  )
-    .then(svgs => {
-      return Promise.all(
-        svgs.map(svg => {
-          // Need to create a parser for each svg
-          const parser = new xml2js.Parser();
-          const pParse = pify(parser.parseString);
-          return pParse(svg);
-        })
-      );
+  );
+
+  const parsedSvgs = await Promise.all(
+    svgs.map(svg => {
+      // Need to create a parser for each svg
+      const parser = new xml2js.Parser();
+      const pParse = pify(parser.parseString);
+      return pParse(svg);
     })
-    .then(parsedSvgs => {
-      return parsedSvgs.map((pSvg, i) => ({
-        fileName: svgFiles[i],
-        data: pSvg.svg
-      }));
-    });
+  );
+
+  return parsedSvgs.map((pSvg, i) => ({
+    fileName: svgFiles[i],
+    data: pSvg.svg
+  }));
 }
 
 async function write(cleanedSvgs, iconPath) {
