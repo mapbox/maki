@@ -40,7 +40,7 @@
   "homepage": "https://github.com/mapbox/maki",
   "husky": {
     "hooks": {
-      "pre-commit": "eslint ./scripts/* && npm run build && prettier --write ./scripts/* ./browser.* && git add ."
+      "pre-commit": "eslint ./scripts/* && npm run build && prettier --write ./scripts/* ./browser.* ./test/* && git add ."
     }
   },
   "prettier": {

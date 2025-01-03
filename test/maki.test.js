@@ -110,11 +110,7 @@ test('valid svgs ', function(t) {
       });
     }
 
-    if (
-      !(height === 15) ||
-      !(width === 15) ||
-      height !== width
-    )
+    if (!(height === 15) || !(width === 15) || height !== width)
       errors.push('invalid size');
 
     if (
@@ -159,23 +155,53 @@ test('valid svgs with meta', async function(t) {
   const fileNames = await readdir(iconPath);
 
   fileNames
-    .filter(f => f.split('.').pop().indexOf('svg') !== -1)
+    .filter(
+      f =>
+        f
+          .split('.')
+          .pop()
+          .indexOf('svg') !== -1
+    )
     .forEach(async f => {
       const file = await readFile(path.join(iconPath, f), 'utf8');
       const data = await pParse(file);
-      t.equal(data.svg.$['xmlns:m'], 'https://www.mapbox.com', `xmlns:m is correct`);
+      t.equal(
+        data.svg.$['xmlns:m'],
+        'https://www.mapbox.com',
+        `xmlns:m is correct`
+      );
 
-      const metadataAttributes = [{
-        'm:parameters':[
-          {'m:parameter':[
-            {'$': {"m:name":"background","m:type":"color","m:value":"#000"}},
-            {'$':{"m:name":"stroke","m:type":"color","m:value":"#fff"}
-          }]
-        }]
-      }]
+      const metadataAttributes = [
+        {
+          'm:parameters': [
+            {
+              'm:parameter': [
+                {
+                  $: {
+                    'm:name': 'background',
+                    'm:type': 'color',
+                    'm:value': '#000'
+                  }
+                },
+                {
+                  $: {
+                    'm:name': 'stroke',
+                    'm:type': 'color',
+                    'm:value': '#fff'
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ];
 
-      t.deepEqual(data.svg['m:metadata'], metadataAttributes, `metadata is correct`);
-  });
+      t.deepEqual(
+        data.svg['m:metadata'],
+        metadataAttributes,
+        `metadata is correct`
+      );
+    });
 
   t.end();
 });
