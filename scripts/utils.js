@@ -1,6 +1,5 @@
-const fs = require('fs');
+const { promises: fs } = require('fs');
 const path = require('path');
-const pify = require('pify');
 const xml2js = require('xml2js');
 const mkdirp = require('mkdirp');
 
