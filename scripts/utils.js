@@ -23,7 +23,7 @@ function gatherIcons(iconPath) {
           svgs.map(svg => {
             // Need to create a parser for each svg
             const parser = new xml2js.Parser();
-            const pParse = pify(parser.parseString);
+            const pParse = util.promisify(parser.parseString);
             return pParse(svg);
           })
         );
