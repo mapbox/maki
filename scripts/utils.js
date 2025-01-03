@@ -1,7 +1,7 @@
 const { promises: fs } = require('fs');
 const path = require('path');
 const xml2js = require('xml2js');
-const mkdirp = require('mkdirp');
+const mkdirp = dir => fs.mkdir(dir, { recursive: true });
 
 const builder = new xml2js.Builder({
   rootName: 'svg',
