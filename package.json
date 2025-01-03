@@ -17,7 +17,6 @@
     "eslint": "^9.17.0",
     "globals": "^15.14.0",
     "husky": "^1.0.0",
-    "mkdirp": "^0.5.1",
     "pify": "^4.0.1",
     "prettier": "^1.14.3",
     "tap-spec": "^5.0.0",
@@ -41,7 +40,7 @@
   "homepage": "https://github.com/mapbox/maki",
   "husky": {
     "hooks": {
-      "pre-commit": "eslint ./scripts/* && prettier --write ./scripts/* && npm run build && git add ."
+      "pre-commit": "eslint ./scripts/* && prettier --write ./scripts/* ./browser.* && npm run build && git add ."
     }
   },
   "prettier": {

@@ -1,6 +1,6 @@
 /*
   Create icons with stroke and m:parameter options for 
-  custom icon authoring from our SDKs.
+  custom icon attribute styling in our SDKs.
  */
 const path = require('path');
 const { gatherIcons, write } = require('./utils');
@@ -57,11 +57,10 @@ function metaMap({ data }) {
   return data;
 }
 
-function makeMetaIcons() {
-  return gatherIcons(path.join(__dirname, '../icons')).then(svgs => {
-    const metaMappedIcons = svgs.map(metaMap);
-    write(metaMappedIcons, path.join(__dirname, '../meta-icons'));
-  });
+async function makeMetaIcons() {
+  const svgs = await gatherIcons(path.join(__dirname, '../icons'));
+  const metaMappedIcons = svgs.map(metaMap);
+  return write(metaMappedIcons, path.join(__dirname, '../meta-icons'));
 }
 
 module.exports = makeMetaIcons;
