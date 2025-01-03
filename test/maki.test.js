@@ -1,11 +1,12 @@
 const fs = require('fs');
 const test = require('tape');
 const path = require('path');
-const xml2js = require('xml2js');
+const pify = require('pify');
+const { parseString } = require('xml2js');
 const maki = require('../');
 const makiLayoutAll = require('../layouts/all');
+const { readdir, readFile } = require('node:fs/promises');
 
-const parseString = xml2js.parseString;
 const svgPath = path.join(__dirname, '../icons/');
 
 test('index', function(t) {
@@ -150,4 +151,31 @@ test('valid svgs ', function(t) {
         errors.join(', ')
     );
   }
+});
+
+test('valid svgs with meta', async function(t) {
+  const iconPath = path.join(__dirname, '../icons-meta/');
+  const pParse = pify(parseString);
+  const fileNames = await readdir(iconPath);
+
+  fileNames
+    .filter(f => f.split('.').pop().indexOf('svg') !== -1)
+    .forEach(async f => {
+      const file = await readFile(path.join(iconPath, f), 'utf8');
+      const data = await pParse(file);
+      t.equal(data.svg.$['xmlns:m'], 'https://www.mapbox.com', `xmlns:m is correct`);
+
+      const metadataAttributes = [{
+        'm:parameters':[
+          {'m:parameter':[
+            {'$': {"m:name":"background","m:type":"color","m:value":"#000"}},
+            {'$':{"m:name":"stroke","m:type":"color","m:value":"#fff"}
+          }]
+        }]
+      }]
+
+      t.deepEqual(data.svg['m:metadata'], metadataAttributes, `metadata is correct`);
+  });
+
+  t.end();
 });

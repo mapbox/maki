@@ -60,7 +60,7 @@ function metaMap({ data }) {
 async function makeMetaIcons() {
   const svgs = await gatherIcons(path.join(__dirname, '../icons'));
   const metaMappedIcons = svgs.map(metaMap);
-  return write(metaMappedIcons, path.join(__dirname, '../meta-icons'));
+  return write(metaMappedIcons, path.join(__dirname, '../icons-meta'));
 }
 
 module.exports = makeMetaIcons;

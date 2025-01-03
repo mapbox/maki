@@ -8,7 +8,7 @@
   "module": "browser.esm.js",
   "scripts": {
     "test": "tape test/*.test.js | tap-spec",
-    "build": "node scripts/make-layouts.js && node scripts/format-icons.js && node scripts/make-browser.js"
+    "build": "node scripts/make-layouts.js && node scripts/format-icons.js && node scripts/make-browser.js && node scripts/make-meta-icons"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
