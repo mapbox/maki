@@ -18,7 +18,7 @@ function metaMap({ data }) {
     p.$ = {
       ...p.$,
       transform: 'translate(4 4)',
-      fill: '#000'
+      fill: '#000000'
     };
 
     // Add a stroked shape to below by unshifting an item into the array
@@ -27,7 +27,7 @@ function metaMap({ data }) {
         ...data.path[index].$,
         style: 'stroke-linejoin:round;stroke-miterlimit:4;',
         transform: 'translate(4 4)',
-        stroke: '#fff',
+        stroke: '#ffffff',
         'stroke-width': 4
       }
     });
@@ -40,14 +40,14 @@ function metaMap({ data }) {
           $: {
             ['m:name']: 'background',
             ['m:type']: 'color',
-            ['m:value']: '#000'
+            ['m:value']: '#000000'
           }
         },
         {
           $: {
             ['m:name']: 'stroke',
             ['m:type']: 'color',
-            ['m:value']: '#fff'
+            ['m:value']: '#ffffff'
           }
         }
       ]
