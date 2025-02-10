@@ -7,6 +7,7 @@
 - fix critical vulnerabilities
 - update `charging-station` icon
 - add set of Maki icons with metadata for SDK styling
+- add `marae` icon
 
 ## v8.0.1
 
