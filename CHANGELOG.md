@@ -4,6 +4,7 @@
 - Update CODEOWNERS
 - fix critical vulnerabilities
 - update charging-station icon
+- add `marae` icon
 
 ## v8.0.1
 
