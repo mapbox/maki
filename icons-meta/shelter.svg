@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23" height="23" viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg" id="shelter" xmlns:m="https://www.mapbox.com">
+  <path d="M13 2L1 6V8L2 7.66667V13H12V11H4V7L13 4V2Z" transform="translate(4 4)" fill="#000000" style="stroke-linejoin:round;stroke-miterlimit:4;" stroke="#ffffff" stroke-width="4"/>
+  <path d="M13 2L1 6V8L2 7.66667V13H12V11H4V7L13 4V2Z" transform="translate(4 4)" fill="#000000"/>
+  <m:metadata>
+    <m:parameters>
+      <m:parameter m:name="background" m:type="color" m:value="#000000"/>
+      <m:parameter m:name="stroke" m:type="color" m:value="#ffffff"/>
+    </m:parameters>
+  </m:metadata>
+</svg>

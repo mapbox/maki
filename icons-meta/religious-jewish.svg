@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23" height="23" viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg" id="religious-jewish" xmlns:m="https://www.mapbox.com">
+  <path d="M7.50049 0.5L5.49949 4H1L3.49949 7.5L1 11H5.49949L7.50049 14.5L9.50049 11H14L11.5005 7.5L14 4H9.50049L7.50049 0.5Z" transform="translate(4 4)" fill="#000000" style="stroke-linejoin:round;stroke-miterlimit:4;" stroke="#ffffff" stroke-width="4"/>
+  <path d="M7.50049 0.5L5.49949 4H1L3.49949 7.5L1 11H5.49949L7.50049 14.5L9.50049 11H14L11.5005 7.5L14 4H9.50049L7.50049 0.5Z" transform="translate(4 4)" fill="#000000"/>
+  <m:metadata>
+    <m:parameters>
+      <m:parameter m:name="background" m:type="color" m:value="#000000"/>
+      <m:parameter m:name="stroke" m:type="color" m:value="#ffffff"/>
+    </m:parameters>
+  </m:metadata>
+</svg>

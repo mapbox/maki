@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23" height="23" viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg" id="parking" xmlns:m="https://www.mapbox.com">
+  <path d="M4 2V13H6V9H8.5C10.433 9 12 7.433 12 5.5C12 3.567 10.433 2 8.5 2H4ZM6 7V4H8.5C9.32843 4 10 4.67157 10 5.5C10 6.32843 9.32843 7 8.5 7H6Z" transform="translate(4 4)" fill="#000000" style="stroke-linejoin:round;stroke-miterlimit:4;" stroke="#ffffff" stroke-width="4"/>
+  <path d="M4 2V13H6V9H8.5C10.433 9 12 7.433 12 5.5C12 3.567 10.433 2 8.5 2H4ZM6 7V4H8.5C9.32843 4 10 4.67157 10 5.5C10 6.32843 9.32843 7 8.5 7H6Z" transform="translate(4 4)" fill="#000000"/>
+  <m:metadata>
+    <m:parameters>
+      <m:parameter m:name="background" m:type="color" m:value="#000000"/>
+      <m:parameter m:name="stroke" m:type="color" m:value="#ffffff"/>
+    </m:parameters>
+  </m:metadata>
+</svg>

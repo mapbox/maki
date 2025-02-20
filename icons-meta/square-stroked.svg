@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23" height="23" viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg" id="square-stroked" xmlns:m="https://www.mapbox.com">
+  <path d="M11.7 3.3V11.7H3.3V3.3H11.7ZM12 2H3C2.4477 2 2 2.4477 2 3V12C2 12.5523 2.4477 13 3 13H12C12.5523 13 13 12.5523 13 12V3C13 2.4477 12.5523 2 12 2Z" transform="translate(4 4)" fill="#000000" style="stroke-linejoin:round;stroke-miterlimit:4;" stroke="#ffffff" stroke-width="4"/>
+  <path d="M11.7 3.3V11.7H3.3V3.3H11.7ZM12 2H3C2.4477 2 2 2.4477 2 3V12C2 12.5523 2.4477 13 3 13H12C12.5523 13 13 12.5523 13 12V3C13 2.4477 12.5523 2 12 2Z" transform="translate(4 4)" fill="#000000"/>
+  <m:metadata>
+    <m:parameters>
+      <m:parameter m:name="background" m:type="color" m:value="#000000"/>
+      <m:parameter m:name="stroke" m:type="color" m:value="#ffffff"/>
+    </m:parameters>
+  </m:metadata>
+</svg>

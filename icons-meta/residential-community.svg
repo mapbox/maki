@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="23" viewBox="0 0 23 23" width="23" xmlns="http://www.w3.org/2000/svg" id="residential-community" xmlns:m="https://www.mapbox.com">
+  <path d="m11.8 12.5v-2.5c.7-.1 1.2-.7 1.2-1.5s-.7-1.5-1.5-1.5-1.5.7-1.5 1.5c0 .7.5 1.4 1.2 1.5v2.5h-4.2v-11.5h-5v11.5h-1v.5h13v-.5zm-5.8-2.5h-3v-1h3zm0-2h-3v-1h3zm0-2h-3v-1h3zm0-2h-3v-1h3z" transform="translate(4 4)" fill="#000000" style="stroke-linejoin:round;stroke-miterlimit:4;" stroke="#ffffff" stroke-width="4"/>
+  <path d="m11.8 12.5v-2.5c.7-.1 1.2-.7 1.2-1.5s-.7-1.5-1.5-1.5-1.5.7-1.5 1.5c0 .7.5 1.4 1.2 1.5v2.5h-4.2v-11.5h-5v11.5h-1v.5h13v-.5zm-5.8-2.5h-3v-1h3zm0-2h-3v-1h3zm0-2h-3v-1h3zm0-2h-3v-1h3z" transform="translate(4 4)" fill="#000000"/>
+  <m:metadata>
+    <m:parameters>
+      <m:parameter m:name="background" m:type="color" m:value="#000000"/>
+      <m:parameter m:name="stroke" m:type="color" m:value="#ffffff"/>
+    </m:parameters>
+  </m:metadata>
+</svg>

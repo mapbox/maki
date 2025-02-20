@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="fire-station-JP" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23" xmlns:m="https://www.mapbox.com">
+  <path d="M8.5,8.1489V11.75a1,1,0,0,1-2,0V8.1489A5.0084,5.0084,0,0,1,2.5,3.25a1,1,0,0,1,2,0,3,3,0,0,0,6,0,1,1,0,0,1,2,0A5.0082,5.0082,0,0,1,8.5,8.1489Z" transform="translate(4 4)" fill="#000000" style="stroke-linejoin:round;stroke-miterlimit:4;" stroke="#ffffff" stroke-width="4"/>
+  <path d="M8.5,8.1489V11.75a1,1,0,0,1-2,0V8.1489A5.0084,5.0084,0,0,1,2.5,3.25a1,1,0,0,1,2,0,3,3,0,0,0,6,0,1,1,0,0,1,2,0A5.0082,5.0082,0,0,1,8.5,8.1489Z" transform="translate(4 4)" fill="#000000"/>
+  <m:metadata>
+    <m:parameters>
+      <m:parameter m:name="background" m:type="color" m:value="#000000"/>
+      <m:parameter m:name="stroke" m:type="color" m:value="#ffffff"/>
+    </m:parameters>
+  </m:metadata>
+</svg>

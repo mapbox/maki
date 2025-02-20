@@ -1,3 +1,5 @@
-_config.yml
-index.html
-www/
+icons-meta
+.travis.yml
+eslint.config.mjs
+scripts
+test

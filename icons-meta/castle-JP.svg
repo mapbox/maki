@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="castle-JP" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23" xmlns:m="https://www.mapbox.com">
+  <path d="M12.5,12.75a1,1,0,0,1-1-.9995V7.25H10a1,1,0,0,1-1-1v-2H6v2a1,1,0,0,1-1,1H3.5v4.5a1,1,0,0,1-2,0V6.25a1,1,0,0,1,1-1H4v-2a1,1,0,0,1,1-1h5a1,1,0,0,1,1,1v2h1.5a1,1,0,0,1,1,1v5.5a1,1,0,0,1-.9995,1Z" transform="translate(4 4)" fill="#000000" style="stroke-linejoin:round;stroke-miterlimit:4;" stroke="#ffffff" stroke-width="4"/>
+  <path d="M12.5,12.75a1,1,0,0,1-1-.9995V7.25H10a1,1,0,0,1-1-1v-2H6v2a1,1,0,0,1-1,1H3.5v4.5a1,1,0,0,1-2,0V6.25a1,1,0,0,1,1-1H4v-2a1,1,0,0,1,1-1h5a1,1,0,0,1,1,1v2h1.5a1,1,0,0,1,1,1v5.5a1,1,0,0,1-.9995,1Z" transform="translate(4 4)" fill="#000000"/>
+  <m:metadata>
+    <m:parameters>
+      <m:parameter m:name="background" m:type="color" m:value="#000000"/>
+      <m:parameter m:name="stroke" m:type="color" m:value="#ffffff"/>
+    </m:parameters>
+  </m:metadata>
+</svg>
