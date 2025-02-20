@@ -1,9 +1,12 @@
 ## HEAD
 
-- added `taxi` icon
-- Update CODEOWNERS
+## v8.1.0
+
+- add `taxi` icon
+- update CODEOWNERS
 - fix critical vulnerabilities
-- update charging-station icon
+- update `charging-station` icon
+- add set of Maki icons with metadata for SDK styling
 
 ## v8.0.1
 
