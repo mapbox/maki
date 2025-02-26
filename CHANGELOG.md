@@ -1,5 +1,9 @@
 ## HEAD
 
+## v8.2.0
+
+- add `marae` icon
+
 ## v8.1.0
 
 - add `taxi` icon
