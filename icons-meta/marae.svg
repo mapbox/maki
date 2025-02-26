@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="marae" width="23" height="23" viewBox="0 0 23 23" xmlns="http://www.w3.org/2000/svg" xmlns:m="https://www.mapbox.com">
+  <path d="M7.5 1c-.25 0-.5.25-.5.5v1.225L3 5.277V4.5c0-.25-.25-.5-.5-.5s-.5.25-.5.5v1.416l-.77.49a.5.5 0 0 0 .54.844L2 7.104V12h1V6.465l4.494-2.867L12 6.602V12h1V7.268l.223.148a.5.5 0 0 0 .554-.832L13 6.066V4.5c0-.25-.25-.5-.5-.5s-.5.25-.5.5v.898L8 2.732V1.5c0-.25-.25-.5-.5-.5Zm0 4a.5.5 0 0 0-.277.084l-3 2A.5.5 0 0 0 4 7.5V11h1V8h2v3h4V7.5a.5.5 0 0 0-.223-.416l-3-2A.5.5 0 0 0 7.5 5ZM8 8h2v1H8V8Z" transform="translate(4 4)" fill="#000000" style="stroke-linejoin:round;stroke-miterlimit:4;" stroke="#ffffff" stroke-width="4"/>
+  <path d="M7.5 1c-.25 0-.5.25-.5.5v1.225L3 5.277V4.5c0-.25-.25-.5-.5-.5s-.5.25-.5.5v1.416l-.77.49a.5.5 0 0 0 .54.844L2 7.104V12h1V6.465l4.494-2.867L12 6.602V12h1V7.268l.223.148a.5.5 0 0 0 .554-.832L13 6.066V4.5c0-.25-.25-.5-.5-.5s-.5.25-.5.5v.898L8 2.732V1.5c0-.25-.25-.5-.5-.5Zm0 4a.5.5 0 0 0-.277.084l-3 2A.5.5 0 0 0 4 7.5V11h1V8h2v3h4V7.5a.5.5 0 0 0-.223-.416l-3-2A.5.5 0 0 0 7.5 5ZM8 8h2v1H8V8Z" transform="translate(4 4)" fill="#000000"/>
+  <m:metadata>
+    <m:parameters>
+      <m:parameter m:name="background" m:type="color" m:value="#000000"/>
+      <m:parameter m:name="stroke" m:type="color" m:value="#ffffff"/>
+    </m:parameters>
+  </m:metadata>
+</svg>
